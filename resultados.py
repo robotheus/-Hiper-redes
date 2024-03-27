@@ -21,19 +21,23 @@ CEN_HG_P_S3 = functions.ler_json("Resultados/Hipergrafo/CP-HG-s=3.json")
 
 COM_HG      = functions.ler_json("Resultados/Hipergrafo/Comunidades-HG.json")
 
-functions.plot_resultados(CEN_G_G, "Degree centrality (Grafo)", 'skyblue')
-functions.plot_resultados(CEN_G_I, "Betweenness centrality (Grafo)", "salmon")
-functions.plot_resultados(CEN_G_P, "Closeness centrality (Grafo)", "khaki")
-functions.plot_resultados(CEN_G_EV, "Eigenvector centrality (Grafo)", "mediumseagreen")
+functions.plot_resultados(CEN_G_G, "Degree centrality (Grafo)", 'skyblue', "Gráficos/Grafo/CG-G.png")
+functions.plot_resultados(CEN_G_I, "Betweenness centrality (Grafo)", "salmon", "Gráficos/Grafo/CI-G.png")
+functions.plot_resultados(CEN_G_P, "Closeness centrality (Grafo)", "khaki", "Gráficos/Grafo/CP-G.png")
+functions.plot_resultados(CEN_G_EV, "Eigenvector centrality (Grafo)", "mediumseagreen", "Gráficos/Grafo/CEV-G.png")
 
-functions.plot_resultados(CEN_HG_G_S1, "Degree centrality (Hipergrafo com s = 1)", 'skyblue')
-functions.plot_resultados(CEN_HG_I_S1, "Betweenness centrality (Hipergrafo com s = 1)", "salmon")
-functions.plot_resultados(CEN_HG_P_S1, "Closeness centrality (Hipergrafo s = 1)", "khaki")
+functions.plot_resultados(CEN_HG_G_S1, "Degree centrality (Hipergrafo com s = 1)", 'skyblue', "Gráficos/HIpergrafo/CG-HG-S=1.png")
+functions.plot_resultados(CEN_HG_I_S1, "Betweenness centrality (Hipergrafo com s = 1)", "salmon", "Gráficos/HIpergrafo/CI-HG-S=1.png")
+functions.plot_resultados(CEN_HG_P_S1, "Closeness centrality (Hipergrafo s = 1)", "khaki", "Gráficos/HIpergrafo/CP-HG-S=1.png")
 
-functions.plot_resultados(CEN_HG_G_S2, "Degree centrality (Hipergrafo com s = 2)", 'skyblue')
-functions.plot_resultados(CEN_HG_I_S2, "Betweenness centrality (Hipergrafo com s = 2)", "salmon")
-functions.plot_resultados(CEN_HG_P_S2, "Closeness centrality (Hipergrafo s = 2)", "khaki")
+functions.plot_resultados(CEN_HG_G_S2, "Degree centrality (Hipergrafo com s = 2)", 'skyblue', "Gráficos/HIpergrafo/CG-HG-S=2.png")
+functions.plot_resultados(CEN_HG_I_S2, "Betweenness centrality (Hipergrafo com s = 2)", "salmon", "Gráficos/HIpergrafo/CI-HG-S=2.png")
+functions.plot_resultados(CEN_HG_P_S2, "Closeness centrality (Hipergrafo s = 2)", "khaki", "Gráficos/HIpergrafo/CP-HG-S=2.png")
 
-functions.plot_resultados(CEN_HG_G_S3, "Degree centrality (Hipergrafo com s = 3)", 'skyblue')
-functions.plot_resultados(CEN_HG_I_S3, "Betweenness centrality (Hipergrafo com s = 3)", "salmon")
-functions.plot_resultados(CEN_HG_P_S3, "Closeness centrality (Hipergrafo s = 3)", "khaki")
+functions.plot_resultados(CEN_HG_G_S3, "Degree centrality (Hipergrafo com s = 3)", 'skyblue', "Gráficos/HIpergrafo/CG-HG-S=3.png")
+functions.plot_resultados(CEN_HG_I_S3, "Betweenness centrality (Hipergrafo com s = 3)", "salmon", "Gráficos/HIpergrafo/CI-HG-S=3.png")
+functions.plot_resultados(CEN_HG_P_S3, "Closeness centrality (Hipergrafo s = 3)", "khaki", "Gráficos/HIpergrafo/CP-HG-S=3.png")
+
+overlapping_G_HG = functions.overlapping_comunidades(COM_G, COM_HG)
+print("Grafo e hipergrafo - Score de overlapping: " + str(overlapping_G_HG))
+
