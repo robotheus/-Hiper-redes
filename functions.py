@@ -100,15 +100,42 @@ def hypergraph_network(year: int = None, all: bool = None):
 
     return H
 
-def centralidade_HG(linegraph, diretorio, s):
+def degree_centrality_hg(hg, diretorio, s):
+    auxHG = hg.get_linegraph(s=s)
     
-    CG = nx.degree_centrality(linegraph)
+    n = auxHG.number_of_edges() # n é o número de hiperarestas
+    hiperarestas = []
+
+    # seleciono as arestas que estao no caminho s
+    for x in auxHG.edges():
+        if x[0] not in hiperarestas:
+            hiperarestas.append(x[0])
+        
+        if x[1] not in hiperarestas:
+            hiperarestas.append(x[1])
+
+    degrees = {}
+    
+    #calculo os graus de cada vertice nessas aretas
+    for x in hiperarestas:
+        for y in hg.edges[x]:
+            if y not in degrees:
+                degrees[y] = 1
+            else:
+                g = degrees[y]
+                degrees[y] = g + 1
+    
+    for x in degrees.items():
+        degrees[x[0]] = x[1] / n
     
     with open(str(diretorio) + '/Hipergrafo/CG-HG-s=' + str(s) + '.json', 'w') as arquivo:
-        json.dump(CG, arquivo)
+        json.dump(degrees, arquivo)
 
     print("CG-HG-s=" + str(s) + " calculada!")
     
+
+def centralidade_HG(linegraph, diretorio, s):
+
     CI = nx.betweenness_centrality(linegraph)
 
     with open(str(diretorio) + '/Hipergrafo/CI-HG-s=' + str(s) + '.json', 'w') as arquivo:
@@ -173,7 +200,6 @@ def ler_json(nome_arquivo):
         print("Erro ao decodificar o arquivo JSON.")
         return None
 
-
 def plot_resultados(dicionario, title, color, legenda):
     chaves_ordenadas = sorted(dicionario, key=dicionario.get, reverse=True)
     valores_ordenados = [dicionario[chave] for chave in chaves_ordenadas]
@@ -189,6 +215,38 @@ def plot_resultados(dicionario, title, color, legenda):
     plt.tight_layout()
     plt.savefig(legenda)
 
+def plot_resultados2(dicionario1, dicionario2, dicionario3, dicionario4, title, color, diretorio):
+    chaves_ordenadas = sorted(dicionario1, key=dicionario1.get, reverse=True)
+    valores_ordenados = [dicionario1[chave] for chave in chaves_ordenadas]
+
+    top_10_chaves = chaves_ordenadas[:10]
+    top_10_valores = valores_ordenados[:10]
+
+    valores_dicionario2 = []
+    valores_dicionario3 = []
+    valores_dicionario4 = []
+
+    for chave in top_10_chaves:
+        valores_dicionario2.append(dicionario2.get(chave, 0))
+        valores_dicionario3.append(dicionario3.get(chave, 0))
+        valores_dicionario4.append(dicionario4.get(chave, 0))
+
+    plt.figure(figsize=(10, 6))
+    bar_width = 0.2
+    index = range(len(top_10_chaves))
+
+    plt.bar(index, top_10_valores, color=color[0], width=bar_width, label='Grafo')
+    plt.bar([i + bar_width for i in index], valores_dicionario2, color=color[1], width=bar_width, label='Hipergrafo (s=1)')
+    plt.bar([i + 2*bar_width for i in index], valores_dicionario3, color=color[2], width=bar_width, label='Hipergrafo (s=2)')
+    plt.bar([i + 3*bar_width for i in index], valores_dicionario4, color=color[3], width=bar_width, label='Hipergrafo (s=3)')
+
+    plt.ylabel('Score')
+    plt.title(title)
+    plt.xticks([i + 1.5*bar_width for i in index], top_10_chaves, rotation=45, ha='right')
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig(diretorio)
+    plt.show()
 
 def grafo_equivalente(G: nx.Graph, s: int, sozinhos : bool):
     auxG = nx.Graph()
@@ -235,4 +293,10 @@ def comunidades_eventos():
         else:
             eventos[data["Evento"]].append(data["Pessoa autora"])
     
-comunidades_eventos()
+    aux = []
+
+    for x in eventos.values():
+        aux.append(x)
+
+    print(eventos.keys())
+    return aux
