@@ -19843,59860 +19843,71832 @@ graph [
     source 0
     target 1
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 0
     target 2
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 0
     target 3
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 0
     target 4
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 0
     target 5
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 0
     target 6
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 1
     target 2
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 1
     target 3
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 1
     target 4
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 1
     target 5
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 1
     target 6
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 2
     target 3
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 2
     target 4
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 2
     target 5
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 2
     target 6
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 2
     target 277
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 2
     target 278
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 2
     target 279
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 2
     target 280
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 2
     target 281
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 2
     target 301
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 2
     target 302
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 2
     target 2749
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2
     target 2750
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2
     target 129
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2
     target 2751
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2
     target 2685
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2
     target 2752
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 3
     target 4
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 3
     target 5
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 3
     target 6
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 4
     target 5
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 4
     target 6
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 5
     target 6
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 6
     target 277
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 6
     target 278
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 6
     target 279
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 6
     target 280
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 6
     target 281
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 6
     target 370
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 6
     target 371
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 6
     target 372
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 6
     target 373
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 6
     target 374
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 6
     target 433
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 6
     target 434
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 6
     target 3708
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 7
     target 8
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 8
     target 17
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 8
     target 18
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 8
     target 19
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 8
     target 173
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 8
     target 2792
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 8
     target 2793
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 9
     target 10
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 9
     target 11
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 10
     target 11
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 11
     target 282
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 11
     target 283
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 11
     target 284
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 12
     target 13
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 12
     target 14
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 13
     target 14
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 13
     target 28
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 15
     target 16
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 15
     target 225
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 15
     target 226
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 16
     target 225
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 16
     target 226
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 17
     target 18
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 17
     target 19
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 18
     target 19
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 18
     target 173
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 19
     target 173
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 19
     target 2792
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 19
     target 2793
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 20
     target 21
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 20
     target 22
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 20
     target 23
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 20
     target 24
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 20
     target 25
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 21
     target 22
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 21
     target 23
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 21
     target 24
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 21
     target 25
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 22
     target 23
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 22
     target 24
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 22
     target 25
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 24
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 23
     target 25
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 29
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 23
     target 30
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 23
     target 31
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 32
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 33
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 34
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 35
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 23
     target 36
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 37
     weight 5
+    event "SEMISH"
   ]
   edge [
     source 23
     target 56
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 23
     target 57
     weight 19
+    event "SEMISH"
   ]
   edge [
     source 23
     target 64
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 65
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 66
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 67
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 68
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 69
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 107
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 108
     weight 15
+    event "SEMISH"
   ]
   edge [
     source 23
     target 236
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 237
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 23
     target 251
     weight 10
+    event "SEMISH"
   ]
   edge [
     source 23
     target 326
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 327
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 328
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 329
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 23
     target 396
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 23
     target 397
     weight 9
+    event "SEMISH"
   ]
   edge [
     source 23
     target 398
     weight 7
+    event "SEMISH"
   ]
   edge [
     source 23
     target 399
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 23
     target 400
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 401
     weight 6
+    event "SEMISH"
   ]
   edge [
     source 23
     target 402
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 23
     target 430
     weight 6
+    event "SEMISH"
   ]
   edge [
     source 23
     target 431
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 23
     target 432
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 23
     target 2822
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 23
     target 2823
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 23
     target 2907
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 23
     target 2908
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 23
     target 2909
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 23
     target 3087
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 23
     target 3088
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 23
     target 4149
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4150
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4274
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4275
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4276
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4277
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4278
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4279
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4280
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4303
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4309
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4338
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4362
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4363
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4364
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4367
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4368
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4369
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4380
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4381
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4382
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4383
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 1934
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4436
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4484
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4511
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4515
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 23
     target 4516
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 24
     target 25
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 24
     target 64
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 24
     target 65
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 24
     target 66
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 24
     target 67
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 24
     target 236
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 24
     target 237
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 24
     target 1386
     weight 1
+    event "WEI"
   ]
   edge [
     source 24
     target 1387
     weight 1
+    event "WEI"
   ]
   edge [
     source 24
     target 1341
     weight 3
+    event "WEI"
   ]
   edge [
     source 24
     target 1340
     weight 3
+    event "WEI"
   ]
   edge [
     source 24
     target 1388
     weight 3
+    event "WEI"
   ]
   edge [
     source 24
     target 1389
     weight 3
+    event "WEI"
   ]
   edge [
     source 24
     target 1390
     weight 2
+    event "WEI"
   ]
   edge [
     source 24
     target 1767
     weight 1
+    event "WEI"
   ]
   edge [
     source 24
     target 57
     weight 1
+    event "WEI"
   ]
   edge [
     source 24
     target 1245
     weight 1
+    event "WEI"
   ]
   edge [
     source 24
     target 1949
     weight 1
+    event "WEI"
   ]
   edge [
     source 26
     target 27
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 29
     target 30
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 29
     target 31
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 29
     target 32
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 29
     target 251
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 29
     target 108
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 29
     target 57
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 30
     target 31
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 30
     target 32
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 30
     target 401
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 30
     target 108
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 30
     target 398
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 30
     target 397
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 30
     target 4484
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 30
     target 57
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 31
     target 32
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 33
     target 34
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 33
     target 35
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 33
     target 36
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 33
     target 37
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 34
     target 35
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 34
     target 36
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 34
     target 37
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 35
     target 36
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 35
     target 37
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 35
     target 2822
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 35
     target 251
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 35
     target 2823
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 36
     target 37
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 37
     target 107
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 37
     target 56
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 37
     target 108
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 37
     target 57
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 37
     target 4263
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4264
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4265
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4266
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4273
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4274
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4275
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4276
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4277
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4278
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4279
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4280
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4366
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 501
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 37
     target 401
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4367
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4368
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 398
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4369
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 397
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4459
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 502
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 37
     target 4512
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 38
     target 39
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 38
     target 40
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 39
     target 40
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 41
     target 42
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 41
     target 43
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 42
     target 43
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 43
     target 58
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 43
     target 227
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 43
     target 204
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 43
     target 202
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 44
     target 45
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 44
     target 46
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 45
     target 46
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 46
     target 259
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 47
     target 48
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 47
     target 49
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 47
     target 50
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 47
     target 51
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 47
     target 52
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 48
     target 49
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 48
     target 50
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 48
     target 51
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 48
     target 52
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 50
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 49
     target 51
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 49
     target 52
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 49
     target 230
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 49
     target 231
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 49
     target 232
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 233
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 234
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 235
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 285
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 286
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 313
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 314
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 315
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 316
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 49
     target 317
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 49
     target 557
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 558
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 529
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 559
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 49
     target 4310
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 49
     target 4311
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 49
     target 4679
     weight 4
+    event "CTIC"
   ]
   edge [
     source 50
     target 51
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 50
     target 52
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 50
     target 230
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 50
     target 231
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 50
     target 232
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 50
     target 233
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 50
     target 234
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 50
     target 235
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 50
     target 285
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 50
     target 286
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 50
     target 4310
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 50
     target 4311
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 51
     target 52
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 51
     target 316
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 51
     target 317
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 52
     target 313
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 52
     target 314
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 52
     target 315
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 52
     target 316
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 52
     target 317
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 53
     target 54
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 53
     target 55
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 54
     target 55
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 55
     target 840
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 841
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 842
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 843
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 844
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 845
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 846
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 847
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 55
     target 3626
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 56
     target 57
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 56
     target 107
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 56
     target 108
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 57
     target 107
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 57
     target 108
     weight 10
+    event "SEMISH"
   ]
   edge [
     source 57
     target 251
     weight 8
+    event "SEMISH"
   ]
   edge [
     source 57
     target 326
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 57
     target 327
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 57
     target 328
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 57
     target 329
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 57
     target 398
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 57
     target 399
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 57
     target 400
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 57
     target 401
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 57
     target 402
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 57
     target 430
     weight 6
+    event "SEMISH"
   ]
   edge [
     source 57
     target 431
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 57
     target 432
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 57
     target 1341
     weight 1
+    event "WEI"
   ]
   edge [
     source 57
     target 1245
     weight 1
+    event "WEI"
   ]
   edge [
     source 57
     target 1340
     weight 1
+    event "WEI"
   ]
   edge [
     source 57
     target 1388
     weight 1
+    event "WEI"
   ]
   edge [
     source 57
     target 1389
     weight 1
+    event "WEI"
   ]
   edge [
     source 57
     target 1949
     weight 1
+    event "WEI"
   ]
   edge [
     source 57
     target 4303
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 57
     target 397
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 57
     target 237
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 57
     target 4309
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 57
     target 4150
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 57
     target 4338
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 57
     target 4362
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 57
     target 4484
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 57
     target 4511
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 57
     target 4515
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 57
     target 4516
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 59
     target 60
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 59
     target 61
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 59
     target 62
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 59
     target 63
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 60
     target 61
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 60
     target 62
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 60
     target 63
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 61
     target 62
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 61
     target 63
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 62
     target 63
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 64
     target 65
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 64
     target 66
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 64
     target 67
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 65
     target 66
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 65
     target 67
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 66
     target 67
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 68
     target 69
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 70
     target 71
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 70
     target 72
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 71
     target 72
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 73
     target 74
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 73
     target 75
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 73
     target 76
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 73
     target 77
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 73
     target 78
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 73
     target 79
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 73
     target 4244
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 73
     target 4245
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 73
     target 96
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 74
     target 75
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 74
     target 76
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 74
     target 77
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 74
     target 78
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 74
     target 79
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 75
     target 76
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 75
     target 77
     weight 11
+    event "SEMISH"
   ]
   edge [
     source 75
     target 78
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 75
     target 79
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 75
     target 93
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 75
     target 94
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 75
     target 95
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 75
     target 96
     weight 8
+    event "SEMISH"
   ]
   edge [
     source 75
     target 2425
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 75
     target 2615
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 75
     target 2616
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 75
     target 4120
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4121
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 2068
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4122
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4123
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4124
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4125
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4141
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4142
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4143
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4186
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4187
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4225
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4229
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4244
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4245
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4260
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4261
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4267
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4268
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4269
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4270
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4185
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 75
     target 4537
     weight 1
+    event "CTIC"
   ]
   edge [
     source 76
     target 77
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 76
     target 78
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 76
     target 79
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 76
     target 4120
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 76
     target 95
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 76
     target 4121
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 78
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 77
     target 79
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 77
     target 2425
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 77
     target 96
     weight 7
+    event "WPERFORMANCE"
   ]
   edge [
     source 77
     target 2615
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 77
     target 2616
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 77
     target 4120
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 77
     target 95
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4121
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 2068
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4122
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4123
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4124
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4125
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4186
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4187
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4225
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4229
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4244
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4245
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 77
     target 4537
     weight 1
+    event "CTIC"
   ]
   edge [
     source 78
     target 79
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 78
     target 4120
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 78
     target 95
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 78
     target 4121
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 79
     target 4120
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 79
     target 95
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 79
     target 4121
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 80
     target 81
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 81
     target 479
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 81
     target 480
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 81
     target 481
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 82
     target 83
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 82
     target 84
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 82
     target 85
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 82
     target 86
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 83
     target 84
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 83
     target 85
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 83
     target 86
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 84
     target 85
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 84
     target 86
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 85
     target 86
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 86
     target 125
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 86
     target 126
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 86
     target 127
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 86
     target 128
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 86
     target 129
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 86
     target 130
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 87
     target 88
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 87
     target 89
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 87
     target 90
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 88
     target 89
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 88
     target 90
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 89
     target 90
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 90
     target 4601
     weight 1
+    event "CTIC"
   ]
   edge [
     source 90
     target 4602
     weight 1
+    event "CTIC"
   ]
   edge [
     source 91
     target 92
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 91
     target 2571
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2572
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2573
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2581
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2582
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2583
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2590
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2591
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2250
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2665
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2666
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2667
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2668
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2707
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2422
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2708
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2709
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2710
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2711
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 2712
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 91
     target 4854
     weight 1
+    event "CTD"
   ]
   edge [
     source 92
     target 2581
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 92
     target 2582
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 92
     target 2572
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 92
     target 2583
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 93
     target 94
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 93
     target 95
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 93
     target 96
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 94
     target 95
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 94
     target 96
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 95
     target 96
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 95
     target 4120
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 95
     target 4121
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 2425
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 96
     target 2068
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4122
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4123
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4124
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4125
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4225
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4229
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4120
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4244
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4245
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 96
     target 4537
     weight 1
+    event "CTIC"
   ]
   edge [
     source 96
     target 4567
     weight 1
+    event "CTIC"
   ]
   edge [
     source 96
     target 2769
     weight 1
+    event "CTD"
   ]
   edge [
     source 97
     target 98
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 98
     target 2234
     weight 1
+    event "WEI"
   ]
   edge [
     source 98
     target 2235
     weight 1
+    event "WEI"
   ]
   edge [
     source 99
     target 100
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 99
     target 101
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 99
     target 102
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 99
     target 103
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 99
     target 104
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 99
     target 105
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 99
     target 106
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 100
     target 101
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 100
     target 102
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 100
     target 103
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 100
     target 104
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 100
     target 105
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 100
     target 106
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 101
     target 102
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 101
     target 103
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 101
     target 104
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 101
     target 105
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 101
     target 106
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 102
     target 103
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 102
     target 104
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 102
     target 105
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 102
     target 106
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 103
     target 104
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 103
     target 105
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 103
     target 106
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 104
     target 105
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 104
     target 106
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 105
     target 106
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 105
     target 830
     weight 1
+    event "WIT"
   ]
   edge [
     source 105
     target 831
     weight 1
+    event "WIT"
   ]
   edge [
     source 105
     target 832
     weight 1
+    event "WIT"
   ]
   edge [
     source 105
     target 833
     weight 1
+    event "WIT"
   ]
   edge [
     source 105
     target 655
     weight 1
+    event "WIT"
   ]
   edge [
     source 105
     target 834
     weight 1
+    event "WIT"
   ]
   edge [
     source 105
     target 835
     weight 1
+    event "WIT"
   ]
   edge [
     source 105
     target 836
     weight 1
+    event "WIT"
   ]
   edge [
     source 107
     target 108
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 108
     target 251
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 108
     target 326
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 108
     target 327
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 108
     target 328
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 108
     target 329
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 108
     target 396
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 108
     target 397
     weight 9
+    event "SEMISH"
   ]
   edge [
     source 108
     target 398
     weight 5
+    event "SEMISH"
   ]
   edge [
     source 108
     target 399
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 108
     target 400
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 108
     target 401
     weight 6
+    event "SEMISH"
   ]
   edge [
     source 108
     target 402
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 108
     target 4303
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 430
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4150
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4367
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4368
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4369
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4436
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4484
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4511
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4515
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 108
     target 4516
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 109
     target 110
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 109
     target 111
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 110
     target 111
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 110
     target 3910
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 110
     target 3911
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 110
     target 3695
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 111
     target 3910
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 111
     target 3911
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 111
     target 3695
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 112
     target 113
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 113
     target 152
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 113
     target 153
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 113
     target 154
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 114
     target 115
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 114
     target 116
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 115
     target 116
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 116
     target 119
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 116
     target 605
     weight 1
+    event "WIT"
   ]
   edge [
     source 116
     target 606
     weight 1
+    event "WIT"
   ]
   edge [
     source 117
     target 118
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 117
     target 1446
     weight 1
+    event "WEI"
   ]
   edge [
     source 117
     target 1070
     weight 2
+    event "WEI"
   ]
   edge [
     source 117
     target 1072
     weight 2
+    event "WEI"
   ]
   edge [
     source 117
     target 1316
     weight 1
+    event "WEI"
   ]
   edge [
     source 117
     target 1688
     weight 1
+    event "WEI"
   ]
   edge [
     source 120
     target 121
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 120
     target 122
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 120
     target 123
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 120
     target 124
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 121
     target 122
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 121
     target 123
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 121
     target 124
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 122
     target 123
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 122
     target 124
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 123
     target 124
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 125
     target 126
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 125
     target 127
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 125
     target 128
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 125
     target 129
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 125
     target 130
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 126
     target 127
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 126
     target 128
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 126
     target 129
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 126
     target 130
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 127
     target 128
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 127
     target 129
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 127
     target 130
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 128
     target 129
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 128
     target 130
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 129
     target 130
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 129
     target 252
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 129
     target 253
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 129
     target 254
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 129
     target 2749
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 129
     target 2750
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 129
     target 2751
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 129
     target 2685
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 129
     target 2752
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 130
     target 4535
     weight 1
+    event "CTIC"
   ]
   edge [
     source 130
     target 4210
     weight 2
+    event "CTIC"
   ]
   edge [
     source 130
     target 4536
     weight 2
+    event "CTIC"
   ]
   edge [
     source 131
     target 132
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 131
     target 133
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 131
     target 134
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 131
     target 135
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 131
     target 1900
     weight 1
+    event "WEI"
   ]
   edge [
     source 131
     target 1901
     weight 1
+    event "WEI"
   ]
   edge [
     source 131
     target 1902
     weight 1
+    event "WEI"
   ]
   edge [
     source 131
     target 1903
     weight 1
+    event "WEI"
   ]
   edge [
     source 131
     target 1904
     weight 1
+    event "WEI"
   ]
   edge [
     source 131
     target 1905
     weight 1
+    event "WEI"
   ]
   edge [
     source 131
     target 1906
     weight 1
+    event "WEI"
   ]
   edge [
     source 131
     target 1907
     weight 1
+    event "WEI"
   ]
   edge [
     source 131
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 132
     target 133
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 132
     target 134
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 132
     target 135
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 133
     target 134
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 133
     target 135
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 133
     target 3517
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 133
     target 3518
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 133
     target 4911
     weight 1
+    event "CTD"
   ]
   edge [
     source 134
     target 135
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 136
     target 137
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 136
     target 138
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 136
     target 139
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 136
     target 140
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 136
     target 141
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 137
     target 138
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 137
     target 139
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 137
     target 140
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 137
     target 141
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 138
     target 139
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 138
     target 140
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 138
     target 141
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 139
     target 140
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 139
     target 141
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 140
     target 141
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 141
     target 2686
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 141
     target 2687
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 141
     target 380
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 141
     target 2688
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 142
     target 143
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 142
     target 144
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 143
     target 144
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 144
     target 198
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 144
     target 243
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 144
     target 244
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 145
     target 146
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 145
     target 147
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 145
     target 3344
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 146
     target 147
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 146
     target 3344
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 147
     target 3344
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 148
     target 149
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 148
     target 150
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 148
     target 151
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 149
     target 150
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 149
     target 151
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 150
     target 151
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 150
     target 169
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 150
     target 170
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 151
     target 169
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 151
     target 170
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 152
     target 153
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 152
     target 154
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 153
     target 154
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 155
     target 156
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 155
     target 157
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 155
     target 158
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 156
     target 157
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 156
     target 158
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 157
     target 158
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 159
     target 160
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 159
     target 161
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 160
     target 161
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 162
     target 163
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 162
     target 164
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 162
     target 165
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 162
     target 166
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 163
     target 164
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 163
     target 165
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 163
     target 166
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 164
     target 165
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 164
     target 166
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 165
     target 166
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 167
     target 168
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 168
     target 448
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 168
     target 458
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 168
     target 459
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 168
     target 460
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 169
     target 170
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 171
     target 172
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 174
     target 175
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 174
     target 176
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 175
     target 176
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 177
     target 178
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 177
     target 179
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 178
     target 179
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 180
     target 181
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 180
     target 182
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 180
     target 183
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 181
     target 182
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 181
     target 183
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 182
     target 183
     weight 6
+    event "SEMISH"
   ]
   edge [
     source 182
     target 754
     weight 2
+    event "WIT"
   ]
   edge [
     source 182
     target 755
     weight 2
+    event "WIT"
   ]
   edge [
     source 182
     target 756
     weight 2
+    event "WIT"
   ]
   edge [
     source 182
     target 757
     weight 2
+    event "WIT"
   ]
   edge [
     source 182
     target 758
     weight 2
+    event "WIT"
   ]
   edge [
     source 182
     target 759
     weight 2
+    event "WIT"
   ]
   edge [
     source 182
     target 760
     weight 5
+    event "WIT"
   ]
   edge [
     source 182
     target 1156
     weight 2
+    event "WIT"
   ]
   edge [
     source 182
     target 246
     weight 3
+    event "WIT"
   ]
   edge [
     source 182
     target 1157
     weight 2
+    event "WIT"
   ]
   edge [
     source 182
     target 1158
     weight 1
+    event "WIT"
   ]
   edge [
     source 182
     target 1669
     weight 1
+    event "WEI"
   ]
   edge [
     source 182
     target 1670
     weight 1
+    event "WEI"
   ]
   edge [
     source 182
     target 1503
     weight 2
+    event "WEI"
   ]
   edge [
     source 182
     target 1502
     weight 1
+    event "WEI"
   ]
   edge [
     source 182
     target 247
     weight 1
+    event "WEI"
   ]
   edge [
     source 182
     target 1504
     weight 1
+    event "WEI"
   ]
   edge [
     source 182
     target 3226
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 182
     target 3754
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 182
     target 3816
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 182
     target 3817
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 182
     target 3803
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 182
     target 3863
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 182
     target 3864
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 182
     target 3898
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 182
     target 3899
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 182
     target 4501
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 182
     target 4502
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 183
     target 3226
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 183
     target 3754
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 183
     target 3816
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 183
     target 3817
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 183
     target 3803
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 183
     target 3898
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 183
     target 3899
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 183
     target 4365
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 183
     target 4282
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 184
     target 185
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 184
     target 186
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 185
     target 186
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 185
     target 3843
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 185
     target 3809
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 185
     target 3844
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 185
     target 3880
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 185
     target 854
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 185
     target 3870
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 185
     target 2068
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 185
     target 495
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 186
     target 1416
     weight 1
+    event "WEI"
   ]
   edge [
     source 186
     target 1417
     weight 1
+    event "WEI"
   ]
   edge [
     source 186
     target 1172
     weight 1
+    event "WEI"
   ]
   edge [
     source 186
     target 741
     weight 1
+    event "WEI"
   ]
   edge [
     source 186
     target 649
     weight 1
+    event "WEI"
   ]
   edge [
     source 186
     target 742
     weight 1
+    event "WEI"
   ]
   edge [
     source 186
     target 2185
     weight 1
+    event "WEI"
   ]
   edge [
     source 186
     target 620
     weight 1
+    event "WEI"
   ]
   edge [
     source 187
     target 188
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 187
     target 189
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 187
     target 190
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 187
     target 191
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 188
     target 189
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 188
     target 190
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 188
     target 191
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 189
     target 190
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 189
     target 191
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 190
     target 191
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 192
     target 193
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 192
     target 194
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 192
     target 195
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 192
     target 196
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 193
     target 194
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 193
     target 195
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 193
     target 196
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 193
     target 212
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 193
     target 213
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 193
     target 214
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 193
     target 2071
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 193
     target 386
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 193
     target 4427
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 193
     target 4428
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 193
     target 4429
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 193
     target 4430
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 193
     target 3009
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 193
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 193
     target 388
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 194
     target 195
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 194
     target 196
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 195
     target 196
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 197
     target 198
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 197
     target 199
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 197
     target 200
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 198
     target 199
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 198
     target 200
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 198
     target 243
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 198
     target 244
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 198
     target 906
     weight 1
+    event "WIT"
   ]
   edge [
     source 198
     target 907
     weight 1
+    event "WIT"
   ]
   edge [
     source 198
     target 1660
     weight 1
+    event "WEI"
   ]
   edge [
     source 198
     target 1661
     weight 1
+    event "WEI"
   ]
   edge [
     source 198
     target 1662
     weight 1
+    event "WEI"
   ]
   edge [
     source 198
     target 1636
     weight 1
+    event "WEI"
   ]
   edge [
     source 198
     target 1663
     weight 1
+    event "WEI"
   ]
   edge [
     source 198
     target 1664
     weight 1
+    event "WEI"
   ]
   edge [
     source 199
     target 200
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 199
     target 906
     weight 1
+    event "WIT"
   ]
   edge [
     source 199
     target 907
     weight 1
+    event "WIT"
   ]
   edge [
     source 200
     target 906
     weight 1
+    event "WIT"
   ]
   edge [
     source 200
     target 907
     weight 1
+    event "WIT"
   ]
   edge [
     source 201
     target 202
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 201
     target 203
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 201
     target 204
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 202
     target 203
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 202
     target 204
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 202
     target 227
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 202
     target 1363
     weight 1
+    event "WEI"
   ]
   edge [
     source 203
     target 204
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 204
     target 227
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 204
     target 664
     weight 1
+    event "WIT"
   ]
   edge [
     source 204
     target 1363
     weight 1
+    event "WEI"
   ]
   edge [
     source 204
     target 2188
     weight 1
+    event "WEI"
   ]
   edge [
     source 204
     target 2189
     weight 1
+    event "WEI"
   ]
   edge [
     source 204
     target 2190
     weight 1
+    event "WEI"
   ]
   edge [
     source 204
     target 2191
     weight 1
+    event "WEI"
   ]
   edge [
     source 204
     target 2192
     weight 1
+    event "WEI"
   ]
   edge [
     source 204
     target 4357
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 204
     target 4358
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 205
     target 206
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 205
     target 207
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 206
     target 207
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 267
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 268
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 269
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 207
     target 270
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 207
     target 271
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 272
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 273
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 274
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 275
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 276
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 207
     target 1658
     weight 1
+    event "WEI"
   ]
   edge [
     source 207
     target 1659
     weight 1
+    event "WEI"
   ]
   edge [
     source 208
     target 209
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 208
     target 210
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 208
     target 211
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 209
     target 210
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 209
     target 211
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 210
     target 211
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 212
     target 213
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 212
     target 214
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 213
     target 214
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 215
     target 216
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 215
     target 217
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 216
     target 217
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 218
     target 219
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 218
     target 220
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 218
     target 221
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 219
     target 220
     weight 6
+    event "SEMISH"
   ]
   edge [
     source 219
     target 221
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 219
     target 3249
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3250
     weight 6
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3251
     weight 5
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3252
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3253
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3254
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3255
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3341
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3342
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3357
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3366
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3367
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3368
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3431
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3432
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3433
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 219
     target 3804
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 219
     target 3805
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 219
     target 3806
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 220
     target 221
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 220
     target 3341
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3250
     weight 5
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3342
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3251
     weight 4
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3357
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3366
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3252
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3367
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3368
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3431
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3432
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3433
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 220
     target 3804
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 220
     target 3805
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 220
     target 3806
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 222
     target 223
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 222
     target 224
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 222
     target 349
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 222
     target 350
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 222
     target 351
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 222
     target 284
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 222
     target 359
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 222
     target 360
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 223
     target 224
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 224
     target 349
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 224
     target 350
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 224
     target 351
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 224
     target 284
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 224
     target 359
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 224
     target 360
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 224
     target 526
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 224
     target 527
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 224
     target 520
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 225
     target 226
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 228
     target 229
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 230
     target 231
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 230
     target 232
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 230
     target 233
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 230
     target 234
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 230
     target 235
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 230
     target 285
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 230
     target 286
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 231
     target 232
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 231
     target 233
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 231
     target 234
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 231
     target 235
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 231
     target 285
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 231
     target 286
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 232
     target 233
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 232
     target 234
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 232
     target 235
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 233
     target 234
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 233
     target 235
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 234
     target 235
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 236
     target 237
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 236
     target 4149
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 236
     target 4150
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 237
     target 4149
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 237
     target 4150
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 237
     target 4309
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 237
     target 399
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 237
     target 4338
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 237
     target 329
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 238
     target 239
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 238
     target 240
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 238
     target 241
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 238
     target 242
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 238
     target 262
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 238
     target 263
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 239
     target 240
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 239
     target 241
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 239
     target 242
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 240
     target 241
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 240
     target 242
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 241
     target 242
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 242
     target 262
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 242
     target 263
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 243
     target 244
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 245
     target 246
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 245
     target 247
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 245
     target 248
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 245
     target 249
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 245
     target 250
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 245
     target 756
     weight 1
+    event "WIT"
   ]
   edge [
     source 245
     target 942
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 247
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 246
     target 248
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 246
     target 249
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 246
     target 250
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 246
     target 714
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 715
     weight 3
+    event "WIT"
   ]
   edge [
     source 246
     target 716
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 717
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 756
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 942
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 649
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 670
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 829
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 1034
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 1035
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 1036
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 1037
     weight 2
+    event "WIT"
   ]
   edge [
     source 246
     target 1095
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 1096
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 1097
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 760
     weight 4
+    event "WIT"
   ]
   edge [
     source 246
     target 1156
     weight 3
+    event "WIT"
   ]
   edge [
     source 246
     target 1157
     weight 2
+    event "WIT"
   ]
   edge [
     source 246
     target 1158
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 1202
     weight 1
+    event "WIT"
   ]
   edge [
     source 246
     target 3264
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 246
     target 3265
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 246
     target 3266
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 246
     target 3267
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 246
     target 3698
     weight 1
+    event "CTIC"
   ]
   edge [
     source 246
     target 3863
     weight 1
+    event "CTIC"
   ]
   edge [
     source 246
     target 4652
     weight 1
+    event "CTIC"
   ]
   edge [
     source 246
     target 4653
     weight 1
+    event "CTIC"
   ]
   edge [
     source 246
     target 4906
     weight 1
+    event "CTD"
   ]
   edge [
     source 246
     target 4907
     weight 1
+    event "CTD"
   ]
   edge [
     source 247
     target 248
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 247
     target 249
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 247
     target 250
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 247
     target 1502
     weight 1
+    event "WEI"
   ]
   edge [
     source 247
     target 1504
     weight 1
+    event "WEI"
   ]
   edge [
     source 247
     target 1503
     weight 1
+    event "WEI"
   ]
   edge [
     source 247
     target 3698
     weight 1
+    event "CTIC"
   ]
   edge [
     source 248
     target 249
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 248
     target 250
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 249
     target 250
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 251
     target 326
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 251
     target 327
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 251
     target 328
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 251
     target 329
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 251
     target 430
     weight 6
+    event "SEMISH"
   ]
   edge [
     source 251
     target 431
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 251
     target 398
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 251
     target 432
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 251
     target 2822
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 251
     target 2823
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 252
     target 253
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 252
     target 254
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 253
     target 254
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 256
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 257
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 258
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 531
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 532
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 533
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 534
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 535
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 255
     target 536
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 256
     target 257
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 256
     target 258
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 257
     target 258
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 258
     target 2865
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 258
     target 2866
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 258
     target 2867
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 258
     target 2868
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 258
     target 2869
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 258
     target 2870
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 258
     target 2871
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 260
     target 261
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 262
     target 263
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 264
     target 265
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 264
     target 266
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 265
     target 266
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 267
     target 268
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 267
     target 269
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 267
     target 270
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 267
     target 271
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 267
     target 272
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 268
     target 269
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 268
     target 270
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 268
     target 271
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 268
     target 272
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 269
     target 270
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 269
     target 271
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 269
     target 272
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 270
     target 271
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 270
     target 272
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 271
     target 272
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 273
     target 274
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 275
     target 276
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 277
     target 278
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 277
     target 279
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 277
     target 280
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 277
     target 281
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 277
     target 301
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 277
     target 302
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 278
     target 279
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 278
     target 280
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 278
     target 281
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 278
     target 301
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 278
     target 302
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 279
     target 280
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 279
     target 281
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 279
     target 301
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 279
     target 302
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 280
     target 281
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 282
     target 283
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 282
     target 284
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 283
     target 284
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 284
     target 349
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 284
     target 350
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 284
     target 351
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 284
     target 526
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 284
     target 527
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 284
     target 520
     weight 5
+    event "SEMISH"
   ]
   edge [
     source 284
     target 4228
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 284
     target 4128
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 284
     target 4411
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 284
     target 3948
     weight 4
+    event "CTIC"
   ]
   edge [
     source 285
     target 286
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 287
     target 288
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 287
     target 289
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 288
     target 289
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 290
     target 291
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 292
     target 293
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 292
     target 294
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 292
     target 295
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 292
     target 296
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 292
     target 297
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 292
     target 1042
     weight 1
+    event "WIT"
   ]
   edge [
     source 292
     target 1034
     weight 2
+    event "WIT"
   ]
   edge [
     source 292
     target 1574
     weight 1
+    event "WEI"
   ]
   edge [
     source 293
     target 294
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 293
     target 295
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 293
     target 296
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 293
     target 297
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 294
     target 295
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 294
     target 296
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 294
     target 297
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 295
     target 296
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 295
     target 297
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 295
     target 1137
     weight 2
+    event "WIT"
   ]
   edge [
     source 295
     target 1138
     weight 1
+    event "WIT"
   ]
   edge [
     source 295
     target 1155
     weight 1
+    event "WIT"
   ]
   edge [
     source 296
     target 297
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 298
     target 299
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 298
     target 300
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 299
     target 300
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 299
     target 339
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 301
     target 302
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 303
     target 304
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 303
     target 305
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 304
     target 305
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 306
     target 307
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 306
     target 958
     weight 1
+    event "WIT"
   ]
   edge [
     source 306
     target 959
     weight 1
+    event "WIT"
   ]
   edge [
     source 306
     target 960
     weight 1
+    event "WIT"
   ]
   edge [
     source 306
     target 961
     weight 1
+    event "WIT"
   ]
   edge [
     source 306
     target 962
     weight 1
+    event "WIT"
   ]
   edge [
     source 306
     target 2122
     weight 1
+    event "WEI"
   ]
   edge [
     source 306
     target 2123
     weight 1
+    event "WEI"
   ]
   edge [
     source 306
     target 2124
     weight 1
+    event "WEI"
   ]
   edge [
     source 308
     target 309
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 308
     target 310
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 308
     target 311
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 308
     target 312
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 309
     target 310
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 309
     target 311
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 309
     target 312
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 310
     target 311
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 310
     target 312
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 311
     target 312
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 311
     target 3215
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 311
     target 3218
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 311
     target 3219
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 311
     target 3220
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 311
     target 3221
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 311
     target 337
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 311
     target 3224
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 311
     target 3225
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 312
     target 3215
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 312
     target 3224
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 312
     target 3225
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 313
     target 314
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 313
     target 315
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 313
     target 316
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 313
     target 317
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 314
     target 315
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 314
     target 316
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 314
     target 317
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 315
     target 316
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 315
     target 317
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 316
     target 317
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 316
     target 528
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 316
     target 529
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 316
     target 530
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 316
     target 436
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 316
     target 557
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 316
     target 558
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 316
     target 559
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 316
     target 4223
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 316
     target 2630
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 316
     target 4224
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 316
     target 4313
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 316
     target 4314
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 317
     target 557
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 317
     target 558
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 317
     target 529
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 317
     target 559
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 317
     target 4899
     weight 1
+    event "CTD"
   ]
   edge [
     source 318
     target 4868
     weight 1
+    event "CTD"
   ]
   edge [
     source 318
     target 4869
     weight 1
+    event "CTD"
   ]
   edge [
     source 319
     target 320
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 321
     target 322
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 321
     target 323
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 321
     target 324
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 321
     target 325
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 322
     target 323
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 322
     target 324
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 322
     target 325
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 322
     target 344
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 322
     target 345
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 323
     target 324
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 323
     target 325
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 324
     target 325
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 325
     target 344
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 325
     target 345
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 325
     target 2646
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 325
     target 2647
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 325
     target 2648
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 325
     target 2639
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 325
     target 2641
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 325
     target 2725
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 325
     target 2726
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 326
     target 327
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 326
     target 328
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 326
     target 329
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 326
     target 398
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 326
     target 399
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 326
     target 400
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 326
     target 401
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 326
     target 402
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 327
     target 328
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 327
     target 329
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 328
     target 329
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 329
     target 4303
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 329
     target 397
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 329
     target 399
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 329
     target 4338
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 329
     target 4362
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 330
     target 331
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 330
     target 332
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 331
     target 332
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 331
     target 884
     weight 1
+    event "WIT"
   ]
   edge [
     source 331
     target 885
     weight 1
+    event "WIT"
   ]
   edge [
     source 331
     target 886
     weight 1
+    event "WIT"
   ]
   edge [
     source 331
     target 3693
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 331
     target 3694
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 331
     target 3695
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 331
     target 363
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 331
     target 3897
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 331
     target 4100
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 332
     target 1869
     weight 1
+    event "WEI"
   ]
   edge [
     source 332
     target 1870
     weight 2
+    event "WEI"
   ]
   edge [
     source 332
     target 1871
     weight 1
+    event "WEI"
   ]
   edge [
     source 332
     target 1872
     weight 1
+    event "WEI"
   ]
   edge [
     source 332
     target 2001
     weight 1
+    event "WEI"
   ]
   edge [
     source 332
     target 2002
     weight 1
+    event "WEI"
   ]
   edge [
     source 333
     target 334
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 335
     target 336
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 335
     target 337
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 335
     target 338
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 336
     target 337
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 336
     target 338
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 337
     target 338
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 337
     target 3218
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 337
     target 3219
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 337
     target 3220
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 337
     target 3221
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 338
     target 3306
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 338
     target 3307
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 338
     target 3308
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 338
     target 3309
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 340
     target 341
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 340
     target 342
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 341
     target 342
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 341
     target 343
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 341
     target 2943
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 341
     target 2944
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 341
     target 3092
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 342
     target 343
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 342
     target 3092
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 344
     target 345
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 345
     target 4513
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 345
     target 4410
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 345
     target 4514
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 345
     target 4754
     weight 1
+    event "CTD"
   ]
   edge [
     source 345
     target 4755
     weight 1
+    event "CTD"
   ]
   edge [
     source 346
     target 347
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 346
     target 348
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 347
     target 348
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 348
     target 494
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 348
     target 495
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 349
     target 350
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 349
     target 351
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 350
     target 351
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 352
     target 353
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 352
     target 354
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 352
     target 355
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 352
     target 356
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 353
     target 354
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 353
     target 355
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 353
     target 356
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 354
     target 355
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 354
     target 356
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 355
     target 356
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 357
     target 358
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 358
     target 422
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 358
     target 423
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 358
     target 424
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 358
     target 425
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 358
     target 493
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 359
     target 360
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 361
     target 362
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 361
     target 363
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 361
     target 2974
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 361
     target 2975
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 361
     target 2976
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 361
     target 2977
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 361
     target 2978
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 361
     target 3383
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3384
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3385
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3386
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3387
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3409
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3410
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3411
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3481
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3559
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3560
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3561
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3562
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3563
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3564
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 361
     target 3565
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 362
     target 363
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 363
     target 487
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 363
     target 488
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 363
     target 489
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 363
     target 490
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 363
     target 3693
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3694
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3695
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3737
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3751
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 1116
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3760
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3840
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3841
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3897
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3963
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3964
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 3965
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 4058
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 4059
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 4117
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 363
     target 4627
     weight 1
+    event "CTIC"
   ]
   edge [
     source 363
     target 4628
     weight 1
+    event "CTIC"
   ]
   edge [
     source 364
     target 365
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 364
     target 366
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 364
     target 367
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 364
     target 368
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 364
     target 369
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 364
     target 649
     weight 1
+    event "WIT"
   ]
   edge [
     source 364
     target 1094
     weight 1
+    event "WIT"
   ]
   edge [
     source 364
     target 1227
     weight 1
+    event "WIT"
   ]
   edge [
     source 364
     target 1228
     weight 1
+    event "WIT"
   ]
   edge [
     source 364
     target 1229
     weight 1
+    event "WIT"
   ]
   edge [
     source 364
     target 1230
     weight 1
+    event "WIT"
   ]
   edge [
     source 365
     target 366
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 365
     target 367
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 365
     target 368
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 365
     target 369
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 366
     target 367
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 366
     target 368
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 366
     target 369
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 366
     target 4616
     weight 1
+    event "CTIC"
   ]
   edge [
     source 366
     target 2768
     weight 1
+    event "CTIC"
   ]
   edge [
     source 367
     target 368
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 367
     target 369
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 368
     target 369
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 370
     target 371
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 372
     target 373
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 372
     target 374
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 373
     target 374
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 373
     target 433
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 373
     target 434
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 373
     target 1665
     weight 1
+    event "WEI"
   ]
   edge [
     source 373
     target 1610
     weight 1
+    event "WEI"
   ]
   edge [
     source 373
     target 1709
     weight 1
+    event "WEI"
   ]
   edge [
     source 373
     target 1710
     weight 1
+    event "WEI"
   ]
   edge [
     source 375
     target 376
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 375
     target 377
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 376
     target 377
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 378
     target 379
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 378
     target 380
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 378
     target 440
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 378
     target 441
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 378
     target 442
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 379
     target 380
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 380
     target 440
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 380
     target 441
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 380
     target 442
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 380
     target 2686
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 380
     target 2687
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 380
     target 2688
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 380
     target 3917
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 380
     target 4347
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 380
     target 4348
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 380
     target 4349
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 380
     target 4350
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 381
     target 382
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 381
     target 4226
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 381
     target 4227
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 381
     target 566
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 382
     target 511
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 382
     target 512
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 382
     target 4226
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4227
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 566
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4403
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4404
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4405
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4406
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 1087
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4483
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4495
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4496
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 382
     target 4497
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 383
     target 384
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 383
     target 385
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 383
     target 386
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 383
     target 387
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 383
     target 388
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 384
     target 385
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 384
     target 386
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 384
     target 387
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 384
     target 388
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 385
     target 386
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 385
     target 387
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 385
     target 388
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 386
     target 387
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 386
     target 388
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 386
     target 772
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 386
     target 2855
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 386
     target 2856
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 386
     target 2071
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 386
     target 4427
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 386
     target 4428
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 386
     target 4429
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 386
     target 4430
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 386
     target 3009
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 386
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 387
     target 388
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 388
     target 2850
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 2851
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 2852
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 2853
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 2696
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 388
     target 3007
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 3008
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 3009
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 388
     target 3010
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 3063
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 3064
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 2993
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 388
     target 3640
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 388
     target 3641
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 388
     target 3642
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 388
     target 3643
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 388
     target 3644
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 388
     target 3645
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 388
     target 2071
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 388
     target 4427
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 388
     target 4428
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 388
     target 4429
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 388
     target 4430
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 388
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 389
     target 390
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 389
     target 391
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 390
     target 391
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 392
     target 393
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 392
     target 394
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 392
     target 395
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 393
     target 394
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 393
     target 395
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 393
     target 2308
     weight 1
+    event "WEI"
   ]
   edge [
     source 393
     target 1914
     weight 1
+    event "WEI"
   ]
   edge [
     source 393
     target 4921
     weight 1
+    event "CTD"
   ]
   edge [
     source 393
     target 4922
     weight 1
+    event "CTD"
   ]
   edge [
     source 393
     target 4923
     weight 1
+    event "CTD"
   ]
   edge [
     source 394
     target 395
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 396
     target 397
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 396
     target 4150
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 401
     weight 5
+    event "SEMISH"
   ]
   edge [
     source 397
     target 398
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 397
     target 4230
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4251
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4252
     weight 5
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4253
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4303
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4325
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4150
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4367
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4368
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4369
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4374
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4375
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4376
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4377
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4378
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4379
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4436
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4484
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4511
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4515
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 397
     target 4516
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 398
     target 399
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 398
     target 400
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 398
     target 401
     weight 5
+    event "SEMISH"
   ]
   edge [
     source 398
     target 402
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 398
     target 430
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 398
     target 431
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 398
     target 432
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 398
     target 4362
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 398
     target 4367
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 398
     target 4368
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 398
     target 4369
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 398
     target 4436
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 398
     target 4511
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 399
     target 400
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 399
     target 401
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 399
     target 402
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 399
     target 4338
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 399
     target 4362
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 400
     target 401
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 400
     target 402
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 401
     target 402
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 401
     target 4367
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 401
     target 4368
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 401
     target 4369
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 401
     target 4436
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 401
     target 4484
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 401
     target 4511
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 403
     target 404
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 403
     target 405
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 404
     target 405
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 404
     target 2982
     weight 4
+    event "WCAMA"
   ]
   edge [
     source 404
     target 3112
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 404
     target 3370
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 404
     target 3371
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 404
     target 3372
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 406
     target 407
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 406
     target 408
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 406
     target 409
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 406
     target 410
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 407
     target 408
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 407
     target 409
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 407
     target 410
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 408
     target 409
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 408
     target 410
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 409
     target 410
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 411
     target 412
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 411
     target 413
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 411
     target 414
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 412
     target 413
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 412
     target 414
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 412
     target 470
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 412
     target 471
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 412
     target 472
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 413
     target 414
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 413
     target 470
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 413
     target 471
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 413
     target 472
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 414
     target 470
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 414
     target 471
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 414
     target 472
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 415
     target 416
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 415
     target 417
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 416
     target 417
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 417
     target 670
     weight 1
+    event "WIT"
   ]
   edge [
     source 418
     target 419
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 418
     target 420
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 418
     target 421
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 419
     target 420
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 419
     target 421
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 420
     target 421
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 422
     target 423
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 422
     target 424
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 422
     target 425
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 423
     target 424
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 423
     target 425
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 423
     target 493
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 424
     target 425
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 425
     target 493
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 426
     target 427
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 426
     target 428
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 426
     target 429
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 427
     target 428
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 427
     target 429
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 428
     target 429
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 430
     target 431
     weight 4
+    event "SEMISH"
   ]
   edge [
     source 430
     target 432
     weight 3
+    event "SEMISH"
   ]
   edge [
     source 431
     target 432
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 433
     target 434
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 435
     target 436
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 435
     target 437
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 435
     target 438
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 435
     target 439
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 435
     target 508
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 435
     target 509
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 435
     target 510
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 436
     target 437
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 436
     target 438
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 436
     target 439
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 436
     target 528
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 436
     target 529
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 436
     target 530
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 436
     target 543
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 436
     target 544
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 436
     target 545
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 437
     target 438
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 437
     target 439
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 437
     target 508
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 437
     target 509
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 437
     target 510
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 437
     target 543
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 437
     target 544
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 437
     target 545
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 438
     target 439
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 438
     target 508
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 438
     target 509
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 438
     target 510
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 439
     target 508
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 439
     target 509
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 439
     target 510
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 440
     target 441
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 440
     target 442
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 441
     target 442
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 443
     target 444
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 443
     target 445
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 443
     target 446
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 443
     target 447
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 443
     target 4043
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 443
     target 4044
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 443
     target 4045
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 444
     target 445
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 444
     target 446
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 444
     target 447
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 445
     target 446
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 445
     target 447
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 445
     target 1620
     weight 1
+    event "WEI"
   ]
   edge [
     source 446
     target 447
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 446
     target 1051
     weight 1
+    event "WIT"
   ]
   edge [
     source 446
     target 4437
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 446
     target 4438
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 446
     target 4439
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 447
     target 4644
     weight 1
+    event "CTIC"
   ]
   edge [
     source 448
     target 458
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 448
     target 459
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 448
     target 460
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 449
     target 450
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 449
     target 451
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 449
     target 452
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 449
     target 453
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 449
     target 454
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 449
     target 455
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 449
     target 456
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 449
     target 457
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 449
     target 537
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 450
     target 451
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 450
     target 452
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 450
     target 453
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 450
     target 454
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 450
     target 455
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 450
     target 456
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 450
     target 457
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 451
     target 452
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 451
     target 453
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 451
     target 454
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 451
     target 455
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 451
     target 456
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 451
     target 457
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 451
     target 537
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 452
     target 453
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 452
     target 454
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 452
     target 455
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 452
     target 456
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 452
     target 457
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 453
     target 454
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 453
     target 455
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 453
     target 456
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 453
     target 457
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 454
     target 455
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 454
     target 456
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 454
     target 457
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 455
     target 456
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 455
     target 457
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 456
     target 457
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 458
     target 459
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 458
     target 460
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 459
     target 460
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 460
     target 3101
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 460
     target 3102
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 460
     target 3103
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 460
     target 3104
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 461
     target 462
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 461
     target 463
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 461
     target 464
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 461
     target 465
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 461
     target 466
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 461
     target 467
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 461
     target 468
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 461
     target 469
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 462
     target 463
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 462
     target 464
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 462
     target 465
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 462
     target 466
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 462
     target 467
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 462
     target 468
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 462
     target 469
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 463
     target 464
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 463
     target 465
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 463
     target 466
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 463
     target 467
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 463
     target 468
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 463
     target 469
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 464
     target 465
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 464
     target 466
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 464
     target 467
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 464
     target 468
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 464
     target 469
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 465
     target 466
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 465
     target 467
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 465
     target 468
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 465
     target 469
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 466
     target 467
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 466
     target 468
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 466
     target 469
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 467
     target 468
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 467
     target 469
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 468
     target 469
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 470
     target 471
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 470
     target 472
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 471
     target 472
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 473
     target 474
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 473
     target 475
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 473
     target 476
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 473
     target 477
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 473
     target 478
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 474
     target 475
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 474
     target 476
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 474
     target 477
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 474
     target 478
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 475
     target 476
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 475
     target 477
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 475
     target 478
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 476
     target 477
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 476
     target 478
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 476
     target 1327
     weight 1
+    event "WEI"
   ]
   edge [
     source 476
     target 1328
     weight 1
+    event "WEI"
   ]
   edge [
     source 476
     target 1329
     weight 1
+    event "WEI"
   ]
   edge [
     source 476
     target 1426
     weight 1
+    event "WEI"
   ]
   edge [
     source 476
     target 1427
     weight 1
+    event "WEI"
   ]
   edge [
     source 476
     target 1428
     weight 1
+    event "WEI"
   ]
   edge [
     source 477
     target 478
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 479
     target 480
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 479
     target 481
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 480
     target 481
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 482
     target 483
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 482
     target 484
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 482
     target 485
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 482
     target 486
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 483
     target 484
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 483
     target 485
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 483
     target 486
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 484
     target 485
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 484
     target 486
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 485
     target 486
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 487
     target 488
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 487
     target 489
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 487
     target 490
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 488
     target 489
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 488
     target 490
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 489
     target 490
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 489
     target 3965
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 489
     target 4058
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 489
     target 4059
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 490
     target 3965
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 490
     target 4627
     weight 1
+    event "CTIC"
   ]
   edge [
     source 490
     target 4628
     weight 1
+    event "CTIC"
   ]
   edge [
     source 490
     target 4059
     weight 1
+    event "CTIC"
   ]
   edge [
     source 491
     target 492
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 493
     target 4879
     weight 1
+    event "CTD"
   ]
   edge [
     source 494
     target 495
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 495
     target 2782
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 495
     target 2783
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 495
     target 2784
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 495
     target 3766
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 854
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 3833
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 3834
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 3607
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 3924
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 3925
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 520
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 2068
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 4009
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 540
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 3624
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 495
     target 4670
     weight 4
+    event "CTIC"
   ]
   edge [
     source 496
     target 497
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 496
     target 498
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 496
     target 499
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 497
     target 498
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 497
     target 499
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 498
     target 499
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 500
     target 501
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 500
     target 502
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 501
     target 502
     weight 14
+    event "SEMISH"
   ]
   edge [
     source 501
     target 2625
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 501
     target 2080
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 501
     target 4157
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4158
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4159
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4174
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4175
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4176
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4177
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4178
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4179
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4301
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4302
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4312
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4351
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4366
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4371
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4372
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4373
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4458
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4459
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4460
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 1952
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4466
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4467
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 501
     target 4494
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 2625
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 502
     target 2080
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 502
     target 4157
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4158
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4159
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4176
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4177
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4178
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4179
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4301
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4302
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4312
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4351
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4371
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4372
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4373
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4458
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4459
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4460
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 1952
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 502
     target 4494
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 503
     target 504
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 503
     target 505
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 504
     target 505
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 504
     target 4663
     weight 1
+    event "CTIC"
   ]
   edge [
     source 506
     target 507
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 507
     target 2145
     weight 1
+    event "WEI"
   ]
   edge [
     source 507
     target 2146
     weight 2
+    event "WEI"
   ]
   edge [
     source 507
     target 2147
     weight 1
+    event "WEI"
   ]
   edge [
     source 507
     target 2165
     weight 1
+    event "WEI"
   ]
   edge [
     source 507
     target 2780
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 508
     target 509
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 508
     target 510
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 509
     target 510
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 509
     target 2223
     weight 1
+    event "WEI"
   ]
   edge [
     source 509
     target 2224
     weight 1
+    event "WEI"
   ]
   edge [
     source 509
     target 2225
     weight 2
+    event "WEI"
   ]
   edge [
     source 509
     target 2226
     weight 6
+    event "WEI"
   ]
   edge [
     source 509
     target 2227
     weight 1
+    event "WEI"
   ]
   edge [
     source 509
     target 3211
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3212
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3213
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3214
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3274
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3275
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3276
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3277
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3278
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3314
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3315
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3316
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3317
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3318
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3347
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3348
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3349
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3311
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3350
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3351
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3404
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3290
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 1677
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3416
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3417
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3418
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3490
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3456
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3491
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3492
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3454
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3500
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3501
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3502
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 2658
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3442
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 2399
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 2660
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 509
     target 3566
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 509
     target 4010
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 509
     target 4011
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 509
     target 4012
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 511
     target 512
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 512
     target 538
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 512
     target 539
     weight 5
+    event "SEMISH"
   ]
   edge [
     source 512
     target 540
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 512
     target 541
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 512
     target 542
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 512
     target 2420
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 512
     target 2421
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 512
     target 2422
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 512
     target 3837
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 512
     target 3838
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 512
     target 3634
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 512
     target 3856
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 512
     target 3857
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 513
     target 514
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 513
     target 515
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 513
     target 516
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 514
     target 515
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 514
     target 516
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 514
     target 2731
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 514
     target 2732
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 515
     target 516
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 515
     target 2228
     weight 1
+    event "WEI"
   ]
   edge [
     source 517
     target 518
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 517
     target 519
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 517
     target 520
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 518
     target 519
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 518
     target 520
     weight 5
+    event "SEMISH"
   ]
   edge [
     source 518
     target 2513
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 518
     target 2514
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 518
     target 2515
     weight 6
+    event "WPERFORMANCE"
   ]
   edge [
     source 518
     target 2744
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 518
     target 2437
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 518
     target 2745
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 518
     target 3632
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3633
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3634
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3635
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3636
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3607
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 540
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3649
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3650
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3651
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3652
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3653
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3654
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3655
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3656
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3658
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3621
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3667
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 620
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3706
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3707
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3631
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 1059
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3725
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3742
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3748
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3782
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3945
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3356
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 3870
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 4000
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 4001
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 4002
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 518
     target 4871
     weight 1
+    event "CTD"
   ]
   edge [
     source 518
     target 4927
     weight 1
+    event "CTD"
   ]
   edge [
     source 519
     target 520
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 519
     target 586
     weight 2
+    event "WIT"
   ]
   edge [
     source 519
     target 587
     weight 2
+    event "WIT"
   ]
   edge [
     source 519
     target 701
     weight 2
+    event "WIT"
   ]
   edge [
     source 519
     target 584
     weight 1
+    event "WIT"
   ]
   edge [
     source 519
     target 702
     weight 1
+    event "WIT"
   ]
   edge [
     source 519
     target 588
     weight 2
+    event "WIT"
   ]
   edge [
     source 519
     target 703
     weight 1
+    event "WIT"
   ]
   edge [
     source 519
     target 1527
     weight 1
+    event "WEI"
   ]
   edge [
     source 519
     target 1528
     weight 1
+    event "WEI"
   ]
   edge [
     source 519
     target 1529
     weight 1
+    event "WEI"
   ]
   edge [
     source 519
     target 2439
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 519
     target 1776
     weight 1
+    event "CTD"
   ]
   edge [
     source 519
     target 567
     weight 1
+    event "CTD"
   ]
   edge [
     source 520
     target 526
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 520
     target 527
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 520
     target 3607
     weight 8
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3632
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3633
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3634
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3635
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3636
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 540
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3725
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3818
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3819
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3918
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3924
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3925
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3945
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3356
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3870
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3947
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3948
     weight 5
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3647
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3949
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3950
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 3951
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 520
     target 4680
     weight 4
+    event "CTIC"
   ]
   edge [
     source 520
     target 620
     weight 4
+    event "CTIC"
   ]
   edge [
     source 520
     target 3906
     weight 1
+    event "CTD"
   ]
   edge [
     source 520
     target 4930
     weight 1
+    event "CTD"
   ]
   edge [
     source 523
     target 524
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 523
     target 525
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 523
     target 2928
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 523
     target 2929
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 523
     target 2930
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 523
     target 2931
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 523
     target 2932
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 524
     target 525
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 524
     target 4833
     weight 1
+    event "CTD"
   ]
   edge [
     source 524
     target 4834
     weight 1
+    event "CTD"
   ]
   edge [
     source 526
     target 527
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 528
     target 529
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 528
     target 530
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 529
     target 530
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 529
     target 557
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 529
     target 558
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 529
     target 559
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 531
     target 532
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 531
     target 533
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 531
     target 534
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 531
     target 535
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 531
     target 536
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 531
     target 4781
     weight 1
+    event "CTD"
   ]
   edge [
     source 531
     target 4782
     weight 1
+    event "CTD"
   ]
   edge [
     source 532
     target 533
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 532
     target 534
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 532
     target 535
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 532
     target 536
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 533
     target 534
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 533
     target 535
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 533
     target 536
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 534
     target 535
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 534
     target 536
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 535
     target 536
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 538
     target 539
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 538
     target 540
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 538
     target 541
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 538
     target 542
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 539
     target 540
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 539
     target 541
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 539
     target 542
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 540
     target 541
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 540
     target 542
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 540
     target 2435
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 540
     target 2436
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 540
     target 2381
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 540
     target 2437
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 540
     target 3630
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3631
     weight 4
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3632
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3633
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3634
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3635
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3636
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3607
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3706
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3707
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 1059
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3789
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3836
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3940
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3941
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 4009
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3624
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3792
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 540
     target 4888
     weight 1
+    event "CTD"
   ]
   edge [
     source 540
     target 4889
     weight 1
+    event "CTD"
   ]
   edge [
     source 540
     target 4890
     weight 1
+    event "CTD"
   ]
   edge [
     source 540
     target 4936
     weight 1
+    event "CTD"
   ]
   edge [
     source 540
     target 3951
     weight 1
+    event "CTD"
   ]
   edge [
     source 541
     target 542
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 541
     target 2480
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2437
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2477
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2551
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2552
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2606
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 1663
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 1870
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2733
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2377
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2734
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 2774
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 541
     target 3823
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 541
     target 3260
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 543
     target 544
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 543
     target 545
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 544
     target 545
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 545
     target 4723
     weight 1
+    event "CTD"
   ]
   edge [
     source 545
     target 4687
     weight 1
+    event "CTD"
   ]
   edge [
     source 545
     target 4724
     weight 1
+    event "CTD"
   ]
   edge [
     source 545
     target 4910
     weight 1
+    event "CTD"
   ]
   edge [
     source 545
     target 4893
     weight 1
+    event "CTD"
   ]
   edge [
     source 546
     target 547
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 546
     target 548
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 546
     target 549
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 546
     target 550
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 546
     target 551
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 546
     target 552
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 547
     target 548
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 547
     target 549
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 547
     target 550
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 547
     target 551
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 547
     target 552
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 548
     target 549
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 548
     target 550
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 548
     target 551
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 548
     target 552
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 549
     target 550
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 549
     target 551
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 549
     target 552
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 550
     target 551
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 550
     target 552
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 551
     target 552
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 553
     target 554
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 553
     target 555
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 553
     target 556
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 554
     target 555
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 554
     target 556
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 555
     target 556
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 555
     target 2375
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 557
     target 558
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 557
     target 559
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 558
     target 559
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 560
     target 561
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 560
     target 562
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 560
     target 563
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 561
     target 562
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 561
     target 563
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 562
     target 563
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 564
     target 565
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 564
     target 566
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 564
     target 567
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 565
     target 566
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 565
     target 567
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 565
     target 4666
     weight 1
+    event "CTIC"
   ]
   edge [
     source 566
     target 567
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 566
     target 4226
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 566
     target 4227
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 566
     target 1087
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 566
     target 4483
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 566
     target 4666
     weight 1
+    event "CTIC"
   ]
   edge [
     source 567
     target 4146
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 567
     target 4147
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 567
     target 4148
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 567
     target 1776
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 567
     target 652
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 567
     target 4180
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 567
     target 4181
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 567
     target 4413
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 567
     target 589
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 567
     target 4822
     weight 1
+    event "CTD"
   ]
   edge [
     source 567
     target 4823
     weight 1
+    event "CTD"
   ]
   edge [
     source 567
     target 2656
     weight 1
+    event "CTD"
   ]
   edge [
     source 567
     target 4951
     weight 1
+    event "CTD"
   ]
   edge [
     source 567
     target 4952
     weight 1
+    event "CTD"
   ]
   edge [
     source 568
     target 569
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 568
     target 570
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 568
     target 571
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 568
     target 4262
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 568
     target 3232
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 569
     target 570
     weight 2
+    event "SEMISH"
   ]
   edge [
     source 569
     target 571
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 569
     target 4359
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 569
     target 4360
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 569
     target 4361
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 570
     target 571
     weight 1
+    event "SEMISH"
   ]
   edge [
     source 570
     target 4359
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 570
     target 4360
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 570
     target 4361
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 572
     target 573
     weight 1
+    event "WIT"
   ]
   edge [
     source 572
     target 574
     weight 1
+    event "WIT"
   ]
   edge [
     source 572
     target 575
     weight 1
+    event "WIT"
   ]
   edge [
     source 572
     target 576
     weight 1
+    event "WIT"
   ]
   edge [
     source 572
     target 577
     weight 1
+    event "WIT"
   ]
   edge [
     source 572
     target 578
     weight 1
+    event "WIT"
   ]
   edge [
     source 572
     target 579
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 574
     weight 2
+    event "WIT"
   ]
   edge [
     source 573
     target 575
     weight 2
+    event "WIT"
   ]
   edge [
     source 573
     target 576
     weight 4
+    event "WIT"
   ]
   edge [
     source 573
     target 577
     weight 5
+    event "WIT"
   ]
   edge [
     source 573
     target 578
     weight 6
+    event "WIT"
   ]
   edge [
     source 573
     target 579
     weight 6
+    event "WIT"
   ]
   edge [
     source 573
     target 619
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 620
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 627
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 628
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 629
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 728
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 729
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 730
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 731
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 732
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 734
     weight 9
+    event "WIT"
   ]
   edge [
     source 573
     target 744
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 763
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 764
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 765
     weight 2
+    event "WIT"
   ]
   edge [
     source 573
     target 957
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1076
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1077
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1098
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1099
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1141
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1142
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1143
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1144
     weight 3
+    event "WIT"
   ]
   edge [
     source 573
     target 1177
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1178
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1204
     weight 1
+    event "WIT"
   ]
   edge [
     source 573
     target 1241
     weight 1
+    event "WEI"
   ]
   edge [
     source 573
     target 1242
     weight 1
+    event "WEI"
   ]
   edge [
     source 573
     target 1421
     weight 1
+    event "WEI"
   ]
   edge [
     source 573
     target 1422
     weight 1
+    event "WEI"
   ]
   edge [
     source 573
     target 1423
     weight 1
+    event "WEI"
   ]
   edge [
     source 574
     target 575
     weight 1
+    event "WIT"
   ]
   edge [
     source 574
     target 576
     weight 1
+    event "WIT"
   ]
   edge [
     source 574
     target 577
     weight 1
+    event "WIT"
   ]
   edge [
     source 574
     target 578
     weight 2
+    event "WIT"
   ]
   edge [
     source 574
     target 579
     weight 2
+    event "WIT"
   ]
   edge [
     source 574
     target 763
     weight 1
+    event "WIT"
   ]
   edge [
     source 574
     target 764
     weight 1
+    event "WIT"
   ]
   edge [
     source 574
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 574
     target 765
     weight 1
+    event "WIT"
   ]
   edge [
     source 575
     target 576
     weight 1
+    event "WIT"
   ]
   edge [
     source 575
     target 577
     weight 1
+    event "WIT"
   ]
   edge [
     source 575
     target 578
     weight 2
+    event "WIT"
   ]
   edge [
     source 575
     target 579
     weight 2
+    event "WIT"
   ]
   edge [
     source 575
     target 744
     weight 1
+    event "WIT"
   ]
   edge [
     source 575
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 576
     target 577
     weight 3
+    event "WIT"
   ]
   edge [
     source 576
     target 578
     weight 3
+    event "WIT"
   ]
   edge [
     source 576
     target 579
     weight 3
+    event "WIT"
   ]
   edge [
     source 576
     target 619
     weight 1
+    event "WIT"
   ]
   edge [
     source 576
     target 620
     weight 1
+    event "WIT"
   ]
   edge [
     source 576
     target 627
     weight 1
+    event "WIT"
   ]
   edge [
     source 576
     target 628
     weight 1
+    event "WIT"
   ]
   edge [
     source 576
     target 629
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 578
     weight 4
+    event "WIT"
   ]
   edge [
     source 577
     target 579
     weight 4
+    event "WIT"
   ]
   edge [
     source 577
     target 619
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 620
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 627
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 628
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 629
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 728
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 729
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 730
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 731
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 732
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 1038
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 1039
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 1040
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 1041
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 1114
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 1115
     weight 1
+    event "WIT"
   ]
   edge [
     source 577
     target 1241
     weight 1
+    event "WEI"
   ]
   edge [
     source 577
     target 1242
     weight 1
+    event "WEI"
   ]
   edge [
     source 578
     target 579
     weight 6
+    event "WIT"
   ]
   edge [
     source 578
     target 619
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 620
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 627
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 628
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 629
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 728
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 729
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 730
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 731
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 732
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 734
     weight 3
+    event "WIT"
   ]
   edge [
     source 578
     target 744
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 763
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 764
     weight 1
+    event "WIT"
   ]
   edge [
     source 578
     target 765
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 619
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 620
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 627
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 628
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 629
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 728
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 729
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 730
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 731
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 732
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 734
     weight 3
+    event "WIT"
   ]
   edge [
     source 579
     target 744
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 763
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 764
     weight 1
+    event "WIT"
   ]
   edge [
     source 579
     target 765
     weight 1
+    event "WIT"
   ]
   edge [
     source 580
     target 581
     weight 1
+    event "WIT"
   ]
   edge [
     source 580
     target 582
     weight 1
+    event "WIT"
   ]
   edge [
     source 580
     target 583
     weight 1
+    event "WIT"
   ]
   edge [
     source 581
     target 582
     weight 1
+    event "WIT"
   ]
   edge [
     source 581
     target 583
     weight 1
+    event "WIT"
   ]
   edge [
     source 582
     target 583
     weight 1
+    event "WIT"
   ]
   edge [
     source 584
     target 585
     weight 1
+    event "WIT"
   ]
   edge [
     source 584
     target 586
     weight 2
+    event "WIT"
   ]
   edge [
     source 584
     target 587
     weight 2
+    event "WIT"
   ]
   edge [
     source 584
     target 588
     weight 2
+    event "WIT"
   ]
   edge [
     source 584
     target 589
     weight 1
+    event "WIT"
   ]
   edge [
     source 584
     target 701
     weight 1
+    event "WIT"
   ]
   edge [
     source 584
     target 702
     weight 1
+    event "WIT"
   ]
   edge [
     source 584
     target 703
     weight 1
+    event "WIT"
   ]
   edge [
     source 585
     target 586
     weight 1
+    event "WIT"
   ]
   edge [
     source 585
     target 587
     weight 1
+    event "WIT"
   ]
   edge [
     source 585
     target 588
     weight 1
+    event "WIT"
   ]
   edge [
     source 585
     target 589
     weight 1
+    event "WIT"
   ]
   edge [
     source 586
     target 587
     weight 3
+    event "WIT"
   ]
   edge [
     source 586
     target 588
     weight 3
+    event "WIT"
   ]
   edge [
     source 586
     target 589
     weight 1
+    event "WIT"
   ]
   edge [
     source 586
     target 701
     weight 2
+    event "WIT"
   ]
   edge [
     source 586
     target 702
     weight 1
+    event "WIT"
   ]
   edge [
     source 586
     target 703
     weight 1
+    event "WIT"
   ]
   edge [
     source 586
     target 1527
     weight 1
+    event "WEI"
   ]
   edge [
     source 586
     target 1528
     weight 1
+    event "WEI"
   ]
   edge [
     source 586
     target 1529
     weight 1
+    event "WEI"
   ]
   edge [
     source 587
     target 588
     weight 3
+    event "WIT"
   ]
   edge [
     source 587
     target 589
     weight 1
+    event "WIT"
   ]
   edge [
     source 587
     target 701
     weight 2
+    event "WIT"
   ]
   edge [
     source 587
     target 702
     weight 1
+    event "WIT"
   ]
   edge [
     source 587
     target 703
     weight 1
+    event "WIT"
   ]
   edge [
     source 587
     target 1527
     weight 1
+    event "WEI"
   ]
   edge [
     source 587
     target 1528
     weight 1
+    event "WEI"
   ]
   edge [
     source 587
     target 1529
     weight 1
+    event "WEI"
   ]
   edge [
     source 588
     target 589
     weight 1
+    event "WIT"
   ]
   edge [
     source 588
     target 701
     weight 2
+    event "WIT"
   ]
   edge [
     source 588
     target 702
     weight 1
+    event "WIT"
   ]
   edge [
     source 588
     target 703
     weight 1
+    event "WIT"
   ]
   edge [
     source 588
     target 1418
     weight 1
+    event "WEI"
   ]
   edge [
     source 588
     target 1419
     weight 2
+    event "WEI"
   ]
   edge [
     source 588
     target 1420
     weight 2
+    event "WEI"
   ]
   edge [
     source 588
     target 1527
     weight 1
+    event "WEI"
   ]
   edge [
     source 588
     target 1528
     weight 1
+    event "WEI"
   ]
   edge [
     source 588
     target 1529
     weight 1
+    event "WEI"
   ]
   edge [
     source 588
     target 1543
     weight 1
+    event "WEI"
   ]
   edge [
     source 588
     target 1544
     weight 1
+    event "WEI"
   ]
   edge [
     source 589
     target 4386
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 589
     target 652
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 589
     target 1776
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 589
     target 4413
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 590
     target 591
     weight 2
+    event "WIT"
   ]
   edge [
     source 590
     target 592
     weight 2
+    event "WIT"
   ]
   edge [
     source 590
     target 593
     weight 2
+    event "WIT"
   ]
   edge [
     source 590
     target 594
     weight 2
+    event "WIT"
   ]
   edge [
     source 590
     target 751
     weight 1
+    event "WIT"
   ]
   edge [
     source 590
     target 752
     weight 1
+    event "WIT"
   ]
   edge [
     source 590
     target 753
     weight 1
+    event "WIT"
   ]
   edge [
     source 591
     target 592
     weight 2
+    event "WIT"
   ]
   edge [
     source 591
     target 593
     weight 2
+    event "WIT"
   ]
   edge [
     source 591
     target 594
     weight 2
+    event "WIT"
   ]
   edge [
     source 591
     target 751
     weight 1
+    event "WIT"
   ]
   edge [
     source 591
     target 752
     weight 1
+    event "WIT"
   ]
   edge [
     source 591
     target 753
     weight 1
+    event "WIT"
   ]
   edge [
     source 592
     target 593
     weight 3
+    event "WIT"
   ]
   edge [
     source 592
     target 594
     weight 5
+    event "WIT"
   ]
   edge [
     source 592
     target 751
     weight 3
+    event "WIT"
   ]
   edge [
     source 592
     target 752
     weight 1
+    event "WIT"
   ]
   edge [
     source 592
     target 753
     weight 2
+    event "WIT"
   ]
   edge [
     source 592
     target 761
     weight 2
+    event "WIT"
   ]
   edge [
     source 592
     target 762
     weight 1
+    event "WIT"
   ]
   edge [
     source 592
     target 1009
     weight 1
+    event "WIT"
   ]
   edge [
     source 593
     target 594
     weight 4
+    event "WIT"
   ]
   edge [
     source 593
     target 751
     weight 2
+    event "WIT"
   ]
   edge [
     source 593
     target 752
     weight 1
+    event "WIT"
   ]
   edge [
     source 593
     target 753
     weight 2
+    event "WIT"
   ]
   edge [
     source 593
     target 761
     weight 1
+    event "WIT"
   ]
   edge [
     source 593
     target 762
     weight 1
+    event "WIT"
   ]
   edge [
     source 593
     target 941
     weight 1
+    event "WIT"
   ]
   edge [
     source 594
     target 751
     weight 4
+    event "WIT"
   ]
   edge [
     source 594
     target 752
     weight 1
+    event "WIT"
   ]
   edge [
     source 594
     target 753
     weight 2
+    event "WIT"
   ]
   edge [
     source 594
     target 761
     weight 4
+    event "WIT"
   ]
   edge [
     source 594
     target 762
     weight 1
+    event "WIT"
   ]
   edge [
     source 594
     target 941
     weight 2
+    event "WIT"
   ]
   edge [
     source 594
     target 943
     weight 3
+    event "WIT"
   ]
   edge [
     source 594
     target 944
     weight 3
+    event "WIT"
   ]
   edge [
     source 594
     target 987
     weight 1
+    event "WIT"
   ]
   edge [
     source 594
     target 1009
     weight 1
+    event "WIT"
   ]
   edge [
     source 595
     target 596
     weight 1
+    event "WIT"
   ]
   edge [
     source 597
     target 598
     weight 1
+    event "WIT"
   ]
   edge [
     source 597
     target 599
     weight 1
+    event "WIT"
   ]
   edge [
     source 597
     target 600
     weight 1
+    event "WIT"
   ]
   edge [
     source 597
     target 601
     weight 1
+    event "WIT"
   ]
   edge [
     source 597
     target 602
     weight 1
+    event "WIT"
   ]
   edge [
     source 597
     target 603
     weight 1
+    event "WIT"
   ]
   edge [
     source 597
     target 604
     weight 1
+    event "WIT"
   ]
   edge [
     source 598
     target 599
     weight 1
+    event "WIT"
   ]
   edge [
     source 598
     target 600
     weight 1
+    event "WIT"
   ]
   edge [
     source 598
     target 601
     weight 2
+    event "WIT"
   ]
   edge [
     source 598
     target 602
     weight 2
+    event "WIT"
   ]
   edge [
     source 598
     target 603
     weight 2
+    event "WIT"
   ]
   edge [
     source 598
     target 604
     weight 2
+    event "WIT"
   ]
   edge [
     source 598
     target 775
     weight 1
+    event "WIT"
   ]
   edge [
     source 599
     target 600
     weight 2
+    event "WIT"
   ]
   edge [
     source 599
     target 601
     weight 2
+    event "WIT"
   ]
   edge [
     source 599
     target 602
     weight 2
+    event "WIT"
   ]
   edge [
     source 599
     target 603
     weight 2
+    event "WIT"
   ]
   edge [
     source 599
     target 604
     weight 2
+    event "WIT"
   ]
   edge [
     source 600
     target 601
     weight 2
+    event "WIT"
   ]
   edge [
     source 600
     target 602
     weight 2
+    event "WIT"
   ]
   edge [
     source 600
     target 603
     weight 2
+    event "WIT"
   ]
   edge [
     source 600
     target 604
     weight 2
+    event "WIT"
   ]
   edge [
     source 601
     target 602
     weight 4
+    event "WIT"
   ]
   edge [
     source 601
     target 603
     weight 6
+    event "WIT"
   ]
   edge [
     source 601
     target 604
     weight 3
+    event "WIT"
   ]
   edge [
     source 601
     target 775
     weight 1
+    event "WIT"
   ]
   edge [
     source 601
     target 994
     weight 1
+    event "WIT"
   ]
   edge [
     source 601
     target 995
     weight 1
+    event "WIT"
   ]
   edge [
     source 601
     target 1570
     weight 1
+    event "WEI"
   ]
   edge [
     source 602
     target 603
     weight 4
+    event "WIT"
   ]
   edge [
     source 602
     target 604
     weight 3
+    event "WIT"
   ]
   edge [
     source 602
     target 775
     weight 1
+    event "WIT"
   ]
   edge [
     source 602
     target 994
     weight 1
+    event "WIT"
   ]
   edge [
     source 602
     target 995
     weight 1
+    event "WIT"
   ]
   edge [
     source 603
     target 604
     weight 3
+    event "WIT"
   ]
   edge [
     source 603
     target 775
     weight 1
+    event "WIT"
   ]
   edge [
     source 603
     target 994
     weight 1
+    event "WIT"
   ]
   edge [
     source 603
     target 995
     weight 1
+    event "WIT"
   ]
   edge [
     source 603
     target 1570
     weight 2
+    event "WEI"
   ]
   edge [
     source 603
     target 1139
     weight 1
+    event "WEI"
   ]
   edge [
     source 604
     target 775
     weight 1
+    event "WIT"
   ]
   edge [
     source 604
     target 1139
     weight 1
+    event "WIT"
   ]
   edge [
     source 604
     target 995
     weight 1
+    event "WIT"
   ]
   edge [
     source 604
     target 1140
     weight 1
+    event "WIT"
   ]
   edge [
     source 605
     target 606
     weight 1
+    event "WIT"
   ]
   edge [
     source 607
     target 608
     weight 1
+    event "WIT"
   ]
   edge [
     source 607
     target 609
     weight 1
+    event "WIT"
   ]
   edge [
     source 608
     target 609
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 611
     weight 3
+    event "WIT"
   ]
   edge [
     source 610
     target 612
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 613
     weight 4
+    event "WIT"
   ]
   edge [
     source 610
     target 614
     weight 2
+    event "WIT"
   ]
   edge [
     source 610
     target 615
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 616
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 720
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 721
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 722
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 723
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 724
     weight 1
+    event "WIT"
   ]
   edge [
     source 610
     target 773
     weight 3
+    event "WIT"
   ]
   edge [
     source 611
     target 612
     weight 1
+    event "WIT"
   ]
   edge [
     source 611
     target 613
     weight 3
+    event "WIT"
   ]
   edge [
     source 611
     target 614
     weight 3
+    event "WIT"
   ]
   edge [
     source 611
     target 615
     weight 1
+    event "WIT"
   ]
   edge [
     source 611
     target 616
     weight 1
+    event "WIT"
   ]
   edge [
     source 611
     target 720
     weight 1
+    event "WIT"
   ]
   edge [
     source 611
     target 721
     weight 1
+    event "WIT"
   ]
   edge [
     source 611
     target 722
     weight 1
+    event "WIT"
   ]
   edge [
     source 611
     target 723
     weight 1
+    event "WIT"
   ]
   edge [
     source 611
     target 724
     weight 1
+    event "WIT"
   ]
   edge [
     source 611
     target 630
     weight 1
+    event "WIT"
   ]
   edge [
     source 612
     target 613
     weight 1
+    event "WIT"
   ]
   edge [
     source 612
     target 614
     weight 1
+    event "WIT"
   ]
   edge [
     source 612
     target 615
     weight 1
+    event "WIT"
   ]
   edge [
     source 612
     target 616
     weight 1
+    event "WIT"
   ]
   edge [
     source 612
     target 1010
     weight 1
+    event "WIT"
   ]
   edge [
     source 612
     target 1011
     weight 1
+    event "WIT"
   ]
   edge [
     source 613
     target 614
     weight 4
+    event "WIT"
   ]
   edge [
     source 613
     target 615
     weight 1
+    event "WIT"
   ]
   edge [
     source 613
     target 616
     weight 1
+    event "WIT"
   ]
   edge [
     source 613
     target 630
     weight 2
+    event "WIT"
   ]
   edge [
     source 613
     target 773
     weight 2
+    event "WIT"
   ]
   edge [
     source 613
     target 1017
     weight 1
+    event "WIT"
   ]
   edge [
     source 613
     target 1018
     weight 1
+    event "WIT"
   ]
   edge [
     source 613
     target 1019
     weight 1
+    event "WIT"
   ]
   edge [
     source 613
     target 722
     weight 1
+    event "WIT"
   ]
   edge [
     source 614
     target 615
     weight 1
+    event "WIT"
   ]
   edge [
     source 614
     target 616
     weight 1
+    event "WIT"
   ]
   edge [
     source 614
     target 630
     weight 2
+    event "WIT"
   ]
   edge [
     source 615
     target 616
     weight 1
+    event "WIT"
   ]
   edge [
     source 617
     target 618
     weight 1
+    event "WIT"
   ]
   edge [
     source 617
     target 1050
     weight 1
+    event "WIT"
   ]
   edge [
     source 619
     target 620
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 873
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 874
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 875
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 876
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 851
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 852
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 877
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 854
     weight 3
+    event "WIT"
   ]
   edge [
     source 620
     target 890
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 891
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 892
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 893
     weight 2
+    event "WIT"
   ]
   edge [
     source 620
     target 1028
     weight 1
+    event "WIT"
   ]
   edge [
     source 620
     target 1606
     weight 1
+    event "WEI"
   ]
   edge [
     source 620
     target 2185
     weight 1
+    event "WEI"
   ]
   edge [
     source 620
     target 2329
     weight 1
+    event "WEI"
   ]
   edge [
     source 620
     target 2330
     weight 1
+    event "WEI"
   ]
   edge [
     source 620
     target 3621
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 620
     target 3667
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 620
     target 3622
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 620
     target 3714
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 620
     target 3715
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 620
     target 3919
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 620
     target 4680
     weight 4
+    event "CTIC"
   ]
   edge [
     source 620
     target 3624
     weight 1
+    event "CTD"
   ]
   edge [
     source 620
     target 4779
     weight 1
+    event "CTD"
   ]
   edge [
     source 620
     target 4780
     weight 1
+    event "CTD"
   ]
   edge [
     source 620
     target 4949
     weight 1
+    event "CTD"
   ]
   edge [
     source 620
     target 4948
     weight 1
+    event "CTD"
   ]
   edge [
     source 621
     target 622
     weight 1
+    event "WIT"
   ]
   edge [
     source 621
     target 623
     weight 1
+    event "WIT"
   ]
   edge [
     source 621
     target 624
     weight 1
+    event "WIT"
   ]
   edge [
     source 622
     target 623
     weight 1
+    event "WIT"
   ]
   edge [
     source 622
     target 624
     weight 1
+    event "WIT"
   ]
   edge [
     source 623
     target 624
     weight 1
+    event "WIT"
   ]
   edge [
     source 625
     target 626
     weight 1
+    event "WIT"
   ]
   edge [
     source 627
     target 628
     weight 1
+    event "WIT"
   ]
   edge [
     source 627
     target 629
     weight 1
+    event "WIT"
   ]
   edge [
     source 628
     target 629
     weight 1
+    event "WIT"
   ]
   edge [
     source 630
     target 631
     weight 1
+    event "WIT"
   ]
   edge [
     source 630
     target 632
     weight 1
+    event "WIT"
   ]
   edge [
     source 630
     target 633
     weight 1
+    event "WIT"
   ]
   edge [
     source 630
     target 634
     weight 1
+    event "WIT"
   ]
   edge [
     source 630
     target 773
     weight 1
+    event "WIT"
   ]
   edge [
     source 630
     target 774
     weight 1
+    event "WIT"
   ]
   edge [
     source 630
     target 3268
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 630
     target 3269
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 630
     target 3270
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 631
     target 632
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 633
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 634
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 718
     weight 2
+    event "WIT"
   ]
   edge [
     source 631
     target 719
     weight 2
+    event "WIT"
   ]
   edge [
     source 631
     target 879
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 649
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 880
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 670
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 883
     weight 6
+    event "WIT"
   ]
   edge [
     source 631
     target 1199
     weight 2
+    event "WIT"
   ]
   edge [
     source 631
     target 1200
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 1201
     weight 2
+    event "WIT"
   ]
   edge [
     source 631
     target 1223
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 1224
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 1225
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 1226
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 1231
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 1232
     weight 1
+    event "WIT"
   ]
   edge [
     source 631
     target 1233
     weight 1
+    event "WIT"
   ]
   edge [
     source 632
     target 633
     weight 1
+    event "WIT"
   ]
   edge [
     source 632
     target 634
     weight 1
+    event "WIT"
   ]
   edge [
     source 633
     target 634
     weight 1
+    event "WIT"
   ]
   edge [
     source 635
     target 636
     weight 1
+    event "WIT"
   ]
   edge [
     source 635
     target 637
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 637
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 1116
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 1117
     weight 2
+    event "WIT"
   ]
   edge [
     source 636
     target 1129
     weight 2
+    event "WIT"
   ]
   edge [
     source 636
     target 1130
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 1131
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 1132
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 1133
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 1134
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 1235
     weight 1
+    event "WIT"
   ]
   edge [
     source 636
     target 1236
     weight 1
+    event "WIT"
   ]
   edge [
     source 637
     target 1172
     weight 1
+    event "WEI"
   ]
   edge [
     source 637
     target 1915
     weight 1
+    event "WEI"
   ]
   edge [
     source 637
     target 1916
     weight 1
+    event "WEI"
   ]
   edge [
     source 638
     target 639
     weight 1
+    event "WIT"
   ]
   edge [
     source 639
     target 4584
     weight 1
+    event "CTIC"
   ]
   edge [
     source 639
     target 4585
     weight 1
+    event "CTIC"
   ]
   edge [
     source 640
     target 641
     weight 1
+    event "WIT"
   ]
   edge [
     source 640
     target 642
     weight 1
+    event "WIT"
   ]
   edge [
     source 640
     target 643
     weight 1
+    event "WIT"
   ]
   edge [
     source 641
     target 642
     weight 1
+    event "WIT"
   ]
   edge [
     source 641
     target 643
     weight 1
+    event "WIT"
   ]
   edge [
     source 642
     target 643
     weight 1
+    event "WIT"
   ]
   edge [
     source 644
     target 645
     weight 2
+    event "WIT"
   ]
   edge [
     source 644
     target 646
     weight 1
+    event "WIT"
   ]
   edge [
     source 644
     target 647
     weight 2
+    event "WIT"
   ]
   edge [
     source 644
     target 648
     weight 2
+    event "WIT"
   ]
   edge [
     source 644
     target 649
     weight 2
+    event "WIT"
   ]
   edge [
     source 644
     target 735
     weight 1
+    event "WIT"
   ]
   edge [
     source 645
     target 646
     weight 1
+    event "WIT"
   ]
   edge [
     source 645
     target 647
     weight 2
+    event "WIT"
   ]
   edge [
     source 645
     target 648
     weight 2
+    event "WIT"
   ]
   edge [
     source 645
     target 649
     weight 2
+    event "WIT"
   ]
   edge [
     source 645
     target 735
     weight 1
+    event "WIT"
   ]
   edge [
     source 646
     target 647
     weight 1
+    event "WIT"
   ]
   edge [
     source 646
     target 648
     weight 1
+    event "WIT"
   ]
   edge [
     source 646
     target 649
     weight 1
+    event "WIT"
   ]
   edge [
     source 647
     target 648
     weight 2
+    event "WIT"
   ]
   edge [
     source 647
     target 649
     weight 2
+    event "WIT"
   ]
   edge [
     source 647
     target 735
     weight 1
+    event "WIT"
   ]
   edge [
     source 648
     target 649
     weight 7
+    event "WIT"
   ]
   edge [
     source 648
     target 735
     weight 1
+    event "WIT"
   ]
   edge [
     source 648
     target 937
     weight 1
+    event "WIT"
   ]
   edge [
     source 648
     target 938
     weight 1
+    event "WIT"
   ]
   edge [
     source 648
     target 939
     weight 1
+    event "WIT"
   ]
   edge [
     source 648
     target 940
     weight 1
+    event "WIT"
   ]
   edge [
     source 648
     target 1159
     weight 1
+    event "WIT"
   ]
   edge [
     source 648
     target 750
     weight 1
+    event "WEI"
   ]
   edge [
     source 648
     target 1742
     weight 1
+    event "WEI"
   ]
   edge [
     source 649
     target 665
     weight 2
+    event "WIT"
   ]
   edge [
     source 649
     target 666
     weight 2
+    event "WIT"
   ]
   edge [
     source 649
     target 735
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 879
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 880
     weight 2
+    event "WIT"
   ]
   edge [
     source 649
     target 670
     weight 4
+    event "WIT"
   ]
   edge [
     source 649
     target 937
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 938
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 939
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 940
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1025
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 829
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 715
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1034
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1035
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1036
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1037
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1145
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1146
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1159
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1094
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1227
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1228
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1229
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 1230
     weight 1
+    event "WIT"
   ]
   edge [
     source 649
     target 750
     weight 1
+    event "WEI"
   ]
   edge [
     source 649
     target 1742
     weight 1
+    event "WEI"
   ]
   edge [
     source 649
     target 1172
     weight 1
+    event "WEI"
   ]
   edge [
     source 649
     target 741
     weight 1
+    event "WEI"
   ]
   edge [
     source 649
     target 742
     weight 1
+    event "WEI"
   ]
   edge [
     source 650
     target 651
     weight 1
+    event "WIT"
   ]
   edge [
     source 650
     target 652
     weight 1
+    event "WIT"
   ]
   edge [
     source 651
     target 652
     weight 4
+    event "WIT"
   ]
   edge [
     source 651
     target 825
     weight 1
+    event "WIT"
   ]
   edge [
     source 651
     target 934
     weight 1
+    event "WIT"
   ]
   edge [
     source 651
     target 1775
     weight 1
+    event "WEI"
   ]
   edge [
     source 651
     target 1776
     weight 1
+    event "WEI"
   ]
   edge [
     source 652
     target 825
     weight 1
+    event "WIT"
   ]
   edge [
     source 652
     target 934
     weight 1
+    event "WIT"
   ]
   edge [
     source 652
     target 4138
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4139
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4140
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 1776
     weight 7
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4146
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4147
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4148
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4155
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4156
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4180
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4181
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4217
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4218
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4219
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4386
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 652
     target 4413
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 653
     target 654
     weight 1
+    event "WIT"
   ]
   edge [
     source 653
     target 655
     weight 1
+    event "WIT"
   ]
   edge [
     source 653
     target 656
     weight 1
+    event "WIT"
   ]
   edge [
     source 653
     target 657
     weight 1
+    event "WIT"
   ]
   edge [
     source 653
     target 658
     weight 1
+    event "WIT"
   ]
   edge [
     source 653
     target 659
     weight 1
+    event "WIT"
   ]
   edge [
     source 653
     target 660
     weight 1
+    event "WIT"
   ]
   edge [
     source 654
     target 655
     weight 1
+    event "WIT"
   ]
   edge [
     source 654
     target 656
     weight 1
+    event "WIT"
   ]
   edge [
     source 654
     target 657
     weight 1
+    event "WIT"
   ]
   edge [
     source 654
     target 658
     weight 1
+    event "WIT"
   ]
   edge [
     source 654
     target 659
     weight 1
+    event "WIT"
   ]
   edge [
     source 654
     target 660
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 656
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 657
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 658
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 659
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 660
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 830
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 831
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 832
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 833
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 834
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 835
     weight 1
+    event "WIT"
   ]
   edge [
     source 655
     target 836
     weight 1
+    event "WIT"
   ]
   edge [
     source 656
     target 657
     weight 1
+    event "WIT"
   ]
   edge [
     source 656
     target 658
     weight 1
+    event "WIT"
   ]
   edge [
     source 656
     target 659
     weight 1
+    event "WIT"
   ]
   edge [
     source 656
     target 660
     weight 1
+    event "WIT"
   ]
   edge [
     source 657
     target 658
     weight 1
+    event "WIT"
   ]
   edge [
     source 657
     target 659
     weight 1
+    event "WIT"
   ]
   edge [
     source 657
     target 660
     weight 1
+    event "WIT"
   ]
   edge [
     source 658
     target 659
     weight 1
+    event "WIT"
   ]
   edge [
     source 658
     target 660
     weight 1
+    event "WIT"
   ]
   edge [
     source 659
     target 660
     weight 1
+    event "WIT"
   ]
   edge [
     source 661
     target 662
     weight 1
+    event "WIT"
   ]
   edge [
     source 661
     target 663
     weight 1
+    event "WIT"
   ]
   edge [
     source 661
     target 787
     weight 1
+    event "WIT"
   ]
   edge [
     source 661
     target 788
     weight 1
+    event "WIT"
   ]
   edge [
     source 661
     target 789
     weight 1
+    event "WIT"
   ]
   edge [
     source 661
     target 790
     weight 1
+    event "WIT"
   ]
   edge [
     source 662
     target 663
     weight 1
+    event "WIT"
   ]
   edge [
     source 665
     target 666
     weight 2
+    event "WIT"
   ]
   edge [
     source 666
     target 738
     weight 1
+    event "WIT"
   ]
   edge [
     source 666
     target 739
     weight 2
+    event "WIT"
   ]
   edge [
     source 666
     target 740
     weight 1
+    event "WIT"
   ]
   edge [
     source 666
     target 741
     weight 1
+    event "WIT"
   ]
   edge [
     source 666
     target 742
     weight 1
+    event "WIT"
   ]
   edge [
     source 666
     target 743
     weight 1
+    event "WIT"
   ]
   edge [
     source 666
     target 3668
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 667
     target 668
     weight 1
+    event "WIT"
   ]
   edge [
     source 667
     target 669
     weight 1
+    event "WIT"
   ]
   edge [
     source 667
     target 670
     weight 1
+    event "WIT"
   ]
   edge [
     source 668
     target 669
     weight 1
+    event "WIT"
   ]
   edge [
     source 668
     target 670
     weight 1
+    event "WIT"
   ]
   edge [
     source 669
     target 670
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 685
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 686
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 687
     weight 3
+    event "WIT"
   ]
   edge [
     source 670
     target 688
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 829
     weight 4
+    event "WIT"
   ]
   edge [
     source 670
     target 879
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 880
     weight 8
+    event "WIT"
   ]
   edge [
     source 670
     target 1025
     weight 2
+    event "WIT"
   ]
   edge [
     source 670
     target 715
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 1034
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 1035
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 1036
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 1037
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 1145
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 1146
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 1169
     weight 1
+    event "WIT"
   ]
   edge [
     source 670
     target 1381
     weight 2
+    event "WEI"
   ]
   edge [
     source 671
     target 672
     weight 1
+    event "WIT"
   ]
   edge [
     source 671
     target 673
     weight 1
+    event "WIT"
   ]
   edge [
     source 671
     target 674
     weight 1
+    event "WIT"
   ]
   edge [
     source 671
     target 675
     weight 1
+    event "WIT"
   ]
   edge [
     source 672
     target 673
     weight 1
+    event "WIT"
   ]
   edge [
     source 672
     target 674
     weight 1
+    event "WIT"
   ]
   edge [
     source 672
     target 675
     weight 1
+    event "WIT"
   ]
   edge [
     source 673
     target 674
     weight 1
+    event "WIT"
   ]
   edge [
     source 673
     target 675
     weight 1
+    event "WIT"
   ]
   edge [
     source 674
     target 675
     weight 1
+    event "WIT"
   ]
   edge [
     source 676
     target 677
     weight 1
+    event "WIT"
   ]
   edge [
     source 677
     target 837
     weight 2
+    event "WIT"
   ]
   edge [
     source 677
     target 838
     weight 3
+    event "WIT"
   ]
   edge [
     source 677
     target 839
     weight 1
+    event "WIT"
   ]
   edge [
     source 677
     target 925
     weight 1
+    event "WIT"
   ]
   edge [
     source 677
     target 926
     weight 2
+    event "WIT"
   ]
   edge [
     source 677
     target 969
     weight 1
+    event "WIT"
   ]
   edge [
     source 677
     target 970
     weight 2
+    event "WIT"
   ]
   edge [
     source 677
     target 1462
     weight 1
+    event "WEI"
   ]
   edge [
     source 677
     target 1353
     weight 1
+    event "WEI"
   ]
   edge [
     source 677
     target 1470
     weight 1
+    event "WEI"
   ]
   edge [
     source 677
     target 1471
     weight 1
+    event "WEI"
   ]
   edge [
     source 678
     target 679
     weight 1
+    event "WIT"
   ]
   edge [
     source 678
     target 680
     weight 1
+    event "WIT"
   ]
   edge [
     source 678
     target 681
     weight 1
+    event "WIT"
   ]
   edge [
     source 678
     target 682
     weight 1
+    event "WIT"
   ]
   edge [
     source 678
     target 683
     weight 1
+    event "WIT"
   ]
   edge [
     source 678
     target 684
     weight 1
+    event "WIT"
   ]
   edge [
     source 679
     target 680
     weight 1
+    event "WIT"
   ]
   edge [
     source 679
     target 681
     weight 1
+    event "WIT"
   ]
   edge [
     source 679
     target 682
     weight 1
+    event "WIT"
   ]
   edge [
     source 679
     target 683
     weight 1
+    event "WIT"
   ]
   edge [
     source 679
     target 684
     weight 1
+    event "WIT"
   ]
   edge [
     source 680
     target 681
     weight 1
+    event "WIT"
   ]
   edge [
     source 680
     target 682
     weight 1
+    event "WIT"
   ]
   edge [
     source 680
     target 683
     weight 1
+    event "WIT"
   ]
   edge [
     source 680
     target 684
     weight 1
+    event "WIT"
   ]
   edge [
     source 681
     target 682
     weight 2
+    event "WIT"
   ]
   edge [
     source 681
     target 683
     weight 1
+    event "WIT"
   ]
   edge [
     source 681
     target 684
     weight 1
+    event "WIT"
   ]
   edge [
     source 681
     target 3824
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 681
     target 3825
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 681
     target 3826
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 681
     target 3827
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 682
     target 683
     weight 1
+    event "WIT"
   ]
   edge [
     source 682
     target 684
     weight 1
+    event "WIT"
   ]
   edge [
     source 682
     target 3824
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 682
     target 3825
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 682
     target 3826
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 682
     target 3827
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 683
     target 684
     weight 1
+    event "WIT"
   ]
   edge [
     source 685
     target 686
     weight 1
+    event "WIT"
   ]
   edge [
     source 685
     target 687
     weight 1
+    event "WIT"
   ]
   edge [
     source 685
     target 688
     weight 1
+    event "WIT"
   ]
   edge [
     source 686
     target 687
     weight 1
+    event "WIT"
   ]
   edge [
     source 686
     target 688
     weight 1
+    event "WIT"
   ]
   edge [
     source 687
     target 688
     weight 1
+    event "WIT"
   ]
   edge [
     source 687
     target 1381
     weight 2
+    event "WEI"
   ]
   edge [
     source 689
     target 690
     weight 1
+    event "WIT"
   ]
   edge [
     source 689
     target 691
     weight 1
+    event "WIT"
   ]
   edge [
     source 689
     target 692
     weight 1
+    event "WIT"
   ]
   edge [
     source 689
     target 693
     weight 1
+    event "WIT"
   ]
   edge [
     source 690
     target 691
     weight 1
+    event "WIT"
   ]
   edge [
     source 690
     target 692
     weight 1
+    event "WIT"
   ]
   edge [
     source 690
     target 693
     weight 1
+    event "WIT"
   ]
   edge [
     source 691
     target 692
     weight 1
+    event "WIT"
   ]
   edge [
     source 691
     target 693
     weight 1
+    event "WIT"
   ]
   edge [
     source 692
     target 693
     weight 1
+    event "WIT"
   ]
   edge [
     source 695
     target 696
     weight 1
+    event "WIT"
   ]
   edge [
     source 695
     target 697
     weight 1
+    event "WIT"
   ]
   edge [
     source 695
     target 698
     weight 1
+    event "WIT"
   ]
   edge [
     source 696
     target 697
     weight 2
+    event "WIT"
   ]
   edge [
     source 696
     target 698
     weight 1
+    event "WIT"
   ]
   edge [
     source 696
     target 784
     weight 1
+    event "WIT"
   ]
   edge [
     source 696
     target 785
     weight 1
+    event "WIT"
   ]
   edge [
     source 696
     target 786
     weight 1
+    event "WIT"
   ]
   edge [
     source 697
     target 698
     weight 1
+    event "WIT"
   ]
   edge [
     source 697
     target 784
     weight 1
+    event "WIT"
   ]
   edge [
     source 697
     target 785
     weight 1
+    event "WIT"
   ]
   edge [
     source 697
     target 786
     weight 1
+    event "WIT"
   ]
   edge [
     source 699
     target 700
     weight 1
+    event "WIT"
   ]
   edge [
     source 701
     target 702
     weight 1
+    event "WIT"
   ]
   edge [
     source 701
     target 703
     weight 1
+    event "WIT"
   ]
   edge [
     source 701
     target 1527
     weight 1
+    event "WEI"
   ]
   edge [
     source 701
     target 1528
     weight 1
+    event "WEI"
   ]
   edge [
     source 701
     target 1529
     weight 1
+    event "WEI"
   ]
   edge [
     source 702
     target 703
     weight 1
+    event "WIT"
   ]
   edge [
     source 705
     target 706
     weight 1
+    event "WIT"
   ]
   edge [
     source 705
     target 707
     weight 1
+    event "WIT"
   ]
   edge [
     source 705
     target 708
     weight 1
+    event "WIT"
   ]
   edge [
     source 706
     target 707
     weight 1
+    event "WIT"
   ]
   edge [
     source 706
     target 708
     weight 1
+    event "WIT"
   ]
   edge [
     source 707
     target 708
     weight 1
+    event "WIT"
   ]
   edge [
     source 709
     target 710
     weight 1
+    event "WIT"
   ]
   edge [
     source 709
     target 711
     weight 1
+    event "WIT"
   ]
   edge [
     source 709
     target 712
     weight 1
+    event "WIT"
   ]
   edge [
     source 709
     target 713
     weight 1
+    event "WIT"
   ]
   edge [
     source 710
     target 711
     weight 1
+    event "WIT"
   ]
   edge [
     source 710
     target 712
     weight 1
+    event "WIT"
   ]
   edge [
     source 710
     target 713
     weight 1
+    event "WIT"
   ]
   edge [
     source 711
     target 712
     weight 1
+    event "WIT"
   ]
   edge [
     source 711
     target 713
     weight 1
+    event "WIT"
   ]
   edge [
     source 712
     target 713
     weight 1
+    event "WIT"
   ]
   edge [
     source 714
     target 715
     weight 1
+    event "WIT"
   ]
   edge [
     source 714
     target 716
     weight 1
+    event "WIT"
   ]
   edge [
     source 714
     target 717
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 716
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 717
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 829
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 1034
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 1035
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 1036
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 1037
     weight 2
+    event "WIT"
   ]
   edge [
     source 715
     target 1095
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 1096
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 1097
     weight 1
+    event "WIT"
   ]
   edge [
     source 715
     target 760
     weight 1
+    event "WIT"
   ]
   edge [
     source 716
     target 717
     weight 1
+    event "WIT"
   ]
   edge [
     source 718
     target 719
     weight 2
+    event "WIT"
   ]
   edge [
     source 718
     target 883
     weight 1
+    event "WIT"
   ]
   edge [
     source 719
     target 883
     weight 1
+    event "WIT"
   ]
   edge [
     source 720
     target 721
     weight 2
+    event "WIT"
   ]
   edge [
     source 720
     target 722
     weight 1
+    event "WIT"
   ]
   edge [
     source 720
     target 723
     weight 1
+    event "WIT"
   ]
   edge [
     source 720
     target 724
     weight 1
+    event "WIT"
   ]
   edge [
     source 720
     target 965
     weight 1
+    event "WIT"
   ]
   edge [
     source 721
     target 722
     weight 1
+    event "WIT"
   ]
   edge [
     source 721
     target 723
     weight 1
+    event "WIT"
   ]
   edge [
     source 721
     target 724
     weight 1
+    event "WIT"
   ]
   edge [
     source 721
     target 965
     weight 1
+    event "WIT"
   ]
   edge [
     source 722
     target 723
     weight 1
+    event "WIT"
   ]
   edge [
     source 722
     target 724
     weight 1
+    event "WIT"
   ]
   edge [
     source 722
     target 1017
     weight 1
+    event "WIT"
   ]
   edge [
     source 722
     target 1018
     weight 1
+    event "WIT"
   ]
   edge [
     source 722
     target 1019
     weight 1
+    event "WIT"
   ]
   edge [
     source 723
     target 724
     weight 1
+    event "WIT"
   ]
   edge [
     source 725
     target 726
     weight 1
+    event "WIT"
   ]
   edge [
     source 725
     target 727
     weight 1
+    event "WIT"
   ]
   edge [
     source 726
     target 727
     weight 1
+    event "WIT"
   ]
   edge [
     source 728
     target 729
     weight 1
+    event "WIT"
   ]
   edge [
     source 728
     target 730
     weight 1
+    event "WIT"
   ]
   edge [
     source 728
     target 731
     weight 1
+    event "WIT"
   ]
   edge [
     source 728
     target 732
     weight 1
+    event "WIT"
   ]
   edge [
     source 728
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 728
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 729
     target 730
     weight 1
+    event "WIT"
   ]
   edge [
     source 729
     target 731
     weight 1
+    event "WIT"
   ]
   edge [
     source 729
     target 732
     weight 1
+    event "WIT"
   ]
   edge [
     source 729
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 729
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 730
     target 731
     weight 1
+    event "WIT"
   ]
   edge [
     source 730
     target 732
     weight 1
+    event "WIT"
   ]
   edge [
     source 730
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 730
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 731
     target 732
     weight 1
+    event "WIT"
   ]
   edge [
     source 731
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 731
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 732
     target 733
     weight 1
+    event "WIT"
   ]
   edge [
     source 732
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 733
     target 734
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 744
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 763
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 764
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 765
     weight 2
+    event "WIT"
   ]
   edge [
     source 734
     target 957
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1076
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1077
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1078
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1079
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1080
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1081
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1098
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1099
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1141
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1142
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1143
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1144
     weight 3
+    event "WIT"
   ]
   edge [
     source 734
     target 1177
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1178
     weight 1
+    event "WIT"
   ]
   edge [
     source 734
     target 1204
     weight 1
+    event "WIT"
   ]
   edge [
     source 736
     target 737
     weight 1
+    event "WIT"
   ]
   edge [
     source 738
     target 739
     weight 1
+    event "WIT"
   ]
   edge [
     source 738
     target 740
     weight 1
+    event "WIT"
   ]
   edge [
     source 738
     target 741
     weight 1
+    event "WIT"
   ]
   edge [
     source 738
     target 742
     weight 1
+    event "WIT"
   ]
   edge [
     source 738
     target 743
     weight 1
+    event "WIT"
   ]
   edge [
     source 739
     target 740
     weight 1
+    event "WIT"
   ]
   edge [
     source 739
     target 741
     weight 1
+    event "WIT"
   ]
   edge [
     source 739
     target 742
     weight 1
+    event "WIT"
   ]
   edge [
     source 739
     target 743
     weight 1
+    event "WIT"
   ]
   edge [
     source 739
     target 3668
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 740
     target 741
     weight 1
+    event "WIT"
   ]
   edge [
     source 740
     target 742
     weight 1
+    event "WIT"
   ]
   edge [
     source 740
     target 743
     weight 1
+    event "WIT"
   ]
   edge [
     source 741
     target 742
     weight 2
+    event "WIT"
   ]
   edge [
     source 741
     target 743
     weight 1
+    event "WIT"
   ]
   edge [
     source 741
     target 1012
     weight 1
+    event "WIT"
   ]
   edge [
     source 741
     target 1013
     weight 1
+    event "WIT"
   ]
   edge [
     source 741
     target 1489
     weight 1
+    event "WEI"
   ]
   edge [
     source 741
     target 1172
     weight 1
+    event "WEI"
   ]
   edge [
     source 742
     target 743
     weight 1
+    event "WIT"
   ]
   edge [
     source 742
     target 1172
     weight 1
+    event "WEI"
   ]
   edge [
     source 745
     target 746
     weight 1
+    event "WIT"
   ]
   edge [
     source 745
     target 747
     weight 1
+    event "WIT"
   ]
   edge [
     source 745
     target 748
     weight 1
+    event "WIT"
   ]
   edge [
     source 746
     target 747
     weight 1
+    event "WIT"
   ]
   edge [
     source 746
     target 748
     weight 1
+    event "WIT"
   ]
   edge [
     source 747
     target 748
     weight 1
+    event "WIT"
   ]
   edge [
     source 749
     target 750
     weight 1
+    event "WIT"
   ]
   edge [
     source 750
     target 1742
     weight 1
+    event "WEI"
   ]
   edge [
     source 751
     target 752
     weight 1
+    event "WIT"
   ]
   edge [
     source 751
     target 753
     weight 2
+    event "WIT"
   ]
   edge [
     source 751
     target 761
     weight 3
+    event "WIT"
   ]
   edge [
     source 751
     target 762
     weight 1
+    event "WIT"
   ]
   edge [
     source 751
     target 943
     weight 1
+    event "WIT"
   ]
   edge [
     source 751
     target 944
     weight 1
+    event "WIT"
   ]
   edge [
     source 752
     target 753
     weight 1
+    event "WIT"
   ]
   edge [
     source 753
     target 761
     weight 1
+    event "WIT"
   ]
   edge [
     source 753
     target 762
     weight 1
+    event "WIT"
   ]
   edge [
     source 754
     target 755
     weight 2
+    event "WIT"
   ]
   edge [
     source 754
     target 756
     weight 2
+    event "WIT"
   ]
   edge [
     source 754
     target 757
     weight 2
+    event "WIT"
   ]
   edge [
     source 754
     target 758
     weight 2
+    event "WIT"
   ]
   edge [
     source 754
     target 759
     weight 2
+    event "WIT"
   ]
   edge [
     source 754
     target 760
     weight 2
+    event "WIT"
   ]
   edge [
     source 755
     target 756
     weight 2
+    event "WIT"
   ]
   edge [
     source 755
     target 757
     weight 2
+    event "WIT"
   ]
   edge [
     source 755
     target 758
     weight 2
+    event "WIT"
   ]
   edge [
     source 755
     target 759
     weight 2
+    event "WIT"
   ]
   edge [
     source 755
     target 760
     weight 2
+    event "WIT"
   ]
   edge [
     source 756
     target 757
     weight 2
+    event "WIT"
   ]
   edge [
     source 756
     target 758
     weight 2
+    event "WIT"
   ]
   edge [
     source 756
     target 759
     weight 2
+    event "WIT"
   ]
   edge [
     source 756
     target 760
     weight 2
+    event "WIT"
   ]
   edge [
     source 756
     target 942
     weight 1
+    event "WIT"
   ]
   edge [
     source 757
     target 758
     weight 2
+    event "WIT"
   ]
   edge [
     source 757
     target 759
     weight 2
+    event "WIT"
   ]
   edge [
     source 757
     target 760
     weight 2
+    event "WIT"
   ]
   edge [
     source 758
     target 759
     weight 2
+    event "WIT"
   ]
   edge [
     source 758
     target 760
     weight 2
+    event "WIT"
   ]
   edge [
     source 759
     target 760
     weight 2
+    event "WIT"
   ]
   edge [
     source 760
     target 1037
     weight 1
+    event "WIT"
   ]
   edge [
     source 760
     target 1095
     weight 1
+    event "WIT"
   ]
   edge [
     source 760
     target 1096
     weight 1
+    event "WIT"
   ]
   edge [
     source 760
     target 1097
     weight 1
+    event "WIT"
   ]
   edge [
     source 760
     target 1156
     weight 2
+    event "WIT"
   ]
   edge [
     source 760
     target 1157
     weight 2
+    event "WIT"
   ]
   edge [
     source 760
     target 1158
     weight 1
+    event "WIT"
   ]
   edge [
     source 761
     target 762
     weight 1
+    event "WIT"
   ]
   edge [
     source 761
     target 943
     weight 2
+    event "WIT"
   ]
   edge [
     source 761
     target 944
     weight 2
+    event "WIT"
   ]
   edge [
     source 761
     target 941
     weight 1
+    event "WIT"
   ]
   edge [
     source 761
     target 987
     weight 1
+    event "WIT"
   ]
   edge [
     source 763
     target 764
     weight 1
+    event "WIT"
   ]
   edge [
     source 763
     target 765
     weight 1
+    event "WIT"
   ]
   edge [
     source 764
     target 765
     weight 1
+    event "WIT"
   ]
   edge [
     source 765
     target 1098
     weight 1
+    event "WIT"
   ]
   edge [
     source 765
     target 1099
     weight 1
+    event "WIT"
   ]
   edge [
     source 765
     target 1600
     weight 1
+    event "WEI"
   ]
   edge [
     source 765
     target 1601
     weight 1
+    event "WEI"
   ]
   edge [
     source 765
     target 3783
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 766
     target 767
     weight 1
+    event "WIT"
   ]
   edge [
     source 766
     target 768
     weight 1
+    event "WIT"
   ]
   edge [
     source 766
     target 769
     weight 1
+    event "WIT"
   ]
   edge [
     source 767
     target 768
     weight 1
+    event "WIT"
   ]
   edge [
     source 767
     target 769
     weight 1
+    event "WIT"
   ]
   edge [
     source 768
     target 769
     weight 1
+    event "WIT"
   ]
   edge [
     source 770
     target 771
     weight 1
+    event "WIT"
   ]
   edge [
     source 770
     target 772
     weight 1
+    event "WIT"
   ]
   edge [
     source 771
     target 772
     weight 1
+    event "WIT"
   ]
   edge [
     source 772
     target 2855
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 772
     target 2856
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 773
     target 774
     weight 1
+    event "WIT"
   ]
   edge [
     source 774
     target 988
     weight 1
+    event "WIT"
   ]
   edge [
     source 774
     target 989
     weight 1
+    event "WIT"
   ]
   edge [
     source 774
     target 1110
     weight 1
+    event "WIT"
   ]
   edge [
     source 774
     target 1111
     weight 1
+    event "WIT"
   ]
   edge [
     source 774
     target 1112
     weight 1
+    event "WIT"
   ]
   edge [
     source 774
     target 1113
     weight 1
+    event "WIT"
   ]
   edge [
     source 774
     target 2516
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 774
     target 2517
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 774
     target 2518
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 774
     target 2519
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 774
     target 2520
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 776
     target 777
     weight 1
+    event "WIT"
   ]
   edge [
     source 776
     target 778
     weight 1
+    event "WIT"
   ]
   edge [
     source 776
     target 779
     weight 1
+    event "WIT"
   ]
   edge [
     source 776
     target 780
     weight 1
+    event "WIT"
   ]
   edge [
     source 777
     target 778
     weight 1
+    event "WIT"
   ]
   edge [
     source 777
     target 779
     weight 1
+    event "WIT"
   ]
   edge [
     source 777
     target 780
     weight 1
+    event "WIT"
   ]
   edge [
     source 778
     target 779
     weight 1
+    event "WIT"
   ]
   edge [
     source 778
     target 780
     weight 1
+    event "WIT"
   ]
   edge [
     source 779
     target 780
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 783
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 859
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 887
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 888
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 889
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 1106
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 1107
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 1108
     weight 1
+    event "WIT"
   ]
   edge [
     source 782
     target 1109
     weight 1
+    event "WIT"
   ]
   edge [
     source 784
     target 785
     weight 1
+    event "WIT"
   ]
   edge [
     source 784
     target 786
     weight 1
+    event "WIT"
   ]
   edge [
     source 785
     target 786
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 996
     weight 2
+    event "WIT"
   ]
   edge [
     source 786
     target 997
     weight 5
+    event "WIT"
   ]
   edge [
     source 786
     target 998
     weight 2
+    event "WIT"
   ]
   edge [
     source 786
     target 999
     weight 2
+    event "WIT"
   ]
   edge [
     source 786
     target 1056
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 1152
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 1153
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 1154
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 1190
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 1191
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 1192
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 1193
     weight 1
+    event "WIT"
   ]
   edge [
     source 786
     target 1368
     weight 1
+    event "WEI"
   ]
   edge [
     source 786
     target 2294
     weight 1
+    event "WEI"
   ]
   edge [
     source 786
     target 2236
     weight 1
+    event "WEI"
   ]
   edge [
     source 786
     target 2295
     weight 1
+    event "WEI"
   ]
   edge [
     source 786
     target 2296
     weight 1
+    event "WEI"
   ]
   edge [
     source 787
     target 788
     weight 1
+    event "WIT"
   ]
   edge [
     source 787
     target 789
     weight 1
+    event "WIT"
   ]
   edge [
     source 787
     target 790
     weight 1
+    event "WIT"
   ]
   edge [
     source 788
     target 789
     weight 1
+    event "WIT"
   ]
   edge [
     source 788
     target 790
     weight 1
+    event "WIT"
   ]
   edge [
     source 789
     target 790
     weight 1
+    event "WIT"
   ]
   edge [
     source 791
     target 792
     weight 1
+    event "WIT"
   ]
   edge [
     source 791
     target 793
     weight 1
+    event "WIT"
   ]
   edge [
     source 792
     target 793
     weight 1
+    event "WIT"
   ]
   edge [
     source 792
     target 1084
     weight 1
+    event "WIT"
   ]
   edge [
     source 792
     target 1085
     weight 4
+    event "WIT"
   ]
   edge [
     source 792
     target 1163
     weight 3
+    event "WIT"
   ]
   edge [
     source 792
     target 1164
     weight 1
+    event "WIT"
   ]
   edge [
     source 792
     target 1165
     weight 5
+    event "WIT"
   ]
   edge [
     source 792
     target 1166
     weight 2
+    event "WIT"
   ]
   edge [
     source 792
     target 1203
     weight 1
+    event "WIT"
   ]
   edge [
     source 792
     target 1275
     weight 1
+    event "WEI"
   ]
   edge [
     source 792
     target 1276
     weight 2
+    event "WEI"
   ]
   edge [
     source 792
     target 1277
     weight 2
+    event "WEI"
   ]
   edge [
     source 792
     target 1278
     weight 1
+    event "WEI"
   ]
   edge [
     source 792
     target 1279
     weight 1
+    event "WEI"
   ]
   edge [
     source 792
     target 1288
     weight 1
+    event "WEI"
   ]
   edge [
     source 792
     target 1295
     weight 1
+    event "WEI"
   ]
   edge [
     source 792
     target 1898
     weight 1
+    event "WEI"
   ]
   edge [
     source 792
     target 1899
     weight 1
+    event "WEI"
   ]
   edge [
     source 792
     target 1493
     weight 1
+    event "WEI"
   ]
   edge [
     source 793
     target 2093
     weight 1
+    event "WEI"
   ]
   edge [
     source 793
     target 2094
     weight 1
+    event "WEI"
   ]
   edge [
     source 794
     target 795
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 796
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 797
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 798
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 799
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 800
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 801
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 802
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 794
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 796
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 797
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 798
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 799
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 800
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 801
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 802
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 795
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 797
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 798
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 799
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 800
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 801
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 802
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 796
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 798
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 799
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 800
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 801
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 802
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 797
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 799
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 800
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 801
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 802
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 798
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 799
     target 800
     weight 1
+    event "WIT"
   ]
   edge [
     source 799
     target 801
     weight 1
+    event "WIT"
   ]
   edge [
     source 799
     target 802
     weight 1
+    event "WIT"
   ]
   edge [
     source 799
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 799
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 799
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 799
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 799
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 800
     target 801
     weight 1
+    event "WIT"
   ]
   edge [
     source 800
     target 802
     weight 1
+    event "WIT"
   ]
   edge [
     source 800
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 800
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 800
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 800
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 800
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 801
     target 802
     weight 1
+    event "WIT"
   ]
   edge [
     source 801
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 801
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 801
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 801
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 801
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 802
     target 803
     weight 1
+    event "WIT"
   ]
   edge [
     source 802
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 802
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 802
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 802
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 803
     target 804
     weight 1
+    event "WIT"
   ]
   edge [
     source 803
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 803
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 803
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 804
     target 805
     weight 1
+    event "WIT"
   ]
   edge [
     source 804
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 804
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 805
     target 806
     weight 1
+    event "WIT"
   ]
   edge [
     source 805
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 806
     target 807
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 809
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 810
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 811
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 812
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 813
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 814
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 815
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 816
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 808
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 810
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 811
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 812
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 813
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 814
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 815
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 816
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 809
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 811
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 812
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 813
     weight 3
+    event "WIT"
   ]
   edge [
     source 810
     target 814
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 815
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 816
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 810
     target 1636
     weight 1
+    event "WEI"
   ]
   edge [
     source 810
     target 1637
     weight 1
+    event "WEI"
   ]
   edge [
     source 810
     target 1638
     weight 1
+    event "WEI"
   ]
   edge [
     source 810
     target 1424
     weight 1
+    event "WEI"
   ]
   edge [
     source 810
     target 1895
     weight 1
+    event "WEI"
   ]
   edge [
     source 810
     target 1896
     weight 1
+    event "WEI"
   ]
   edge [
     source 810
     target 1897
     weight 1
+    event "WEI"
   ]
   edge [
     source 811
     target 812
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 813
     weight 2
+    event "WIT"
   ]
   edge [
     source 811
     target 814
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 815
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 816
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 811
     target 1424
     weight 1
+    event "WEI"
   ]
   edge [
     source 811
     target 1425
     weight 1
+    event "WEI"
   ]
   edge [
     source 812
     target 813
     weight 1
+    event "WIT"
   ]
   edge [
     source 812
     target 814
     weight 1
+    event "WIT"
   ]
   edge [
     source 812
     target 815
     weight 1
+    event "WIT"
   ]
   edge [
     source 812
     target 816
     weight 1
+    event "WIT"
   ]
   edge [
     source 812
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 812
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 812
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 812
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 812
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 814
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 815
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 816
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 813
     target 1424
     weight 2
+    event "WEI"
   ]
   edge [
     source 813
     target 1425
     weight 1
+    event "WEI"
   ]
   edge [
     source 813
     target 1636
     weight 1
+    event "WEI"
   ]
   edge [
     source 813
     target 1637
     weight 1
+    event "WEI"
   ]
   edge [
     source 813
     target 1638
     weight 1
+    event "WEI"
   ]
   edge [
     source 813
     target 1895
     weight 1
+    event "WEI"
   ]
   edge [
     source 813
     target 1896
     weight 1
+    event "WEI"
   ]
   edge [
     source 813
     target 1897
     weight 1
+    event "WEI"
   ]
   edge [
     source 814
     target 815
     weight 1
+    event "WIT"
   ]
   edge [
     source 814
     target 816
     weight 1
+    event "WIT"
   ]
   edge [
     source 814
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 814
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 814
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 814
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 814
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 815
     target 816
     weight 1
+    event "WIT"
   ]
   edge [
     source 815
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 815
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 815
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 815
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 815
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 816
     target 817
     weight 1
+    event "WIT"
   ]
   edge [
     source 816
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 816
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 816
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 816
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 817
     target 818
     weight 1
+    event "WIT"
   ]
   edge [
     source 817
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 817
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 817
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 818
     target 819
     weight 1
+    event "WIT"
   ]
   edge [
     source 818
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 818
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 819
     target 820
     weight 1
+    event "WIT"
   ]
   edge [
     source 819
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 820
     target 821
     weight 1
+    event "WIT"
   ]
   edge [
     source 822
     target 823
     weight 1
+    event "WIT"
   ]
   edge [
     source 822
     target 824
     weight 1
+    event "WIT"
   ]
   edge [
     source 823
     target 824
     weight 1
+    event "WIT"
   ]
   edge [
     source 826
     target 827
     weight 1
+    event "WIT"
   ]
   edge [
     source 826
     target 828
     weight 1
+    event "WIT"
   ]
   edge [
     source 827
     target 828
     weight 1
+    event "WIT"
   ]
   edge [
     source 827
     target 2125
     weight 2
+    event "WEI"
   ]
   edge [
     source 827
     target 2022
     weight 1
+    event "WEI"
   ]
   edge [
     source 829
     target 880
     weight 2
+    event "WIT"
   ]
   edge [
     source 829
     target 1034
     weight 1
+    event "WIT"
   ]
   edge [
     source 829
     target 1035
     weight 1
+    event "WIT"
   ]
   edge [
     source 829
     target 1036
     weight 1
+    event "WIT"
   ]
   edge [
     source 829
     target 1037
     weight 1
+    event "WIT"
   ]
   edge [
     source 830
     target 831
     weight 1
+    event "WIT"
   ]
   edge [
     source 830
     target 832
     weight 1
+    event "WIT"
   ]
   edge [
     source 830
     target 833
     weight 1
+    event "WIT"
   ]
   edge [
     source 830
     target 834
     weight 1
+    event "WIT"
   ]
   edge [
     source 830
     target 835
     weight 1
+    event "WIT"
   ]
   edge [
     source 830
     target 836
     weight 1
+    event "WIT"
   ]
   edge [
     source 831
     target 832
     weight 2
+    event "WIT"
   ]
   edge [
     source 831
     target 833
     weight 2
+    event "WIT"
   ]
   edge [
     source 831
     target 834
     weight 2
+    event "WIT"
   ]
   edge [
     source 831
     target 835
     weight 2
+    event "WIT"
   ]
   edge [
     source 831
     target 836
     weight 2
+    event "WIT"
   ]
   edge [
     source 831
     target 955
     weight 1
+    event "WIT"
   ]
   edge [
     source 831
     target 956
     weight 1
+    event "WIT"
   ]
   edge [
     source 832
     target 833
     weight 2
+    event "WIT"
   ]
   edge [
     source 832
     target 834
     weight 2
+    event "WIT"
   ]
   edge [
     source 832
     target 835
     weight 2
+    event "WIT"
   ]
   edge [
     source 832
     target 836
     weight 2
+    event "WIT"
   ]
   edge [
     source 832
     target 955
     weight 1
+    event "WIT"
   ]
   edge [
     source 832
     target 956
     weight 1
+    event "WIT"
   ]
   edge [
     source 833
     target 834
     weight 2
+    event "WIT"
   ]
   edge [
     source 833
     target 835
     weight 2
+    event "WIT"
   ]
   edge [
     source 833
     target 836
     weight 2
+    event "WIT"
   ]
   edge [
     source 833
     target 955
     weight 1
+    event "WIT"
   ]
   edge [
     source 833
     target 956
     weight 1
+    event "WIT"
   ]
   edge [
     source 834
     target 835
     weight 2
+    event "WIT"
   ]
   edge [
     source 834
     target 836
     weight 2
+    event "WIT"
   ]
   edge [
     source 834
     target 955
     weight 1
+    event "WIT"
   ]
   edge [
     source 834
     target 956
     weight 1
+    event "WIT"
   ]
   edge [
     source 835
     target 836
     weight 2
+    event "WIT"
   ]
   edge [
     source 835
     target 955
     weight 1
+    event "WIT"
   ]
   edge [
     source 835
     target 956
     weight 1
+    event "WIT"
   ]
   edge [
     source 836
     target 955
     weight 1
+    event "WIT"
   ]
   edge [
     source 836
     target 956
     weight 1
+    event "WIT"
   ]
   edge [
     source 836
     target 4299
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 836
     target 4300
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 836
     target 4128
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 836
     target 4432
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 836
     target 4503
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 837
     target 838
     weight 1
+    event "WIT"
   ]
   edge [
     source 837
     target 839
     weight 1
+    event "WIT"
   ]
   edge [
     source 837
     target 925
     weight 1
+    event "WIT"
   ]
   edge [
     source 837
     target 926
     weight 1
+    event "WIT"
   ]
   edge [
     source 838
     target 839
     weight 1
+    event "WIT"
   ]
   edge [
     source 838
     target 969
     weight 1
+    event "WIT"
   ]
   edge [
     source 838
     target 970
     weight 2
+    event "WIT"
   ]
   edge [
     source 838
     target 926
     weight 1
+    event "WIT"
   ]
   edge [
     source 838
     target 1462
     weight 1
+    event "WEI"
   ]
   edge [
     source 838
     target 1353
     weight 1
+    event "WEI"
   ]
   edge [
     source 840
     target 841
     weight 1
+    event "WIT"
   ]
   edge [
     source 840
     target 842
     weight 1
+    event "WIT"
   ]
   edge [
     source 840
     target 843
     weight 1
+    event "WIT"
   ]
   edge [
     source 840
     target 844
     weight 1
+    event "WIT"
   ]
   edge [
     source 840
     target 845
     weight 1
+    event "WIT"
   ]
   edge [
     source 840
     target 846
     weight 1
+    event "WIT"
   ]
   edge [
     source 840
     target 847
     weight 1
+    event "WIT"
   ]
   edge [
     source 840
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 840
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 841
     target 842
     weight 1
+    event "WIT"
   ]
   edge [
     source 841
     target 843
     weight 1
+    event "WIT"
   ]
   edge [
     source 841
     target 844
     weight 1
+    event "WIT"
   ]
   edge [
     source 841
     target 845
     weight 1
+    event "WIT"
   ]
   edge [
     source 841
     target 846
     weight 1
+    event "WIT"
   ]
   edge [
     source 841
     target 847
     weight 1
+    event "WIT"
   ]
   edge [
     source 841
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 841
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 842
     target 843
     weight 1
+    event "WIT"
   ]
   edge [
     source 842
     target 844
     weight 1
+    event "WIT"
   ]
   edge [
     source 842
     target 845
     weight 1
+    event "WIT"
   ]
   edge [
     source 842
     target 846
     weight 1
+    event "WIT"
   ]
   edge [
     source 842
     target 847
     weight 1
+    event "WIT"
   ]
   edge [
     source 842
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 842
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 843
     target 844
     weight 1
+    event "WIT"
   ]
   edge [
     source 843
     target 845
     weight 1
+    event "WIT"
   ]
   edge [
     source 843
     target 846
     weight 1
+    event "WIT"
   ]
   edge [
     source 843
     target 847
     weight 1
+    event "WIT"
   ]
   edge [
     source 843
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 843
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 844
     target 845
     weight 1
+    event "WIT"
   ]
   edge [
     source 844
     target 846
     weight 1
+    event "WIT"
   ]
   edge [
     source 844
     target 847
     weight 1
+    event "WIT"
   ]
   edge [
     source 844
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 844
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 845
     target 846
     weight 1
+    event "WIT"
   ]
   edge [
     source 845
     target 847
     weight 1
+    event "WIT"
   ]
   edge [
     source 845
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 845
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 846
     target 847
     weight 1
+    event "WIT"
   ]
   edge [
     source 846
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 846
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 847
     target 848
     weight 1
+    event "WIT"
   ]
   edge [
     source 847
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 848
     target 849
     weight 1
+    event "WIT"
   ]
   edge [
     source 850
     target 851
     weight 1
+    event "WIT"
   ]
   edge [
     source 850
     target 852
     weight 1
+    event "WIT"
   ]
   edge [
     source 850
     target 853
     weight 1
+    event "WIT"
   ]
   edge [
     source 850
     target 854
     weight 1
+    event "WIT"
   ]
   edge [
     source 851
     target 852
     weight 2
+    event "WIT"
   ]
   edge [
     source 851
     target 853
     weight 1
+    event "WIT"
   ]
   edge [
     source 851
     target 854
     weight 2
+    event "WIT"
   ]
   edge [
     source 851
     target 873
     weight 1
+    event "WIT"
   ]
   edge [
     source 851
     target 874
     weight 1
+    event "WIT"
   ]
   edge [
     source 851
     target 875
     weight 1
+    event "WIT"
   ]
   edge [
     source 851
     target 876
     weight 1
+    event "WIT"
   ]
   edge [
     source 851
     target 877
     weight 1
+    event "WIT"
   ]
   edge [
     source 852
     target 853
     weight 1
+    event "WIT"
   ]
   edge [
     source 852
     target 854
     weight 2
+    event "WIT"
   ]
   edge [
     source 852
     target 873
     weight 1
+    event "WIT"
   ]
   edge [
     source 852
     target 874
     weight 1
+    event "WIT"
   ]
   edge [
     source 852
     target 875
     weight 1
+    event "WIT"
   ]
   edge [
     source 852
     target 876
     weight 1
+    event "WIT"
   ]
   edge [
     source 852
     target 877
     weight 1
+    event "WIT"
   ]
   edge [
     source 853
     target 854
     weight 1
+    event "WIT"
   ]
   edge [
     source 854
     target 873
     weight 1
+    event "WIT"
   ]
   edge [
     source 854
     target 874
     weight 1
+    event "WIT"
   ]
   edge [
     source 854
     target 875
     weight 1
+    event "WIT"
   ]
   edge [
     source 854
     target 876
     weight 1
+    event "WIT"
   ]
   edge [
     source 854
     target 877
     weight 1
+    event "WIT"
   ]
   edge [
     source 854
     target 3618
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3619
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3620
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3621
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3622
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3623
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3624
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3766
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3807
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3808
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3833
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3834
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3880
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3870
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 854
     target 3919
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 855
     target 856
     weight 1
+    event "WIT"
   ]
   edge [
     source 855
     target 857
     weight 1
+    event "WIT"
   ]
   edge [
     source 856
     target 857
     weight 1
+    event "WIT"
   ]
   edge [
     source 858
     target 859
     weight 1
+    event "WIT"
   ]
   edge [
     source 858
     target 990
     weight 1
+    event "WIT"
   ]
   edge [
     source 858
     target 993
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 887
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 888
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 889
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 1052
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 992
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 1053
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 1054
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 1055
     weight 1
+    event "WIT"
   ]
   edge [
     source 859
     target 1999
     weight 1
+    event "WEI"
   ]
   edge [
     source 859
     target 2000
     weight 1
+    event "WEI"
   ]
   edge [
     source 860
     target 861
     weight 1
+    event "WIT"
   ]
   edge [
     source 860
     target 862
     weight 1
+    event "WIT"
   ]
   edge [
     source 860
     target 863
     weight 1
+    event "WIT"
   ]
   edge [
     source 860
     target 864
     weight 1
+    event "WIT"
   ]
   edge [
     source 860
     target 865
     weight 1
+    event "WIT"
   ]
   edge [
     source 860
     target 963
     weight 1
+    event "WIT"
   ]
   edge [
     source 860
     target 964
     weight 1
+    event "WIT"
   ]
   edge [
     source 861
     target 862
     weight 1
+    event "WIT"
   ]
   edge [
     source 861
     target 863
     weight 1
+    event "WIT"
   ]
   edge [
     source 861
     target 864
     weight 1
+    event "WIT"
   ]
   edge [
     source 861
     target 865
     weight 1
+    event "WIT"
   ]
   edge [
     source 862
     target 863
     weight 1
+    event "WIT"
   ]
   edge [
     source 862
     target 864
     weight 1
+    event "WIT"
   ]
   edge [
     source 862
     target 865
     weight 1
+    event "WIT"
   ]
   edge [
     source 863
     target 864
     weight 1
+    event "WIT"
   ]
   edge [
     source 863
     target 865
     weight 1
+    event "WIT"
   ]
   edge [
     source 864
     target 865
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 867
     weight 5
+    event "WIT"
   ]
   edge [
     source 866
     target 868
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 869
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 870
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 871
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 872
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 1062
     weight 2
+    event "WIT"
   ]
   edge [
     source 866
     target 1063
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 1064
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 1065
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 1066
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 1067
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 1073
     weight 2
+    event "WIT"
   ]
   edge [
     source 866
     target 1074
     weight 1
+    event "WIT"
   ]
   edge [
     source 866
     target 1766
     weight 1
+    event "WEI"
   ]
   edge [
     source 866
     target 2132
     weight 1
+    event "WEI"
   ]
   edge [
     source 867
     target 868
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 869
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 870
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 871
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 872
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 1062
     weight 2
+    event "WIT"
   ]
   edge [
     source 867
     target 1063
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 1064
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 1065
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 1066
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 1067
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 1073
     weight 2
+    event "WIT"
   ]
   edge [
     source 867
     target 1074
     weight 1
+    event "WIT"
   ]
   edge [
     source 867
     target 1766
     weight 1
+    event "WEI"
   ]
   edge [
     source 867
     target 1814
     weight 1
+    event "WEI"
   ]
   edge [
     source 867
     target 1815
     weight 1
+    event "WEI"
   ]
   edge [
     source 867
     target 2132
     weight 1
+    event "WEI"
   ]
   edge [
     source 868
     target 869
     weight 1
+    event "WIT"
   ]
   edge [
     source 868
     target 870
     weight 1
+    event "WIT"
   ]
   edge [
     source 868
     target 871
     weight 1
+    event "WIT"
   ]
   edge [
     source 868
     target 872
     weight 1
+    event "WIT"
   ]
   edge [
     source 869
     target 870
     weight 1
+    event "WIT"
   ]
   edge [
     source 869
     target 871
     weight 1
+    event "WIT"
   ]
   edge [
     source 869
     target 872
     weight 1
+    event "WIT"
   ]
   edge [
     source 870
     target 871
     weight 1
+    event "WIT"
   ]
   edge [
     source 870
     target 872
     weight 1
+    event "WIT"
   ]
   edge [
     source 871
     target 872
     weight 1
+    event "WIT"
   ]
   edge [
     source 873
     target 874
     weight 1
+    event "WIT"
   ]
   edge [
     source 873
     target 875
     weight 1
+    event "WIT"
   ]
   edge [
     source 873
     target 876
     weight 1
+    event "WIT"
   ]
   edge [
     source 873
     target 877
     weight 1
+    event "WIT"
   ]
   edge [
     source 874
     target 875
     weight 1
+    event "WIT"
   ]
   edge [
     source 874
     target 876
     weight 1
+    event "WIT"
   ]
   edge [
     source 874
     target 877
     weight 1
+    event "WIT"
   ]
   edge [
     source 875
     target 876
     weight 1
+    event "WIT"
   ]
   edge [
     source 875
     target 877
     weight 1
+    event "WIT"
   ]
   edge [
     source 876
     target 877
     weight 1
+    event "WIT"
   ]
   edge [
     source 879
     target 880
     weight 1
+    event "WIT"
   ]
   edge [
     source 880
     target 1025
     weight 2
+    event "WIT"
   ]
   edge [
     source 880
     target 1091
     weight 1
+    event "WIT"
   ]
   edge [
     source 880
     target 1147
     weight 1
+    event "WIT"
   ]
   edge [
     source 880
     target 1148
     weight 1
+    event "WIT"
   ]
   edge [
     source 880
     target 1149
     weight 1
+    event "WIT"
   ]
   edge [
     source 880
     target 1169
     weight 1
+    event "WIT"
   ]
   edge [
     source 880
     target 1234
     weight 2
+    event "WIT"
   ]
   edge [
     source 880
     target 2119
     weight 1
+    event "WEI"
   ]
   edge [
     source 880
     target 2120
     weight 1
+    event "WEI"
   ]
   edge [
     source 880
     target 2121
     weight 1
+    event "WEI"
   ]
   edge [
     source 881
     target 882
     weight 1
+    event "WIT"
   ]
   edge [
     source 883
     target 1199
     weight 2
+    event "WIT"
   ]
   edge [
     source 883
     target 1200
     weight 1
+    event "WIT"
   ]
   edge [
     source 883
     target 1201
     weight 2
+    event "WIT"
   ]
   edge [
     source 883
     target 1223
     weight 1
+    event "WIT"
   ]
   edge [
     source 883
     target 1224
     weight 1
+    event "WIT"
   ]
   edge [
     source 883
     target 1225
     weight 1
+    event "WIT"
   ]
   edge [
     source 883
     target 1226
     weight 1
+    event "WIT"
   ]
   edge [
     source 883
     target 1231
     weight 1
+    event "WIT"
   ]
   edge [
     source 883
     target 1232
     weight 1
+    event "WIT"
   ]
   edge [
     source 883
     target 1233
     weight 1
+    event "WIT"
   ]
   edge [
     source 884
     target 885
     weight 1
+    event "WIT"
   ]
   edge [
     source 884
     target 886
     weight 1
+    event "WIT"
   ]
   edge [
     source 885
     target 886
     weight 1
+    event "WIT"
   ]
   edge [
     source 887
     target 888
     weight 1
+    event "WIT"
   ]
   edge [
     source 887
     target 889
     weight 1
+    event "WIT"
   ]
   edge [
     source 888
     target 889
     weight 1
+    event "WIT"
   ]
   edge [
     source 888
     target 990
     weight 1
+    event "WIT"
   ]
   edge [
     source 888
     target 991
     weight 1
+    event "WIT"
   ]
   edge [
     source 888
     target 992
     weight 1
+    event "WIT"
   ]
   edge [
     source 888
     target 993
     weight 1
+    event "WIT"
   ]
   edge [
     source 890
     target 891
     weight 1
+    event "WIT"
   ]
   edge [
     source 890
     target 892
     weight 1
+    event "WIT"
   ]
   edge [
     source 890
     target 893
     weight 1
+    event "WIT"
   ]
   edge [
     source 891
     target 892
     weight 1
+    event "WIT"
   ]
   edge [
     source 891
     target 893
     weight 1
+    event "WIT"
   ]
   edge [
     source 892
     target 893
     weight 1
+    event "WIT"
   ]
   edge [
     source 893
     target 1028
     weight 1
+    event "WIT"
   ]
   edge [
     source 894
     target 895
     weight 1
+    event "WIT"
   ]
   edge [
     source 894
     target 896
     weight 1
+    event "WIT"
   ]
   edge [
     source 894
     target 897
     weight 1
+    event "WIT"
   ]
   edge [
     source 895
     target 896
     weight 1
+    event "WIT"
   ]
   edge [
     source 895
     target 897
     weight 1
+    event "WIT"
   ]
   edge [
     source 896
     target 897
     weight 1
+    event "WIT"
   ]
   edge [
     source 898
     target 899
     weight 1
+    event "WIT"
   ]
   edge [
     source 900
     target 901
     weight 1
+    event "WIT"
   ]
   edge [
     source 900
     target 902
     weight 1
+    event "WIT"
   ]
   edge [
     source 900
     target 903
     weight 1
+    event "WIT"
   ]
   edge [
     source 900
     target 904
     weight 1
+    event "WIT"
   ]
   edge [
     source 900
     target 905
     weight 1
+    event "WIT"
   ]
   edge [
     source 901
     target 902
     weight 1
+    event "WIT"
   ]
   edge [
     source 901
     target 903
     weight 1
+    event "WIT"
   ]
   edge [
     source 901
     target 904
     weight 1
+    event "WIT"
   ]
   edge [
     source 901
     target 905
     weight 1
+    event "WIT"
   ]
   edge [
     source 902
     target 903
     weight 1
+    event "WIT"
   ]
   edge [
     source 902
     target 904
     weight 1
+    event "WIT"
   ]
   edge [
     source 902
     target 905
     weight 1
+    event "WIT"
   ]
   edge [
     source 903
     target 904
     weight 1
+    event "WIT"
   ]
   edge [
     source 903
     target 905
     weight 2
+    event "WIT"
   ]
   edge [
     source 903
     target 1297
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 904
     target 905
     weight 1
+    event "WIT"
   ]
   edge [
     source 905
     target 1297
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 906
     target 907
     weight 1
+    event "WIT"
   ]
   edge [
     source 908
     target 909
     weight 1
+    event "WIT"
   ]
   edge [
     source 908
     target 910
     weight 1
+    event "WIT"
   ]
   edge [
     source 909
     target 910
     weight 1
+    event "WIT"
   ]
   edge [
     source 909
     target 2534
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 909
     target 2535
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 911
     target 912
     weight 1
+    event "WIT"
   ]
   edge [
     source 911
     target 913
     weight 1
+    event "WIT"
   ]
   edge [
     source 911
     target 914
     weight 1
+    event "WIT"
   ]
   edge [
     source 911
     target 915
     weight 1
+    event "WIT"
   ]
   edge [
     source 911
     target 916
     weight 1
+    event "WIT"
   ]
   edge [
     source 911
     target 917
     weight 1
+    event "WIT"
   ]
   edge [
     source 912
     target 913
     weight 1
+    event "WIT"
   ]
   edge [
     source 912
     target 914
     weight 1
+    event "WIT"
   ]
   edge [
     source 912
     target 915
     weight 1
+    event "WIT"
   ]
   edge [
     source 912
     target 916
     weight 1
+    event "WIT"
   ]
   edge [
     source 912
     target 917
     weight 1
+    event "WIT"
   ]
   edge [
     source 913
     target 914
     weight 1
+    event "WIT"
   ]
   edge [
     source 913
     target 915
     weight 1
+    event "WIT"
   ]
   edge [
     source 913
     target 916
     weight 1
+    event "WIT"
   ]
   edge [
     source 913
     target 917
     weight 1
+    event "WIT"
   ]
   edge [
     source 914
     target 915
     weight 1
+    event "WIT"
   ]
   edge [
     source 914
     target 916
     weight 1
+    event "WIT"
   ]
   edge [
     source 914
     target 917
     weight 1
+    event "WIT"
   ]
   edge [
     source 915
     target 916
     weight 1
+    event "WIT"
   ]
   edge [
     source 915
     target 917
     weight 1
+    event "WIT"
   ]
   edge [
     source 916
     target 917
     weight 1
+    event "WIT"
   ]
   edge [
     source 917
     target 1172
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2198
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2199
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2200
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2201
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2202
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2203
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2204
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 917
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 918
     target 919
     weight 1
+    event "WIT"
   ]
   edge [
     source 918
     target 920
     weight 1
+    event "WIT"
   ]
   edge [
     source 918
     target 921
     weight 1
+    event "WIT"
   ]
   edge [
     source 918
     target 922
     weight 1
+    event "WIT"
   ]
   edge [
     source 918
     target 923
     weight 1
+    event "WIT"
   ]
   edge [
     source 918
     target 924
     weight 1
+    event "WIT"
   ]
   edge [
     source 919
     target 920
     weight 1
+    event "WIT"
   ]
   edge [
     source 919
     target 921
     weight 1
+    event "WIT"
   ]
   edge [
     source 919
     target 922
     weight 1
+    event "WIT"
   ]
   edge [
     source 919
     target 923
     weight 1
+    event "WIT"
   ]
   edge [
     source 919
     target 924
     weight 1
+    event "WIT"
   ]
   edge [
     source 920
     target 921
     weight 1
+    event "WIT"
   ]
   edge [
     source 920
     target 922
     weight 1
+    event "WIT"
   ]
   edge [
     source 920
     target 923
     weight 1
+    event "WIT"
   ]
   edge [
     source 920
     target 924
     weight 1
+    event "WIT"
   ]
   edge [
     source 921
     target 922
     weight 1
+    event "WIT"
   ]
   edge [
     source 921
     target 923
     weight 1
+    event "WIT"
   ]
   edge [
     source 921
     target 924
     weight 1
+    event "WIT"
   ]
   edge [
     source 922
     target 923
     weight 1
+    event "WIT"
   ]
   edge [
     source 922
     target 924
     weight 1
+    event "WIT"
   ]
   edge [
     source 923
     target 924
     weight 1
+    event "WIT"
   ]
   edge [
     source 925
     target 926
     weight 1
+    event "WIT"
   ]
   edge [
     source 926
     target 969
     weight 1
+    event "WIT"
   ]
   edge [
     source 926
     target 970
     weight 1
+    event "WIT"
   ]
   edge [
     source 927
     target 928
     weight 1
+    event "WIT"
   ]
   edge [
     source 927
     target 929
     weight 1
+    event "WIT"
   ]
   edge [
     source 927
     target 930
     weight 1
+    event "WIT"
   ]
   edge [
     source 927
     target 931
     weight 1
+    event "WIT"
   ]
   edge [
     source 927
     target 932
     weight 1
+    event "WIT"
   ]
   edge [
     source 927
     target 933
     weight 1
+    event "WIT"
   ]
   edge [
     source 928
     target 929
     weight 1
+    event "WIT"
   ]
   edge [
     source 928
     target 930
     weight 1
+    event "WIT"
   ]
   edge [
     source 928
     target 931
     weight 1
+    event "WIT"
   ]
   edge [
     source 928
     target 932
     weight 1
+    event "WIT"
   ]
   edge [
     source 928
     target 933
     weight 1
+    event "WIT"
   ]
   edge [
     source 929
     target 930
     weight 1
+    event "WIT"
   ]
   edge [
     source 929
     target 931
     weight 1
+    event "WIT"
   ]
   edge [
     source 929
     target 932
     weight 1
+    event "WIT"
   ]
   edge [
     source 929
     target 933
     weight 1
+    event "WIT"
   ]
   edge [
     source 930
     target 931
     weight 1
+    event "WIT"
   ]
   edge [
     source 930
     target 932
     weight 1
+    event "WIT"
   ]
   edge [
     source 930
     target 933
     weight 1
+    event "WIT"
   ]
   edge [
     source 931
     target 932
     weight 1
+    event "WIT"
   ]
   edge [
     source 931
     target 933
     weight 1
+    event "WIT"
   ]
   edge [
     source 932
     target 933
     weight 1
+    event "WIT"
   ]
   edge [
     source 935
     target 936
     weight 1
+    event "WIT"
   ]
   edge [
     source 935
     target 3011
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 937
     target 938
     weight 1
+    event "WIT"
   ]
   edge [
     source 937
     target 939
     weight 1
+    event "WIT"
   ]
   edge [
     source 937
     target 940
     weight 1
+    event "WIT"
   ]
   edge [
     source 938
     target 939
     weight 1
+    event "WIT"
   ]
   edge [
     source 938
     target 940
     weight 1
+    event "WIT"
   ]
   edge [
     source 939
     target 940
     weight 1
+    event "WIT"
   ]
   edge [
     source 941
     target 943
     weight 1
+    event "WIT"
   ]
   edge [
     source 941
     target 944
     weight 1
+    event "WIT"
   ]
   edge [
     source 941
     target 987
     weight 1
+    event "WIT"
   ]
   edge [
     source 943
     target 944
     weight 3
+    event "WIT"
   ]
   edge [
     source 943
     target 987
     weight 1
+    event "WIT"
   ]
   edge [
     source 944
     target 987
     weight 1
+    event "WIT"
   ]
   edge [
     source 945
     target 946
     weight 1
+    event "WIT"
   ]
   edge [
     source 947
     target 948
     weight 1
+    event "WIT"
   ]
   edge [
     source 947
     target 949
     weight 1
+    event "WIT"
   ]
   edge [
     source 947
     target 950
     weight 1
+    event "WIT"
   ]
   edge [
     source 947
     target 951
     weight 1
+    event "WIT"
   ]
   edge [
     source 947
     target 952
     weight 1
+    event "WIT"
   ]
   edge [
     source 948
     target 949
     weight 1
+    event "WIT"
   ]
   edge [
     source 948
     target 950
     weight 1
+    event "WIT"
   ]
   edge [
     source 948
     target 951
     weight 1
+    event "WIT"
   ]
   edge [
     source 948
     target 952
     weight 1
+    event "WIT"
   ]
   edge [
     source 949
     target 950
     weight 1
+    event "WIT"
   ]
   edge [
     source 949
     target 951
     weight 1
+    event "WIT"
   ]
   edge [
     source 949
     target 952
     weight 1
+    event "WIT"
   ]
   edge [
     source 950
     target 951
     weight 1
+    event "WIT"
   ]
   edge [
     source 950
     target 952
     weight 1
+    event "WIT"
   ]
   edge [
     source 951
     target 952
     weight 1
+    event "WIT"
   ]
   edge [
     source 953
     target 954
     weight 1
+    event "WIT"
   ]
   edge [
     source 955
     target 956
     weight 1
+    event "WIT"
   ]
   edge [
     source 958
     target 959
     weight 1
+    event "WIT"
   ]
   edge [
     source 958
     target 960
     weight 1
+    event "WIT"
   ]
   edge [
     source 958
     target 961
     weight 1
+    event "WIT"
   ]
   edge [
     source 958
     target 962
     weight 1
+    event "WIT"
   ]
   edge [
     source 959
     target 960
     weight 1
+    event "WIT"
   ]
   edge [
     source 959
     target 961
     weight 1
+    event "WIT"
   ]
   edge [
     source 959
     target 962
     weight 1
+    event "WIT"
   ]
   edge [
     source 960
     target 961
     weight 1
+    event "WIT"
   ]
   edge [
     source 960
     target 962
     weight 1
+    event "WIT"
   ]
   edge [
     source 961
     target 962
     weight 1
+    event "WIT"
   ]
   edge [
     source 963
     target 964
     weight 1
+    event "WIT"
   ]
   edge [
     source 966
     target 967
     weight 1
+    event "WIT"
   ]
   edge [
     source 966
     target 968
     weight 1
+    event "WIT"
   ]
   edge [
     source 967
     target 968
     weight 1
+    event "WIT"
   ]
   edge [
     source 968
     target 1754
     weight 1
+    event "WEI"
   ]
   edge [
     source 968
     target 1755
     weight 1
+    event "WEI"
   ]
   edge [
     source 968
     target 1764
     weight 1
+    event "WEI"
   ]
   edge [
     source 968
     target 1765
     weight 1
+    event "WEI"
   ]
   edge [
     source 969
     target 970
     weight 1
+    event "WIT"
   ]
   edge [
     source 970
     target 1462
     weight 1
+    event "WEI"
   ]
   edge [
     source 970
     target 1353
     weight 1
+    event "WEI"
   ]
   edge [
     source 971
     target 972
     weight 1
+    event "WIT"
   ]
   edge [
     source 971
     target 973
     weight 1
+    event "WIT"
   ]
   edge [
     source 971
     target 974
     weight 1
+    event "WIT"
   ]
   edge [
     source 971
     target 975
     weight 1
+    event "WIT"
   ]
   edge [
     source 972
     target 973
     weight 1
+    event "WIT"
   ]
   edge [
     source 972
     target 974
     weight 1
+    event "WIT"
   ]
   edge [
     source 972
     target 975
     weight 1
+    event "WIT"
   ]
   edge [
     source 972
     target 1002
     weight 1
+    event "WIT"
   ]
   edge [
     source 972
     target 1003
     weight 1
+    event "WIT"
   ]
   edge [
     source 973
     target 974
     weight 1
+    event "WIT"
   ]
   edge [
     source 973
     target 975
     weight 1
+    event "WIT"
   ]
   edge [
     source 974
     target 975
     weight 1
+    event "WIT"
   ]
   edge [
     source 976
     target 977
     weight 1
+    event "WIT"
   ]
   edge [
     source 976
     target 978
     weight 1
+    event "WIT"
   ]
   edge [
     source 976
     target 979
     weight 1
+    event "WIT"
   ]
   edge [
     source 976
     target 980
     weight 1
+    event "WIT"
   ]
   edge [
     source 976
     target 981
     weight 1
+    event "WIT"
   ]
   edge [
     source 976
     target 982
     weight 1
+    event "WIT"
   ]
   edge [
     source 976
     target 983
     weight 1
+    event "WIT"
   ]
   edge [
     source 977
     target 978
     weight 1
+    event "WIT"
   ]
   edge [
     source 977
     target 979
     weight 1
+    event "WIT"
   ]
   edge [
     source 977
     target 980
     weight 1
+    event "WIT"
   ]
   edge [
     source 977
     target 981
     weight 1
+    event "WIT"
   ]
   edge [
     source 977
     target 982
     weight 1
+    event "WIT"
   ]
   edge [
     source 977
     target 983
     weight 1
+    event "WIT"
   ]
   edge [
     source 978
     target 979
     weight 1
+    event "WIT"
   ]
   edge [
     source 978
     target 980
     weight 1
+    event "WIT"
   ]
   edge [
     source 978
     target 981
     weight 1
+    event "WIT"
   ]
   edge [
     source 978
     target 982
     weight 1
+    event "WIT"
   ]
   edge [
     source 978
     target 983
     weight 1
+    event "WIT"
   ]
   edge [
     source 979
     target 980
     weight 1
+    event "WIT"
   ]
   edge [
     source 979
     target 981
     weight 1
+    event "WIT"
   ]
   edge [
     source 979
     target 982
     weight 1
+    event "WIT"
   ]
   edge [
     source 979
     target 983
     weight 1
+    event "WIT"
   ]
   edge [
     source 980
     target 981
     weight 1
+    event "WIT"
   ]
   edge [
     source 980
     target 982
     weight 1
+    event "WIT"
   ]
   edge [
     source 980
     target 983
     weight 1
+    event "WIT"
   ]
   edge [
     source 981
     target 982
     weight 1
+    event "WIT"
   ]
   edge [
     source 981
     target 983
     weight 1
+    event "WIT"
   ]
   edge [
     source 982
     target 983
     weight 1
+    event "WIT"
   ]
   edge [
     source 982
     target 1831
     weight 1
+    event "WEI"
   ]
   edge [
     source 982
     target 1832
     weight 1
+    event "WEI"
   ]
   edge [
     source 984
     target 985
     weight 1
+    event "WIT"
   ]
   edge [
     source 984
     target 986
     weight 1
+    event "WIT"
   ]
   edge [
     source 985
     target 986
     weight 1
+    event "WIT"
   ]
   edge [
     source 988
     target 989
     weight 1
+    event "WIT"
   ]
   edge [
     source 990
     target 991
     weight 1
+    event "WIT"
   ]
   edge [
     source 990
     target 992
     weight 1
+    event "WIT"
   ]
   edge [
     source 990
     target 993
     weight 2
+    event "WIT"
   ]
   edge [
     source 991
     target 992
     weight 1
+    event "WIT"
   ]
   edge [
     source 991
     target 993
     weight 1
+    event "WIT"
   ]
   edge [
     source 992
     target 993
     weight 1
+    event "WIT"
   ]
   edge [
     source 992
     target 1052
     weight 1
+    event "WIT"
   ]
   edge [
     source 992
     target 1053
     weight 1
+    event "WIT"
   ]
   edge [
     source 992
     target 1054
     weight 1
+    event "WIT"
   ]
   edge [
     source 992
     target 1055
     weight 1
+    event "WIT"
   ]
   edge [
     source 994
     target 995
     weight 1
+    event "WIT"
   ]
   edge [
     source 995
     target 1139
     weight 1
+    event "WIT"
   ]
   edge [
     source 995
     target 1140
     weight 1
+    event "WIT"
   ]
   edge [
     source 996
     target 997
     weight 2
+    event "WIT"
   ]
   edge [
     source 996
     target 998
     weight 1
+    event "WIT"
   ]
   edge [
     source 996
     target 999
     weight 1
+    event "WIT"
   ]
   edge [
     source 996
     target 1152
     weight 1
+    event "WIT"
   ]
   edge [
     source 996
     target 1153
     weight 1
+    event "WIT"
   ]
   edge [
     source 996
     target 1154
     weight 1
+    event "WIT"
   ]
   edge [
     source 997
     target 998
     weight 2
+    event "WIT"
   ]
   edge [
     source 997
     target 999
     weight 2
+    event "WIT"
   ]
   edge [
     source 997
     target 1056
     weight 1
+    event "WIT"
   ]
   edge [
     source 997
     target 1152
     weight 1
+    event "WIT"
   ]
   edge [
     source 997
     target 1153
     weight 1
+    event "WIT"
   ]
   edge [
     source 997
     target 1154
     weight 1
+    event "WIT"
   ]
   edge [
     source 997
     target 1190
     weight 1
+    event "WIT"
   ]
   edge [
     source 997
     target 1191
     weight 1
+    event "WIT"
   ]
   edge [
     source 997
     target 1192
     weight 1
+    event "WIT"
   ]
   edge [
     source 997
     target 1193
     weight 1
+    event "WIT"
   ]
   edge [
     source 998
     target 999
     weight 2
+    event "WIT"
   ]
   edge [
     source 998
     target 1056
     weight 1
+    event "WIT"
   ]
   edge [
     source 999
     target 1056
     weight 1
+    event "WIT"
   ]
   edge [
     source 999
     target 1625
     weight 1
+    event "WEI"
   ]
   edge [
     source 999
     target 1626
     weight 1
+    event "WEI"
   ]
   edge [
     source 999
     target 1627
     weight 1
+    event "WEI"
   ]
   edge [
     source 999
     target 1628
     weight 1
+    event "WEI"
   ]
   edge [
     source 999
     target 1629
     weight 1
+    event "WEI"
   ]
   edge [
     source 999
     target 1368
     weight 1
+    event "WEI"
   ]
   edge [
     source 1000
     target 1001
     weight 1
+    event "WIT"
   ]
   edge [
     source 1002
     target 1003
     weight 1
+    event "WIT"
   ]
   edge [
     source 1003
     target 2835
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1003
     target 2836
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1003
     target 2916
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1003
     target 2917
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1003
     target 2918
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1003
     target 2919
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1003
     target 2920
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1003
     target 2921
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1003
     target 2922
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1004
     target 1005
     weight 1
+    event "WIT"
   ]
   edge [
     source 1004
     target 1006
     weight 1
+    event "WIT"
   ]
   edge [
     source 1004
     target 1007
     weight 1
+    event "WIT"
   ]
   edge [
     source 1005
     target 1006
     weight 1
+    event "WIT"
   ]
   edge [
     source 1005
     target 1007
     weight 1
+    event "WIT"
   ]
   edge [
     source 1006
     target 1007
     weight 1
+    event "WIT"
   ]
   edge [
     source 1007
     target 1680
     weight 1
+    event "WEI"
   ]
   edge [
     source 1007
     target 1368
     weight 1
+    event "WEI"
   ]
   edge [
     source 1010
     target 1011
     weight 1
+    event "WIT"
   ]
   edge [
     source 1012
     target 1013
     weight 1
+    event "WIT"
   ]
   edge [
     source 1014
     target 1015
     weight 1
+    event "WIT"
   ]
   edge [
     source 1014
     target 1016
     weight 1
+    event "WIT"
   ]
   edge [
     source 1015
     target 1016
     weight 1
+    event "WIT"
   ]
   edge [
     source 1015
     target 4027
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1017
     target 1018
     weight 1
+    event "WIT"
   ]
   edge [
     source 1017
     target 1019
     weight 1
+    event "WIT"
   ]
   edge [
     source 1018
     target 1019
     weight 1
+    event "WIT"
   ]
   edge [
     source 1020
     target 1021
     weight 1
+    event "WIT"
   ]
   edge [
     source 1020
     target 1022
     weight 1
+    event "WIT"
   ]
   edge [
     source 1020
     target 1023
     weight 1
+    event "WIT"
   ]
   edge [
     source 1020
     target 1024
     weight 1
+    event "WIT"
   ]
   edge [
     source 1021
     target 1022
     weight 1
+    event "WIT"
   ]
   edge [
     source 1021
     target 1023
     weight 1
+    event "WIT"
   ]
   edge [
     source 1021
     target 1024
     weight 1
+    event "WIT"
   ]
   edge [
     source 1022
     target 1023
     weight 1
+    event "WIT"
   ]
   edge [
     source 1022
     target 1024
     weight 1
+    event "WIT"
   ]
   edge [
     source 1023
     target 1024
     weight 1
+    event "WIT"
   ]
   edge [
     source 1024
     target 1250
     weight 1
+    event "WEI"
   ]
   edge [
     source 1024
     target 2806
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1024
     target 3003
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1024
     target 3004
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1026
     target 1027
     weight 1
+    event "WIT"
   ]
   edge [
     source 1029
     target 1030
     weight 1
+    event "WIT"
   ]
   edge [
     source 1029
     target 1031
     weight 1
+    event "WIT"
   ]
   edge [
     source 1030
     target 1031
     weight 1
+    event "WIT"
   ]
   edge [
     source 1030
     target 2181
     weight 1
+    event "WEI"
   ]
   edge [
     source 1030
     target 2182
     weight 1
+    event "WEI"
   ]
   edge [
     source 1030
     target 2183
     weight 1
+    event "WEI"
   ]
   edge [
     source 1030
     target 2184
     weight 1
+    event "WEI"
   ]
   edge [
     source 1032
     target 1033
     weight 1
+    event "WIT"
   ]
   edge [
     source 1034
     target 1035
     weight 1
+    event "WIT"
   ]
   edge [
     source 1034
     target 1036
     weight 1
+    event "WIT"
   ]
   edge [
     source 1034
     target 1037
     weight 1
+    event "WIT"
   ]
   edge [
     source 1034
     target 1042
     weight 1
+    event "WIT"
   ]
   edge [
     source 1034
     target 1574
     weight 1
+    event "WEI"
   ]
   edge [
     source 1035
     target 1036
     weight 1
+    event "WIT"
   ]
   edge [
     source 1035
     target 1037
     weight 1
+    event "WIT"
   ]
   edge [
     source 1036
     target 1037
     weight 1
+    event "WIT"
   ]
   edge [
     source 1037
     target 1095
     weight 1
+    event "WIT"
   ]
   edge [
     source 1037
     target 1096
     weight 1
+    event "WIT"
   ]
   edge [
     source 1037
     target 1097
     weight 1
+    event "WIT"
   ]
   edge [
     source 1038
     target 1039
     weight 1
+    event "WIT"
   ]
   edge [
     source 1038
     target 1040
     weight 1
+    event "WIT"
   ]
   edge [
     source 1038
     target 1041
     weight 1
+    event "WIT"
   ]
   edge [
     source 1039
     target 1040
     weight 1
+    event "WIT"
   ]
   edge [
     source 1039
     target 1041
     weight 1
+    event "WIT"
   ]
   edge [
     source 1040
     target 1041
     weight 1
+    event "WIT"
   ]
   edge [
     source 1043
     target 1044
     weight 1
+    event "WIT"
   ]
   edge [
     source 1043
     target 1045
     weight 1
+    event "WIT"
   ]
   edge [
     source 1044
     target 1045
     weight 1
+    event "WIT"
   ]
   edge [
     source 1046
     target 1047
     weight 1
+    event "WIT"
   ]
   edge [
     source 1046
     target 1048
     weight 1
+    event "WIT"
   ]
   edge [
     source 1046
     target 1049
     weight 1
+    event "WIT"
   ]
   edge [
     source 1047
     target 1048
     weight 1
+    event "WIT"
   ]
   edge [
     source 1047
     target 1049
     weight 1
+    event "WIT"
   ]
   edge [
     source 1048
     target 1049
     weight 1
+    event "WIT"
   ]
   edge [
     source 1052
     target 1053
     weight 1
+    event "WIT"
   ]
   edge [
     source 1052
     target 1054
     weight 1
+    event "WIT"
   ]
   edge [
     source 1052
     target 1055
     weight 1
+    event "WIT"
   ]
   edge [
     source 1053
     target 1054
     weight 1
+    event "WIT"
   ]
   edge [
     source 1053
     target 1055
     weight 1
+    event "WIT"
   ]
   edge [
     source 1054
     target 1055
     weight 1
+    event "WIT"
   ]
   edge [
     source 1057
     target 1058
     weight 1
+    event "WIT"
   ]
   edge [
     source 1057
     target 1059
     weight 1
+    event "WIT"
   ]
   edge [
     source 1057
     target 1060
     weight 1
+    event "WIT"
   ]
   edge [
     source 1057
     target 1061
     weight 1
+    event "WIT"
   ]
   edge [
     source 1058
     target 1059
     weight 1
+    event "WIT"
   ]
   edge [
     source 1058
     target 1060
     weight 1
+    event "WIT"
   ]
   edge [
     source 1058
     target 1061
     weight 1
+    event "WIT"
   ]
   edge [
     source 1059
     target 1060
     weight 1
+    event "WIT"
   ]
   edge [
     source 1059
     target 1061
     weight 1
+    event "WIT"
   ]
   edge [
     source 1059
     target 3706
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1059
     target 3707
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1059
     target 3631
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1060
     target 1061
     weight 1
+    event "WIT"
   ]
   edge [
     source 1062
     target 1063
     weight 1
+    event "WIT"
   ]
   edge [
     source 1062
     target 1064
     weight 1
+    event "WIT"
   ]
   edge [
     source 1062
     target 1065
     weight 1
+    event "WIT"
   ]
   edge [
     source 1062
     target 1066
     weight 1
+    event "WIT"
   ]
   edge [
     source 1062
     target 1067
     weight 1
+    event "WIT"
   ]
   edge [
     source 1062
     target 1073
     weight 1
+    event "WEI"
   ]
   edge [
     source 1062
     target 1766
     weight 1
+    event "WEI"
   ]
   edge [
     source 1063
     target 1064
     weight 1
+    event "WIT"
   ]
   edge [
     source 1063
     target 1065
     weight 1
+    event "WIT"
   ]
   edge [
     source 1063
     target 1066
     weight 1
+    event "WIT"
   ]
   edge [
     source 1063
     target 1067
     weight 1
+    event "WIT"
   ]
   edge [
     source 1064
     target 1065
     weight 1
+    event "WIT"
   ]
   edge [
     source 1064
     target 1066
     weight 1
+    event "WIT"
   ]
   edge [
     source 1064
     target 1067
     weight 1
+    event "WIT"
   ]
   edge [
     source 1065
     target 1066
     weight 1
+    event "WIT"
   ]
   edge [
     source 1065
     target 1067
     weight 1
+    event "WIT"
   ]
   edge [
     source 1066
     target 1067
     weight 1
+    event "WIT"
   ]
   edge [
     source 1068
     target 1069
     weight 1
+    event "WIT"
   ]
   edge [
     source 1068
     target 1070
     weight 1
+    event "WIT"
   ]
   edge [
     source 1068
     target 1071
     weight 1
+    event "WIT"
   ]
   edge [
     source 1068
     target 1072
     weight 1
+    event "WIT"
   ]
   edge [
     source 1069
     target 1070
     weight 1
+    event "WIT"
   ]
   edge [
     source 1069
     target 1071
     weight 1
+    event "WIT"
   ]
   edge [
     source 1069
     target 1072
     weight 1
+    event "WIT"
   ]
   edge [
     source 1070
     target 1071
     weight 2
+    event "WIT"
   ]
   edge [
     source 1070
     target 1072
     weight 8
+    event "WIT"
   ]
   edge [
     source 1070
     target 1075
     weight 1
+    event "WIT"
   ]
   edge [
     source 1070
     target 1167
     weight 1
+    event "WIT"
   ]
   edge [
     source 1070
     target 1168
     weight 1
+    event "WIT"
   ]
   edge [
     source 1070
     target 1314
     weight 1
+    event "WEI"
   ]
   edge [
     source 1070
     target 1315
     weight 1
+    event "WEI"
   ]
   edge [
     source 1070
     target 1316
     weight 2
+    event "WEI"
   ]
   edge [
     source 1070
     target 1446
     weight 2
+    event "WEI"
   ]
   edge [
     source 1070
     target 1495
     weight 1
+    event "WEI"
   ]
   edge [
     source 1070
     target 1496
     weight 1
+    event "WEI"
   ]
   edge [
     source 1070
     target 1083
     weight 1
+    event "WEI"
   ]
   edge [
     source 1070
     target 1688
     weight 1
+    event "WEI"
   ]
   edge [
     source 1070
     target 4321
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1070
     target 4322
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1070
     target 4461
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1070
     target 4462
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1070
     target 1469
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1071
     target 1072
     weight 2
+    event "WIT"
   ]
   edge [
     source 1071
     target 1167
     weight 1
+    event "WIT"
   ]
   edge [
     source 1071
     target 1168
     weight 1
+    event "WIT"
   ]
   edge [
     source 1072
     target 1075
     weight 1
+    event "WIT"
   ]
   edge [
     source 1072
     target 1082
     weight 1
+    event "WIT"
   ]
   edge [
     source 1072
     target 1083
     weight 2
+    event "WIT"
   ]
   edge [
     source 1072
     target 1167
     weight 1
+    event "WIT"
   ]
   edge [
     source 1072
     target 1168
     weight 1
+    event "WIT"
   ]
   edge [
     source 1072
     target 1314
     weight 1
+    event "WEI"
   ]
   edge [
     source 1072
     target 1315
     weight 1
+    event "WEI"
   ]
   edge [
     source 1072
     target 1316
     weight 2
+    event "WEI"
   ]
   edge [
     source 1072
     target 1446
     weight 2
+    event "WEI"
   ]
   edge [
     source 1072
     target 1495
     weight 1
+    event "WEI"
   ]
   edge [
     source 1072
     target 1496
     weight 1
+    event "WEI"
   ]
   edge [
     source 1072
     target 1688
     weight 1
+    event "WEI"
   ]
   edge [
     source 1072
     target 3025
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1072
     target 3477
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1072
     target 3478
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1072
     target 2556
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1072
     target 3479
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1072
     target 2541
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1072
     target 1469
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1072
     target 3480
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1072
     target 4321
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1072
     target 4322
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1073
     target 1074
     weight 1
+    event "WIT"
   ]
   edge [
     source 1073
     target 1766
     weight 1
+    event "WEI"
   ]
   edge [
     source 1076
     target 1077
     weight 1
+    event "WIT"
   ]
   edge [
     source 1078
     target 1079
     weight 1
+    event "WIT"
   ]
   edge [
     source 1078
     target 1080
     weight 1
+    event "WIT"
   ]
   edge [
     source 1078
     target 1081
     weight 1
+    event "WIT"
   ]
   edge [
     source 1079
     target 1080
     weight 1
+    event "WIT"
   ]
   edge [
     source 1079
     target 1081
     weight 1
+    event "WIT"
   ]
   edge [
     source 1080
     target 1081
     weight 1
+    event "WIT"
   ]
   edge [
     source 1082
     target 1083
     weight 1
+    event "WIT"
   ]
   edge [
     source 1083
     target 1495
     weight 1
+    event "WEI"
   ]
   edge [
     source 1083
     target 1496
     weight 1
+    event "WEI"
   ]
   edge [
     source 1084
     target 1085
     weight 1
+    event "WIT"
   ]
   edge [
     source 1085
     target 1163
     weight 1
+    event "WIT"
   ]
   edge [
     source 1085
     target 1164
     weight 1
+    event "WIT"
   ]
   edge [
     source 1085
     target 1165
     weight 2
+    event "WIT"
   ]
   edge [
     source 1085
     target 1295
     weight 1
+    event "WEI"
   ]
   edge [
     source 1085
     target 1898
     weight 1
+    event "WEI"
   ]
   edge [
     source 1085
     target 1899
     weight 1
+    event "WEI"
   ]
   edge [
     source 1085
     target 1493
     weight 1
+    event "WEI"
   ]
   edge [
     source 1085
     target 1998
     weight 1
+    event "WEI"
   ]
   edge [
     source 1085
     target 1802
     weight 1
+    event "WEI"
   ]
   edge [
     source 1086
     target 1087
     weight 1
+    event "WIT"
   ]
   edge [
     source 1086
     target 1088
     weight 1
+    event "WIT"
   ]
   edge [
     source 1086
     target 1089
     weight 1
+    event "WIT"
   ]
   edge [
     source 1086
     target 1090
     weight 1
+    event "WIT"
   ]
   edge [
     source 1087
     target 1088
     weight 1
+    event "WIT"
   ]
   edge [
     source 1087
     target 1089
     weight 1
+    event "WIT"
   ]
   edge [
     source 1087
     target 1090
     weight 1
+    event "WIT"
   ]
   edge [
     source 1087
     target 4483
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1088
     target 1089
     weight 1
+    event "WIT"
   ]
   edge [
     source 1088
     target 1090
     weight 1
+    event "WIT"
   ]
   edge [
     source 1089
     target 1090
     weight 1
+    event "WIT"
   ]
   edge [
     source 1092
     target 1093
     weight 1
+    event "WIT"
   ]
   edge [
     source 1092
     target 1094
     weight 1
+    event "WIT"
   ]
   edge [
     source 1093
     target 1094
     weight 2
+    event "WIT"
   ]
   edge [
     source 1094
     target 1176
     weight 1
+    event "WIT"
   ]
   edge [
     source 1094
     target 1227
     weight 2
+    event "WIT"
   ]
   edge [
     source 1094
     target 1228
     weight 1
+    event "WIT"
   ]
   edge [
     source 1094
     target 1229
     weight 1
+    event "WIT"
   ]
   edge [
     source 1094
     target 1230
     weight 2
+    event "WIT"
   ]
   edge [
     source 1094
     target 2163
     weight 1
+    event "WEI"
   ]
   edge [
     source 1094
     target 2164
     weight 1
+    event "WEI"
   ]
   edge [
     source 1095
     target 1096
     weight 1
+    event "WIT"
   ]
   edge [
     source 1095
     target 1097
     weight 1
+    event "WIT"
   ]
   edge [
     source 1096
     target 1097
     weight 1
+    event "WIT"
   ]
   edge [
     source 1098
     target 1099
     weight 1
+    event "WIT"
   ]
   edge [
     source 1100
     target 1101
     weight 1
+    event "WIT"
   ]
   edge [
     source 1100
     target 1102
     weight 1
+    event "WIT"
   ]
   edge [
     source 1100
     target 1103
     weight 1
+    event "WIT"
   ]
   edge [
     source 1100
     target 1104
     weight 1
+    event "WIT"
   ]
   edge [
     source 1100
     target 1105
     weight 1
+    event "WIT"
   ]
   edge [
     source 1101
     target 1102
     weight 1
+    event "WIT"
   ]
   edge [
     source 1101
     target 1103
     weight 1
+    event "WIT"
   ]
   edge [
     source 1101
     target 1104
     weight 1
+    event "WIT"
   ]
   edge [
     source 1101
     target 1105
     weight 1
+    event "WIT"
   ]
   edge [
     source 1102
     target 1103
     weight 1
+    event "WIT"
   ]
   edge [
     source 1102
     target 1104
     weight 1
+    event "WIT"
   ]
   edge [
     source 1102
     target 1105
     weight 1
+    event "WIT"
   ]
   edge [
     source 1103
     target 1104
     weight 1
+    event "WIT"
   ]
   edge [
     source 1103
     target 1105
     weight 1
+    event "WIT"
   ]
   edge [
     source 1104
     target 1105
     weight 1
+    event "WIT"
   ]
   edge [
     source 1104
     target 1403
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1404
     weight 2
+    event "WEI"
   ]
   edge [
     source 1104
     target 1405
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1406
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1256
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1799
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1987
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1988
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1989
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1990
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1991
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1992
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 2229
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1579
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1939
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 2040
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 2322
     weight 1
+    event "WEI"
   ]
   edge [
     source 1104
     target 1369
     weight 1
+    event "WEI"
   ]
   edge [
     source 1106
     target 1107
     weight 1
+    event "WIT"
   ]
   edge [
     source 1106
     target 1108
     weight 1
+    event "WIT"
   ]
   edge [
     source 1106
     target 1109
     weight 1
+    event "WIT"
   ]
   edge [
     source 1107
     target 1108
     weight 1
+    event "WIT"
   ]
   edge [
     source 1107
     target 1109
     weight 1
+    event "WIT"
   ]
   edge [
     source 1108
     target 1109
     weight 1
+    event "WIT"
   ]
   edge [
     source 1110
     target 1111
     weight 1
+    event "WIT"
   ]
   edge [
     source 1110
     target 1112
     weight 1
+    event "WIT"
   ]
   edge [
     source 1110
     target 1113
     weight 1
+    event "WIT"
   ]
   edge [
     source 1111
     target 1112
     weight 1
+    event "WIT"
   ]
   edge [
     source 1111
     target 1113
     weight 1
+    event "WIT"
   ]
   edge [
     source 1112
     target 1113
     weight 1
+    event "WIT"
   ]
   edge [
     source 1114
     target 1115
     weight 1
+    event "WIT"
   ]
   edge [
     source 1116
     target 1117
     weight 1
+    event "WIT"
   ]
   edge [
     source 1116
     target 3751
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1117
     target 1129
     weight 1
+    event "WIT"
   ]
   edge [
     source 1117
     target 1235
     weight 1
+    event "WIT"
   ]
   edge [
     source 1117
     target 1236
     weight 1
+    event "WIT"
   ]
   edge [
     source 1118
     target 1119
     weight 1
+    event "WIT"
   ]
   edge [
     source 1118
     target 1120
     weight 1
+    event "WIT"
   ]
   edge [
     source 1118
     target 1121
     weight 1
+    event "WIT"
   ]
   edge [
     source 1118
     target 1135
     weight 1
+    event "WIT"
   ]
   edge [
     source 1118
     target 1136
     weight 1
+    event "WIT"
   ]
   edge [
     source 1119
     target 1120
     weight 1
+    event "WIT"
   ]
   edge [
     source 1119
     target 1121
     weight 1
+    event "WIT"
   ]
   edge [
     source 1120
     target 1121
     weight 1
+    event "WIT"
   ]
   edge [
     source 1122
     target 1123
     weight 1
+    event "WIT"
   ]
   edge [
     source 1122
     target 1124
     weight 1
+    event "WIT"
   ]
   edge [
     source 1123
     target 1124
     weight 1
+    event "WIT"
   ]
   edge [
     source 1125
     target 1126
     weight 1
+    event "WIT"
   ]
   edge [
     source 1125
     target 1127
     weight 1
+    event "WIT"
   ]
   edge [
     source 1125
     target 1128
     weight 1
+    event "WIT"
   ]
   edge [
     source 1126
     target 1127
     weight 1
+    event "WIT"
   ]
   edge [
     source 1126
     target 1128
     weight 1
+    event "WIT"
   ]
   edge [
     source 1127
     target 1128
     weight 1
+    event "WIT"
   ]
   edge [
     source 1129
     target 1130
     weight 1
+    event "WIT"
   ]
   edge [
     source 1129
     target 1131
     weight 1
+    event "WIT"
   ]
   edge [
     source 1129
     target 1132
     weight 1
+    event "WIT"
   ]
   edge [
     source 1129
     target 1133
     weight 1
+    event "WIT"
   ]
   edge [
     source 1129
     target 1134
     weight 1
+    event "WIT"
   ]
   edge [
     source 1129
     target 1235
     weight 1
+    event "WIT"
   ]
   edge [
     source 1129
     target 1236
     weight 1
+    event "WIT"
   ]
   edge [
     source 1130
     target 1131
     weight 1
+    event "WIT"
   ]
   edge [
     source 1130
     target 1132
     weight 1
+    event "WIT"
   ]
   edge [
     source 1130
     target 1133
     weight 1
+    event "WIT"
   ]
   edge [
     source 1130
     target 1134
     weight 1
+    event "WIT"
   ]
   edge [
     source 1131
     target 1132
     weight 1
+    event "WIT"
   ]
   edge [
     source 1131
     target 1133
     weight 1
+    event "WIT"
   ]
   edge [
     source 1131
     target 1134
     weight 1
+    event "WIT"
   ]
   edge [
     source 1132
     target 1133
     weight 1
+    event "WIT"
   ]
   edge [
     source 1132
     target 1134
     weight 1
+    event "WIT"
   ]
   edge [
     source 1133
     target 1134
     weight 1
+    event "WIT"
   ]
   edge [
     source 1135
     target 1136
     weight 1
+    event "WIT"
   ]
   edge [
     source 1137
     target 1138
     weight 1
+    event "WIT"
   ]
   edge [
     source 1137
     target 1155
     weight 1
+    event "WIT"
   ]
   edge [
     source 1139
     target 1140
     weight 1
+    event "WIT"
   ]
   edge [
     source 1139
     target 1570
     weight 1
+    event "WEI"
   ]
   edge [
     source 1141
     target 1142
     weight 1
+    event "WIT"
   ]
   edge [
     source 1141
     target 1143
     weight 1
+    event "WIT"
   ]
   edge [
     source 1141
     target 1144
     weight 1
+    event "WIT"
   ]
   edge [
     source 1142
     target 1143
     weight 1
+    event "WIT"
   ]
   edge [
     source 1142
     target 1144
     weight 1
+    event "WIT"
   ]
   edge [
     source 1143
     target 1144
     weight 1
+    event "WIT"
   ]
   edge [
     source 1144
     target 1177
     weight 1
+    event "WIT"
   ]
   edge [
     source 1144
     target 1178
     weight 1
+    event "WIT"
   ]
   edge [
     source 1144
     target 1204
     weight 1
+    event "WIT"
   ]
   edge [
     source 1145
     target 1146
     weight 1
+    event "WIT"
   ]
   edge [
     source 1147
     target 1148
     weight 1
+    event "WIT"
   ]
   edge [
     source 1147
     target 1149
     weight 1
+    event "WIT"
   ]
   edge [
     source 1148
     target 1149
     weight 1
+    event "WIT"
   ]
   edge [
     source 1150
     target 1151
     weight 1
+    event "WIT"
   ]
   edge [
     source 1152
     target 1153
     weight 1
+    event "WIT"
   ]
   edge [
     source 1152
     target 1154
     weight 1
+    event "WIT"
   ]
   edge [
     source 1153
     target 1154
     weight 1
+    event "WIT"
   ]
   edge [
     source 1156
     target 1157
     weight 1
+    event "WIT"
   ]
   edge [
     source 1156
     target 1158
     weight 1
+    event "WIT"
   ]
   edge [
     source 1156
     target 1202
     weight 1
+    event "WIT"
   ]
   edge [
     source 1157
     target 1158
     weight 1
+    event "WIT"
   ]
   edge [
     source 1158
     target 1501
     weight 1
+    event "WEI"
   ]
   edge [
     source 1158
     target 1502
     weight 1
+    event "WEI"
   ]
   edge [
     source 1158
     target 1503
     weight 1
+    event "WEI"
   ]
   edge [
     source 1158
     target 1504
     weight 1
+    event "WEI"
   ]
   edge [
     source 1158
     target 1505
     weight 1
+    event "WEI"
   ]
   edge [
     source 1160
     target 1161
     weight 1
+    event "WIT"
   ]
   edge [
     source 1160
     target 1162
     weight 1
+    event "WIT"
   ]
   edge [
     source 1161
     target 1162
     weight 1
+    event "WIT"
   ]
   edge [
     source 1161
     target 1645
     weight 1
+    event "WEI"
   ]
   edge [
     source 1161
     target 1644
     weight 1
+    event "WEI"
   ]
   edge [
     source 1161
     target 1938
     weight 1
+    event "WEI"
   ]
   edge [
     source 1161
     target 1475
     weight 1
+    event "WEI"
   ]
   edge [
     source 1161
     target 1647
     weight 1
+    event "WEI"
   ]
   edge [
     source 1163
     target 1164
     weight 1
+    event "WIT"
   ]
   edge [
     source 1163
     target 1165
     weight 3
+    event "WIT"
   ]
   edge [
     source 1163
     target 1166
     weight 2
+    event "WIT"
   ]
   edge [
     source 1163
     target 1203
     weight 1
+    event "WIT"
   ]
   edge [
     source 1164
     target 1165
     weight 1
+    event "WIT"
   ]
   edge [
     source 1165
     target 1166
     weight 2
+    event "WIT"
   ]
   edge [
     source 1165
     target 1203
     weight 1
+    event "WIT"
   ]
   edge [
     source 1165
     target 1275
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1276
     weight 2
+    event "WEI"
   ]
   edge [
     source 1165
     target 1277
     weight 2
+    event "WEI"
   ]
   edge [
     source 1165
     target 1278
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1279
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1288
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1492
     weight 2
+    event "WEI"
   ]
   edge [
     source 1165
     target 1681
     weight 2
+    event "WEI"
   ]
   edge [
     source 1165
     target 1682
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1683
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1684
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1783
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1802
     weight 2
+    event "WEI"
   ]
   edge [
     source 1165
     target 1803
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1892
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1893
     weight 1
+    event "WEI"
   ]
   edge [
     source 1165
     target 1998
     weight 1
+    event "WEI"
   ]
   edge [
     source 1166
     target 1203
     weight 1
+    event "WIT"
   ]
   edge [
     source 1167
     target 1168
     weight 1
+    event "WIT"
   ]
   edge [
     source 1167
     target 4203
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1167
     target 4204
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1167
     target 4193
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1167
     target 4205
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1169
     target 1170
     weight 1
+    event "WIT"
   ]
   edge [
     source 1171
     target 1172
     weight 1
+    event "WIT"
   ]
   edge [
     source 1171
     target 1173
     weight 1
+    event "WIT"
   ]
   edge [
     source 1171
     target 1174
     weight 1
+    event "WIT"
   ]
   edge [
     source 1171
     target 1175
     weight 1
+    event "WIT"
   ]
   edge [
     source 1172
     target 1173
     weight 1
+    event "WIT"
   ]
   edge [
     source 1172
     target 1174
     weight 1
+    event "WIT"
   ]
   edge [
     source 1172
     target 1175
     weight 1
+    event "WIT"
   ]
   edge [
     source 1172
     target 1289
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 1290
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 1291
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 1292
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 1293
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 1294
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 1915
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 1916
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2080
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2081
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2082
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2083
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2198
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2199
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2200
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2201
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2202
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2203
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2204
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2331
     weight 1
+    event "WEI"
   ]
   edge [
     source 1172
     target 2332
     weight 1
+    event "WEI"
   ]
   edge [
     source 1173
     target 1174
     weight 1
+    event "WIT"
   ]
   edge [
     source 1173
     target 1175
     weight 1
+    event "WIT"
   ]
   edge [
     source 1174
     target 1175
     weight 1
+    event "WIT"
   ]
   edge [
     source 1177
     target 1178
     weight 1
+    event "WIT"
   ]
   edge [
     source 1179
     target 1180
     weight 1
+    event "WIT"
   ]
   edge [
     source 1179
     target 1181
     weight 1
+    event "WIT"
   ]
   edge [
     source 1179
     target 1182
     weight 1
+    event "WIT"
   ]
   edge [
     source 1180
     target 1181
     weight 1
+    event "WIT"
   ]
   edge [
     source 1180
     target 1182
     weight 1
+    event "WIT"
   ]
   edge [
     source 1181
     target 1182
     weight 1
+    event "WIT"
   ]
   edge [
     source 1183
     target 1184
     weight 1
+    event "WIT"
   ]
   edge [
     source 1183
     target 1185
     weight 1
+    event "WIT"
   ]
   edge [
     source 1183
     target 1186
     weight 1
+    event "WIT"
   ]
   edge [
     source 1183
     target 1187
     weight 1
+    event "WIT"
   ]
   edge [
     source 1183
     target 1188
     weight 1
+    event "WIT"
   ]
   edge [
     source 1183
     target 1189
     weight 1
+    event "WIT"
   ]
   edge [
     source 1184
     target 1185
     weight 1
+    event "WIT"
   ]
   edge [
     source 1184
     target 1186
     weight 1
+    event "WIT"
   ]
   edge [
     source 1184
     target 1187
     weight 1
+    event "WIT"
   ]
   edge [
     source 1184
     target 1188
     weight 1
+    event "WIT"
   ]
   edge [
     source 1184
     target 1189
     weight 1
+    event "WIT"
   ]
   edge [
     source 1185
     target 1186
     weight 1
+    event "WIT"
   ]
   edge [
     source 1185
     target 1187
     weight 1
+    event "WIT"
   ]
   edge [
     source 1185
     target 1188
     weight 1
+    event "WIT"
   ]
   edge [
     source 1185
     target 1189
     weight 1
+    event "WIT"
   ]
   edge [
     source 1186
     target 1187
     weight 1
+    event "WIT"
   ]
   edge [
     source 1186
     target 1188
     weight 1
+    event "WIT"
   ]
   edge [
     source 1186
     target 1189
     weight 1
+    event "WIT"
   ]
   edge [
     source 1187
     target 1188
     weight 1
+    event "WIT"
   ]
   edge [
     source 1187
     target 1189
     weight 1
+    event "WIT"
   ]
   edge [
     source 1188
     target 1189
     weight 1
+    event "WIT"
   ]
   edge [
     source 1190
     target 1191
     weight 1
+    event "WIT"
   ]
   edge [
     source 1190
     target 1192
     weight 1
+    event "WIT"
   ]
   edge [
     source 1190
     target 1193
     weight 1
+    event "WIT"
   ]
   edge [
     source 1191
     target 1192
     weight 1
+    event "WIT"
   ]
   edge [
     source 1191
     target 1193
     weight 1
+    event "WIT"
   ]
   edge [
     source 1192
     target 1193
     weight 1
+    event "WIT"
   ]
   edge [
     source 1194
     target 1195
     weight 1
+    event "WIT"
   ]
   edge [
     source 1194
     target 1196
     weight 1
+    event "WIT"
   ]
   edge [
     source 1194
     target 1197
     weight 1
+    event "WIT"
   ]
   edge [
     source 1194
     target 1198
     weight 1
+    event "WIT"
   ]
   edge [
     source 1195
     target 1196
     weight 1
+    event "WIT"
   ]
   edge [
     source 1195
     target 1197
     weight 1
+    event "WIT"
   ]
   edge [
     source 1195
     target 1198
     weight 1
+    event "WIT"
   ]
   edge [
     source 1196
     target 1197
     weight 1
+    event "WIT"
   ]
   edge [
     source 1196
     target 1198
     weight 1
+    event "WIT"
   ]
   edge [
     source 1197
     target 1198
     weight 1
+    event "WIT"
   ]
   edge [
     source 1199
     target 1200
     weight 1
+    event "WIT"
   ]
   edge [
     source 1199
     target 1201
     weight 2
+    event "WIT"
   ]
   edge [
     source 1200
     target 1201
     weight 1
+    event "WIT"
   ]
   edge [
     source 1202
     target 1843
     weight 1
+    event "WEI"
   ]
   edge [
     source 1202
     target 1844
     weight 1
+    event "WEI"
   ]
   edge [
     source 1202
     target 2333
     weight 1
+    event "WEI"
   ]
   edge [
     source 1202
     target 2334
     weight 1
+    event "WEI"
   ]
   edge [
     source 1205
     target 1206
     weight 1
+    event "WIT"
   ]
   edge [
     source 1205
     target 1207
     weight 1
+    event "WIT"
   ]
   edge [
     source 1205
     target 1208
     weight 1
+    event "WIT"
   ]
   edge [
     source 1205
     target 1209
     weight 1
+    event "WIT"
   ]
   edge [
     source 1205
     target 1210
     weight 1
+    event "WIT"
   ]
   edge [
     source 1206
     target 1207
     weight 1
+    event "WIT"
   ]
   edge [
     source 1206
     target 1208
     weight 1
+    event "WIT"
   ]
   edge [
     source 1206
     target 1209
     weight 1
+    event "WIT"
   ]
   edge [
     source 1206
     target 1210
     weight 1
+    event "WIT"
   ]
   edge [
     source 1207
     target 1208
     weight 1
+    event "WIT"
   ]
   edge [
     source 1207
     target 1209
     weight 1
+    event "WIT"
   ]
   edge [
     source 1207
     target 1210
     weight 1
+    event "WIT"
   ]
   edge [
     source 1208
     target 1209
     weight 1
+    event "WIT"
   ]
   edge [
     source 1208
     target 1210
     weight 1
+    event "WIT"
   ]
   edge [
     source 1209
     target 1210
     weight 1
+    event "WIT"
   ]
   edge [
     source 1211
     target 1212
     weight 1
+    event "WIT"
   ]
   edge [
     source 1211
     target 1213
     weight 1
+    event "WIT"
   ]
   edge [
     source 1212
     target 1213
     weight 1
+    event "WIT"
   ]
   edge [
     source 1214
     target 1215
     weight 2
+    event "WIT"
   ]
   edge [
     source 1214
     target 1216
     weight 2
+    event "WIT"
   ]
   edge [
     source 1214
     target 1217
     weight 2
+    event "WIT"
   ]
   edge [
     source 1214
     target 1218
     weight 2
+    event "WIT"
   ]
   edge [
     source 1214
     target 1219
     weight 2
+    event "WIT"
   ]
   edge [
     source 1215
     target 1216
     weight 2
+    event "WIT"
   ]
   edge [
     source 1215
     target 1217
     weight 2
+    event "WIT"
   ]
   edge [
     source 1215
     target 1218
     weight 2
+    event "WIT"
   ]
   edge [
     source 1215
     target 1219
     weight 2
+    event "WIT"
   ]
   edge [
     source 1216
     target 1217
     weight 2
+    event "WIT"
   ]
   edge [
     source 1216
     target 1218
     weight 2
+    event "WIT"
   ]
   edge [
     source 1216
     target 1219
     weight 2
+    event "WIT"
   ]
   edge [
     source 1217
     target 1218
     weight 2
+    event "WIT"
   ]
   edge [
     source 1217
     target 1219
     weight 2
+    event "WIT"
   ]
   edge [
     source 1218
     target 1219
     weight 2
+    event "WIT"
   ]
   edge [
     source 1220
     target 1221
     weight 1
+    event "WIT"
   ]
   edge [
     source 1220
     target 1222
     weight 1
+    event "WIT"
   ]
   edge [
     source 1221
     target 1222
     weight 1
+    event "WIT"
   ]
   edge [
     source 1223
     target 1224
     weight 1
+    event "WIT"
   ]
   edge [
     source 1225
     target 1226
     weight 1
+    event "WIT"
   ]
   edge [
     source 1227
     target 1228
     weight 1
+    event "WIT"
   ]
   edge [
     source 1227
     target 1229
     weight 1
+    event "WIT"
   ]
   edge [
     source 1227
     target 1230
     weight 2
+    event "WIT"
   ]
   edge [
     source 1227
     target 2163
     weight 1
+    event "WEI"
   ]
   edge [
     source 1227
     target 2164
     weight 1
+    event "WEI"
   ]
   edge [
     source 1228
     target 1229
     weight 1
+    event "WIT"
   ]
   edge [
     source 1228
     target 1230
     weight 1
+    event "WIT"
   ]
   edge [
     source 1229
     target 1230
     weight 1
+    event "WIT"
   ]
   edge [
     source 1230
     target 1833
     weight 1
+    event "WEI"
   ]
   edge [
     source 1230
     target 2163
     weight 1
+    event "WEI"
   ]
   edge [
     source 1230
     target 2164
     weight 1
+    event "WEI"
   ]
   edge [
     source 1231
     target 1232
     weight 1
+    event "WIT"
   ]
   edge [
     source 1231
     target 1233
     weight 1
+    event "WIT"
   ]
   edge [
     source 1232
     target 1233
     weight 1
+    event "WIT"
   ]
   edge [
     source 1235
     target 1236
     weight 1
+    event "WIT"
   ]
   edge [
     source 1237
     target 1238
     weight 1
+    event "WIT"
   ]
   edge [
     source 1239
     target 1240
     weight 1
+    event "WEI"
   ]
   edge [
     source 1239
     target 1350
     weight 1
+    event "WEI"
   ]
   edge [
     source 1239
     target 1351
     weight 1
+    event "WEI"
   ]
   edge [
     source 1241
     target 1242
     weight 1
+    event "WEI"
   ]
   edge [
     source 1243
     target 1244
     weight 1
+    event "WEI"
   ]
   edge [
     source 1243
     target 1245
     weight 1
+    event "WEI"
   ]
   edge [
     source 1243
     target 1246
     weight 1
+    event "WEI"
   ]
   edge [
     source 1244
     target 1245
     weight 1
+    event "WEI"
   ]
   edge [
     source 1244
     target 1246
     weight 1
+    event "WEI"
   ]
   edge [
     source 1245
     target 1246
     weight 1
+    event "WEI"
   ]
   edge [
     source 1245
     target 1341
     weight 1
+    event "WEI"
   ]
   edge [
     source 1245
     target 1340
     weight 1
+    event "WEI"
   ]
   edge [
     source 1245
     target 1388
     weight 1
+    event "WEI"
   ]
   edge [
     source 1245
     target 1389
     weight 1
+    event "WEI"
   ]
   edge [
     source 1245
     target 1949
     weight 1
+    event "WEI"
   ]
   edge [
     source 1245
     target 2824
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2825
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2826
     weight 4
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2839
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2840
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2875
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2925
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2958
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2959
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2887
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2960
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2961
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 3120
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 3121
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 3122
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1245
     target 3123
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1246
     target 1373
     weight 1
+    event "WEI"
   ]
   edge [
     source 1246
     target 1341
     weight 1
+    event "WEI"
   ]
   edge [
     source 1246
     target 1340
     weight 1
+    event "WEI"
   ]
   edge [
     source 1247
     target 1248
     weight 1
+    event "WEI"
   ]
   edge [
     source 1247
     target 1249
     weight 1
+    event "WEI"
   ]
   edge [
     source 1248
     target 1249
     weight 1
+    event "WEI"
   ]
   edge [
     source 1248
     target 2003
     weight 1
+    event "WEI"
   ]
   edge [
     source 1248
     target 2004
     weight 1
+    event "WEI"
   ]
   edge [
     source 1250
     target 1251
     weight 1
+    event "WEI"
   ]
   edge [
     source 1250
     target 1562
     weight 1
+    event "WEI"
   ]
   edge [
     source 1252
     target 1253
     weight 1
+    event "WEI"
   ]
   edge [
     source 1252
     target 1254
     weight 1
+    event "WEI"
   ]
   edge [
     source 1252
     target 1255
     weight 1
+    event "WEI"
   ]
   edge [
     source 1252
     target 1256
     weight 1
+    event "WEI"
   ]
   edge [
     source 1253
     target 1254
     weight 1
+    event "WEI"
   ]
   edge [
     source 1253
     target 1255
     weight 1
+    event "WEI"
   ]
   edge [
     source 1253
     target 1256
     weight 1
+    event "WEI"
   ]
   edge [
     source 1254
     target 1255
     weight 1
+    event "WEI"
   ]
   edge [
     source 1254
     target 1256
     weight 1
+    event "WEI"
   ]
   edge [
     source 1255
     target 1256
     weight 1
+    event "WEI"
   ]
   edge [
     source 1256
     target 1403
     weight 1
+    event "WEI"
   ]
   edge [
     source 1256
     target 1404
     weight 1
+    event "WEI"
   ]
   edge [
     source 1256
     target 1405
     weight 1
+    event "WEI"
   ]
   edge [
     source 1256
     target 1406
     weight 1
+    event "WEI"
   ]
   edge [
     source 1257
     target 1258
     weight 1
+    event "WEI"
   ]
   edge [
     source 1257
     target 1259
     weight 1
+    event "WEI"
   ]
   edge [
     source 1257
     target 1260
     weight 1
+    event "WEI"
   ]
   edge [
     source 1257
     target 1261
     weight 1
+    event "WEI"
   ]
   edge [
     source 1257
     target 1262
     weight 1
+    event "WEI"
   ]
   edge [
     source 1257
     target 1263
     weight 1
+    event "WEI"
   ]
   edge [
     source 1257
     target 1264
     weight 1
+    event "WEI"
   ]
   edge [
     source 1258
     target 1259
     weight 1
+    event "WEI"
   ]
   edge [
     source 1258
     target 1260
     weight 1
+    event "WEI"
   ]
   edge [
     source 1258
     target 1261
     weight 1
+    event "WEI"
   ]
   edge [
     source 1258
     target 1262
     weight 1
+    event "WEI"
   ]
   edge [
     source 1258
     target 1263
     weight 1
+    event "WEI"
   ]
   edge [
     source 1258
     target 1264
     weight 1
+    event "WEI"
   ]
   edge [
     source 1259
     target 1260
     weight 1
+    event "WEI"
   ]
   edge [
     source 1259
     target 1261
     weight 1
+    event "WEI"
   ]
   edge [
     source 1259
     target 1262
     weight 1
+    event "WEI"
   ]
   edge [
     source 1259
     target 1263
     weight 1
+    event "WEI"
   ]
   edge [
     source 1259
     target 1264
     weight 1
+    event "WEI"
   ]
   edge [
     source 1260
     target 1261
     weight 1
+    event "WEI"
   ]
   edge [
     source 1260
     target 1262
     weight 1
+    event "WEI"
   ]
   edge [
     source 1260
     target 1263
     weight 1
+    event "WEI"
   ]
   edge [
     source 1260
     target 1264
     weight 1
+    event "WEI"
   ]
   edge [
     source 1261
     target 1262
     weight 1
+    event "WEI"
   ]
   edge [
     source 1261
     target 1263
     weight 1
+    event "WEI"
   ]
   edge [
     source 1261
     target 1264
     weight 1
+    event "WEI"
   ]
   edge [
     source 1262
     target 1263
     weight 1
+    event "WEI"
   ]
   edge [
     source 1262
     target 1264
     weight 1
+    event "WEI"
   ]
   edge [
     source 1263
     target 1264
     weight 1
+    event "WEI"
   ]
   edge [
     source 1263
     target 2814
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1263
     target 3025
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1263
     target 4356
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1263
     target 2541
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1263
     target 1469
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1265
     target 1266
     weight 1
+    event "WEI"
   ]
   edge [
     source 1265
     target 1267
     weight 1
+    event "WEI"
   ]
   edge [
     source 1265
     target 1268
     weight 1
+    event "WEI"
   ]
   edge [
     source 1266
     target 1267
     weight 1
+    event "WEI"
   ]
   edge [
     source 1266
     target 1268
     weight 1
+    event "WEI"
   ]
   edge [
     source 1267
     target 1268
     weight 2
+    event "WEI"
   ]
   edge [
     source 1267
     target 1797
     weight 1
+    event "WEI"
   ]
   edge [
     source 1267
     target 1798
     weight 1
+    event "WEI"
   ]
   edge [
     source 1268
     target 1797
     weight 1
+    event "WEI"
   ]
   edge [
     source 1268
     target 1798
     weight 1
+    event "WEI"
   ]
   edge [
     source 1268
     target 3984
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1268
     target 3985
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 1268
     target 1691
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1268
     target 4041
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1268
     target 4042
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1268
     target 4101
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1269
     target 1270
     weight 1
+    event "WEI"
   ]
   edge [
     source 1269
     target 1271
     weight 1
+    event "WEI"
   ]
   edge [
     source 1269
     target 1272
     weight 1
+    event "WEI"
   ]
   edge [
     source 1269
     target 1273
     weight 1
+    event "WEI"
   ]
   edge [
     source 1269
     target 1274
     weight 1
+    event "WEI"
   ]
   edge [
     source 1270
     target 1271
     weight 1
+    event "WEI"
   ]
   edge [
     source 1270
     target 1272
     weight 1
+    event "WEI"
   ]
   edge [
     source 1270
     target 1273
     weight 1
+    event "WEI"
   ]
   edge [
     source 1270
     target 1274
     weight 1
+    event "WEI"
   ]
   edge [
     source 1271
     target 1272
     weight 1
+    event "WEI"
   ]
   edge [
     source 1271
     target 1273
     weight 1
+    event "WEI"
   ]
   edge [
     source 1271
     target 1274
     weight 1
+    event "WEI"
   ]
   edge [
     source 1272
     target 1273
     weight 1
+    event "WEI"
   ]
   edge [
     source 1272
     target 1274
     weight 1
+    event "WEI"
   ]
   edge [
     source 1272
     target 3669
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 1272
     target 3670
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1272
     target 3671
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 1272
     target 3672
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1272
     target 3673
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1273
     target 1274
     weight 1
+    event "WEI"
   ]
   edge [
     source 1275
     target 1276
     weight 1
+    event "WEI"
   ]
   edge [
     source 1275
     target 1277
     weight 1
+    event "WEI"
   ]
   edge [
     source 1275
     target 1278
     weight 1
+    event "WEI"
   ]
   edge [
     source 1275
     target 1279
     weight 1
+    event "WEI"
   ]
   edge [
     source 1276
     target 1277
     weight 2
+    event "WEI"
   ]
   edge [
     source 1276
     target 1278
     weight 1
+    event "WEI"
   ]
   edge [
     source 1276
     target 1279
     weight 1
+    event "WEI"
   ]
   edge [
     source 1276
     target 1288
     weight 1
+    event "WEI"
   ]
   edge [
     source 1277
     target 1278
     weight 1
+    event "WEI"
   ]
   edge [
     source 1277
     target 1279
     weight 1
+    event "WEI"
   ]
   edge [
     source 1277
     target 1288
     weight 1
+    event "WEI"
   ]
   edge [
     source 1278
     target 1279
     weight 1
+    event "WEI"
   ]
   edge [
     source 1278
     target 3507
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1278
     target 3508
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1278
     target 3509
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1280
     target 1281
     weight 1
+    event "WEI"
   ]
   edge [
     source 1280
     target 1282
     weight 1
+    event "WEI"
   ]
   edge [
     source 1280
     target 1283
     weight 1
+    event "WEI"
   ]
   edge [
     source 1280
     target 1284
     weight 1
+    event "WEI"
   ]
   edge [
     source 1280
     target 1285
     weight 1
+    event "WEI"
   ]
   edge [
     source 1280
     target 1286
     weight 1
+    event "WEI"
   ]
   edge [
     source 1280
     target 1287
     weight 1
+    event "WEI"
   ]
   edge [
     source 1281
     target 1282
     weight 1
+    event "WEI"
   ]
   edge [
     source 1281
     target 1283
     weight 1
+    event "WEI"
   ]
   edge [
     source 1281
     target 1284
     weight 1
+    event "WEI"
   ]
   edge [
     source 1281
     target 1285
     weight 1
+    event "WEI"
   ]
   edge [
     source 1281
     target 1286
     weight 1
+    event "WEI"
   ]
   edge [
     source 1281
     target 1287
     weight 1
+    event "WEI"
   ]
   edge [
     source 1282
     target 1283
     weight 2
+    event "WEI"
   ]
   edge [
     source 1282
     target 1284
     weight 1
+    event "WEI"
   ]
   edge [
     source 1282
     target 1285
     weight 1
+    event "WEI"
   ]
   edge [
     source 1282
     target 1286
     weight 1
+    event "WEI"
   ]
   edge [
     source 1282
     target 1287
     weight 2
+    event "WEI"
   ]
   edge [
     source 1282
     target 1484
     weight 1
+    event "WEI"
   ]
   edge [
     source 1282
     target 1485
     weight 1
+    event "WEI"
   ]
   edge [
     source 1282
     target 1486
     weight 1
+    event "WEI"
   ]
   edge [
     source 1282
     target 1487
     weight 1
+    event "WEI"
   ]
   edge [
     source 1282
     target 1488
     weight 1
+    event "WEI"
   ]
   edge [
     source 1283
     target 1284
     weight 1
+    event "WEI"
   ]
   edge [
     source 1283
     target 1285
     weight 1
+    event "WEI"
   ]
   edge [
     source 1283
     target 1286
     weight 1
+    event "WEI"
   ]
   edge [
     source 1283
     target 1287
     weight 2
+    event "WEI"
   ]
   edge [
     source 1283
     target 1484
     weight 1
+    event "WEI"
   ]
   edge [
     source 1283
     target 1485
     weight 1
+    event "WEI"
   ]
   edge [
     source 1283
     target 1486
     weight 1
+    event "WEI"
   ]
   edge [
     source 1283
     target 1487
     weight 1
+    event "WEI"
   ]
   edge [
     source 1283
     target 1488
     weight 1
+    event "WEI"
   ]
   edge [
     source 1284
     target 1285
     weight 1
+    event "WEI"
   ]
   edge [
     source 1284
     target 1286
     weight 1
+    event "WEI"
   ]
   edge [
     source 1284
     target 1287
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1286
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1287
     weight 3
+    event "WEI"
   ]
   edge [
     source 1285
     target 1410
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1411
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1412
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1413
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1414
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1415
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1639
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1640
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1487
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1641
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1642
     weight 1
+    event "WEI"
   ]
   edge [
     source 1285
     target 1643
     weight 1
+    event "WEI"
   ]
   edge [
     source 1286
     target 1287
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1410
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1411
     weight 2
+    event "WEI"
   ]
   edge [
     source 1287
     target 1412
     weight 2
+    event "WEI"
   ]
   edge [
     source 1287
     target 1413
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1414
     weight 2
+    event "WEI"
   ]
   edge [
     source 1287
     target 1415
     weight 2
+    event "WEI"
   ]
   edge [
     source 1287
     target 1484
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1485
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1486
     weight 2
+    event "WEI"
   ]
   edge [
     source 1287
     target 1487
     weight 4
+    event "WEI"
   ]
   edge [
     source 1287
     target 1488
     weight 4
+    event "WEI"
   ]
   edge [
     source 1287
     target 1534
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1535
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1536
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1537
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1538
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1541
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1542
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1548
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1549
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1550
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1551
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1552
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1553
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1554
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1555
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1639
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1640
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1641
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1642
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1643
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1689
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1690
     weight 1
+    event "WEI"
   ]
   edge [
     source 1287
     target 1691
     weight 1
+    event "WEI"
   ]
   edge [
     source 1289
     target 1290
     weight 1
+    event "WEI"
   ]
   edge [
     source 1289
     target 1291
     weight 1
+    event "WEI"
   ]
   edge [
     source 1289
     target 1292
     weight 1
+    event "WEI"
   ]
   edge [
     source 1289
     target 1293
     weight 1
+    event "WEI"
   ]
   edge [
     source 1289
     target 1294
     weight 1
+    event "WEI"
   ]
   edge [
     source 1290
     target 1291
     weight 1
+    event "WEI"
   ]
   edge [
     source 1290
     target 1292
     weight 1
+    event "WEI"
   ]
   edge [
     source 1290
     target 1293
     weight 1
+    event "WEI"
   ]
   edge [
     source 1290
     target 1294
     weight 1
+    event "WEI"
   ]
   edge [
     source 1291
     target 1292
     weight 1
+    event "WEI"
   ]
   edge [
     source 1291
     target 1293
     weight 1
+    event "WEI"
   ]
   edge [
     source 1291
     target 1294
     weight 1
+    event "WEI"
   ]
   edge [
     source 1292
     target 1293
     weight 1
+    event "WEI"
   ]
   edge [
     source 1292
     target 1294
     weight 1
+    event "WEI"
   ]
   edge [
     source 1293
     target 1294
     weight 1
+    event "WEI"
   ]
   edge [
     source 1296
     target 1297
     weight 1
+    event "WEI"
   ]
   edge [
     source 1296
     target 1298
     weight 1
+    event "WEI"
   ]
   edge [
     source 1296
     target 1299
     weight 1
+    event "WEI"
   ]
   edge [
     source 1297
     target 1298
     weight 1
+    event "WEI"
   ]
   edge [
     source 1297
     target 1299
     weight 1
+    event "WEI"
   ]
   edge [
     source 1298
     target 1299
     weight 1
+    event "WEI"
   ]
   edge [
     source 1300
     target 1301
     weight 1
+    event "WEI"
   ]
   edge [
     source 1300
     target 1302
     weight 1
+    event "WEI"
   ]
   edge [
     source 1301
     target 1302
     weight 1
+    event "WEI"
   ]
   edge [
     source 1303
     target 1304
     weight 1
+    event "WEI"
   ]
   edge [
     source 1303
     target 1305
     weight 1
+    event "WEI"
   ]
   edge [
     source 1303
     target 1306
     weight 1
+    event "WEI"
   ]
   edge [
     source 1303
     target 1307
     weight 1
+    event "WEI"
   ]
   edge [
     source 1304
     target 1305
     weight 1
+    event "WEI"
   ]
   edge [
     source 1304
     target 1306
     weight 1
+    event "WEI"
   ]
   edge [
     source 1304
     target 1307
     weight 1
+    event "WEI"
   ]
   edge [
     source 1305
     target 1306
     weight 1
+    event "WEI"
   ]
   edge [
     source 1305
     target 1307
     weight 1
+    event "WEI"
   ]
   edge [
     source 1306
     target 1307
     weight 1
+    event "WEI"
   ]
   edge [
     source 1308
     target 1309
     weight 1
+    event "WEI"
   ]
   edge [
     source 1308
     target 1310
     weight 1
+    event "WEI"
   ]
   edge [
     source 1309
     target 1310
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1440
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1441
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1450
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1451
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1452
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1453
     weight 3
+    event "WEI"
   ]
   edge [
     source 1310
     target 1714
     weight 3
+    event "WEI"
   ]
   edge [
     source 1310
     target 1715
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1716
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1717
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1718
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1885
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1886
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1887
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1888
     weight 1
+    event "WEI"
   ]
   edge [
     source 1310
     target 1917
     weight 2
+    event "WEI"
   ]
   edge [
     source 1310
     target 2180
     weight 1
+    event "WEI"
   ]
   edge [
     source 1311
     target 1312
     weight 1
+    event "WEI"
   ]
   edge [
     source 1311
     target 1313
     weight 2
+    event "WEI"
   ]
   edge [
     source 1311
     target 1500
     weight 1
+    event "WEI"
   ]
   edge [
     source 1312
     target 1313
     weight 1
+    event "WEI"
   ]
   edge [
     source 1313
     target 1391
     weight 1
+    event "WEI"
   ]
   edge [
     source 1313
     target 1500
     weight 1
+    event "WEI"
   ]
   edge [
     source 1314
     target 1315
     weight 1
+    event "WEI"
   ]
   edge [
     source 1314
     target 1316
     weight 1
+    event "WEI"
   ]
   edge [
     source 1315
     target 1316
     weight 1
+    event "WEI"
   ]
   edge [
     source 1316
     target 1688
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1318
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1319
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1320
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1321
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1322
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1407
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1408
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1409
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 1597
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 2219
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 2220
     weight 1
+    event "WEI"
   ]
   edge [
     source 1317
     target 3637
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1317
     target 3638
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1317
     target 1720
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1318
     target 1319
     weight 1
+    event "WEI"
   ]
   edge [
     source 1318
     target 1320
     weight 1
+    event "WEI"
   ]
   edge [
     source 1318
     target 1321
     weight 1
+    event "WEI"
   ]
   edge [
     source 1318
     target 1322
     weight 1
+    event "WEI"
   ]
   edge [
     source 1319
     target 1320
     weight 1
+    event "WEI"
   ]
   edge [
     source 1319
     target 1321
     weight 1
+    event "WEI"
   ]
   edge [
     source 1319
     target 1322
     weight 1
+    event "WEI"
   ]
   edge [
     source 1320
     target 1321
     weight 1
+    event "WEI"
   ]
   edge [
     source 1320
     target 1322
     weight 1
+    event "WEI"
   ]
   edge [
     source 1321
     target 1322
     weight 1
+    event "WEI"
   ]
   edge [
     source 1322
     target 2366
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1322
     target 2365
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1322
     target 2370
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1322
     target 2367
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1323
     target 1324
     weight 3
+    event "WEI"
   ]
   edge [
     source 1323
     target 1856
     weight 1
+    event "WEI"
   ]
   edge [
     source 1323
     target 1857
     weight 1
+    event "WEI"
   ]
   edge [
     source 1323
     target 1858
     weight 1
+    event "WEI"
   ]
   edge [
     source 1323
     target 1967
     weight 1
+    event "WEI"
   ]
   edge [
     source 1325
     target 1326
     weight 2
+    event "WEI"
   ]
   edge [
     source 1325
     target 1806
     weight 1
+    event "WEI"
   ]
   edge [
     source 1326
     target 1731
     weight 1
+    event "WEI"
   ]
   edge [
     source 1326
     target 1732
     weight 1
+    event "WEI"
   ]
   edge [
     source 1326
     target 1806
     weight 1
+    event "WEI"
   ]
   edge [
     source 1327
     target 1328
     weight 1
+    event "WEI"
   ]
   edge [
     source 1327
     target 1329
     weight 1
+    event "WEI"
   ]
   edge [
     source 1328
     target 1329
     weight 1
+    event "WEI"
   ]
   edge [
     source 1330
     target 1331
     weight 1
+    event "WEI"
   ]
   edge [
     source 1330
     target 1332
     weight 1
+    event "WEI"
   ]
   edge [
     source 1330
     target 1333
     weight 1
+    event "WEI"
   ]
   edge [
     source 1330
     target 1334
     weight 1
+    event "WEI"
   ]
   edge [
     source 1330
     target 1335
     weight 1
+    event "WEI"
   ]
   edge [
     source 1330
     target 1336
     weight 1
+    event "WEI"
   ]
   edge [
     source 1330
     target 1337
     weight 1
+    event "WEI"
   ]
   edge [
     source 1331
     target 1332
     weight 1
+    event "WEI"
   ]
   edge [
     source 1331
     target 1333
     weight 1
+    event "WEI"
   ]
   edge [
     source 1331
     target 1334
     weight 1
+    event "WEI"
   ]
   edge [
     source 1331
     target 1335
     weight 1
+    event "WEI"
   ]
   edge [
     source 1331
     target 1336
     weight 1
+    event "WEI"
   ]
   edge [
     source 1331
     target 1337
     weight 1
+    event "WEI"
   ]
   edge [
     source 1332
     target 1333
     weight 1
+    event "WEI"
   ]
   edge [
     source 1332
     target 1334
     weight 1
+    event "WEI"
   ]
   edge [
     source 1332
     target 1335
     weight 1
+    event "WEI"
   ]
   edge [
     source 1332
     target 1336
     weight 1
+    event "WEI"
   ]
   edge [
     source 1332
     target 1337
     weight 1
+    event "WEI"
   ]
   edge [
     source 1333
     target 1334
     weight 1
+    event "WEI"
   ]
   edge [
     source 1333
     target 1335
     weight 1
+    event "WEI"
   ]
   edge [
     source 1333
     target 1336
     weight 1
+    event "WEI"
   ]
   edge [
     source 1333
     target 1337
     weight 1
+    event "WEI"
   ]
   edge [
     source 1334
     target 1335
     weight 1
+    event "WEI"
   ]
   edge [
     source 1334
     target 1336
     weight 1
+    event "WEI"
   ]
   edge [
     source 1334
     target 1337
     weight 1
+    event "WEI"
   ]
   edge [
     source 1335
     target 1336
     weight 2
+    event "WEI"
   ]
   edge [
     source 1335
     target 1337
     weight 1
+    event "WEI"
   ]
   edge [
     source 1335
     target 1463
     weight 1
+    event "WEI"
   ]
   edge [
     source 1335
     target 1464
     weight 2
+    event "WEI"
   ]
   edge [
     source 1335
     target 1383
     weight 1
+    event "WEI"
   ]
   edge [
     source 1335
     target 1382
     weight 1
+    event "WEI"
   ]
   edge [
     source 1335
     target 3222
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1335
     target 3223
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1336
     target 1337
     weight 1
+    event "WEI"
   ]
   edge [
     source 1336
     target 1463
     weight 1
+    event "WEI"
   ]
   edge [
     source 1336
     target 1464
     weight 1
+    event "WEI"
   ]
   edge [
     source 1336
     target 1383
     weight 1
+    event "WEI"
   ]
   edge [
     source 1336
     target 1382
     weight 1
+    event "WEI"
   ]
   edge [
     source 1338
     target 1339
     weight 1
+    event "WEI"
   ]
   edge [
     source 1338
     target 1340
     weight 1
+    event "WEI"
   ]
   edge [
     source 1338
     target 1341
     weight 1
+    event "WEI"
   ]
   edge [
     source 1339
     target 1340
     weight 2
+    event "WEI"
   ]
   edge [
     source 1339
     target 1341
     weight 2
+    event "WEI"
   ]
   edge [
     source 1340
     target 1341
     weight 6
+    event "WEI"
   ]
   edge [
     source 1340
     target 1373
     weight 1
+    event "WEI"
   ]
   edge [
     source 1340
     target 1386
     weight 1
+    event "WEI"
   ]
   edge [
     source 1340
     target 1387
     weight 1
+    event "WEI"
   ]
   edge [
     source 1340
     target 1388
     weight 3
+    event "WEI"
   ]
   edge [
     source 1340
     target 1389
     weight 3
+    event "WEI"
   ]
   edge [
     source 1340
     target 1390
     weight 2
+    event "WEI"
   ]
   edge [
     source 1340
     target 1767
     weight 1
+    event "WEI"
   ]
   edge [
     source 1340
     target 1949
     weight 1
+    event "WEI"
   ]
   edge [
     source 1341
     target 1342
     weight 1
+    event "WEI"
   ]
   edge [
     source 1341
     target 1373
     weight 1
+    event "WEI"
   ]
   edge [
     source 1341
     target 1386
     weight 1
+    event "WEI"
   ]
   edge [
     source 1341
     target 1387
     weight 1
+    event "WEI"
   ]
   edge [
     source 1341
     target 1388
     weight 3
+    event "WEI"
   ]
   edge [
     source 1341
     target 1389
     weight 3
+    event "WEI"
   ]
   edge [
     source 1341
     target 1390
     weight 2
+    event "WEI"
   ]
   edge [
     source 1341
     target 1767
     weight 1
+    event "WEI"
   ]
   edge [
     source 1341
     target 1949
     weight 1
+    event "WEI"
   ]
   edge [
     source 1343
     target 1344
     weight 1
+    event "WEI"
   ]
   edge [
     source 1345
     target 1346
     weight 1
+    event "WEI"
   ]
   edge [
     source 1345
     target 1347
     weight 1
+    event "WEI"
   ]
   edge [
     source 1345
     target 1348
     weight 1
+    event "WEI"
   ]
   edge [
     source 1345
     target 1349
     weight 1
+    event "WEI"
   ]
   edge [
     source 1346
     target 1347
     weight 1
+    event "WEI"
   ]
   edge [
     source 1346
     target 1348
     weight 1
+    event "WEI"
   ]
   edge [
     source 1346
     target 1349
     weight 1
+    event "WEI"
   ]
   edge [
     source 1347
     target 1348
     weight 1
+    event "WEI"
   ]
   edge [
     source 1347
     target 1349
     weight 1
+    event "WEI"
   ]
   edge [
     source 1348
     target 1349
     weight 1
+    event "WEI"
   ]
   edge [
     source 1349
     target 1584
     weight 1
+    event "WEI"
   ]
   edge [
     source 1349
     target 1585
     weight 1
+    event "WEI"
   ]
   edge [
     source 1349
     target 1586
     weight 1
+    event "WEI"
   ]
   edge [
     source 1349
     target 1587
     weight 1
+    event "WEI"
   ]
   edge [
     source 1349
     target 3683
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1349
     target 3684
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1349
     target 3685
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1349
     target 3686
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1350
     target 1351
     weight 1
+    event "WEI"
   ]
   edge [
     source 1352
     target 1353
     weight 2
+    event "WEI"
   ]
   edge [
     source 1352
     target 1372
     weight 1
+    event "WEI"
   ]
   edge [
     source 1353
     target 1372
     weight 1
+    event "WEI"
   ]
   edge [
     source 1353
     target 1462
     weight 1
+    event "WEI"
   ]
   edge [
     source 1353
     target 2649
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1353
     target 2650
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1353
     target 2651
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1353
     target 2583
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1354
     target 1355
     weight 1
+    event "WEI"
   ]
   edge [
     source 1354
     target 1356
     weight 1
+    event "WEI"
   ]
   edge [
     source 1354
     target 1357
     weight 1
+    event "WEI"
   ]
   edge [
     source 1354
     target 1358
     weight 1
+    event "WEI"
   ]
   edge [
     source 1354
     target 1359
     weight 1
+    event "WEI"
   ]
   edge [
     source 1355
     target 1356
     weight 1
+    event "WEI"
   ]
   edge [
     source 1355
     target 1357
     weight 1
+    event "WEI"
   ]
   edge [
     source 1355
     target 1358
     weight 1
+    event "WEI"
   ]
   edge [
     source 1355
     target 1359
     weight 1
+    event "WEI"
   ]
   edge [
     source 1356
     target 1357
     weight 1
+    event "WEI"
   ]
   edge [
     source 1356
     target 1358
     weight 1
+    event "WEI"
   ]
   edge [
     source 1356
     target 1359
     weight 1
+    event "WEI"
   ]
   edge [
     source 1357
     target 1358
     weight 1
+    event "WEI"
   ]
   edge [
     source 1357
     target 1359
     weight 1
+    event "WEI"
   ]
   edge [
     source 1358
     target 1359
     weight 1
+    event "WEI"
   ]
   edge [
     source 1360
     target 1361
     weight 1
+    event "WEI"
   ]
   edge [
     source 1360
     target 1362
     weight 1
+    event "WEI"
   ]
   edge [
     source 1361
     target 1362
     weight 1
+    event "WEI"
   ]
   edge [
     source 1364
     target 1365
     weight 1
+    event "WEI"
   ]
   edge [
     source 1366
     target 1367
     weight 1
+    event "WEI"
   ]
   edge [
     source 1366
     target 1368
     weight 1
+    event "WEI"
   ]
   edge [
     source 1367
     target 1368
     weight 2
+    event "WEI"
   ]
   edge [
     source 1367
     target 1395
     weight 1
+    event "WEI"
   ]
   edge [
     source 1367
     target 1396
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1395
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1396
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1506
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1459
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1602
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1603
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1604
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1605
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1625
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1626
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1627
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1628
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1629
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 1680
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 2263
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 2027
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 2264
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 2294
     weight 2
+    event "WEI"
   ]
   edge [
     source 1368
     target 2236
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 2295
     weight 2
+    event "WEI"
   ]
   edge [
     source 1368
     target 2296
     weight 1
+    event "WEI"
   ]
   edge [
     source 1368
     target 2307
     weight 1
+    event "WEI"
   ]
   edge [
     source 1369
     target 1370
     weight 1
+    event "WEI"
   ]
   edge [
     source 1369
     target 1371
     weight 1
+    event "WEI"
   ]
   edge [
     source 1369
     target 1939
     weight 1
+    event "WEI"
   ]
   edge [
     source 1369
     target 2040
     weight 1
+    event "WEI"
   ]
   edge [
     source 1369
     target 2322
     weight 1
+    event "WEI"
   ]
   edge [
     source 1370
     target 1371
     weight 1
+    event "WEI"
   ]
   edge [
     source 1374
     target 1375
     weight 1
+    event "WEI"
   ]
   edge [
     source 1376
     target 1377
     weight 1
+    event "WEI"
   ]
   edge [
     source 1376
     target 1378
     weight 1
+    event "WEI"
   ]
   edge [
     source 1376
     target 1379
     weight 1
+    event "WEI"
   ]
   edge [
     source 1377
     target 1378
     weight 1
+    event "WEI"
   ]
   edge [
     source 1377
     target 1379
     weight 1
+    event "WEI"
   ]
   edge [
     source 1378
     target 1379
     weight 1
+    event "WEI"
   ]
   edge [
     source 1382
     target 1383
     weight 2
+    event "WEI"
   ]
   edge [
     source 1382
     target 1384
     weight 1
+    event "WEI"
   ]
   edge [
     source 1382
     target 1385
     weight 1
+    event "WEI"
   ]
   edge [
     source 1382
     target 1429
     weight 1
+    event "WEI"
   ]
   edge [
     source 1382
     target 1430
     weight 1
+    event "WEI"
   ]
   edge [
     source 1382
     target 1463
     weight 1
+    event "WEI"
   ]
   edge [
     source 1382
     target 1464
     weight 1
+    event "WEI"
   ]
   edge [
     source 1383
     target 1384
     weight 1
+    event "WEI"
   ]
   edge [
     source 1383
     target 1385
     weight 1
+    event "WEI"
   ]
   edge [
     source 1383
     target 1463
     weight 1
+    event "WEI"
   ]
   edge [
     source 1383
     target 1464
     weight 1
+    event "WEI"
   ]
   edge [
     source 1384
     target 1385
     weight 1
+    event "WEI"
   ]
   edge [
     source 1384
     target 1741
     weight 1
+    event "WEI"
   ]
   edge [
     source 1386
     target 1387
     weight 1
+    event "WEI"
   ]
   edge [
     source 1386
     target 1388
     weight 1
+    event "WEI"
   ]
   edge [
     source 1386
     target 1389
     weight 1
+    event "WEI"
   ]
   edge [
     source 1386
     target 1390
     weight 1
+    event "WEI"
   ]
   edge [
     source 1387
     target 1388
     weight 1
+    event "WEI"
   ]
   edge [
     source 1387
     target 1389
     weight 1
+    event "WEI"
   ]
   edge [
     source 1387
     target 1390
     weight 1
+    event "WEI"
   ]
   edge [
     source 1388
     target 1389
     weight 3
+    event "WEI"
   ]
   edge [
     source 1388
     target 1390
     weight 2
+    event "WEI"
   ]
   edge [
     source 1388
     target 1767
     weight 1
+    event "WEI"
   ]
   edge [
     source 1388
     target 1949
     weight 1
+    event "WEI"
   ]
   edge [
     source 1389
     target 1390
     weight 2
+    event "WEI"
   ]
   edge [
     source 1389
     target 1767
     weight 1
+    event "WEI"
   ]
   edge [
     source 1389
     target 1949
     weight 1
+    event "WEI"
   ]
   edge [
     source 1390
     target 1767
     weight 1
+    event "WEI"
   ]
   edge [
     source 1392
     target 1393
     weight 2
+    event "WEI"
   ]
   edge [
     source 1392
     target 1394
     weight 2
+    event "WEI"
   ]
   edge [
     source 1392
     target 4394
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1392
     target 4390
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1392
     target 4345
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 1392
     target 4128
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1393
     target 1394
     weight 1
+    event "WEI"
   ]
   edge [
     source 1393
     target 4394
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1393
     target 4390
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1393
     target 4345
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4505
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4506
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4507
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4508
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4509
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4510
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4228
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4517
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4345
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1394
     target 4128
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1395
     target 1396
     weight 1
+    event "WEI"
   ]
   edge [
     source 1397
     target 1398
     weight 1
+    event "WEI"
   ]
   edge [
     source 1397
     target 1399
     weight 1
+    event "WEI"
   ]
   edge [
     source 1397
     target 1400
     weight 1
+    event "WEI"
   ]
   edge [
     source 1397
     target 1401
     weight 1
+    event "WEI"
   ]
   edge [
     source 1397
     target 1402
     weight 1
+    event "WEI"
   ]
   edge [
     source 1398
     target 1399
     weight 1
+    event "WEI"
   ]
   edge [
     source 1398
     target 1400
     weight 1
+    event "WEI"
   ]
   edge [
     source 1398
     target 1401
     weight 1
+    event "WEI"
   ]
   edge [
     source 1398
     target 1402
     weight 1
+    event "WEI"
   ]
   edge [
     source 1399
     target 1400
     weight 1
+    event "WEI"
   ]
   edge [
     source 1399
     target 1401
     weight 1
+    event "WEI"
   ]
   edge [
     source 1399
     target 1402
     weight 1
+    event "WEI"
   ]
   edge [
     source 1400
     target 1401
     weight 1
+    event "WEI"
   ]
   edge [
     source 1400
     target 1402
     weight 1
+    event "WEI"
   ]
   edge [
     source 1401
     target 1402
     weight 1
+    event "WEI"
   ]
   edge [
     source 1403
     target 1404
     weight 1
+    event "WEI"
   ]
   edge [
     source 1403
     target 1405
     weight 1
+    event "WEI"
   ]
   edge [
     source 1403
     target 1406
     weight 1
+    event "WEI"
   ]
   edge [
     source 1404
     target 1405
     weight 1
+    event "WEI"
   ]
   edge [
     source 1404
     target 1406
     weight 1
+    event "WEI"
   ]
   edge [
     source 1404
     target 1799
     weight 1
+    event "WEI"
   ]
   edge [
     source 1405
     target 1406
     weight 1
+    event "WEI"
   ]
   edge [
     source 1407
     target 1408
     weight 1
+    event "WEI"
   ]
   edge [
     source 1407
     target 1409
     weight 1
+    event "WEI"
   ]
   edge [
     source 1408
     target 1409
     weight 1
+    event "WEI"
   ]
   edge [
     source 1409
     target 1923
     weight 1
+    event "WEI"
   ]
   edge [
     source 1409
     target 1924
     weight 1
+    event "WEI"
   ]
   edge [
     source 1410
     target 1411
     weight 1
+    event "WEI"
   ]
   edge [
     source 1410
     target 1412
     weight 1
+    event "WEI"
   ]
   edge [
     source 1410
     target 1413
     weight 1
+    event "WEI"
   ]
   edge [
     source 1410
     target 1414
     weight 1
+    event "WEI"
   ]
   edge [
     source 1410
     target 1415
     weight 1
+    event "WEI"
   ]
   edge [
     source 1411
     target 1412
     weight 1
+    event "WEI"
   ]
   edge [
     source 1411
     target 1413
     weight 1
+    event "WEI"
   ]
   edge [
     source 1411
     target 1414
     weight 1
+    event "WEI"
   ]
   edge [
     source 1411
     target 1415
     weight 2
+    event "WEI"
   ]
   edge [
     source 1411
     target 1548
     weight 1
+    event "WEI"
   ]
   edge [
     source 1411
     target 1549
     weight 1
+    event "WEI"
   ]
   edge [
     source 1411
     target 1486
     weight 1
+    event "WEI"
   ]
   edge [
     source 1411
     target 1550
     weight 1
+    event "WEI"
   ]
   edge [
     source 1411
     target 1551
     weight 1
+    event "WEI"
   ]
   edge [
     source 1412
     target 1413
     weight 1
+    event "WEI"
   ]
   edge [
     source 1412
     target 1414
     weight 2
+    event "WEI"
   ]
   edge [
     source 1412
     target 1415
     weight 1
+    event "WEI"
   ]
   edge [
     source 1412
     target 1534
     weight 1
+    event "WEI"
   ]
   edge [
     source 1412
     target 1535
     weight 1
+    event "WEI"
   ]
   edge [
     source 1412
     target 1536
     weight 1
+    event "WEI"
   ]
   edge [
     source 1412
     target 1537
     weight 1
+    event "WEI"
   ]
   edge [
     source 1412
     target 1538
     weight 1
+    event "WEI"
   ]
   edge [
     source 1413
     target 1414
     weight 1
+    event "WEI"
   ]
   edge [
     source 1413
     target 1415
     weight 1
+    event "WEI"
   ]
   edge [
     source 1414
     target 1415
     weight 1
+    event "WEI"
   ]
   edge [
     source 1414
     target 1534
     weight 1
+    event "WEI"
   ]
   edge [
     source 1414
     target 1535
     weight 1
+    event "WEI"
   ]
   edge [
     source 1414
     target 1536
     weight 1
+    event "WEI"
   ]
   edge [
     source 1414
     target 1537
     weight 1
+    event "WEI"
   ]
   edge [
     source 1414
     target 1538
     weight 1
+    event "WEI"
   ]
   edge [
     source 1415
     target 1548
     weight 1
+    event "WEI"
   ]
   edge [
     source 1415
     target 1549
     weight 1
+    event "WEI"
   ]
   edge [
     source 1415
     target 1486
     weight 1
+    event "WEI"
   ]
   edge [
     source 1415
     target 1550
     weight 1
+    event "WEI"
   ]
   edge [
     source 1415
     target 1551
     weight 1
+    event "WEI"
   ]
   edge [
     source 1416
     target 1417
     weight 1
+    event "WEI"
   ]
   edge [
     source 1418
     target 1419
     weight 1
+    event "WEI"
   ]
   edge [
     source 1418
     target 1420
     weight 1
+    event "WEI"
   ]
   edge [
     source 1419
     target 1420
     weight 2
+    event "WEI"
   ]
   edge [
     source 1419
     target 1543
     weight 1
+    event "WEI"
   ]
   edge [
     source 1419
     target 1544
     weight 1
+    event "WEI"
   ]
   edge [
     source 1420
     target 1543
     weight 1
+    event "WEI"
   ]
   edge [
     source 1420
     target 1544
     weight 1
+    event "WEI"
   ]
   edge [
     source 1421
     target 1422
     weight 1
+    event "WEI"
   ]
   edge [
     source 1421
     target 1423
     weight 1
+    event "WEI"
   ]
   edge [
     source 1422
     target 1423
     weight 1
+    event "WEI"
   ]
   edge [
     source 1424
     target 1425
     weight 1
+    event "WEI"
   ]
   edge [
     source 1424
     target 1636
     weight 1
+    event "WEI"
   ]
   edge [
     source 1424
     target 1637
     weight 1
+    event "WEI"
   ]
   edge [
     source 1424
     target 1638
     weight 1
+    event "WEI"
   ]
   edge [
     source 1426
     target 1427
     weight 1
+    event "WEI"
   ]
   edge [
     source 1426
     target 1428
     weight 1
+    event "WEI"
   ]
   edge [
     source 1426
     target 1563
     weight 1
+    event "WEI"
   ]
   edge [
     source 1426
     target 1564
     weight 1
+    event "WEI"
   ]
   edge [
     source 1426
     target 1565
     weight 1
+    event "WEI"
   ]
   edge [
     source 1426
     target 1566
     weight 1
+    event "WEI"
   ]
   edge [
     source 1427
     target 1428
     weight 1
+    event "WEI"
   ]
   edge [
     source 1429
     target 1430
     weight 1
+    event "WEI"
   ]
   edge [
     source 1431
     target 1432
     weight 1
+    event "WEI"
   ]
   edge [
     source 1431
     target 1433
     weight 1
+    event "WEI"
   ]
   edge [
     source 1432
     target 1433
     weight 1
+    event "WEI"
   ]
   edge [
     source 1434
     target 1435
     weight 1
+    event "WEI"
   ]
   edge [
     source 1434
     target 1436
     weight 1
+    event "WEI"
   ]
   edge [
     source 1435
     target 1436
     weight 1
+    event "WEI"
   ]
   edge [
     source 1437
     target 1438
     weight 1
+    event "WEI"
   ]
   edge [
     source 1437
     target 1439
     weight 1
+    event "WEI"
   ]
   edge [
     source 1438
     target 1439
     weight 1
+    event "WEI"
   ]
   edge [
     source 1438
     target 3532
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1440
     target 1441
     weight 1
+    event "WEI"
   ]
   edge [
     source 1442
     target 1443
     weight 1
+    event "WEI"
   ]
   edge [
     source 1442
     target 1444
     weight 1
+    event "WEI"
   ]
   edge [
     source 1442
     target 1445
     weight 1
+    event "WEI"
   ]
   edge [
     source 1443
     target 1444
     weight 1
+    event "WEI"
   ]
   edge [
     source 1443
     target 1445
     weight 1
+    event "WEI"
   ]
   edge [
     source 1444
     target 1445
     weight 1
+    event "WEI"
   ]
   edge [
     source 1446
     target 4321
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1446
     target 4322
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1447
     target 1448
     weight 1
+    event "WEI"
   ]
   edge [
     source 1450
     target 1451
     weight 1
+    event "WEI"
   ]
   edge [
     source 1450
     target 1452
     weight 1
+    event "WEI"
   ]
   edge [
     source 1450
     target 1453
     weight 1
+    event "WEI"
   ]
   edge [
     source 1451
     target 1452
     weight 1
+    event "WEI"
   ]
   edge [
     source 1451
     target 1453
     weight 1
+    event "WEI"
   ]
   edge [
     source 1452
     target 1453
     weight 1
+    event "WEI"
   ]
   edge [
     source 1453
     target 1714
     weight 2
+    event "WEI"
   ]
   edge [
     source 1453
     target 1717
     weight 1
+    event "WEI"
   ]
   edge [
     source 1453
     target 1718
     weight 1
+    event "WEI"
   ]
   edge [
     source 1454
     target 1455
     weight 1
+    event "WEI"
   ]
   edge [
     source 1454
     target 1456
     weight 1
+    event "WEI"
   ]
   edge [
     source 1455
     target 1456
     weight 1
+    event "WEI"
   ]
   edge [
     source 1457
     target 1458
     weight 1
+    event "WEI"
   ]
   edge [
     source 1457
     target 1459
     weight 1
+    event "WEI"
   ]
   edge [
     source 1458
     target 1459
     weight 1
+    event "WEI"
   ]
   edge [
     source 1459
     target 1506
     weight 1
+    event "WEI"
   ]
   edge [
     source 1459
     target 1602
     weight 1
+    event "WEI"
   ]
   edge [
     source 1459
     target 1603
     weight 1
+    event "WEI"
   ]
   edge [
     source 1459
     target 1604
     weight 5
+    event "WEI"
   ]
   edge [
     source 1459
     target 1605
     weight 1
+    event "WEI"
   ]
   edge [
     source 1459
     target 2035
     weight 1
+    event "WEI"
   ]
   edge [
     source 1459
     target 2195
     weight 1
+    event "WEI"
   ]
   edge [
     source 1459
     target 2196
     weight 1
+    event "WEI"
   ]
   edge [
     source 1459
     target 2299
     weight 1
+    event "WEI"
   ]
   edge [
     source 1460
     target 1461
     weight 1
+    event "WEI"
   ]
   edge [
     source 1461
     target 2426
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1461
     target 2449
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1461
     target 2450
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1463
     target 1464
     weight 1
+    event "WEI"
   ]
   edge [
     source 1464
     target 3223
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1465
     target 1466
     weight 1
+    event "WEI"
   ]
   edge [
     source 1465
     target 1467
     weight 1
+    event "WEI"
   ]
   edge [
     source 1465
     target 1468
     weight 1
+    event "WEI"
   ]
   edge [
     source 1465
     target 1469
     weight 1
+    event "WEI"
   ]
   edge [
     source 1466
     target 1467
     weight 1
+    event "WEI"
   ]
   edge [
     source 1466
     target 1468
     weight 1
+    event "WEI"
   ]
   edge [
     source 1466
     target 1469
     weight 1
+    event "WEI"
   ]
   edge [
     source 1467
     target 1468
     weight 1
+    event "WEI"
   ]
   edge [
     source 1467
     target 1469
     weight 1
+    event "WEI"
   ]
   edge [
     source 1468
     target 1469
     weight 1
+    event "WEI"
   ]
   edge [
     source 1469
     target 2594
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1469
     target 2541
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 1469
     target 2595
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1469
     target 3025
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 1469
     target 3477
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1469
     target 3478
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1469
     target 2556
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 1469
     target 3479
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1469
     target 3480
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 1469
     target 4118
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4119
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4209
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4185
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4210
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4231
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4232
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4304
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4305
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4306
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4354
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4355
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 2814
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4356
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4433
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4434
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4435
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4461
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4462
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4485
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1469
     target 4486
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1470
     target 1471
     weight 1
+    event "WEI"
   ]
   edge [
     source 1472
     target 1473
     weight 1
+    event "WEI"
   ]
   edge [
     source 1472
     target 1474
     weight 1
+    event "WEI"
   ]
   edge [
     source 1473
     target 1474
     weight 1
+    event "WEI"
   ]
   edge [
     source 1473
     target 1894
     weight 1
+    event "WEI"
   ]
   edge [
     source 1475
     target 1476
     weight 1
+    event "WEI"
   ]
   edge [
     source 1475
     target 1477
     weight 1
+    event "WEI"
   ]
   edge [
     source 1475
     target 1478
     weight 1
+    event "WEI"
   ]
   edge [
     source 1475
     target 1479
     weight 1
+    event "WEI"
   ]
   edge [
     source 1475
     target 1644
     weight 2
+    event "WEI"
   ]
   edge [
     source 1475
     target 1645
     weight 2
+    event "WEI"
   ]
   edge [
     source 1475
     target 1646
     weight 1
+    event "WEI"
   ]
   edge [
     source 1475
     target 1647
     weight 2
+    event "WEI"
   ]
   edge [
     source 1475
     target 1938
     weight 1
+    event "WEI"
   ]
   edge [
     source 1475
     target 2891
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2892
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2893
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2882
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2903
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2904
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2905
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2883
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2906
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2926
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1475
     target 2880
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1476
     target 1477
     weight 1
+    event "WEI"
   ]
   edge [
     source 1476
     target 1478
     weight 1
+    event "WEI"
   ]
   edge [
     source 1476
     target 1479
     weight 1
+    event "WEI"
   ]
   edge [
     source 1477
     target 1478
     weight 1
+    event "WEI"
   ]
   edge [
     source 1477
     target 1479
     weight 1
+    event "WEI"
   ]
   edge [
     source 1478
     target 1479
     weight 1
+    event "WEI"
   ]
   edge [
     source 1478
     target 1607
     weight 1
+    event "WEI"
   ]
   edge [
     source 1478
     target 1608
     weight 1
+    event "WEI"
   ]
   edge [
     source 1478
     target 1609
     weight 1
+    event "WEI"
   ]
   edge [
     source 1478
     target 1610
     weight 2
+    event "WEI"
   ]
   edge [
     source 1478
     target 1656
     weight 1
+    event "WEI"
   ]
   edge [
     source 1478
     target 1657
     weight 2
+    event "WEI"
   ]
   edge [
     source 1478
     target 1701
     weight 1
+    event "WEI"
   ]
   edge [
     source 1478
     target 1702
     weight 1
+    event "WEI"
   ]
   edge [
     source 1479
     target 2807
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2808
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2809
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2810
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2811
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2812
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2864
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2876
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2940
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2941
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 1702
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1479
     target 2942
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1480
     target 1481
     weight 1
+    event "WEI"
   ]
   edge [
     source 1480
     target 1482
     weight 1
+    event "WEI"
   ]
   edge [
     source 1480
     target 1483
     weight 1
+    event "WEI"
   ]
   edge [
     source 1481
     target 1482
     weight 1
+    event "WEI"
   ]
   edge [
     source 1481
     target 1483
     weight 1
+    event "WEI"
   ]
   edge [
     source 1482
     target 1483
     weight 1
+    event "WEI"
   ]
   edge [
     source 1484
     target 1485
     weight 1
+    event "WEI"
   ]
   edge [
     source 1484
     target 1486
     weight 1
+    event "WEI"
   ]
   edge [
     source 1484
     target 1487
     weight 1
+    event "WEI"
   ]
   edge [
     source 1484
     target 1488
     weight 1
+    event "WEI"
   ]
   edge [
     source 1485
     target 1486
     weight 1
+    event "WEI"
   ]
   edge [
     source 1485
     target 1487
     weight 1
+    event "WEI"
   ]
   edge [
     source 1485
     target 1488
     weight 1
+    event "WEI"
   ]
   edge [
     source 1485
     target 2504
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1485
     target 2505
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1485
     target 2506
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1486
     target 1487
     weight 1
+    event "WEI"
   ]
   edge [
     source 1486
     target 1488
     weight 1
+    event "WEI"
   ]
   edge [
     source 1486
     target 1548
     weight 1
+    event "WEI"
   ]
   edge [
     source 1486
     target 1549
     weight 1
+    event "WEI"
   ]
   edge [
     source 1486
     target 1550
     weight 1
+    event "WEI"
   ]
   edge [
     source 1486
     target 1551
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1488
     weight 3
+    event "WEI"
   ]
   edge [
     source 1487
     target 1541
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1542
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1639
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1640
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1641
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1642
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1643
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1689
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1690
     weight 1
+    event "WEI"
   ]
   edge [
     source 1487
     target 1691
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1541
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1542
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1552
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1553
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1554
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1555
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1689
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1690
     weight 1
+    event "WEI"
   ]
   edge [
     source 1488
     target 1691
     weight 1
+    event "WEI"
   ]
   edge [
     source 1490
     target 1491
     weight 1
+    event "WEI"
   ]
   edge [
     source 1490
     target 1492
     weight 1
+    event "WEI"
   ]
   edge [
     source 1490
     target 1493
     weight 1
+    event "WEI"
   ]
   edge [
     source 1490
     target 1494
     weight 1
+    event "WEI"
   ]
   edge [
     source 1490
     target 1506
     weight 1
+    event "WEI"
   ]
   edge [
     source 1490
     target 1507
     weight 1
+    event "WEI"
   ]
   edge [
     source 1490
     target 2162
     weight 1
+    event "WEI"
   ]
   edge [
     source 1491
     target 1492
     weight 1
+    event "WEI"
   ]
   edge [
     source 1491
     target 1493
     weight 1
+    event "WEI"
   ]
   edge [
     source 1491
     target 1494
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 1493
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 1494
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 1681
     weight 2
+    event "WEI"
   ]
   edge [
     source 1492
     target 1682
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 1683
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 1684
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 1783
     weight 2
+    event "WEI"
   ]
   edge [
     source 1492
     target 1784
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 1785
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 2090
     weight 1
+    event "WEI"
   ]
   edge [
     source 1492
     target 2091
     weight 2
+    event "WEI"
   ]
   edge [
     source 1493
     target 1494
     weight 1
+    event "WEI"
   ]
   edge [
     source 1493
     target 1898
     weight 1
+    event "WEI"
   ]
   edge [
     source 1493
     target 1899
     weight 1
+    event "WEI"
   ]
   edge [
     source 1495
     target 1496
     weight 1
+    event "WEI"
   ]
   edge [
     source 1497
     target 1498
     weight 1
+    event "WEI"
   ]
   edge [
     source 1497
     target 1499
     weight 1
+    event "WEI"
   ]
   edge [
     source 1498
     target 1499
     weight 1
+    event "WEI"
   ]
   edge [
     source 1501
     target 1502
     weight 1
+    event "WEI"
   ]
   edge [
     source 1501
     target 1503
     weight 1
+    event "WEI"
   ]
   edge [
     source 1501
     target 1504
     weight 1
+    event "WEI"
   ]
   edge [
     source 1501
     target 1505
     weight 1
+    event "WEI"
   ]
   edge [
     source 1502
     target 1503
     weight 2
+    event "WEI"
   ]
   edge [
     source 1502
     target 1504
     weight 2
+    event "WEI"
   ]
   edge [
     source 1502
     target 1505
     weight 1
+    event "WEI"
   ]
   edge [
     source 1502
     target 1792
     weight 1
+    event "WEI"
   ]
   edge [
     source 1502
     target 1793
     weight 1
+    event "WEI"
   ]
   edge [
     source 1502
     target 1794
     weight 1
+    event "WEI"
   ]
   edge [
     source 1502
     target 1795
     weight 1
+    event "WEI"
   ]
   edge [
     source 1502
     target 1796
     weight 1
+    event "WEI"
   ]
   edge [
     source 1503
     target 1504
     weight 2
+    event "WEI"
   ]
   edge [
     source 1503
     target 1505
     weight 1
+    event "WEI"
   ]
   edge [
     source 1503
     target 1669
     weight 1
+    event "WEI"
   ]
   edge [
     source 1503
     target 1670
     weight 1
+    event "WEI"
   ]
   edge [
     source 1504
     target 1505
     weight 1
+    event "WEI"
   ]
   edge [
     source 1506
     target 1507
     weight 1
+    event "WEI"
   ]
   edge [
     source 1506
     target 1602
     weight 1
+    event "WEI"
   ]
   edge [
     source 1506
     target 1603
     weight 1
+    event "WEI"
   ]
   edge [
     source 1506
     target 1604
     weight 1
+    event "WEI"
   ]
   edge [
     source 1506
     target 1605
     weight 1
+    event "WEI"
   ]
   edge [
     source 1508
     target 1509
     weight 2
+    event "WEI"
   ]
   edge [
     source 1508
     target 1510
     weight 2
+    event "WEI"
   ]
   edge [
     source 1509
     target 1510
     weight 2
+    event "WEI"
   ]
   edge [
     source 1511
     target 1512
     weight 1
+    event "WEI"
   ]
   edge [
     source 1511
     target 1513
     weight 1
+    event "WEI"
   ]
   edge [
     source 1511
     target 1692
     weight 1
+    event "WEI"
   ]
   edge [
     source 1511
     target 1693
     weight 1
+    event "WEI"
   ]
   edge [
     source 1511
     target 1698
     weight 1
+    event "WEI"
   ]
   edge [
     source 1511
     target 1699
     weight 1
+    event "WEI"
   ]
   edge [
     source 1511
     target 1700
     weight 1
+    event "WEI"
   ]
   edge [
     source 1512
     target 1513
     weight 1
+    event "WEI"
   ]
   edge [
     source 1514
     target 1515
     weight 1
+    event "WEI"
   ]
   edge [
     source 1514
     target 1516
     weight 1
+    event "WEI"
   ]
   edge [
     source 1514
     target 1517
     weight 1
+    event "WEI"
   ]
   edge [
     source 1515
     target 1516
     weight 1
+    event "WEI"
   ]
   edge [
     source 1515
     target 1517
     weight 1
+    event "WEI"
   ]
   edge [
     source 1516
     target 1517
     weight 1
+    event "WEI"
   ]
   edge [
     source 1517
     target 1878
     weight 1
+    event "WEI"
   ]
   edge [
     source 1517
     target 1879
     weight 1
+    event "WEI"
   ]
   edge [
     source 1517
     target 1880
     weight 1
+    event "WEI"
   ]
   edge [
     source 1517
     target 1881
     weight 1
+    event "WEI"
   ]
   edge [
     source 1517
     target 1882
     weight 1
+    event "WEI"
   ]
   edge [
     source 1517
     target 1883
     weight 1
+    event "WEI"
   ]
   edge [
     source 1517
     target 1884
     weight 1
+    event "WEI"
   ]
   edge [
     source 1517
     target 1997
     weight 1
+    event "WEI"
   ]
   edge [
     source 1518
     target 1519
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1521
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1522
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1523
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1804
     weight 2
+    event "WEI"
   ]
   edge [
     source 1520
     target 1805
     weight 2
+    event "WEI"
   ]
   edge [
     source 1520
     target 1853
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1854
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1855
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1861
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1937
     weight 4
+    event "WEI"
   ]
   edge [
     source 1520
     target 1947
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 1948
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 2088
     weight 1
+    event "WEI"
   ]
   edge [
     source 1520
     target 2089
     weight 2
+    event "WEI"
   ]
   edge [
     source 1520
     target 2095
     weight 1
+    event "WEI"
   ]
   edge [
     source 1521
     target 1522
     weight 1
+    event "WEI"
   ]
   edge [
     source 1521
     target 1523
     weight 1
+    event "WEI"
   ]
   edge [
     source 1521
     target 2418
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1521
     target 2419
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1522
     target 1523
     weight 1
+    event "WEI"
   ]
   edge [
     source 1524
     target 1525
     weight 1
+    event "WEI"
   ]
   edge [
     source 1524
     target 1526
     weight 1
+    event "WEI"
   ]
   edge [
     source 1525
     target 1526
     weight 1
+    event "WEI"
   ]
   edge [
     source 1527
     target 1528
     weight 1
+    event "WEI"
   ]
   edge [
     source 1527
     target 1529
     weight 1
+    event "WEI"
   ]
   edge [
     source 1528
     target 1529
     weight 1
+    event "WEI"
   ]
   edge [
     source 1530
     target 1531
     weight 1
+    event "WEI"
   ]
   edge [
     source 1530
     target 1532
     weight 1
+    event "WEI"
   ]
   edge [
     source 1530
     target 1533
     weight 1
+    event "WEI"
   ]
   edge [
     source 1531
     target 1532
     weight 1
+    event "WEI"
   ]
   edge [
     source 1531
     target 1533
     weight 1
+    event "WEI"
   ]
   edge [
     source 1532
     target 1533
     weight 1
+    event "WEI"
   ]
   edge [
     source 1534
     target 1535
     weight 1
+    event "WEI"
   ]
   edge [
     source 1534
     target 1536
     weight 1
+    event "WEI"
   ]
   edge [
     source 1534
     target 1537
     weight 1
+    event "WEI"
   ]
   edge [
     source 1534
     target 1538
     weight 1
+    event "WEI"
   ]
   edge [
     source 1535
     target 1536
     weight 1
+    event "WEI"
   ]
   edge [
     source 1535
     target 1537
     weight 1
+    event "WEI"
   ]
   edge [
     source 1535
     target 1538
     weight 1
+    event "WEI"
   ]
   edge [
     source 1536
     target 1537
     weight 1
+    event "WEI"
   ]
   edge [
     source 1536
     target 1538
     weight 1
+    event "WEI"
   ]
   edge [
     source 1537
     target 1538
     weight 1
+    event "WEI"
   ]
   edge [
     source 1539
     target 1540
     weight 1
+    event "WEI"
   ]
   edge [
     source 1541
     target 1542
     weight 1
+    event "WEI"
   ]
   edge [
     source 1543
     target 1544
     weight 1
+    event "WEI"
   ]
   edge [
     source 1545
     target 1546
     weight 1
+    event "WEI"
   ]
   edge [
     source 1545
     target 1547
     weight 1
+    event "WEI"
   ]
   edge [
     source 1546
     target 1547
     weight 1
+    event "WEI"
   ]
   edge [
     source 1548
     target 1549
     weight 1
+    event "WEI"
   ]
   edge [
     source 1548
     target 1550
     weight 1
+    event "WEI"
   ]
   edge [
     source 1548
     target 1551
     weight 1
+    event "WEI"
   ]
   edge [
     source 1549
     target 1550
     weight 1
+    event "WEI"
   ]
   edge [
     source 1549
     target 1551
     weight 1
+    event "WEI"
   ]
   edge [
     source 1550
     target 1551
     weight 1
+    event "WEI"
   ]
   edge [
     source 1552
     target 1553
     weight 1
+    event "WEI"
   ]
   edge [
     source 1552
     target 1554
     weight 1
+    event "WEI"
   ]
   edge [
     source 1552
     target 1555
     weight 1
+    event "WEI"
   ]
   edge [
     source 1553
     target 1554
     weight 1
+    event "WEI"
   ]
   edge [
     source 1553
     target 1555
     weight 1
+    event "WEI"
   ]
   edge [
     source 1554
     target 1555
     weight 1
+    event "WEI"
   ]
   edge [
     source 1556
     target 1557
     weight 1
+    event "WEI"
   ]
   edge [
     source 1556
     target 1558
     weight 1
+    event "WEI"
   ]
   edge [
     source 1556
     target 1559
     weight 1
+    event "WEI"
   ]
   edge [
     source 1557
     target 1558
     weight 1
+    event "WEI"
   ]
   edge [
     source 1557
     target 1559
     weight 1
+    event "WEI"
   ]
   edge [
     source 1558
     target 1559
     weight 1
+    event "WEI"
   ]
   edge [
     source 1560
     target 1561
     weight 1
+    event "WEI"
   ]
   edge [
     source 1563
     target 1564
     weight 1
+    event "WEI"
   ]
   edge [
     source 1563
     target 1565
     weight 1
+    event "WEI"
   ]
   edge [
     source 1563
     target 1566
     weight 1
+    event "WEI"
   ]
   edge [
     source 1564
     target 1565
     weight 1
+    event "WEI"
   ]
   edge [
     source 1564
     target 1566
     weight 1
+    event "WEI"
   ]
   edge [
     source 1565
     target 1566
     weight 1
+    event "WEI"
   ]
   edge [
     source 1567
     target 1568
     weight 1
+    event "WEI"
   ]
   edge [
     source 1567
     target 1569
     weight 1
+    event "WEI"
   ]
   edge [
     source 1568
     target 1569
     weight 1
+    event "WEI"
   ]
   edge [
     source 1571
     target 1572
     weight 1
+    event "WEI"
   ]
   edge [
     source 1571
     target 1573
     weight 1
+    event "WEI"
   ]
   edge [
     source 1572
     target 1573
     weight 1
+    event "WEI"
   ]
   edge [
     source 1572
     target 2129
     weight 1
+    event "WEI"
   ]
   edge [
     source 1572
     target 2130
     weight 1
+    event "WEI"
   ]
   edge [
     source 1572
     target 2131
     weight 1
+    event "WEI"
   ]
   edge [
     source 1572
     target 2000
     weight 1
+    event "WEI"
   ]
   edge [
     source 1572
     target 4452
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1572
     target 4453
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1575
     target 1576
     weight 1
+    event "WEI"
   ]
   edge [
     source 1577
     target 1578
     weight 1
+    event "WEI"
   ]
   edge [
     source 1577
     target 1579
     weight 1
+    event "WEI"
   ]
   edge [
     source 1577
     target 1580
     weight 1
+    event "WEI"
   ]
   edge [
     source 1577
     target 1581
     weight 1
+    event "WEI"
   ]
   edge [
     source 1578
     target 1579
     weight 1
+    event "WEI"
   ]
   edge [
     source 1578
     target 1580
     weight 1
+    event "WEI"
   ]
   edge [
     source 1578
     target 1581
     weight 1
+    event "WEI"
   ]
   edge [
     source 1579
     target 1580
     weight 1
+    event "WEI"
   ]
   edge [
     source 1579
     target 1581
     weight 1
+    event "WEI"
   ]
   edge [
     source 1579
     target 2541
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1579
     target 2542
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1579
     target 2543
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1579
     target 2544
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1580
     target 1581
     weight 1
+    event "WEI"
   ]
   edge [
     source 1581
     target 1593
     weight 1
+    event "WEI"
   ]
   edge [
     source 1581
     target 1594
     weight 1
+    event "WEI"
   ]
   edge [
     source 1582
     target 1583
     weight 1
+    event "WEI"
   ]
   edge [
     source 1584
     target 1585
     weight 1
+    event "WEI"
   ]
   edge [
     source 1584
     target 1586
     weight 1
+    event "WEI"
   ]
   edge [
     source 1584
     target 1587
     weight 1
+    event "WEI"
   ]
   edge [
     source 1585
     target 1586
     weight 1
+    event "WEI"
   ]
   edge [
     source 1585
     target 1587
     weight 1
+    event "WEI"
   ]
   edge [
     source 1586
     target 1587
     weight 1
+    event "WEI"
   ]
   edge [
     source 1588
     target 1589
     weight 1
+    event "WEI"
   ]
   edge [
     source 1590
     target 1591
     weight 1
+    event "WEI"
   ]
   edge [
     source 1590
     target 1592
     weight 1
+    event "WEI"
   ]
   edge [
     source 1591
     target 1592
     weight 1
+    event "WEI"
   ]
   edge [
     source 1593
     target 1594
     weight 1
+    event "WEI"
   ]
   edge [
     source 1595
     target 1596
     weight 1
+    event "WEI"
   ]
   edge [
     source 1595
     target 1671
     weight 1
+    event "WEI"
   ]
   edge [
     source 1598
     target 1599
     weight 1
+    event "WEI"
   ]
   edge [
     source 1600
     target 1601
     weight 1
+    event "WEI"
   ]
   edge [
     source 1602
     target 1603
     weight 1
+    event "WEI"
   ]
   edge [
     source 1602
     target 1604
     weight 1
+    event "WEI"
   ]
   edge [
     source 1602
     target 1605
     weight 1
+    event "WEI"
   ]
   edge [
     source 1603
     target 1604
     weight 1
+    event "WEI"
   ]
   edge [
     source 1603
     target 1605
     weight 1
+    event "WEI"
   ]
   edge [
     source 1603
     target 1868
     weight 2
+    event "WEI"
   ]
   edge [
     source 1604
     target 1605
     weight 1
+    event "WEI"
   ]
   edge [
     source 1604
     target 2195
     weight 1
+    event "WEI"
   ]
   edge [
     source 1604
     target 2196
     weight 1
+    event "WEI"
   ]
   edge [
     source 1604
     target 2299
     weight 1
+    event "WEI"
   ]
   edge [
     source 1607
     target 1608
     weight 1
+    event "WEI"
   ]
   edge [
     source 1607
     target 1609
     weight 1
+    event "WEI"
   ]
   edge [
     source 1607
     target 1610
     weight 1
+    event "WEI"
   ]
   edge [
     source 1608
     target 1609
     weight 1
+    event "WEI"
   ]
   edge [
     source 1608
     target 1610
     weight 1
+    event "WEI"
   ]
   edge [
     source 1609
     target 1610
     weight 1
+    event "WEI"
   ]
   edge [
     source 1610
     target 1656
     weight 1
+    event "WEI"
   ]
   edge [
     source 1610
     target 1657
     weight 1
+    event "WEI"
   ]
   edge [
     source 1610
     target 1665
     weight 1
+    event "WEI"
   ]
   edge [
     source 1611
     target 1612
     weight 1
+    event "WEI"
   ]
   edge [
     source 1611
     target 1613
     weight 1
+    event "WEI"
   ]
   edge [
     source 1611
     target 1614
     weight 1
+    event "WEI"
   ]
   edge [
     source 1611
     target 1615
     weight 1
+    event "WEI"
   ]
   edge [
     source 1611
     target 1616
     weight 1
+    event "WEI"
   ]
   edge [
     source 1611
     target 1617
     weight 1
+    event "WEI"
   ]
   edge [
     source 1612
     target 1613
     weight 1
+    event "WEI"
   ]
   edge [
     source 1612
     target 1614
     weight 1
+    event "WEI"
   ]
   edge [
     source 1612
     target 1615
     weight 1
+    event "WEI"
   ]
   edge [
     source 1612
     target 1616
     weight 1
+    event "WEI"
   ]
   edge [
     source 1612
     target 1617
     weight 1
+    event "WEI"
   ]
   edge [
     source 1613
     target 1614
     weight 1
+    event "WEI"
   ]
   edge [
     source 1613
     target 1615
     weight 1
+    event "WEI"
   ]
   edge [
     source 1613
     target 1616
     weight 1
+    event "WEI"
   ]
   edge [
     source 1613
     target 1617
     weight 1
+    event "WEI"
   ]
   edge [
     source 1614
     target 1615
     weight 1
+    event "WEI"
   ]
   edge [
     source 1614
     target 1616
     weight 1
+    event "WEI"
   ]
   edge [
     source 1614
     target 1617
     weight 1
+    event "WEI"
   ]
   edge [
     source 1615
     target 1616
     weight 1
+    event "WEI"
   ]
   edge [
     source 1615
     target 1617
     weight 1
+    event "WEI"
   ]
   edge [
     source 1616
     target 1617
     weight 1
+    event "WEI"
   ]
   edge [
     source 1618
     target 1619
     weight 1
+    event "WEI"
   ]
   edge [
     source 1618
     target 1620
     weight 4
+    event "WEI"
   ]
   edge [
     source 1618
     target 1621
     weight 1
+    event "WEI"
   ]
   edge [
     source 1618
     target 1756
     weight 1
+    event "WEI"
   ]
   edge [
     source 1618
     target 1873
     weight 1
+    event "WEI"
   ]
   edge [
     source 1619
     target 1620
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 1621
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 1756
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 1873
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 2105
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 2106
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 2107
     weight 3
+    event "WEI"
   ]
   edge [
     source 1620
     target 2108
     weight 2
+    event "WEI"
   ]
   edge [
     source 1620
     target 2115
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 2116
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 2117
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 2118
     weight 1
+    event "WEI"
   ]
   edge [
     source 1620
     target 2323
     weight 1
+    event "WEI"
   ]
   edge [
     source 1622
     target 1623
     weight 1
+    event "WEI"
   ]
   edge [
     source 1622
     target 1624
     weight 1
+    event "WEI"
   ]
   edge [
     source 1623
     target 1624
     weight 1
+    event "WEI"
   ]
   edge [
     source 1624
     target 1839
     weight 1
+    event "WEI"
   ]
   edge [
     source 1624
     target 1840
     weight 1
+    event "WEI"
   ]
   edge [
     source 1624
     target 1841
     weight 1
+    event "WEI"
   ]
   edge [
     source 1624
     target 1842
     weight 1
+    event "WEI"
   ]
   edge [
     source 1625
     target 1626
     weight 1
+    event "WEI"
   ]
   edge [
     source 1625
     target 1627
     weight 1
+    event "WEI"
   ]
   edge [
     source 1625
     target 1628
     weight 1
+    event "WEI"
   ]
   edge [
     source 1625
     target 1629
     weight 1
+    event "WEI"
   ]
   edge [
     source 1626
     target 1627
     weight 1
+    event "WEI"
   ]
   edge [
     source 1626
     target 1628
     weight 1
+    event "WEI"
   ]
   edge [
     source 1626
     target 1629
     weight 1
+    event "WEI"
   ]
   edge [
     source 1627
     target 1628
     weight 1
+    event "WEI"
   ]
   edge [
     source 1627
     target 1629
     weight 1
+    event "WEI"
   ]
   edge [
     source 1628
     target 1629
     weight 1
+    event "WEI"
   ]
   edge [
     source 1630
     target 1631
     weight 1
+    event "WEI"
   ]
   edge [
     source 1630
     target 1632
     weight 1
+    event "WEI"
   ]
   edge [
     source 1631
     target 1632
     weight 1
+    event "WEI"
   ]
   edge [
     source 1633
     target 1634
     weight 1
+    event "WEI"
   ]
   edge [
     source 1633
     target 1635
     weight 1
+    event "WEI"
   ]
   edge [
     source 1634
     target 1635
     weight 1
+    event "WEI"
   ]
   edge [
     source 1636
     target 1637
     weight 1
+    event "WEI"
   ]
   edge [
     source 1636
     target 1638
     weight 1
+    event "WEI"
   ]
   edge [
     source 1636
     target 1660
     weight 1
+    event "WEI"
   ]
   edge [
     source 1636
     target 1661
     weight 1
+    event "WEI"
   ]
   edge [
     source 1636
     target 1662
     weight 1
+    event "WEI"
   ]
   edge [
     source 1636
     target 1663
     weight 1
+    event "WEI"
   ]
   edge [
     source 1636
     target 1664
     weight 1
+    event "WEI"
   ]
   edge [
     source 1637
     target 1638
     weight 1
+    event "WEI"
   ]
   edge [
     source 1639
     target 1640
     weight 1
+    event "WEI"
   ]
   edge [
     source 1639
     target 1641
     weight 1
+    event "WEI"
   ]
   edge [
     source 1639
     target 1642
     weight 1
+    event "WEI"
   ]
   edge [
     source 1639
     target 1643
     weight 1
+    event "WEI"
   ]
   edge [
     source 1640
     target 1641
     weight 1
+    event "WEI"
   ]
   edge [
     source 1640
     target 1642
     weight 1
+    event "WEI"
   ]
   edge [
     source 1640
     target 1643
     weight 1
+    event "WEI"
   ]
   edge [
     source 1641
     target 1642
     weight 1
+    event "WEI"
   ]
   edge [
     source 1641
     target 1643
     weight 1
+    event "WEI"
   ]
   edge [
     source 1642
     target 1643
     weight 1
+    event "WEI"
   ]
   edge [
     source 1644
     target 1645
     weight 2
+    event "WEI"
   ]
   edge [
     source 1644
     target 1646
     weight 1
+    event "WEI"
   ]
   edge [
     source 1644
     target 1647
     weight 2
+    event "WEI"
   ]
   edge [
     source 1644
     target 1938
     weight 1
+    event "WEI"
   ]
   edge [
     source 1645
     target 1646
     weight 1
+    event "WEI"
   ]
   edge [
     source 1645
     target 1647
     weight 4
+    event "WEI"
   ]
   edge [
     source 1645
     target 1938
     weight 3
+    event "WEI"
   ]
   edge [
     source 1645
     target 2033
     weight 1
+    event "WEI"
   ]
   edge [
     source 1645
     target 2034
     weight 2
+    event "WEI"
   ]
   edge [
     source 1645
     target 2045
     weight 1
+    event "WEI"
   ]
   edge [
     source 1646
     target 1647
     weight 1
+    event "WEI"
   ]
   edge [
     source 1647
     target 1938
     weight 3
+    event "WEI"
   ]
   edge [
     source 1647
     target 2033
     weight 1
+    event "WEI"
   ]
   edge [
     source 1647
     target 2034
     weight 2
+    event "WEI"
   ]
   edge [
     source 1647
     target 2045
     weight 1
+    event "WEI"
   ]
   edge [
     source 1647
     target 2186
     weight 1
+    event "WEI"
   ]
   edge [
     source 1648
     target 1649
     weight 2
+    event "WEI"
   ]
   edge [
     source 1650
     target 1651
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 1652
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 1653
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 1654
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 1655
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 2113
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 2114
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 2138
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 2139
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 2140
     weight 1
+    event "WEI"
   ]
   edge [
     source 1650
     target 2141
     weight 1
+    event "WEI"
   ]
   edge [
     source 1651
     target 1652
     weight 1
+    event "WEI"
   ]
   edge [
     source 1651
     target 1653
     weight 1
+    event "WEI"
   ]
   edge [
     source 1651
     target 1654
     weight 1
+    event "WEI"
   ]
   edge [
     source 1651
     target 1655
     weight 1
+    event "WEI"
   ]
   edge [
     source 1652
     target 1653
     weight 1
+    event "WEI"
   ]
   edge [
     source 1652
     target 1654
     weight 1
+    event "WEI"
   ]
   edge [
     source 1652
     target 1655
     weight 1
+    event "WEI"
   ]
   edge [
     source 1653
     target 1654
     weight 1
+    event "WEI"
   ]
   edge [
     source 1653
     target 1655
     weight 1
+    event "WEI"
   ]
   edge [
     source 1654
     target 1655
     weight 1
+    event "WEI"
   ]
   edge [
     source 1656
     target 1657
     weight 1
+    event "WEI"
   ]
   edge [
     source 1657
     target 1701
     weight 1
+    event "WEI"
   ]
   edge [
     source 1657
     target 1702
     weight 1
+    event "WEI"
   ]
   edge [
     source 1658
     target 1659
     weight 1
+    event "WEI"
   ]
   edge [
     source 1660
     target 1661
     weight 1
+    event "WEI"
   ]
   edge [
     source 1660
     target 1662
     weight 1
+    event "WEI"
   ]
   edge [
     source 1660
     target 1663
     weight 1
+    event "WEI"
   ]
   edge [
     source 1660
     target 1664
     weight 1
+    event "WEI"
   ]
   edge [
     source 1661
     target 1662
     weight 1
+    event "WEI"
   ]
   edge [
     source 1661
     target 1663
     weight 1
+    event "WEI"
   ]
   edge [
     source 1661
     target 1664
     weight 1
+    event "WEI"
   ]
   edge [
     source 1661
     target 3757
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1661
     target 2377
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1662
     target 1663
     weight 2
+    event "WEI"
   ]
   edge [
     source 1662
     target 1664
     weight 1
+    event "WEI"
   ]
   edge [
     source 1662
     target 2467
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1662
     target 2468
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1662
     target 2469
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1662
     target 2470
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1662
     target 2471
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1662
     target 1870
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 1664
     weight 1
+    event "WEI"
   ]
   edge [
     source 1663
     target 2385
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2386
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2467
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2468
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2469
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2470
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2471
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 1870
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2473
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2474
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2475
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2476
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2477
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2478
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2521
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2522
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2523
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2524
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2525
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2606
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2631
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2437
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2632
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2633
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 2724
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1663
     target 3784
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 1663
     target 3785
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 1663
     target 3835
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1666
     target 1667
     weight 1
+    event "WEI"
   ]
   edge [
     source 1666
     target 1668
     weight 1
+    event "WEI"
   ]
   edge [
     source 1667
     target 1668
     weight 1
+    event "WEI"
   ]
   edge [
     source 1668
     target 1777
     weight 1
+    event "WEI"
   ]
   edge [
     source 1668
     target 1778
     weight 2
+    event "WEI"
   ]
   edge [
     source 1668
     target 1779
     weight 1
+    event "WEI"
   ]
   edge [
     source 1668
     target 4828
     weight 1
+    event "CTD"
   ]
   edge [
     source 1669
     target 1670
     weight 1
+    event "WEI"
   ]
   edge [
     source 1669
     target 1694
     weight 1
+    event "WEI"
   ]
   edge [
     source 1669
     target 1695
     weight 1
+    event "WEI"
   ]
   edge [
     source 1672
     target 1673
     weight 1
+    event "WEI"
   ]
   edge [
     source 1672
     target 1674
     weight 1
+    event "WEI"
   ]
   edge [
     source 1673
     target 1674
     weight 1
+    event "WEI"
   ]
   edge [
     source 1675
     target 1676
     weight 1
+    event "WEI"
   ]
   edge [
     source 1675
     target 1677
     weight 1
+    event "WEI"
   ]
   edge [
     source 1675
     target 1678
     weight 1
+    event "WEI"
   ]
   edge [
     source 1675
     target 1679
     weight 1
+    event "WEI"
   ]
   edge [
     source 1676
     target 1677
     weight 1
+    event "WEI"
   ]
   edge [
     source 1676
     target 1678
     weight 1
+    event "WEI"
   ]
   edge [
     source 1676
     target 1679
     weight 2
+    event "WEI"
   ]
   edge [
     source 1676
     target 2912
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1676
     target 2913
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1677
     target 1678
     weight 1
+    event "WEI"
   ]
   edge [
     source 1677
     target 1679
     weight 1
+    event "WEI"
   ]
   edge [
     source 1677
     target 3416
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1677
     target 3417
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1677
     target 3418
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1677
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 1678
     target 1679
     weight 1
+    event "WEI"
   ]
   edge [
     source 1679
     target 2912
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1679
     target 2913
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1681
     target 1682
     weight 1
+    event "WEI"
   ]
   edge [
     source 1681
     target 1683
     weight 1
+    event "WEI"
   ]
   edge [
     source 1681
     target 1684
     weight 1
+    event "WEI"
   ]
   edge [
     source 1681
     target 1783
     weight 1
+    event "WEI"
   ]
   edge [
     source 1682
     target 1683
     weight 1
+    event "WEI"
   ]
   edge [
     source 1682
     target 1684
     weight 1
+    event "WEI"
   ]
   edge [
     source 1683
     target 1684
     weight 1
+    event "WEI"
   ]
   edge [
     source 1685
     target 1686
     weight 1
+    event "WEI"
   ]
   edge [
     source 1685
     target 1687
     weight 1
+    event "WEI"
   ]
   edge [
     source 1686
     target 1687
     weight 1
+    event "WEI"
   ]
   edge [
     source 1689
     target 1690
     weight 1
+    event "WEI"
   ]
   edge [
     source 1689
     target 1691
     weight 1
+    event "WEI"
   ]
   edge [
     source 1690
     target 1691
     weight 1
+    event "WEI"
   ]
   edge [
     source 1691
     target 3984
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1691
     target 3985
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1692
     target 1693
     weight 1
+    event "WEI"
   ]
   edge [
     source 1694
     target 1695
     weight 1
+    event "WEI"
   ]
   edge [
     source 1696
     target 1697
     weight 1
+    event "WEI"
   ]
   edge [
     source 1698
     target 1699
     weight 1
+    event "WEI"
   ]
   edge [
     source 1698
     target 1700
     weight 1
+    event "WEI"
   ]
   edge [
     source 1699
     target 1700
     weight 1
+    event "WEI"
   ]
   edge [
     source 1701
     target 1702
     weight 1
+    event "WEI"
   ]
   edge [
     source 1702
     target 2940
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1702
     target 2876
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1702
     target 2941
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1702
     target 2942
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1703
     target 1704
     weight 1
+    event "WEI"
   ]
   edge [
     source 1703
     target 1705
     weight 1
+    event "WEI"
   ]
   edge [
     source 1703
     target 1706
     weight 1
+    event "WEI"
   ]
   edge [
     source 1704
     target 1705
     weight 1
+    event "WEI"
   ]
   edge [
     source 1704
     target 1706
     weight 1
+    event "WEI"
   ]
   edge [
     source 1705
     target 1706
     weight 1
+    event "WEI"
   ]
   edge [
     source 1706
     target 4082
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1706
     target 3673
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1706
     target 4083
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1707
     target 1708
     weight 1
+    event "WEI"
   ]
   edge [
     source 1709
     target 1710
     weight 1
+    event "WEI"
   ]
   edge [
     source 1711
     target 1712
     weight 1
+    event "WEI"
   ]
   edge [
     source 1711
     target 1713
     weight 1
+    event "WEI"
   ]
   edge [
     source 1711
     target 2979
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1711
     target 2980
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1711
     target 2981
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1712
     target 1713
     weight 1
+    event "WEI"
   ]
   edge [
     source 1714
     target 1715
     weight 1
+    event "WEI"
   ]
   edge [
     source 1714
     target 1716
     weight 1
+    event "WEI"
   ]
   edge [
     source 1714
     target 1717
     weight 1
+    event "WEI"
   ]
   edge [
     source 1714
     target 1718
     weight 1
+    event "WEI"
   ]
   edge [
     source 1715
     target 1716
     weight 1
+    event "WEI"
   ]
   edge [
     source 1717
     target 1718
     weight 1
+    event "WEI"
   ]
   edge [
     source 1719
     target 1720
     weight 1
+    event "WEI"
   ]
   edge [
     source 1720
     target 2379
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 2380
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 2381
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 2387
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 2388
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 2389
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 2390
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 2440
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 2367
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1720
     target 3627
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1720
     target 3628
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1720
     target 3629
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1720
     target 3637
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1720
     target 3638
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1721
     target 1722
     weight 1
+    event "WEI"
   ]
   edge [
     source 1721
     target 1723
     weight 1
+    event "WEI"
   ]
   edge [
     source 1722
     target 1723
     weight 1
+    event "WEI"
   ]
   edge [
     source 1724
     target 1725
     weight 1
+    event "WEI"
   ]
   edge [
     source 1724
     target 1726
     weight 1
+    event "WEI"
   ]
   edge [
     source 1725
     target 1726
     weight 1
+    event "WEI"
   ]
   edge [
     source 1727
     target 1728
     weight 1
+    event "WEI"
   ]
   edge [
     source 1727
     target 1729
     weight 1
+    event "WEI"
   ]
   edge [
     source 1727
     target 1730
     weight 1
+    event "WEI"
   ]
   edge [
     source 1727
     target 1986
     weight 1
+    event "WEI"
   ]
   edge [
     source 1727
     target 2280
     weight 1
+    event "WEI"
   ]
   edge [
     source 1727
     target 2281
     weight 1
+    event "WEI"
   ]
   edge [
     source 1728
     target 1729
     weight 1
+    event "WEI"
   ]
   edge [
     source 1728
     target 1730
     weight 1
+    event "WEI"
   ]
   edge [
     source 1729
     target 1730
     weight 1
+    event "WEI"
   ]
   edge [
     source 1731
     target 1732
     weight 1
+    event "WEI"
   ]
   edge [
     source 1733
     target 1734
     weight 1
+    event "WEI"
   ]
   edge [
     source 1733
     target 1735
     weight 1
+    event "WEI"
   ]
   edge [
     source 1733
     target 1736
     weight 1
+    event "WEI"
   ]
   edge [
     source 1734
     target 1735
     weight 1
+    event "WEI"
   ]
   edge [
     source 1734
     target 1736
     weight 1
+    event "WEI"
   ]
   edge [
     source 1735
     target 1736
     weight 1
+    event "WEI"
   ]
   edge [
     source 1736
     target 1954
     weight 1
+    event "WEI"
   ]
   edge [
     source 1736
     target 1993
     weight 1
+    event "WEI"
   ]
   edge [
     source 1736
     target 1994
     weight 1
+    event "WEI"
   ]
   edge [
     source 1736
     target 4625
     weight 1
+    event "CTIC"
   ]
   edge [
     source 1737
     target 1738
     weight 1
+    event "WEI"
   ]
   edge [
     source 1737
     target 1739
     weight 1
+    event "WEI"
   ]
   edge [
     source 1737
     target 1740
     weight 1
+    event "WEI"
   ]
   edge [
     source 1738
     target 1739
     weight 1
+    event "WEI"
   ]
   edge [
     source 1738
     target 1740
     weight 1
+    event "WEI"
   ]
   edge [
     source 1739
     target 1740
     weight 1
+    event "WEI"
   ]
   edge [
     source 1743
     target 1744
     weight 1
+    event "WEI"
   ]
   edge [
     source 1743
     target 1745
     weight 1
+    event "WEI"
   ]
   edge [
     source 1743
     target 1746
     weight 1
+    event "WEI"
   ]
   edge [
     source 1743
     target 1747
     weight 1
+    event "WEI"
   ]
   edge [
     source 1743
     target 1748
     weight 1
+    event "WEI"
   ]
   edge [
     source 1743
     target 1749
     weight 1
+    event "WEI"
   ]
   edge [
     source 1743
     target 1750
     weight 1
+    event "WEI"
   ]
   edge [
     source 1744
     target 1745
     weight 1
+    event "WEI"
   ]
   edge [
     source 1744
     target 1746
     weight 1
+    event "WEI"
   ]
   edge [
     source 1744
     target 1747
     weight 1
+    event "WEI"
   ]
   edge [
     source 1744
     target 1748
     weight 1
+    event "WEI"
   ]
   edge [
     source 1744
     target 1749
     weight 1
+    event "WEI"
   ]
   edge [
     source 1744
     target 1750
     weight 1
+    event "WEI"
   ]
   edge [
     source 1745
     target 1746
     weight 1
+    event "WEI"
   ]
   edge [
     source 1745
     target 1747
     weight 1
+    event "WEI"
   ]
   edge [
     source 1745
     target 1748
     weight 1
+    event "WEI"
   ]
   edge [
     source 1745
     target 1749
     weight 1
+    event "WEI"
   ]
   edge [
     source 1745
     target 1750
     weight 1
+    event "WEI"
   ]
   edge [
     source 1746
     target 1747
     weight 1
+    event "WEI"
   ]
   edge [
     source 1746
     target 1748
     weight 1
+    event "WEI"
   ]
   edge [
     source 1746
     target 1749
     weight 1
+    event "WEI"
   ]
   edge [
     source 1746
     target 1750
     weight 1
+    event "WEI"
   ]
   edge [
     source 1747
     target 1748
     weight 1
+    event "WEI"
   ]
   edge [
     source 1747
     target 1749
     weight 1
+    event "WEI"
   ]
   edge [
     source 1747
     target 1750
     weight 1
+    event "WEI"
   ]
   edge [
     source 1748
     target 1749
     weight 1
+    event "WEI"
   ]
   edge [
     source 1748
     target 1750
     weight 1
+    event "WEI"
   ]
   edge [
     source 1749
     target 1750
     weight 1
+    event "WEI"
   ]
   edge [
     source 1750
     target 2230
     weight 2
+    event "WEI"
   ]
   edge [
     source 1750
     target 2231
     weight 2
+    event "WEI"
   ]
   edge [
     source 1750
     target 2232
     weight 2
+    event "WEI"
   ]
   edge [
     source 1750
     target 2233
     weight 1
+    event "WEI"
   ]
   edge [
     source 1750
     target 2265
     weight 1
+    event "WEI"
   ]
   edge [
     source 1751
     target 1752
     weight 2
+    event "WEI"
   ]
   edge [
     source 1751
     target 1753
     weight 2
+    event "WEI"
   ]
   edge [
     source 1752
     target 1753
     weight 2
+    event "WEI"
   ]
   edge [
     source 1754
     target 1755
     weight 1
+    event "WEI"
   ]
   edge [
     source 1757
     target 1758
     weight 1
+    event "WEI"
   ]
   edge [
     source 1757
     target 1759
     weight 1
+    event "WEI"
   ]
   edge [
     source 1757
     target 1760
     weight 1
+    event "WEI"
   ]
   edge [
     source 1757
     target 1761
     weight 1
+    event "WEI"
   ]
   edge [
     source 1757
     target 1762
     weight 1
+    event "WEI"
   ]
   edge [
     source 1757
     target 1763
     weight 1
+    event "WEI"
   ]
   edge [
     source 1758
     target 1759
     weight 1
+    event "WEI"
   ]
   edge [
     source 1758
     target 1760
     weight 1
+    event "WEI"
   ]
   edge [
     source 1758
     target 1761
     weight 1
+    event "WEI"
   ]
   edge [
     source 1758
     target 1762
     weight 1
+    event "WEI"
   ]
   edge [
     source 1758
     target 1763
     weight 1
+    event "WEI"
   ]
   edge [
     source 1759
     target 1760
     weight 1
+    event "WEI"
   ]
   edge [
     source 1759
     target 1761
     weight 1
+    event "WEI"
   ]
   edge [
     source 1759
     target 1762
     weight 1
+    event "WEI"
   ]
   edge [
     source 1759
     target 1763
     weight 1
+    event "WEI"
   ]
   edge [
     source 1760
     target 1761
     weight 1
+    event "WEI"
   ]
   edge [
     source 1760
     target 1762
     weight 1
+    event "WEI"
   ]
   edge [
     source 1760
     target 1763
     weight 1
+    event "WEI"
   ]
   edge [
     source 1761
     target 1762
     weight 1
+    event "WEI"
   ]
   edge [
     source 1761
     target 1763
     weight 1
+    event "WEI"
   ]
   edge [
     source 1762
     target 1763
     weight 1
+    event "WEI"
   ]
   edge [
     source 1764
     target 1765
     weight 1
+    event "WEI"
   ]
   edge [
     source 1768
     target 1769
     weight 1
+    event "WEI"
   ]
   edge [
     source 1770
     target 1771
     weight 1
+    event "WEI"
   ]
   edge [
     source 1770
     target 1772
     weight 1
+    event "WEI"
   ]
   edge [
     source 1770
     target 1773
     weight 1
+    event "WEI"
   ]
   edge [
     source 1770
     target 1774
     weight 1
+    event "WEI"
   ]
   edge [
     source 1770
     target 2291
     weight 1
+    event "WEI"
   ]
   edge [
     source 1770
     target 2292
     weight 1
+    event "WEI"
   ]
   edge [
     source 1770
     target 2293
     weight 1
+    event "WEI"
   ]
   edge [
     source 1771
     target 1772
     weight 1
+    event "WEI"
   ]
   edge [
     source 1771
     target 1773
     weight 1
+    event "WEI"
   ]
   edge [
     source 1771
     target 1774
     weight 1
+    event "WEI"
   ]
   edge [
     source 1772
     target 1773
     weight 1
+    event "WEI"
   ]
   edge [
     source 1772
     target 1774
     weight 1
+    event "WEI"
   ]
   edge [
     source 1773
     target 1774
     weight 1
+    event "WEI"
   ]
   edge [
     source 1775
     target 1776
     weight 1
+    event "WEI"
   ]
   edge [
     source 1776
     target 4138
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4139
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4140
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4146
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4147
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4148
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4155
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4156
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4180
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4181
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4217
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4218
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4219
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4386
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4345
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4389
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4344
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4390
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1776
     target 4413
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1777
     target 1778
     weight 1
+    event "WEI"
   ]
   edge [
     source 1777
     target 1779
     weight 1
+    event "WEI"
   ]
   edge [
     source 1778
     target 1779
     weight 1
+    event "WEI"
   ]
   edge [
     source 1778
     target 4828
     weight 1
+    event "CTD"
   ]
   edge [
     source 1780
     target 1781
     weight 1
+    event "WEI"
   ]
   edge [
     source 1780
     target 1782
     weight 1
+    event "WEI"
   ]
   edge [
     source 1781
     target 1782
     weight 1
+    event "WEI"
   ]
   edge [
     source 1782
     target 3865
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1782
     target 3866
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1782
     target 3867
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1782
     target 3868
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1783
     target 1784
     weight 1
+    event "WEI"
   ]
   edge [
     source 1783
     target 1785
     weight 1
+    event "WEI"
   ]
   edge [
     source 1784
     target 1785
     weight 1
+    event "WEI"
   ]
   edge [
     source 1786
     target 1787
     weight 1
+    event "WEI"
   ]
   edge [
     source 1788
     target 1789
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 1811
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 1812
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 1813
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 2133
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 2134
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 2135
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 2136
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 2137
     weight 1
+    event "WEI"
   ]
   edge [
     source 1789
     target 2910
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1789
     target 2911
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 1789
     target 4172
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1789
     target 4173
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1789
     target 4884
     weight 1
+    event "CTD"
   ]
   edge [
     source 1789
     target 2769
     weight 1
+    event "CTD"
   ]
   edge [
     source 1790
     target 1791
     weight 1
+    event "WEI"
   ]
   edge [
     source 1792
     target 1793
     weight 1
+    event "WEI"
   ]
   edge [
     source 1792
     target 1794
     weight 1
+    event "WEI"
   ]
   edge [
     source 1792
     target 1795
     weight 1
+    event "WEI"
   ]
   edge [
     source 1792
     target 1796
     weight 1
+    event "WEI"
   ]
   edge [
     source 1793
     target 1794
     weight 1
+    event "WEI"
   ]
   edge [
     source 1793
     target 1795
     weight 1
+    event "WEI"
   ]
   edge [
     source 1793
     target 1796
     weight 1
+    event "WEI"
   ]
   edge [
     source 1794
     target 1795
     weight 1
+    event "WEI"
   ]
   edge [
     source 1794
     target 1796
     weight 1
+    event "WEI"
   ]
   edge [
     source 1795
     target 1796
     weight 1
+    event "WEI"
   ]
   edge [
     source 1797
     target 1798
     weight 1
+    event "WEI"
   ]
   edge [
     source 1800
     target 1801
     weight 1
+    event "WEI"
   ]
   edge [
     source 1802
     target 1803
     weight 1
+    event "WEI"
   ]
   edge [
     source 1802
     target 1998
     weight 1
+    event "WEI"
   ]
   edge [
     source 1804
     target 1805
     weight 1
+    event "WEI"
   ]
   edge [
     source 1804
     target 1937
     weight 1
+    event "WEI"
   ]
   edge [
     source 1805
     target 1861
     weight 1
+    event "WEI"
   ]
   edge [
     source 1807
     target 1808
     weight 1
+    event "WEI"
   ]
   edge [
     source 1807
     target 1809
     weight 1
+    event "WEI"
   ]
   edge [
     source 1807
     target 1810
     weight 1
+    event "WEI"
   ]
   edge [
     source 1808
     target 1809
     weight 1
+    event "WEI"
   ]
   edge [
     source 1808
     target 1810
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 1810
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 1818
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 1819
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 1820
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 2109
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 2110
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 2111
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 2112
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 2113
     weight 1
+    event "WEI"
   ]
   edge [
     source 1809
     target 2114
     weight 1
+    event "WEI"
   ]
   edge [
     source 1811
     target 1812
     weight 1
+    event "WEI"
   ]
   edge [
     source 1811
     target 1813
     weight 1
+    event "WEI"
   ]
   edge [
     source 1812
     target 1813
     weight 1
+    event "WEI"
   ]
   edge [
     source 1814
     target 1815
     weight 1
+    event "WEI"
   ]
   edge [
     source 1816
     target 1817
     weight 1
+    event "WEI"
   ]
   edge [
     source 1817
     target 2125
     weight 2
+    event "WEI"
   ]
   edge [
     source 1817
     target 2022
     weight 2
+    event "WEI"
   ]
   edge [
     source 1818
     target 1819
     weight 1
+    event "WEI"
   ]
   edge [
     source 1818
     target 1820
     weight 1
+    event "WEI"
   ]
   edge [
     source 1819
     target 1820
     weight 1
+    event "WEI"
   ]
   edge [
     source 1821
     target 1822
     weight 2
+    event "WEI"
   ]
   edge [
     source 1821
     target 1823
     weight 1
+    event "WEI"
   ]
   edge [
     source 1821
     target 1824
     weight 1
+    event "WEI"
   ]
   edge [
     source 1821
     target 2148
     weight 1
+    event "WEI"
   ]
   edge [
     source 1821
     target 2149
     weight 1
+    event "WEI"
   ]
   edge [
     source 1822
     target 1823
     weight 1
+    event "WEI"
   ]
   edge [
     source 1822
     target 1824
     weight 1
+    event "WEI"
   ]
   edge [
     source 1822
     target 2148
     weight 1
+    event "WEI"
   ]
   edge [
     source 1822
     target 2149
     weight 1
+    event "WEI"
   ]
   edge [
     source 1823
     target 1824
     weight 1
+    event "WEI"
   ]
   edge [
     source 1825
     target 1826
     weight 1
+    event "WEI"
   ]
   edge [
     source 1827
     target 1828
     weight 1
+    event "WEI"
   ]
   edge [
     source 1827
     target 1829
     weight 1
+    event "WEI"
   ]
   edge [
     source 1827
     target 1830
     weight 1
+    event "WEI"
   ]
   edge [
     source 1828
     target 1829
     weight 1
+    event "WEI"
   ]
   edge [
     source 1828
     target 1830
     weight 1
+    event "WEI"
   ]
   edge [
     source 1829
     target 1830
     weight 1
+    event "WEI"
   ]
   edge [
     source 1831
     target 1832
     weight 1
+    event "WEI"
   ]
   edge [
     source 1834
     target 1835
     weight 1
+    event "WEI"
   ]
   edge [
     source 1836
     target 1837
     weight 1
+    event "WEI"
   ]
   edge [
     source 1836
     target 1838
     weight 1
+    event "WEI"
   ]
   edge [
     source 1837
     target 1838
     weight 1
+    event "WEI"
   ]
   edge [
     source 1839
     target 1840
     weight 1
+    event "WEI"
   ]
   edge [
     source 1839
     target 1841
     weight 1
+    event "WEI"
   ]
   edge [
     source 1839
     target 1842
     weight 1
+    event "WEI"
   ]
   edge [
     source 1840
     target 1841
     weight 1
+    event "WEI"
   ]
   edge [
     source 1840
     target 1842
     weight 1
+    event "WEI"
   ]
   edge [
     source 1841
     target 1842
     weight 1
+    event "WEI"
   ]
   edge [
     source 1843
     target 1844
     weight 1
+    event "WEI"
   ]
   edge [
     source 1845
     target 1846
     weight 1
+    event "WEI"
   ]
   edge [
     source 1845
     target 1847
     weight 1
+    event "WEI"
   ]
   edge [
     source 1845
     target 1848
     weight 1
+    event "WEI"
   ]
   edge [
     source 1845
     target 1849
     weight 1
+    event "WEI"
   ]
   edge [
     source 1845
     target 1850
     weight 1
+    event "WEI"
   ]
   edge [
     source 1846
     target 1847
     weight 1
+    event "WEI"
   ]
   edge [
     source 1846
     target 1848
     weight 1
+    event "WEI"
   ]
   edge [
     source 1846
     target 1849
     weight 1
+    event "WEI"
   ]
   edge [
     source 1846
     target 1850
     weight 1
+    event "WEI"
   ]
   edge [
     source 1847
     target 1848
     weight 1
+    event "WEI"
   ]
   edge [
     source 1847
     target 1849
     weight 1
+    event "WEI"
   ]
   edge [
     source 1847
     target 1850
     weight 1
+    event "WEI"
   ]
   edge [
     source 1848
     target 1849
     weight 1
+    event "WEI"
   ]
   edge [
     source 1848
     target 1850
     weight 1
+    event "WEI"
   ]
   edge [
     source 1849
     target 1850
     weight 1
+    event "WEI"
   ]
   edge [
     source 1851
     target 1852
     weight 1
+    event "WEI"
   ]
   edge [
     source 1853
     target 1854
     weight 1
+    event "WEI"
   ]
   edge [
     source 1853
     target 1855
     weight 1
+    event "WEI"
   ]
   edge [
     source 1854
     target 1855
     weight 1
+    event "WEI"
   ]
   edge [
     source 1856
     target 1857
     weight 1
+    event "WEI"
   ]
   edge [
     source 1856
     target 1858
     weight 1
+    event "WEI"
   ]
   edge [
     source 1857
     target 1858
     weight 1
+    event "WEI"
   ]
   edge [
     source 1859
     target 1860
     weight 2
+    event "WEI"
   ]
   edge [
     source 1859
     target 2051
     weight 1
+    event "WEI"
   ]
   edge [
     source 1859
     target 2052
     weight 1
+    event "WEI"
   ]
   edge [
     source 1859
     target 2053
     weight 1
+    event "WEI"
   ]
   edge [
     source 1859
     target 2193
     weight 1
+    event "WEI"
   ]
   edge [
     source 1859
     target 2194
     weight 1
+    event "WEI"
   ]
   edge [
     source 1859
     target 2113
     weight 1
+    event "WEI"
   ]
   edge [
     source 1860
     target 2193
     weight 1
+    event "WEI"
   ]
   edge [
     source 1860
     target 2194
     weight 1
+    event "WEI"
   ]
   edge [
     source 1860
     target 2113
     weight 1
+    event "WEI"
   ]
   edge [
     source 1862
     target 1863
     weight 1
+    event "WEI"
   ]
   edge [
     source 1862
     target 1864
     weight 1
+    event "WEI"
   ]
   edge [
     source 1863
     target 1864
     weight 1
+    event "WEI"
   ]
   edge [
     source 1865
     target 1866
     weight 1
+    event "WEI"
   ]
   edge [
     source 1865
     target 1867
     weight 1
+    event "WEI"
   ]
   edge [
     source 1866
     target 1867
     weight 1
+    event "WEI"
   ]
   edge [
     source 1869
     target 1870
     weight 1
+    event "WEI"
   ]
   edge [
     source 1869
     target 1871
     weight 1
+    event "WEI"
   ]
   edge [
     source 1869
     target 1872
     weight 1
+    event "WEI"
   ]
   edge [
     source 1870
     target 1871
     weight 1
+    event "WEI"
   ]
   edge [
     source 1870
     target 1872
     weight 1
+    event "WEI"
   ]
   edge [
     source 1870
     target 2001
     weight 1
+    event "WEI"
   ]
   edge [
     source 1870
     target 2002
     weight 1
+    event "WEI"
   ]
   edge [
     source 1870
     target 2467
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1870
     target 2468
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1870
     target 2469
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1870
     target 2470
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1870
     target 2471
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1870
     target 2606
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1871
     target 1872
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1875
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1876
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1877
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1939
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1940
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1941
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1942
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1943
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1944
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1945
     weight 1
+    event "WEI"
   ]
   edge [
     source 1874
     target 1946
     weight 1
+    event "WEI"
   ]
   edge [
     source 1875
     target 1876
     weight 1
+    event "WEI"
   ]
   edge [
     source 1875
     target 1877
     weight 1
+    event "WEI"
   ]
   edge [
     source 1876
     target 1877
     weight 1
+    event "WEI"
   ]
   edge [
     source 1878
     target 1879
     weight 1
+    event "WEI"
   ]
   edge [
     source 1878
     target 1880
     weight 1
+    event "WEI"
   ]
   edge [
     source 1878
     target 1881
     weight 1
+    event "WEI"
   ]
   edge [
     source 1878
     target 1882
     weight 1
+    event "WEI"
   ]
   edge [
     source 1878
     target 1883
     weight 1
+    event "WEI"
   ]
   edge [
     source 1878
     target 1884
     weight 1
+    event "WEI"
   ]
   edge [
     source 1879
     target 1880
     weight 1
+    event "WEI"
   ]
   edge [
     source 1879
     target 1881
     weight 1
+    event "WEI"
   ]
   edge [
     source 1879
     target 1882
     weight 1
+    event "WEI"
   ]
   edge [
     source 1879
     target 1883
     weight 1
+    event "WEI"
   ]
   edge [
     source 1879
     target 1884
     weight 1
+    event "WEI"
   ]
   edge [
     source 1880
     target 1881
     weight 1
+    event "WEI"
   ]
   edge [
     source 1880
     target 1882
     weight 1
+    event "WEI"
   ]
   edge [
     source 1880
     target 1883
     weight 1
+    event "WEI"
   ]
   edge [
     source 1880
     target 1884
     weight 1
+    event "WEI"
   ]
   edge [
     source 1881
     target 1882
     weight 1
+    event "WEI"
   ]
   edge [
     source 1881
     target 1883
     weight 1
+    event "WEI"
   ]
   edge [
     source 1881
     target 1884
     weight 1
+    event "WEI"
   ]
   edge [
     source 1882
     target 1883
     weight 1
+    event "WEI"
   ]
   edge [
     source 1882
     target 1884
     weight 1
+    event "WEI"
   ]
   edge [
     source 1883
     target 1884
     weight 1
+    event "WEI"
   ]
   edge [
     source 1885
     target 1886
     weight 1
+    event "WEI"
   ]
   edge [
     source 1885
     target 1887
     weight 1
+    event "WEI"
   ]
   edge [
     source 1885
     target 1888
     weight 1
+    event "WEI"
   ]
   edge [
     source 1886
     target 1887
     weight 1
+    event "WEI"
   ]
   edge [
     source 1886
     target 1888
     weight 1
+    event "WEI"
   ]
   edge [
     source 1887
     target 1888
     weight 1
+    event "WEI"
   ]
   edge [
     source 1889
     target 1890
     weight 1
+    event "WEI"
   ]
   edge [
     source 1889
     target 1891
     weight 1
+    event "WEI"
   ]
   edge [
     source 1890
     target 1891
     weight 1
+    event "WEI"
   ]
   edge [
     source 1892
     target 1893
     weight 1
+    event "WEI"
   ]
   edge [
     source 1895
     target 1896
     weight 1
+    event "WEI"
   ]
   edge [
     source 1895
     target 1897
     weight 1
+    event "WEI"
   ]
   edge [
     source 1896
     target 1897
     weight 1
+    event "WEI"
   ]
   edge [
     source 1898
     target 1899
     weight 1
+    event "WEI"
   ]
   edge [
     source 1900
     target 1901
     weight 1
+    event "WEI"
   ]
   edge [
     source 1900
     target 1902
     weight 1
+    event "WEI"
   ]
   edge [
     source 1900
     target 1903
     weight 1
+    event "WEI"
   ]
   edge [
     source 1900
     target 1904
     weight 1
+    event "WEI"
   ]
   edge [
     source 1900
     target 1905
     weight 1
+    event "WEI"
   ]
   edge [
     source 1900
     target 1906
     weight 1
+    event "WEI"
   ]
   edge [
     source 1900
     target 1907
     weight 1
+    event "WEI"
   ]
   edge [
     source 1900
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 1901
     target 1902
     weight 1
+    event "WEI"
   ]
   edge [
     source 1901
     target 1903
     weight 1
+    event "WEI"
   ]
   edge [
     source 1901
     target 1904
     weight 1
+    event "WEI"
   ]
   edge [
     source 1901
     target 1905
     weight 1
+    event "WEI"
   ]
   edge [
     source 1901
     target 1906
     weight 1
+    event "WEI"
   ]
   edge [
     source 1901
     target 1907
     weight 1
+    event "WEI"
   ]
   edge [
     source 1901
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 1902
     target 1903
     weight 1
+    event "WEI"
   ]
   edge [
     source 1902
     target 1904
     weight 1
+    event "WEI"
   ]
   edge [
     source 1902
     target 1905
     weight 1
+    event "WEI"
   ]
   edge [
     source 1902
     target 1906
     weight 1
+    event "WEI"
   ]
   edge [
     source 1902
     target 1907
     weight 1
+    event "WEI"
   ]
   edge [
     source 1902
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 1903
     target 1904
     weight 1
+    event "WEI"
   ]
   edge [
     source 1903
     target 1905
     weight 1
+    event "WEI"
   ]
   edge [
     source 1903
     target 1906
     weight 1
+    event "WEI"
   ]
   edge [
     source 1903
     target 1907
     weight 1
+    event "WEI"
   ]
   edge [
     source 1903
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 1904
     target 1905
     weight 1
+    event "WEI"
   ]
   edge [
     source 1904
     target 1906
     weight 1
+    event "WEI"
   ]
   edge [
     source 1904
     target 1907
     weight 1
+    event "WEI"
   ]
   edge [
     source 1904
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 1905
     target 1906
     weight 1
+    event "WEI"
   ]
   edge [
     source 1905
     target 1907
     weight 1
+    event "WEI"
   ]
   edge [
     source 1905
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 1906
     target 1907
     weight 1
+    event "WEI"
   ]
   edge [
     source 1906
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 1907
     target 1908
     weight 1
+    event "WEI"
   ]
   edge [
     source 1909
     target 1910
     weight 1
+    event "WEI"
   ]
   edge [
     source 1909
     target 1911
     weight 1
+    event "WEI"
   ]
   edge [
     source 1909
     target 1912
     weight 1
+    event "WEI"
   ]
   edge [
     source 1909
     target 1913
     weight 1
+    event "WEI"
   ]
   edge [
     source 1910
     target 1911
     weight 1
+    event "WEI"
   ]
   edge [
     source 1910
     target 1912
     weight 1
+    event "WEI"
   ]
   edge [
     source 1910
     target 1913
     weight 1
+    event "WEI"
   ]
   edge [
     source 1911
     target 1912
     weight 1
+    event "WEI"
   ]
   edge [
     source 1911
     target 1913
     weight 1
+    event "WEI"
   ]
   edge [
     source 1912
     target 1913
     weight 1
+    event "WEI"
   ]
   edge [
     source 1914
     target 2308
     weight 1
+    event "WEI"
   ]
   edge [
     source 1914
     target 2312
     weight 1
+    event "WEI"
   ]
   edge [
     source 1914
     target 2313
     weight 1
+    event "WEI"
   ]
   edge [
     source 1914
     target 2314
     weight 1
+    event "WEI"
   ]
   edge [
     source 1914
     target 2315
     weight 1
+    event "WEI"
   ]
   edge [
     source 1915
     target 1916
     weight 1
+    event "WEI"
   ]
   edge [
     source 1915
     target 1968
     weight 1
+    event "WEI"
   ]
   edge [
     source 1915
     target 1969
     weight 1
+    event "WEI"
   ]
   edge [
     source 1915
     target 3716
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1915
     target 2528
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 1917
     target 2180
     weight 1
+    event "WEI"
   ]
   edge [
     source 1918
     target 1919
     weight 1
+    event "WEI"
   ]
   edge [
     source 1918
     target 1920
     weight 1
+    event "WEI"
   ]
   edge [
     source 1919
     target 1920
     weight 1
+    event "WEI"
   ]
   edge [
     source 1921
     target 1922
     weight 1
+    event "WEI"
   ]
   edge [
     source 1922
     target 1974
     weight 1
+    event "WEI"
   ]
   edge [
     source 1923
     target 1924
     weight 1
+    event "WEI"
   ]
   edge [
     source 1923
     target 2035
     weight 1
+    event "WEI"
   ]
   edge [
     source 1925
     target 1926
     weight 1
+    event "WEI"
   ]
   edge [
     source 1925
     target 1927
     weight 1
+    event "WEI"
   ]
   edge [
     source 1926
     target 1927
     weight 1
+    event "WEI"
   ]
   edge [
     source 1927
     target 2338
     weight 1
+    event "WEI"
   ]
   edge [
     source 1927
     target 2339
     weight 1
+    event "WEI"
   ]
   edge [
     source 1927
     target 2340
     weight 1
+    event "WEI"
   ]
   edge [
     source 1928
     target 1929
     weight 1
+    event "WEI"
   ]
   edge [
     source 1930
     target 1931
     weight 1
+    event "WEI"
   ]
   edge [
     source 1932
     target 1933
     weight 1
+    event "WEI"
   ]
   edge [
     source 1932
     target 1934
     weight 1
+    event "WEI"
   ]
   edge [
     source 1932
     target 1935
     weight 1
+    event "WEI"
   ]
   edge [
     source 1932
     target 1936
     weight 1
+    event "WEI"
   ]
   edge [
     source 1933
     target 1934
     weight 1
+    event "WEI"
   ]
   edge [
     source 1933
     target 1935
     weight 1
+    event "WEI"
   ]
   edge [
     source 1933
     target 1936
     weight 1
+    event "WEI"
   ]
   edge [
     source 1934
     target 1935
     weight 1
+    event "WEI"
   ]
   edge [
     source 1934
     target 1936
     weight 1
+    event "WEI"
   ]
   edge [
     source 1934
     target 4380
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1934
     target 4381
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1934
     target 4382
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1934
     target 4383
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1935
     target 1936
     weight 1
+    event "WEI"
   ]
   edge [
     source 1937
     target 1947
     weight 1
+    event "WEI"
   ]
   edge [
     source 1937
     target 1948
     weight 1
+    event "WEI"
   ]
   edge [
     source 1937
     target 2088
     weight 1
+    event "WEI"
   ]
   edge [
     source 1937
     target 2089
     weight 2
+    event "WEI"
   ]
   edge [
     source 1937
     target 2095
     weight 1
+    event "WEI"
   ]
   edge [
     source 1938
     target 2033
     weight 1
+    event "WEI"
   ]
   edge [
     source 1938
     target 2034
     weight 2
+    event "WEI"
   ]
   edge [
     source 1938
     target 2045
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 1940
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 1941
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 1942
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 1943
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 1944
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 1945
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 1946
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 2040
     weight 1
+    event "WEI"
   ]
   edge [
     source 1939
     target 2322
     weight 1
+    event "WEI"
   ]
   edge [
     source 1940
     target 1941
     weight 1
+    event "WEI"
   ]
   edge [
     source 1940
     target 1942
     weight 1
+    event "WEI"
   ]
   edge [
     source 1940
     target 1943
     weight 1
+    event "WEI"
   ]
   edge [
     source 1940
     target 1944
     weight 1
+    event "WEI"
   ]
   edge [
     source 1940
     target 1945
     weight 1
+    event "WEI"
   ]
   edge [
     source 1940
     target 1946
     weight 1
+    event "WEI"
   ]
   edge [
     source 1941
     target 1942
     weight 1
+    event "WEI"
   ]
   edge [
     source 1941
     target 1943
     weight 1
+    event "WEI"
   ]
   edge [
     source 1941
     target 1944
     weight 1
+    event "WEI"
   ]
   edge [
     source 1941
     target 1945
     weight 1
+    event "WEI"
   ]
   edge [
     source 1941
     target 1946
     weight 1
+    event "WEI"
   ]
   edge [
     source 1942
     target 1943
     weight 1
+    event "WEI"
   ]
   edge [
     source 1942
     target 1944
     weight 1
+    event "WEI"
   ]
   edge [
     source 1942
     target 1945
     weight 1
+    event "WEI"
   ]
   edge [
     source 1942
     target 1946
     weight 1
+    event "WEI"
   ]
   edge [
     source 1943
     target 1944
     weight 1
+    event "WEI"
   ]
   edge [
     source 1943
     target 1945
     weight 1
+    event "WEI"
   ]
   edge [
     source 1943
     target 1946
     weight 1
+    event "WEI"
   ]
   edge [
     source 1944
     target 1945
     weight 1
+    event "WEI"
   ]
   edge [
     source 1944
     target 1946
     weight 1
+    event "WEI"
   ]
   edge [
     source 1945
     target 1946
     weight 1
+    event "WEI"
   ]
   edge [
     source 1947
     target 1948
     weight 1
+    event "WEI"
   ]
   edge [
     source 1950
     target 1951
     weight 1
+    event "WEI"
   ]
   edge [
     source 1950
     target 1952
     weight 1
+    event "WEI"
   ]
   edge [
     source 1950
     target 1953
     weight 1
+    event "WEI"
   ]
   edge [
     source 1951
     target 1952
     weight 1
+    event "WEI"
   ]
   edge [
     source 1951
     target 1953
     weight 1
+    event "WEI"
   ]
   edge [
     source 1952
     target 1953
     weight 1
+    event "WEI"
   ]
   edge [
     source 1952
     target 4460
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 1955
     target 1956
     weight 1
+    event "WEI"
   ]
   edge [
     source 1955
     target 1975
     weight 1
+    event "WEI"
   ]
   edge [
     source 1955
     target 1976
     weight 1
+    event "WEI"
   ]
   edge [
     source 1955
     target 1977
     weight 1
+    event "WEI"
   ]
   edge [
     source 1955
     target 2032
     weight 1
+    event "WEI"
   ]
   edge [
     source 1957
     target 1958
     weight 1
+    event "WEI"
   ]
   edge [
     source 1957
     target 1959
     weight 1
+    event "WEI"
   ]
   edge [
     source 1958
     target 1959
     weight 1
+    event "WEI"
   ]
   edge [
     source 1960
     target 1961
     weight 1
+    event "WEI"
   ]
   edge [
     source 1962
     target 1963
     weight 1
+    event "WEI"
   ]
   edge [
     source 1962
     target 1964
     weight 1
+    event "WEI"
   ]
   edge [
     source 1963
     target 1964
     weight 1
+    event "WEI"
   ]
   edge [
     source 1965
     target 1966
     weight 1
+    event "WEI"
   ]
   edge [
     source 1966
     target 2221
     weight 1
+    event "WEI"
   ]
   edge [
     source 1966
     target 2222
     weight 1
+    event "WEI"
   ]
   edge [
     source 1966
     target 2306
     weight 1
+    event "WEI"
   ]
   edge [
     source 1968
     target 1969
     weight 1
+    event "WEI"
   ]
   edge [
     source 1970
     target 1971
     weight 1
+    event "WEI"
   ]
   edge [
     source 1970
     target 1972
     weight 1
+    event "WEI"
   ]
   edge [
     source 1970
     target 1973
     weight 1
+    event "WEI"
   ]
   edge [
     source 1971
     target 1972
     weight 1
+    event "WEI"
   ]
   edge [
     source 1971
     target 1973
     weight 1
+    event "WEI"
   ]
   edge [
     source 1972
     target 1973
     weight 1
+    event "WEI"
   ]
   edge [
     source 1975
     target 1976
     weight 2
+    event "WEI"
   ]
   edge [
     source 1975
     target 1977
     weight 2
+    event "WEI"
   ]
   edge [
     source 1975
     target 1978
     weight 1
+    event "WEI"
   ]
   edge [
     source 1975
     target 2032
     weight 1
+    event "WEI"
   ]
   edge [
     source 1976
     target 1977
     weight 2
+    event "WEI"
   ]
   edge [
     source 1976
     target 1978
     weight 1
+    event "WEI"
   ]
   edge [
     source 1976
     target 2032
     weight 1
+    event "WEI"
   ]
   edge [
     source 1977
     target 1978
     weight 1
+    event "WEI"
   ]
   edge [
     source 1977
     target 2032
     weight 1
+    event "WEI"
   ]
   edge [
     source 1979
     target 1980
     weight 1
+    event "WEI"
   ]
   edge [
     source 1979
     target 1981
     weight 1
+    event "WEI"
   ]
   edge [
     source 1979
     target 1982
     weight 1
+    event "WEI"
   ]
   edge [
     source 1979
     target 1983
     weight 1
+    event "WEI"
   ]
   edge [
     source 1979
     target 1984
     weight 1
+    event "WEI"
   ]
   edge [
     source 1979
     target 1985
     weight 1
+    event "WEI"
   ]
   edge [
     source 1980
     target 1981
     weight 1
+    event "WEI"
   ]
   edge [
     source 1980
     target 1982
     weight 1
+    event "WEI"
   ]
   edge [
     source 1980
     target 1983
     weight 1
+    event "WEI"
   ]
   edge [
     source 1980
     target 1984
     weight 1
+    event "WEI"
   ]
   edge [
     source 1980
     target 1985
     weight 1
+    event "WEI"
   ]
   edge [
     source 1981
     target 1982
     weight 1
+    event "WEI"
   ]
   edge [
     source 1981
     target 1983
     weight 1
+    event "WEI"
   ]
   edge [
     source 1981
     target 1984
     weight 1
+    event "WEI"
   ]
   edge [
     source 1981
     target 1985
     weight 1
+    event "WEI"
   ]
   edge [
     source 1982
     target 1983
     weight 1
+    event "WEI"
   ]
   edge [
     source 1982
     target 1984
     weight 1
+    event "WEI"
   ]
   edge [
     source 1982
     target 1985
     weight 1
+    event "WEI"
   ]
   edge [
     source 1983
     target 1984
     weight 1
+    event "WEI"
   ]
   edge [
     source 1983
     target 1985
     weight 2
+    event "WEI"
   ]
   edge [
     source 1983
     target 2060
     weight 1
+    event "WEI"
   ]
   edge [
     source 1983
     target 2061
     weight 1
+    event "WEI"
   ]
   edge [
     source 1983
     target 2062
     weight 1
+    event "WEI"
   ]
   edge [
     source 1983
     target 2239
     weight 1
+    event "WEI"
   ]
   edge [
     source 1983
     target 2240
     weight 1
+    event "WEI"
   ]
   edge [
     source 1983
     target 2241
     weight 1
+    event "WEI"
   ]
   edge [
     source 1983
     target 2242
     weight 1
+    event "WEI"
   ]
   edge [
     source 1984
     target 1985
     weight 1
+    event "WEI"
   ]
   edge [
     source 1985
     target 2060
     weight 1
+    event "WEI"
   ]
   edge [
     source 1985
     target 2061
     weight 2
+    event "WEI"
   ]
   edge [
     source 1985
     target 2062
     weight 2
+    event "WEI"
   ]
   edge [
     source 1985
     target 2644
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1985
     target 2645
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 1987
     target 1988
     weight 1
+    event "WEI"
   ]
   edge [
     source 1987
     target 1989
     weight 1
+    event "WEI"
   ]
   edge [
     source 1987
     target 1990
     weight 1
+    event "WEI"
   ]
   edge [
     source 1987
     target 1991
     weight 1
+    event "WEI"
   ]
   edge [
     source 1987
     target 1992
     weight 1
+    event "WEI"
   ]
   edge [
     source 1988
     target 1989
     weight 1
+    event "WEI"
   ]
   edge [
     source 1988
     target 1990
     weight 1
+    event "WEI"
   ]
   edge [
     source 1988
     target 1991
     weight 1
+    event "WEI"
   ]
   edge [
     source 1988
     target 1992
     weight 1
+    event "WEI"
   ]
   edge [
     source 1989
     target 1990
     weight 1
+    event "WEI"
   ]
   edge [
     source 1989
     target 1991
     weight 1
+    event "WEI"
   ]
   edge [
     source 1989
     target 1992
     weight 1
+    event "WEI"
   ]
   edge [
     source 1990
     target 1991
     weight 1
+    event "WEI"
   ]
   edge [
     source 1990
     target 1992
     weight 1
+    event "WEI"
   ]
   edge [
     source 1991
     target 1992
     weight 1
+    event "WEI"
   ]
   edge [
     source 1992
     target 2166
     weight 1
+    event "WEI"
   ]
   edge [
     source 1992
     target 2167
     weight 1
+    event "WEI"
   ]
   edge [
     source 1992
     target 2168
     weight 2
+    event "WEI"
   ]
   edge [
     source 1992
     target 2042
     weight 1
+    event "WEI"
   ]
   edge [
     source 1993
     target 1994
     weight 1
+    event "WEI"
   ]
   edge [
     source 1995
     target 1996
     weight 1
+    event "WEI"
   ]
   edge [
     source 1999
     target 2000
     weight 1
+    event "WEI"
   ]
   edge [
     source 2000
     target 2043
     weight 1
+    event "WEI"
   ]
   edge [
     source 2000
     target 2044
     weight 1
+    event "WEI"
   ]
   edge [
     source 2000
     target 2129
     weight 1
+    event "WEI"
   ]
   edge [
     source 2000
     target 2130
     weight 1
+    event "WEI"
   ]
   edge [
     source 2000
     target 2131
     weight 1
+    event "WEI"
   ]
   edge [
     source 2000
     target 2173
     weight 1
+    event "WEI"
   ]
   edge [
     source 2001
     target 2002
     weight 1
+    event "WEI"
   ]
   edge [
     source 2003
     target 2004
     weight 1
+    event "WEI"
   ]
   edge [
     source 2005
     target 2006
     weight 1
+    event "WEI"
   ]
   edge [
     source 2005
     target 2007
     weight 1
+    event "WEI"
   ]
   edge [
     source 2006
     target 2007
     weight 1
+    event "WEI"
   ]
   edge [
     source 2008
     target 2009
     weight 1
+    event "WEI"
   ]
   edge [
     source 2009
     target 3369
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 2208
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3406
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3461
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3462
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3510
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3511
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3512
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3513
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 2200
     weight 4
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3514
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3515
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3516
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 2199
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3527
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2009
     target 3812
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3850
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3851
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3872
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3801
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3901
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3907
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3908
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3909
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 4003
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 4004
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3995
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 3870
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 4073
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 4074
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 4076
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 4077
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2009
     target 4080
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2010
     target 2011
     weight 1
+    event "WEI"
   ]
   edge [
     source 2010
     target 2012
     weight 1
+    event "WEI"
   ]
   edge [
     source 2011
     target 2012
     weight 1
+    event "WEI"
   ]
   edge [
     source 2011
     target 2723
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2013
     target 2014
     weight 1
+    event "WEI"
   ]
   edge [
     source 2013
     target 2015
     weight 1
+    event "WEI"
   ]
   edge [
     source 2013
     target 2016
     weight 1
+    event "WEI"
   ]
   edge [
     source 2013
     target 2253
     weight 1
+    event "WEI"
   ]
   edge [
     source 2013
     target 2259
     weight 1
+    event "WEI"
   ]
   edge [
     source 2013
     target 2031
     weight 1
+    event "WEI"
   ]
   edge [
     source 2014
     target 2015
     weight 1
+    event "WEI"
   ]
   edge [
     source 2014
     target 2016
     weight 1
+    event "WEI"
   ]
   edge [
     source 2014
     target 2251
     weight 1
+    event "WEI"
   ]
   edge [
     source 2014
     target 2252
     weight 1
+    event "WEI"
   ]
   edge [
     source 2014
     target 2253
     weight 1
+    event "WEI"
   ]
   edge [
     source 2014
     target 2254
     weight 1
+    event "WEI"
   ]
   edge [
     source 2014
     target 2031
     weight 1
+    event "WEI"
   ]
   edge [
     source 2015
     target 2016
     weight 1
+    event "WEI"
   ]
   edge [
     source 2017
     target 2018
     weight 1
+    event "WEI"
   ]
   edge [
     source 2019
     target 2020
     weight 1
+    event "WEI"
   ]
   edge [
     source 2019
     target 2021
     weight 1
+    event "WEI"
   ]
   edge [
     source 2019
     target 2022
     weight 1
+    event "WEI"
   ]
   edge [
     source 2020
     target 2021
     weight 1
+    event "WEI"
   ]
   edge [
     source 2020
     target 2022
     weight 1
+    event "WEI"
   ]
   edge [
     source 2021
     target 2022
     weight 1
+    event "WEI"
   ]
   edge [
     source 2022
     target 2125
     weight 3
+    event "WEI"
   ]
   edge [
     source 2022
     target 3996
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2022
     target 3997
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2022
     target 3998
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2022
     target 3999
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2023
     target 2024
     weight 1
+    event "WEI"
   ]
   edge [
     source 2023
     target 2025
     weight 1
+    event "WEI"
   ]
   edge [
     source 2023
     target 2026
     weight 1
+    event "WEI"
   ]
   edge [
     source 2023
     target 2027
     weight 1
+    event "WEI"
   ]
   edge [
     source 2024
     target 2025
     weight 1
+    event "WEI"
   ]
   edge [
     source 2024
     target 2026
     weight 1
+    event "WEI"
   ]
   edge [
     source 2024
     target 2027
     weight 1
+    event "WEI"
   ]
   edge [
     source 2025
     target 2026
     weight 1
+    event "WEI"
   ]
   edge [
     source 2025
     target 2027
     weight 1
+    event "WEI"
   ]
   edge [
     source 2026
     target 2027
     weight 1
+    event "WEI"
   ]
   edge [
     source 2026
     target 2046
     weight 1
+    event "WEI"
   ]
   edge [
     source 2026
     target 2047
     weight 1
+    event "WEI"
   ]
   edge [
     source 2026
     target 2048
     weight 1
+    event "WEI"
   ]
   edge [
     source 2026
     target 2049
     weight 1
+    event "WEI"
   ]
   edge [
     source 2026
     target 2050
     weight 1
+    event "WEI"
   ]
   edge [
     source 2027
     target 2263
     weight 1
+    event "WEI"
   ]
   edge [
     source 2027
     target 2264
     weight 1
+    event "WEI"
   ]
   edge [
     source 2028
     target 2029
     weight 1
+    event "WEI"
   ]
   edge [
     source 2028
     target 2030
     weight 1
+    event "WEI"
   ]
   edge [
     source 2028
     target 2031
     weight 1
+    event "WEI"
   ]
   edge [
     source 2029
     target 2030
     weight 1
+    event "WEI"
   ]
   edge [
     source 2029
     target 2031
     weight 1
+    event "WEI"
   ]
   edge [
     source 2030
     target 2031
     weight 1
+    event "WEI"
   ]
   edge [
     source 2031
     target 2251
     weight 1
+    event "WEI"
   ]
   edge [
     source 2031
     target 2252
     weight 1
+    event "WEI"
   ]
   edge [
     source 2031
     target 2253
     weight 2
+    event "WEI"
   ]
   edge [
     source 2031
     target 2254
     weight 1
+    event "WEI"
   ]
   edge [
     source 2031
     target 2259
     weight 1
+    event "WEI"
   ]
   edge [
     source 2033
     target 2034
     weight 1
+    event "WEI"
   ]
   edge [
     source 2034
     target 2045
     weight 1
+    event "WEI"
   ]
   edge [
     source 2036
     target 2037
     weight 1
+    event "WEI"
   ]
   edge [
     source 2036
     target 2038
     weight 1
+    event "WEI"
   ]
   edge [
     source 2036
     target 2039
     weight 1
+    event "WEI"
   ]
   edge [
     source 2037
     target 2038
     weight 1
+    event "WEI"
   ]
   edge [
     source 2037
     target 2039
     weight 1
+    event "WEI"
   ]
   edge [
     source 2038
     target 2039
     weight 1
+    event "WEI"
   ]
   edge [
     source 2040
     target 2041
     weight 1
+    event "WEI"
   ]
   edge [
     source 2040
     target 2042
     weight 1
+    event "WEI"
   ]
   edge [
     source 2040
     target 2322
     weight 1
+    event "WEI"
   ]
   edge [
     source 2041
     target 2042
     weight 1
+    event "WEI"
   ]
   edge [
     source 2042
     target 2166
     weight 1
+    event "WEI"
   ]
   edge [
     source 2042
     target 2167
     weight 1
+    event "WEI"
   ]
   edge [
     source 2042
     target 2168
     weight 1
+    event "WEI"
   ]
   edge [
     source 2043
     target 2044
     weight 1
+    event "WEI"
   ]
   edge [
     source 2046
     target 2047
     weight 1
+    event "WEI"
   ]
   edge [
     source 2046
     target 2048
     weight 1
+    event "WEI"
   ]
   edge [
     source 2046
     target 2049
     weight 1
+    event "WEI"
   ]
   edge [
     source 2046
     target 2050
     weight 1
+    event "WEI"
   ]
   edge [
     source 2047
     target 2048
     weight 1
+    event "WEI"
   ]
   edge [
     source 2047
     target 2049
     weight 1
+    event "WEI"
   ]
   edge [
     source 2047
     target 2050
     weight 1
+    event "WEI"
   ]
   edge [
     source 2048
     target 2049
     weight 1
+    event "WEI"
   ]
   edge [
     source 2048
     target 2050
     weight 1
+    event "WEI"
   ]
   edge [
     source 2049
     target 2050
     weight 1
+    event "WEI"
   ]
   edge [
     source 2051
     target 2052
     weight 1
+    event "WEI"
   ]
   edge [
     source 2051
     target 2053
     weight 1
+    event "WEI"
   ]
   edge [
     source 2052
     target 2053
     weight 1
+    event "WEI"
   ]
   edge [
     source 2053
     target 2788
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2053
     target 2789
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2053
     target 4522
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2053
     target 4523
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2054
     target 2055
     weight 1
+    event "WEI"
   ]
   edge [
     source 2054
     target 2056
     weight 1
+    event "WEI"
   ]
   edge [
     source 2054
     target 2057
     weight 1
+    event "WEI"
   ]
   edge [
     source 2054
     target 2058
     weight 1
+    event "WEI"
   ]
   edge [
     source 2054
     target 2059
     weight 1
+    event "WEI"
   ]
   edge [
     source 2055
     target 2056
     weight 1
+    event "WEI"
   ]
   edge [
     source 2055
     target 2057
     weight 1
+    event "WEI"
   ]
   edge [
     source 2055
     target 2058
     weight 1
+    event "WEI"
   ]
   edge [
     source 2055
     target 2059
     weight 1
+    event "WEI"
   ]
   edge [
     source 2056
     target 2057
     weight 1
+    event "WEI"
   ]
   edge [
     source 2056
     target 2058
     weight 1
+    event "WEI"
   ]
   edge [
     source 2056
     target 2059
     weight 1
+    event "WEI"
   ]
   edge [
     source 2057
     target 2058
     weight 1
+    event "WEI"
   ]
   edge [
     source 2057
     target 2059
     weight 1
+    event "WEI"
   ]
   edge [
     source 2058
     target 2059
     weight 1
+    event "WEI"
   ]
   edge [
     source 2060
     target 2061
     weight 1
+    event "WEI"
   ]
   edge [
     source 2060
     target 2062
     weight 1
+    event "WEI"
   ]
   edge [
     source 2061
     target 2062
     weight 1
+    event "WEI"
   ]
   edge [
     source 2062
     target 2644
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2062
     target 2645
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2063
     target 2064
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2065
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2066
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2067
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2068
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2069
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2070
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2071
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2063
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2065
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2066
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2067
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2068
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2069
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2070
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2071
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2064
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2066
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2067
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2068
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2069
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2070
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2071
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2065
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2067
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2068
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2069
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2070
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2071
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2066
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2067
     target 2068
     weight 1
+    event "WEI"
   ]
   edge [
     source 2067
     target 2069
     weight 1
+    event "WEI"
   ]
   edge [
     source 2067
     target 2070
     weight 1
+    event "WEI"
   ]
   edge [
     source 2067
     target 2071
     weight 1
+    event "WEI"
   ]
   edge [
     source 2067
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2067
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2067
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2067
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2068
     target 2069
     weight 1
+    event "WEI"
   ]
   edge [
     source 2068
     target 2070
     weight 1
+    event "WEI"
   ]
   edge [
     source 2068
     target 2071
     weight 1
+    event "WEI"
   ]
   edge [
     source 2068
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2068
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2068
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2068
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2068
     target 4122
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2068
     target 4123
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2068
     target 4124
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2068
     target 4125
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2069
     target 2070
     weight 1
+    event "WEI"
   ]
   edge [
     source 2069
     target 2071
     weight 1
+    event "WEI"
   ]
   edge [
     source 2069
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2069
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2069
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2069
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2070
     target 2071
     weight 1
+    event "WEI"
   ]
   edge [
     source 2070
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2070
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2070
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2070
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2071
     target 2072
     weight 1
+    event "WEI"
   ]
   edge [
     source 2071
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2071
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2071
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2071
     target 4427
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2071
     target 4428
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2071
     target 4429
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2071
     target 4430
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2071
     target 3009
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2071
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2072
     target 2073
     weight 1
+    event "WEI"
   ]
   edge [
     source 2072
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2072
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2073
     target 2074
     weight 1
+    event "WEI"
   ]
   edge [
     source 2073
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2074
     target 2075
     weight 1
+    event "WEI"
   ]
   edge [
     source 2076
     target 2077
     weight 1
+    event "WEI"
   ]
   edge [
     source 2076
     target 2078
     weight 1
+    event "WEI"
   ]
   edge [
     source 2076
     target 2079
     weight 1
+    event "WEI"
   ]
   edge [
     source 2077
     target 2078
     weight 1
+    event "WEI"
   ]
   edge [
     source 2077
     target 2079
     weight 1
+    event "WEI"
   ]
   edge [
     source 2078
     target 2079
     weight 1
+    event "WEI"
   ]
   edge [
     source 2080
     target 2081
     weight 1
+    event "WEI"
   ]
   edge [
     source 2080
     target 2082
     weight 1
+    event "WEI"
   ]
   edge [
     source 2080
     target 2083
     weight 1
+    event "WEI"
   ]
   edge [
     source 2080
     target 2625
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2081
     target 2082
     weight 1
+    event "WEI"
   ]
   edge [
     source 2081
     target 2083
     weight 1
+    event "WEI"
   ]
   edge [
     source 2082
     target 2083
     weight 1
+    event "WEI"
   ]
   edge [
     source 2084
     target 2085
     weight 1
+    event "WEI"
   ]
   edge [
     source 2084
     target 2086
     weight 1
+    event "WEI"
   ]
   edge [
     source 2085
     target 2086
     weight 1
+    event "WEI"
   ]
   edge [
     source 2088
     target 2089
     weight 1
+    event "WEI"
   ]
   edge [
     source 2089
     target 2095
     weight 1
+    event "WEI"
   ]
   edge [
     source 2089
     target 4448
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 2089
     target 4449
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 2089
     target 4450
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 2089
     target 4451
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 2089
     target 4492
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2089
     target 4493
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2090
     target 2091
     weight 1
+    event "WEI"
   ]
   edge [
     source 2093
     target 2094
     weight 1
+    event "WEI"
   ]
   edge [
     source 2096
     target 2097
     weight 1
+    event "WEI"
   ]
   edge [
     source 2096
     target 2098
     weight 1
+    event "WEI"
   ]
   edge [
     source 2096
     target 2099
     weight 1
+    event "WEI"
   ]
   edge [
     source 2096
     target 2100
     weight 1
+    event "WEI"
   ]
   edge [
     source 2097
     target 2098
     weight 1
+    event "WEI"
   ]
   edge [
     source 2097
     target 2099
     weight 1
+    event "WEI"
   ]
   edge [
     source 2097
     target 2100
     weight 1
+    event "WEI"
   ]
   edge [
     source 2098
     target 2099
     weight 1
+    event "WEI"
   ]
   edge [
     source 2098
     target 2100
     weight 1
+    event "WEI"
   ]
   edge [
     source 2099
     target 2100
     weight 1
+    event "WEI"
   ]
   edge [
     source 2101
     target 2102
     weight 1
+    event "WEI"
   ]
   edge [
     source 2101
     target 2103
     weight 1
+    event "WEI"
   ]
   edge [
     source 2101
     target 2104
     weight 1
+    event "WEI"
   ]
   edge [
     source 2101
     target 2863
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2101
     target 2805
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2101
     target 2802
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2101
     target 2967
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2101
     target 2968
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2101
     target 2924
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2102
     target 2103
     weight 1
+    event "WEI"
   ]
   edge [
     source 2102
     target 2104
     weight 2
+    event "WEI"
   ]
   edge [
     source 2102
     target 2255
     weight 1
+    event "WEI"
   ]
   edge [
     source 2102
     target 2256
     weight 1
+    event "WEI"
   ]
   edge [
     source 2103
     target 2104
     weight 1
+    event "WEI"
   ]
   edge [
     source 2104
     target 2255
     weight 1
+    event "WEI"
   ]
   edge [
     source 2104
     target 2256
     weight 1
+    event "WEI"
   ]
   edge [
     source 2105
     target 2106
     weight 1
+    event "WEI"
   ]
   edge [
     source 2105
     target 2107
     weight 1
+    event "WEI"
   ]
   edge [
     source 2105
     target 2108
     weight 1
+    event "WEI"
   ]
   edge [
     source 2106
     target 2107
     weight 1
+    event "WEI"
   ]
   edge [
     source 2106
     target 2108
     weight 1
+    event "WEI"
   ]
   edge [
     source 2107
     target 2108
     weight 2
+    event "WEI"
   ]
   edge [
     source 2107
     target 2115
     weight 1
+    event "WEI"
   ]
   edge [
     source 2107
     target 2116
     weight 1
+    event "WEI"
   ]
   edge [
     source 2107
     target 2117
     weight 1
+    event "WEI"
   ]
   edge [
     source 2107
     target 2118
     weight 1
+    event "WEI"
   ]
   edge [
     source 2107
     target 2323
     weight 1
+    event "WEI"
   ]
   edge [
     source 2108
     target 2115
     weight 1
+    event "WEI"
   ]
   edge [
     source 2108
     target 2116
     weight 1
+    event "WEI"
   ]
   edge [
     source 2108
     target 2117
     weight 1
+    event "WEI"
   ]
   edge [
     source 2108
     target 2118
     weight 1
+    event "WEI"
   ]
   edge [
     source 2109
     target 2110
     weight 1
+    event "WEI"
   ]
   edge [
     source 2109
     target 2111
     weight 1
+    event "WEI"
   ]
   edge [
     source 2109
     target 2112
     weight 1
+    event "WEI"
   ]
   edge [
     source 2109
     target 2113
     weight 1
+    event "WEI"
   ]
   edge [
     source 2109
     target 2114
     weight 1
+    event "WEI"
   ]
   edge [
     source 2110
     target 2111
     weight 1
+    event "WEI"
   ]
   edge [
     source 2110
     target 2112
     weight 2
+    event "WEI"
   ]
   edge [
     source 2110
     target 2113
     weight 1
+    event "WEI"
   ]
   edge [
     source 2110
     target 2114
     weight 1
+    event "WEI"
   ]
   edge [
     source 2110
     target 2194
     weight 1
+    event "WEI"
   ]
   edge [
     source 2110
     target 2197
     weight 1
+    event "WEI"
   ]
   edge [
     source 2111
     target 2112
     weight 1
+    event "WEI"
   ]
   edge [
     source 2111
     target 2113
     weight 1
+    event "WEI"
   ]
   edge [
     source 2111
     target 2114
     weight 1
+    event "WEI"
   ]
   edge [
     source 2112
     target 2113
     weight 1
+    event "WEI"
   ]
   edge [
     source 2112
     target 2114
     weight 1
+    event "WEI"
   ]
   edge [
     source 2112
     target 2194
     weight 1
+    event "WEI"
   ]
   edge [
     source 2112
     target 2197
     weight 1
+    event "WEI"
   ]
   edge [
     source 2113
     target 2114
     weight 2
+    event "WEI"
   ]
   edge [
     source 2113
     target 2193
     weight 1
+    event "WEI"
   ]
   edge [
     source 2113
     target 2194
     weight 1
+    event "WEI"
   ]
   edge [
     source 2115
     target 2116
     weight 1
+    event "WEI"
   ]
   edge [
     source 2115
     target 2117
     weight 1
+    event "WEI"
   ]
   edge [
     source 2115
     target 2118
     weight 1
+    event "WEI"
   ]
   edge [
     source 2116
     target 2117
     weight 1
+    event "WEI"
   ]
   edge [
     source 2116
     target 2118
     weight 1
+    event "WEI"
   ]
   edge [
     source 2117
     target 2118
     weight 1
+    event "WEI"
   ]
   edge [
     source 2119
     target 2120
     weight 1
+    event "WEI"
   ]
   edge [
     source 2119
     target 2121
     weight 1
+    event "WEI"
   ]
   edge [
     source 2120
     target 2121
     weight 1
+    event "WEI"
   ]
   edge [
     source 2120
     target 3334
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2120
     target 3335
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2120
     target 3336
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2122
     target 2123
     weight 1
+    event "WEI"
   ]
   edge [
     source 2122
     target 2124
     weight 1
+    event "WEI"
   ]
   edge [
     source 2123
     target 2124
     weight 1
+    event "WEI"
   ]
   edge [
     source 2126
     target 2127
     weight 1
+    event "WEI"
   ]
   edge [
     source 2126
     target 2128
     weight 1
+    event "WEI"
   ]
   edge [
     source 2127
     target 2128
     weight 1
+    event "WEI"
   ]
   edge [
     source 2129
     target 2130
     weight 1
+    event "WEI"
   ]
   edge [
     source 2129
     target 2131
     weight 1
+    event "WEI"
   ]
   edge [
     source 2130
     target 2131
     weight 1
+    event "WEI"
   ]
   edge [
     source 2133
     target 2134
     weight 1
+    event "WEI"
   ]
   edge [
     source 2133
     target 2135
     weight 1
+    event "WEI"
   ]
   edge [
     source 2133
     target 2136
     weight 1
+    event "WEI"
   ]
   edge [
     source 2133
     target 2137
     weight 1
+    event "WEI"
   ]
   edge [
     source 2134
     target 2135
     weight 1
+    event "WEI"
   ]
   edge [
     source 2134
     target 2136
     weight 1
+    event "WEI"
   ]
   edge [
     source 2134
     target 2137
     weight 1
+    event "WEI"
   ]
   edge [
     source 2135
     target 2136
     weight 1
+    event "WEI"
   ]
   edge [
     source 2135
     target 2137
     weight 1
+    event "WEI"
   ]
   edge [
     source 2136
     target 2137
     weight 1
+    event "WEI"
   ]
   edge [
     source 2138
     target 2139
     weight 1
+    event "WEI"
   ]
   edge [
     source 2138
     target 2140
     weight 1
+    event "WEI"
   ]
   edge [
     source 2138
     target 2141
     weight 1
+    event "WEI"
   ]
   edge [
     source 2139
     target 2140
     weight 1
+    event "WEI"
   ]
   edge [
     source 2139
     target 2141
     weight 1
+    event "WEI"
   ]
   edge [
     source 2140
     target 2141
     weight 1
+    event "WEI"
   ]
   edge [
     source 2143
     target 2144
     weight 1
+    event "WEI"
   ]
   edge [
     source 2144
     target 2770
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2145
     target 2146
     weight 1
+    event "WEI"
   ]
   edge [
     source 2145
     target 2147
     weight 1
+    event "WEI"
   ]
   edge [
     source 2146
     target 2147
     weight 1
+    event "WEI"
   ]
   edge [
     source 2146
     target 2780
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2148
     target 2149
     weight 1
+    event "WEI"
   ]
   edge [
     source 2150
     target 2151
     weight 1
+    event "WEI"
   ]
   edge [
     source 2150
     target 2152
     weight 1
+    event "WEI"
   ]
   edge [
     source 2150
     target 2153
     weight 1
+    event "WEI"
   ]
   edge [
     source 2150
     target 2154
     weight 1
+    event "WEI"
   ]
   edge [
     source 2151
     target 2152
     weight 1
+    event "WEI"
   ]
   edge [
     source 2151
     target 2153
     weight 1
+    event "WEI"
   ]
   edge [
     source 2151
     target 2154
     weight 1
+    event "WEI"
   ]
   edge [
     source 2152
     target 2153
     weight 1
+    event "WEI"
   ]
   edge [
     source 2152
     target 2154
     weight 1
+    event "WEI"
   ]
   edge [
     source 2153
     target 2154
     weight 1
+    event "WEI"
   ]
   edge [
     source 2155
     target 2156
     weight 1
+    event "WEI"
   ]
   edge [
     source 2155
     target 2157
     weight 1
+    event "WEI"
   ]
   edge [
     source 2155
     target 2158
     weight 1
+    event "WEI"
   ]
   edge [
     source 2156
     target 2157
     weight 1
+    event "WEI"
   ]
   edge [
     source 2156
     target 2158
     weight 1
+    event "WEI"
   ]
   edge [
     source 2157
     target 2158
     weight 1
+    event "WEI"
   ]
   edge [
     source 2159
     target 2160
     weight 1
+    event "WEI"
   ]
   edge [
     source 2159
     target 2161
     weight 1
+    event "WEI"
   ]
   edge [
     source 2160
     target 2161
     weight 1
+    event "WEI"
   ]
   edge [
     source 2163
     target 2164
     weight 1
+    event "WEI"
   ]
   edge [
     source 2166
     target 2167
     weight 1
+    event "WEI"
   ]
   edge [
     source 2166
     target 2168
     weight 1
+    event "WEI"
   ]
   edge [
     source 2167
     target 2168
     weight 1
+    event "WEI"
   ]
   edge [
     source 2169
     target 2170
     weight 1
+    event "WEI"
   ]
   edge [
     source 2169
     target 2171
     weight 1
+    event "WEI"
   ]
   edge [
     source 2169
     target 2172
     weight 1
+    event "WEI"
   ]
   edge [
     source 2170
     target 2171
     weight 1
+    event "WEI"
   ]
   edge [
     source 2170
     target 2172
     weight 1
+    event "WEI"
   ]
   edge [
     source 2171
     target 2172
     weight 1
+    event "WEI"
   ]
   edge [
     source 2174
     target 2175
     weight 1
+    event "WEI"
   ]
   edge [
     source 2176
     target 2177
     weight 2
+    event "WEI"
   ]
   edge [
     source 2176
     target 2178
     weight 2
+    event "WEI"
   ]
   edge [
     source 2176
     target 2179
     weight 1
+    event "WEI"
   ]
   edge [
     source 2176
     target 2335
     weight 1
+    event "WEI"
   ]
   edge [
     source 2177
     target 2178
     weight 2
+    event "WEI"
   ]
   edge [
     source 2177
     target 2179
     weight 1
+    event "WEI"
   ]
   edge [
     source 2177
     target 2335
     weight 1
+    event "WEI"
   ]
   edge [
     source 2178
     target 2179
     weight 1
+    event "WEI"
   ]
   edge [
     source 2178
     target 2335
     weight 1
+    event "WEI"
   ]
   edge [
     source 2181
     target 2182
     weight 1
+    event "WEI"
   ]
   edge [
     source 2181
     target 2183
     weight 1
+    event "WEI"
   ]
   edge [
     source 2181
     target 2184
     weight 1
+    event "WEI"
   ]
   edge [
     source 2182
     target 2183
     weight 1
+    event "WEI"
   ]
   edge [
     source 2182
     target 2184
     weight 1
+    event "WEI"
   ]
   edge [
     source 2183
     target 2184
     weight 1
+    event "WEI"
   ]
   edge [
     source 2186
     target 2187
     weight 1
+    event "WEI"
   ]
   edge [
     source 2188
     target 2189
     weight 1
+    event "WEI"
   ]
   edge [
     source 2188
     target 2190
     weight 1
+    event "WEI"
   ]
   edge [
     source 2188
     target 2191
     weight 1
+    event "WEI"
   ]
   edge [
     source 2188
     target 2192
     weight 1
+    event "WEI"
   ]
   edge [
     source 2189
     target 2190
     weight 1
+    event "WEI"
   ]
   edge [
     source 2189
     target 2191
     weight 1
+    event "WEI"
   ]
   edge [
     source 2189
     target 2192
     weight 1
+    event "WEI"
   ]
   edge [
     source 2190
     target 2191
     weight 1
+    event "WEI"
   ]
   edge [
     source 2190
     target 2192
     weight 1
+    event "WEI"
   ]
   edge [
     source 2191
     target 2192
     weight 1
+    event "WEI"
   ]
   edge [
     source 2192
     target 2336
     weight 1
+    event "WEI"
   ]
   edge [
     source 2192
     target 2337
     weight 1
+    event "WEI"
   ]
   edge [
     source 2193
     target 2194
     weight 1
+    event "WEI"
   ]
   edge [
     source 2194
     target 2197
     weight 1
+    event "WEI"
   ]
   edge [
     source 2195
     target 2196
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2199
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2200
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2201
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2202
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2203
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2204
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2198
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2200
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2201
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2202
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2203
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2204
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2199
     target 3461
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2200
     target 2201
     weight 1
+    event "WEI"
   ]
   edge [
     source 2200
     target 2202
     weight 1
+    event "WEI"
   ]
   edge [
     source 2200
     target 2203
     weight 1
+    event "WEI"
   ]
   edge [
     source 2200
     target 2204
     weight 1
+    event "WEI"
   ]
   edge [
     source 2200
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 2200
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 2200
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2200
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2200
     target 3514
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2200
     target 3515
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2200
     target 3516
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2200
     target 4003
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2200
     target 4004
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2200
     target 4080
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2201
     target 2202
     weight 1
+    event "WEI"
   ]
   edge [
     source 2201
     target 2203
     weight 1
+    event "WEI"
   ]
   edge [
     source 2201
     target 2204
     weight 1
+    event "WEI"
   ]
   edge [
     source 2201
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 2201
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 2201
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2201
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2202
     target 2203
     weight 1
+    event "WEI"
   ]
   edge [
     source 2202
     target 2204
     weight 1
+    event "WEI"
   ]
   edge [
     source 2202
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 2202
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 2202
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2202
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2203
     target 2204
     weight 1
+    event "WEI"
   ]
   edge [
     source 2203
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 2203
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 2203
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2203
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2204
     target 2205
     weight 1
+    event "WEI"
   ]
   edge [
     source 2204
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 2204
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2204
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2205
     target 2206
     weight 1
+    event "WEI"
   ]
   edge [
     source 2205
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2205
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2206
     target 2207
     weight 1
+    event "WEI"
   ]
   edge [
     source 2206
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2207
     target 2208
     weight 1
+    event "WEI"
   ]
   edge [
     source 2208
     target 3406
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2209
     target 2210
     weight 1
+    event "WEI"
   ]
   edge [
     source 2209
     target 2211
     weight 1
+    event "WEI"
   ]
   edge [
     source 2209
     target 2212
     weight 1
+    event "WEI"
   ]
   edge [
     source 2209
     target 2213
     weight 1
+    event "WEI"
   ]
   edge [
     source 2209
     target 2214
     weight 1
+    event "WEI"
   ]
   edge [
     source 2209
     target 2215
     weight 1
+    event "WEI"
   ]
   edge [
     source 2210
     target 2211
     weight 1
+    event "WEI"
   ]
   edge [
     source 2210
     target 2212
     weight 1
+    event "WEI"
   ]
   edge [
     source 2210
     target 2213
     weight 1
+    event "WEI"
   ]
   edge [
     source 2210
     target 2214
     weight 1
+    event "WEI"
   ]
   edge [
     source 2210
     target 2215
     weight 1
+    event "WEI"
   ]
   edge [
     source 2211
     target 2212
     weight 1
+    event "WEI"
   ]
   edge [
     source 2211
     target 2213
     weight 1
+    event "WEI"
   ]
   edge [
     source 2211
     target 2214
     weight 1
+    event "WEI"
   ]
   edge [
     source 2211
     target 2215
     weight 1
+    event "WEI"
   ]
   edge [
     source 2212
     target 2213
     weight 1
+    event "WEI"
   ]
   edge [
     source 2212
     target 2214
     weight 1
+    event "WEI"
   ]
   edge [
     source 2212
     target 2215
     weight 1
+    event "WEI"
   ]
   edge [
     source 2213
     target 2214
     weight 1
+    event "WEI"
   ]
   edge [
     source 2213
     target 2215
     weight 1
+    event "WEI"
   ]
   edge [
     source 2214
     target 2215
     weight 1
+    event "WEI"
   ]
   edge [
     source 2215
     target 3012
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2215
     target 3013
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2215
     target 3014
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2216
     target 2217
     weight 1
+    event "WEI"
   ]
   edge [
     source 2216
     target 2218
     weight 1
+    event "WEI"
   ]
   edge [
     source 2217
     target 2218
     weight 1
+    event "WEI"
   ]
   edge [
     source 2219
     target 2220
     weight 1
+    event "WEI"
   ]
   edge [
     source 2221
     target 2222
     weight 1
+    event "WEI"
   ]
   edge [
     source 2223
     target 2224
     weight 1
+    event "WEI"
   ]
   edge [
     source 2223
     target 2225
     weight 1
+    event "WEI"
   ]
   edge [
     source 2223
     target 2226
     weight 1
+    event "WEI"
   ]
   edge [
     source 2223
     target 2227
     weight 1
+    event "WEI"
   ]
   edge [
     source 2224
     target 2225
     weight 1
+    event "WEI"
   ]
   edge [
     source 2224
     target 2226
     weight 1
+    event "WEI"
   ]
   edge [
     source 2224
     target 2227
     weight 1
+    event "WEI"
   ]
   edge [
     source 2224
     target 3243
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2224
     target 3244
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2224
     target 3364
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2224
     target 3311
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2224
     target 3378
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2225
     target 2226
     weight 2
+    event "WEI"
   ]
   edge [
     source 2225
     target 2227
     weight 1
+    event "WEI"
   ]
   edge [
     source 2225
     target 4010
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2225
     target 4011
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2225
     target 4012
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2225
     target 3311
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2226
     target 2227
     weight 1
+    event "WEI"
   ]
   edge [
     source 2226
     target 3314
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3315
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3316
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3276
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3317
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3318
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3490
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3456
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3491
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3492
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3454
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3500
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3501
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3502
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2226
     target 3772
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2226
     target 3900
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2226
     target 3311
     weight 4
+    event "BRASNAM"
   ]
   edge [
     source 2226
     target 3923
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2226
     target 4010
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2226
     target 4011
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2226
     target 4012
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2226
     target 4104
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2230
     target 2231
     weight 2
+    event "WEI"
   ]
   edge [
     source 2230
     target 2232
     weight 2
+    event "WEI"
   ]
   edge [
     source 2230
     target 2233
     weight 1
+    event "WEI"
   ]
   edge [
     source 2230
     target 2265
     weight 1
+    event "WEI"
   ]
   edge [
     source 2231
     target 2232
     weight 2
+    event "WEI"
   ]
   edge [
     source 2231
     target 2233
     weight 1
+    event "WEI"
   ]
   edge [
     source 2231
     target 2265
     weight 1
+    event "WEI"
   ]
   edge [
     source 2232
     target 2233
     weight 1
+    event "WEI"
   ]
   edge [
     source 2232
     target 2265
     weight 1
+    event "WEI"
   ]
   edge [
     source 2233
     target 4470
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2233
     target 4475
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2233
     target 4476
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2233
     target 4473
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2233
     target 4477
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2236
     target 2237
     weight 1
+    event "WEI"
   ]
   edge [
     source 2236
     target 2238
     weight 1
+    event "WEI"
   ]
   edge [
     source 2236
     target 2284
     weight 1
+    event "WEI"
   ]
   edge [
     source 2236
     target 2285
     weight 1
+    event "WEI"
   ]
   edge [
     source 2236
     target 2294
     weight 1
+    event "WEI"
   ]
   edge [
     source 2236
     target 2295
     weight 1
+    event "WEI"
   ]
   edge [
     source 2236
     target 2296
     weight 1
+    event "WEI"
   ]
   edge [
     source 2237
     target 2238
     weight 1
+    event "WEI"
   ]
   edge [
     source 2237
     target 2328
     weight 1
+    event "WEI"
   ]
   edge [
     source 2239
     target 2240
     weight 1
+    event "WEI"
   ]
   edge [
     source 2239
     target 2241
     weight 1
+    event "WEI"
   ]
   edge [
     source 2239
     target 2242
     weight 1
+    event "WEI"
   ]
   edge [
     source 2240
     target 2241
     weight 1
+    event "WEI"
   ]
   edge [
     source 2240
     target 2242
     weight 1
+    event "WEI"
   ]
   edge [
     source 2241
     target 2242
     weight 1
+    event "WEI"
   ]
   edge [
     source 2242
     target 2327
     weight 1
+    event "WEI"
   ]
   edge [
     source 2243
     target 2244
     weight 1
+    event "WEI"
   ]
   edge [
     source 2243
     target 2245
     weight 1
+    event "WEI"
   ]
   edge [
     source 2243
     target 2246
     weight 1
+    event "WEI"
   ]
   edge [
     source 2244
     target 2245
     weight 1
+    event "WEI"
   ]
   edge [
     source 2244
     target 2246
     weight 1
+    event "WEI"
   ]
   edge [
     source 2245
     target 2246
     weight 1
+    event "WEI"
   ]
   edge [
     source 2247
     target 2248
     weight 1
+    event "WEI"
   ]
   edge [
     source 2247
     target 2249
     weight 1
+    event "WEI"
   ]
   edge [
     source 2247
     target 2250
     weight 1
+    event "WEI"
   ]
   edge [
     source 2248
     target 2249
     weight 1
+    event "WEI"
   ]
   edge [
     source 2248
     target 2250
     weight 1
+    event "WEI"
   ]
   edge [
     source 2249
     target 2250
     weight 1
+    event "WEI"
   ]
   edge [
     source 2250
     target 2665
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2250
     target 2666
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2250
     target 2667
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2250
     target 2668
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2251
     target 2252
     weight 1
+    event "WEI"
   ]
   edge [
     source 2251
     target 2253
     weight 1
+    event "WEI"
   ]
   edge [
     source 2251
     target 2254
     weight 1
+    event "WEI"
   ]
   edge [
     source 2252
     target 2253
     weight 1
+    event "WEI"
   ]
   edge [
     source 2252
     target 2254
     weight 1
+    event "WEI"
   ]
   edge [
     source 2253
     target 2254
     weight 1
+    event "WEI"
   ]
   edge [
     source 2253
     target 2259
     weight 1
+    event "WEI"
   ]
   edge [
     source 2255
     target 2256
     weight 1
+    event "WEI"
   ]
   edge [
     source 2257
     target 2258
     weight 1
+    event "WEI"
   ]
   edge [
     source 2258
     target 4409
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2258
     target 4410
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2260
     target 2261
     weight 1
+    event "WEI"
   ]
   edge [
     source 2260
     target 2262
     weight 1
+    event "WEI"
   ]
   edge [
     source 2260
     target 2283
     weight 1
+    event "WEI"
   ]
   edge [
     source 2260
     target 2355
     weight 1
+    event "WEI"
   ]
   edge [
     source 2260
     target 2356
     weight 1
+    event "WEI"
   ]
   edge [
     source 2260
     target 2357
     weight 1
+    event "WEI"
   ]
   edge [
     source 2260
     target 2358
     weight 1
+    event "WEI"
   ]
   edge [
     source 2261
     target 2262
     weight 1
+    event "WEI"
   ]
   edge [
     source 2261
     target 2282
     weight 1
+    event "WEI"
   ]
   edge [
     source 2261
     target 2283
     weight 1
+    event "WEI"
   ]
   edge [
     source 2263
     target 2264
     weight 1
+    event "WEI"
   ]
   edge [
     source 2266
     target 2267
     weight 1
+    event "WEI"
   ]
   edge [
     source 2268
     target 2269
     weight 1
+    event "WEI"
   ]
   edge [
     source 2270
     target 2271
     weight 1
+    event "WEI"
   ]
   edge [
     source 2270
     target 2272
     weight 1
+    event "WEI"
   ]
   edge [
     source 2270
     target 2273
     weight 1
+    event "WEI"
   ]
   edge [
     source 2270
     target 2274
     weight 1
+    event "WEI"
   ]
   edge [
     source 2271
     target 2272
     weight 1
+    event "WEI"
   ]
   edge [
     source 2271
     target 2273
     weight 1
+    event "WEI"
   ]
   edge [
     source 2271
     target 2274
     weight 1
+    event "WEI"
   ]
   edge [
     source 2272
     target 2273
     weight 1
+    event "WEI"
   ]
   edge [
     source 2272
     target 2274
     weight 1
+    event "WEI"
   ]
   edge [
     source 2273
     target 2274
     weight 1
+    event "WEI"
   ]
   edge [
     source 2275
     target 2276
     weight 1
+    event "WEI"
   ]
   edge [
     source 2278
     target 2279
     weight 1
+    event "WEI"
   ]
   edge [
     source 2279
     target 2695
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2279
     target 2696
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2280
     target 2281
     weight 1
+    event "WEI"
   ]
   edge [
     source 2282
     target 2283
     weight 1
+    event "WEI"
   ]
   edge [
     source 2283
     target 2355
     weight 1
+    event "WEI"
   ]
   edge [
     source 2283
     target 2356
     weight 1
+    event "WEI"
   ]
   edge [
     source 2283
     target 2357
     weight 1
+    event "WEI"
   ]
   edge [
     source 2283
     target 2358
     weight 1
+    event "WEI"
   ]
   edge [
     source 2284
     target 2285
     weight 1
+    event "WEI"
   ]
   edge [
     source 2286
     target 2287
     weight 1
+    event "WEI"
   ]
   edge [
     source 2286
     target 2288
     weight 1
+    event "WEI"
   ]
   edge [
     source 2286
     target 2289
     weight 1
+    event "WEI"
   ]
   edge [
     source 2287
     target 2288
     weight 1
+    event "WEI"
   ]
   edge [
     source 2287
     target 2289
     weight 1
+    event "WEI"
   ]
   edge [
     source 2288
     target 2289
     weight 1
+    event "WEI"
   ]
   edge [
     source 2291
     target 2292
     weight 1
+    event "WEI"
   ]
   edge [
     source 2291
     target 2293
     weight 1
+    event "WEI"
   ]
   edge [
     source 2292
     target 2293
     weight 1
+    event "WEI"
   ]
   edge [
     source 2292
     target 4013
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2292
     target 4014
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2292
     target 4015
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2292
     target 4016
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2294
     target 2295
     weight 2
+    event "WEI"
   ]
   edge [
     source 2294
     target 2296
     weight 1
+    event "WEI"
   ]
   edge [
     source 2294
     target 2307
     weight 1
+    event "WEI"
   ]
   edge [
     source 2295
     target 2296
     weight 1
+    event "WEI"
   ]
   edge [
     source 2295
     target 2307
     weight 1
+    event "WEI"
   ]
   edge [
     source 2297
     target 2298
     weight 1
+    event "WEI"
   ]
   edge [
     source 2300
     target 2301
     weight 1
+    event "WEI"
   ]
   edge [
     source 2300
     target 2302
     weight 1
+    event "WEI"
   ]
   edge [
     source 2300
     target 2303
     weight 1
+    event "WEI"
   ]
   edge [
     source 2300
     target 2304
     weight 1
+    event "WEI"
   ]
   edge [
     source 2300
     target 2305
     weight 1
+    event "WEI"
   ]
   edge [
     source 2301
     target 2302
     weight 1
+    event "WEI"
   ]
   edge [
     source 2301
     target 2303
     weight 1
+    event "WEI"
   ]
   edge [
     source 2301
     target 2304
     weight 1
+    event "WEI"
   ]
   edge [
     source 2301
     target 2305
     weight 1
+    event "WEI"
   ]
   edge [
     source 2302
     target 2303
     weight 1
+    event "WEI"
   ]
   edge [
     source 2302
     target 2304
     weight 1
+    event "WEI"
   ]
   edge [
     source 2302
     target 2305
     weight 1
+    event "WEI"
   ]
   edge [
     source 2303
     target 2304
     weight 1
+    event "WEI"
   ]
   edge [
     source 2303
     target 2305
     weight 1
+    event "WEI"
   ]
   edge [
     source 2304
     target 2305
     weight 1
+    event "WEI"
   ]
   edge [
     source 2309
     target 2310
     weight 1
+    event "WEI"
   ]
   edge [
     source 2309
     target 2311
     weight 1
+    event "WEI"
   ]
   edge [
     source 2309
     target 3913
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2309
     target 3914
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2310
     target 2311
     weight 1
+    event "WEI"
   ]
   edge [
     source 2312
     target 2313
     weight 1
+    event "WEI"
   ]
   edge [
     source 2312
     target 2314
     weight 1
+    event "WEI"
   ]
   edge [
     source 2312
     target 2315
     weight 1
+    event "WEI"
   ]
   edge [
     source 2313
     target 2314
     weight 1
+    event "WEI"
   ]
   edge [
     source 2313
     target 2315
     weight 1
+    event "WEI"
   ]
   edge [
     source 2314
     target 2315
     weight 1
+    event "WEI"
   ]
   edge [
     source 2316
     target 2317
     weight 1
+    event "WEI"
   ]
   edge [
     source 2318
     target 2319
     weight 1
+    event "WEI"
   ]
   edge [
     source 2318
     target 2320
     weight 1
+    event "WEI"
   ]
   edge [
     source 2318
     target 2321
     weight 1
+    event "WEI"
   ]
   edge [
     source 2319
     target 2320
     weight 1
+    event "WEI"
   ]
   edge [
     source 2319
     target 2321
     weight 1
+    event "WEI"
   ]
   edge [
     source 2320
     target 2321
     weight 1
+    event "WEI"
   ]
   edge [
     source 2324
     target 2325
     weight 1
+    event "WEI"
   ]
   edge [
     source 2324
     target 2326
     weight 1
+    event "WEI"
   ]
   edge [
     source 2325
     target 2326
     weight 1
+    event "WEI"
   ]
   edge [
     source 2329
     target 2330
     weight 1
+    event "WEI"
   ]
   edge [
     source 2331
     target 2332
     weight 1
+    event "WEI"
   ]
   edge [
     source 2333
     target 2334
     weight 1
+    event "WEI"
   ]
   edge [
     source 2336
     target 2337
     weight 1
+    event "WEI"
   ]
   edge [
     source 2338
     target 2339
     weight 1
+    event "WEI"
   ]
   edge [
     source 2338
     target 2340
     weight 1
+    event "WEI"
   ]
   edge [
     source 2339
     target 2340
     weight 1
+    event "WEI"
   ]
   edge [
     source 2341
     target 2342
     weight 1
+    event "WEI"
   ]
   edge [
     source 2341
     target 2343
     weight 1
+    event "WEI"
   ]
   edge [
     source 2341
     target 2344
     weight 1
+    event "WEI"
   ]
   edge [
     source 2341
     target 2345
     weight 1
+    event "WEI"
   ]
   edge [
     source 2341
     target 2346
     weight 1
+    event "WEI"
   ]
   edge [
     source 2342
     target 2343
     weight 1
+    event "WEI"
   ]
   edge [
     source 2342
     target 2344
     weight 1
+    event "WEI"
   ]
   edge [
     source 2342
     target 2345
     weight 1
+    event "WEI"
   ]
   edge [
     source 2342
     target 2346
     weight 1
+    event "WEI"
   ]
   edge [
     source 2343
     target 2344
     weight 1
+    event "WEI"
   ]
   edge [
     source 2343
     target 2345
     weight 1
+    event "WEI"
   ]
   edge [
     source 2343
     target 2346
     weight 1
+    event "WEI"
   ]
   edge [
     source 2344
     target 2345
     weight 1
+    event "WEI"
   ]
   edge [
     source 2344
     target 2346
     weight 1
+    event "WEI"
   ]
   edge [
     source 2345
     target 2346
     weight 1
+    event "WEI"
   ]
   edge [
     source 2347
     target 2348
     weight 1
+    event "WEI"
   ]
   edge [
     source 2347
     target 2349
     weight 1
+    event "WEI"
   ]
   edge [
     source 2347
     target 2350
     weight 1
+    event "WEI"
   ]
   edge [
     source 2348
     target 2349
     weight 1
+    event "WEI"
   ]
   edge [
     source 2348
     target 2350
     weight 1
+    event "WEI"
   ]
   edge [
     source 2349
     target 2350
     weight 1
+    event "WEI"
   ]
   edge [
     source 2351
     target 2352
     weight 1
+    event "WEI"
   ]
   edge [
     source 2351
     target 2353
     weight 1
+    event "WEI"
   ]
   edge [
     source 2351
     target 2354
     weight 1
+    event "WEI"
   ]
   edge [
     source 2352
     target 2353
     weight 1
+    event "WEI"
   ]
   edge [
     source 2352
     target 2354
     weight 1
+    event "WEI"
   ]
   edge [
     source 2353
     target 2354
     weight 1
+    event "WEI"
   ]
   edge [
     source 2355
     target 2356
     weight 1
+    event "WEI"
   ]
   edge [
     source 2355
     target 2357
     weight 1
+    event "WEI"
   ]
   edge [
     source 2355
     target 2358
     weight 1
+    event "WEI"
   ]
   edge [
     source 2356
     target 2357
     weight 1
+    event "WEI"
   ]
   edge [
     source 2356
     target 2358
     weight 1
+    event "WEI"
   ]
   edge [
     source 2357
     target 2358
     weight 1
+    event "WEI"
   ]
   edge [
     source 2359
     target 2360
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2361
     target 2362
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2361
     target 2363
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2361
     target 2364
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2362
     target 2363
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2362
     target 2364
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2362
     target 2400
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2362
     target 2401
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2362
     target 2402
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2363
     target 2364
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2365
     target 2366
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2365
     target 2367
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2365
     target 2370
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2366
     target 2367
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2366
     target 2370
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2367
     target 2370
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2367
     target 2440
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2367
     target 2389
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2368
     target 2369
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2371
     target 2372
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2373
     target 2374
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2373
     target 2375
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2374
     target 2375
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2376
     target 2377
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2376
     target 2378
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2378
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2438
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2484
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2533
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2562
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2563
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2617
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2618
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2733
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 2734
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2377
     target 3757
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2377
     target 3771
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2377
     target 3902
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2377
     target 3903
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2377
     target 3441
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2377
     target 3916
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2377
     target 4586
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2377
     target 4729
     weight 1
+    event "CTD"
   ]
   edge [
     source 2377
     target 4730
     weight 1
+    event "CTD"
   ]
   edge [
     source 2379
     target 2380
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2379
     target 2381
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2380
     target 2381
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2394
     weight 4
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2395
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2435
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2436
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2437
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2441
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2442
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2443
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2444
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2445
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2446
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2453
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2454
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2479
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2491
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2492
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2565
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2566
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2381
     target 2556
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2382
     target 2383
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2382
     target 2384
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2383
     target 2384
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2384
     target 2540
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2384
     target 3400
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2384
     target 3390
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2385
     target 2386
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2387
     target 2388
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2387
     target 2389
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2387
     target 2390
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2388
     target 2389
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2388
     target 2390
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2389
     target 2390
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2389
     target 2440
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2391
     target 2392
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2391
     target 2393
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2392
     target 2393
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2394
     target 2395
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2394
     target 2479
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2394
     target 2492
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2394
     target 2445
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2394
     target 2441
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2395
     target 4850
     weight 1
+    event "CTD"
   ]
   edge [
     source 2396
     target 2397
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2396
     target 2398
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2396
     target 2399
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2397
     target 2398
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2397
     target 2399
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2398
     target 2399
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2398
     target 3337
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 2526
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2399
     target 2527
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2399
     target 2528
     weight 4
+    event "WPERFORMANCE"
   ]
   edge [
     source 2399
     target 2596
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2399
     target 2657
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2399
     target 2658
     weight 4
+    event "WPERFORMANCE"
   ]
   edge [
     source 2399
     target 2659
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2399
     target 2660
     weight 4
+    event "WPERFORMANCE"
   ]
   edge [
     source 2399
     target 2827
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2399
     target 2828
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2399
     target 2829
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2399
     target 2830
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2399
     target 2831
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2399
     target 2832
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2399
     target 2833
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2399
     target 2834
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2399
     target 3245
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3246
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3319
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3320
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3337
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3379
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3380
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3381
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3382
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3403
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3263
     weight 4
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3405
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3414
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3415
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3419
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3420
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3421
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3422
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3428
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3429
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3430
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3463
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3476
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3442
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 3566
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2399
     target 4008
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2400
     target 2401
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2400
     target 2402
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2401
     target 2402
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2403
     target 2404
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2404
     target 4576
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2405
     target 2406
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2407
     target 2408
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2409
     target 2410
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2411
     target 2412
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2411
     target 2413
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2411
     target 2414
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2412
     target 2413
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2412
     target 2414
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2413
     target 2414
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2414
     target 4533
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2414
     target 4534
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2415
     target 2416
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2415
     target 2417
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2416
     target 2417
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2416
     target 2432
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2416
     target 2433
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2418
     target 2419
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2420
     target 2421
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2420
     target 2422
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2421
     target 2422
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2422
     target 2707
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2422
     target 2708
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2423
     target 2424
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2423
     target 2455
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2423
     target 2567
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2427
     target 2428
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2428
     target 2434
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2428
     target 2447
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2428
     target 2448
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2429
     target 2430
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2429
     target 2431
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2430
     target 2431
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2430
     target 2481
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2430
     target 2482
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2430
     target 2483
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2432
     target 2433
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2435
     target 2436
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2435
     target 2437
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2436
     target 2437
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2436
     target 3630
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2436
     target 3631
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2437
     target 2480
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2477
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2493
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2494
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2495
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2551
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2552
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2631
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2632
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2633
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2744
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 2745
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2437
     target 4829
     weight 1
+    event "CTD"
   ]
   edge [
     source 2437
     target 4830
     weight 1
+    event "CTD"
   ]
   edge [
     source 2437
     target 4871
     weight 1
+    event "CTD"
   ]
   edge [
     source 2437
     target 4927
     weight 1
+    event "CTD"
   ]
   edge [
     source 2441
     target 2442
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2441
     target 2443
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2441
     target 3550
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2441
     target 3551
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2441
     target 3552
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2441
     target 2660
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2441
     target 3415
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2442
     target 2443
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2442
     target 2444
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2442
     target 2445
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2442
     target 2446
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2442
     target 2453
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2442
     target 2454
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2444
     target 2445
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2444
     target 2446
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2445
     target 2446
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2445
     target 2453
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2445
     target 2454
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2445
     target 2492
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2447
     target 2448
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2449
     target 2450
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2451
     target 2452
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2453
     target 2454
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2456
     target 2457
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2457
     target 2548
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2457
     target 4542
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2457
     target 4543
     weight 2
+    event "CTIC"
   ]
   edge [
     source 2457
     target 2730
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2457
     target 4795
     weight 1
+    event "CTD"
   ]
   edge [
     source 2458
     target 2459
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2458
     target 2460
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2458
     target 2461
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2459
     target 2460
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2459
     target 2461
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2460
     target 2461
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2462
     target 2463
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2462
     target 2464
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2462
     target 2465
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2462
     target 2466
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2463
     target 2464
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2463
     target 2465
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2463
     target 2466
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2464
     target 2465
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2464
     target 2466
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2465
     target 2466
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2466
     target 2472
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2467
     target 2468
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2467
     target 2469
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2467
     target 2470
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2467
     target 2471
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2468
     target 2469
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2468
     target 2470
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2468
     target 2471
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2469
     target 2470
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2469
     target 2471
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2470
     target 2471
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2473
     target 2474
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2473
     target 2475
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2474
     target 2475
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2475
     target 2476
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2475
     target 2477
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2475
     target 2478
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2476
     target 2477
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2476
     target 2478
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2477
     target 2478
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2477
     target 2480
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2477
     target 4624
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2477
     target 4074
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2481
     target 2482
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2481
     target 2483
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2481
     target 2857
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2481
     target 2858
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2481
     target 2859
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2481
     target 2860
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2481
     target 2861
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2481
     target 2862
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2482
     target 2483
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2485
     target 2486
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2485
     target 2487
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2485
     target 2488
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2486
     target 2487
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2486
     target 2488
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2487
     target 2488
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2588
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2589
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2719
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2720
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2721
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2722
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2764
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2718
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 2765
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2488
     target 4407
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2488
     target 4408
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2489
     target 2490
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2491
     target 2565
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2491
     target 2566
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2491
     target 2556
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2493
     target 2494
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2493
     target 2495
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2494
     target 2495
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2496
     target 2497
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2496
     target 2498
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2497
     target 2498
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2499
     target 2500
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2499
     target 2501
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2499
     target 2502
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2499
     target 2503
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2500
     target 2501
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2500
     target 2502
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2500
     target 2503
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2501
     target 2502
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2501
     target 2503
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2502
     target 2503
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2504
     target 2505
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2504
     target 2506
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2505
     target 2506
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2507
     target 2508
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2507
     target 2509
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2507
     target 2510
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2507
     target 2511
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2507
     target 2512
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2508
     target 2509
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2508
     target 2510
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2508
     target 2511
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2508
     target 2512
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2509
     target 2510
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2509
     target 2511
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2509
     target 2512
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2510
     target 2511
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2510
     target 2512
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2510
     target 2669
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2510
     target 2670
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2511
     target 2512
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2512
     target 2963
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2512
     target 2964
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2512
     target 2965
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2512
     target 2966
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2513
     target 2514
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2513
     target 2515
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2514
     target 2515
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2515
     target 3608
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2515
     target 3609
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2515
     target 3610
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2515
     target 3611
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2515
     target 3612
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2515
     target 3738
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2515
     target 3742
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 2515
     target 3782
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 2516
     target 2517
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2516
     target 2518
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2516
     target 2519
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2516
     target 2520
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2517
     target 2518
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2517
     target 2519
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2517
     target 2520
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2518
     target 2519
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2518
     target 2520
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2519
     target 2520
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2521
     target 2522
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2521
     target 2523
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2521
     target 2524
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2521
     target 2525
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2522
     target 2523
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2522
     target 2524
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2522
     target 2525
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2523
     target 2524
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2523
     target 2525
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2524
     target 2525
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2524
     target 2673
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2524
     target 2724
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2525
     target 2724
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2526
     target 2527
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2526
     target 2528
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2527
     target 2528
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2528
     target 3421
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2528
     target 3463
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2528
     target 3716
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2528
     target 4008
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2528
     target 4771
     weight 1
+    event "CTD"
   ]
   edge [
     source 2528
     target 4772
     weight 1
+    event "CTD"
   ]
   edge [
     source 2529
     target 2530
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2529
     target 2531
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2529
     target 2532
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2530
     target 2531
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2530
     target 2532
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2531
     target 2532
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2531
     target 2553
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2531
     target 2554
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2531
     target 2718
     weight 1
+    event "CTD"
   ]
   edge [
     source 2531
     target 2781
     weight 1
+    event "CTD"
   ]
   edge [
     source 2534
     target 2535
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2536
     target 2537
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2536
     target 2538
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2536
     target 2539
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2538
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2539
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2692
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2693
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2694
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2759
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2760
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2761
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2537
     target 2741
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2538
     target 2539
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2539
     target 2692
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2539
     target 2693
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2539
     target 2694
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2542
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2543
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2544
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2586
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2587
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2556
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2594
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2595
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2678
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2679
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2541
     target 2794
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2795
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2796
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2797
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2813
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2814
     weight 5
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2815
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2837
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2838
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2854
     weight 4
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2888
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2955
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2956
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 2957
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 3025
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 3026
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 3027
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2541
     target 3477
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2541
     target 3478
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2541
     target 3479
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2541
     target 3480
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2541
     target 4298
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2541
     target 4356
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2541
     target 4446
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2541
     target 4447
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2541
     target 4504
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2541
     target 2630
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2542
     target 2543
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2542
     target 2544
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2543
     target 2544
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2543
     target 2594
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2543
     target 4298
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2544
     target 2629
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2544
     target 2630
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2544
     target 4326
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2544
     target 4327
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2545
     target 2546
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2545
     target 2547
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2546
     target 2547
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2549
     target 2550
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2551
     target 2552
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2553
     target 2554
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2555
     target 2556
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2555
     target 2557
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2555
     target 2558
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2556
     target 2557
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2556
     target 2558
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2556
     target 2565
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2556
     target 2566
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2556
     target 2586
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2556
     target 2587
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2556
     target 3025
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2556
     target 3477
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2556
     target 3478
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2556
     target 3479
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2556
     target 3480
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2556
     target 4354
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2556
     target 4306
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2556
     target 4355
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2557
     target 2558
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2559
     target 2560
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2559
     target 2561
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2559
     target 2564
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2560
     target 2561
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2560
     target 2564
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2561
     target 2564
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2561
     target 4581
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2561
     target 4649
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2561
     target 3658
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2562
     target 2563
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2563
     target 2617
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2563
     target 2618
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2565
     target 2566
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2568
     target 2569
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2568
     target 2570
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2569
     target 2570
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2571
     target 2572
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2571
     target 2573
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2572
     target 2573
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2572
     target 2581
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2572
     target 2582
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2572
     target 2583
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2572
     target 2590
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2572
     target 2591
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2573
     target 2590
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2573
     target 2591
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2573
     target 2583
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2574
     target 2575
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2574
     target 2576
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2574
     target 2577
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2574
     target 2578
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2574
     target 2579
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2575
     target 2576
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2575
     target 2577
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2575
     target 2578
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2575
     target 2579
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2575
     target 2580
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2576
     target 2577
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2576
     target 2578
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2576
     target 2579
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2577
     target 2578
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2577
     target 2579
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2578
     target 2579
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2581
     target 2582
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2581
     target 2583
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2582
     target 2583
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2583
     target 2590
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2583
     target 2591
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2583
     target 2649
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2583
     target 2650
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2583
     target 2651
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2584
     target 2585
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2585
     target 4827
     weight 1
+    event "CTD"
   ]
   edge [
     source 2585
     target 4762
     weight 1
+    event "CTD"
   ]
   edge [
     source 2586
     target 2587
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2588
     target 2589
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2590
     target 2591
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2592
     target 2593
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2594
     target 2595
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2594
     target 4298
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2597
     target 2598
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2597
     target 2599
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2597
     target 2600
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2598
     target 2599
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2598
     target 2600
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2599
     target 2600
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2601
     target 2602
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2601
     target 2603
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2602
     target 2603
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2603
     target 4634
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2604
     target 2605
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2608
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2609
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2610
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2611
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2612
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2613
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2614
     weight 5
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2713
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2714
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 2715
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2607
     target 3332
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2607
     target 3333
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2607
     target 3529
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2607
     target 3758
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2608
     target 2609
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2608
     target 2610
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2608
     target 2611
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2608
     target 2612
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2608
     target 2613
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2608
     target 2614
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2608
     target 2715
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2609
     target 2610
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2609
     target 2611
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2609
     target 2612
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2609
     target 2613
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2609
     target 2614
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2610
     target 2611
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2610
     target 2612
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2610
     target 2613
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2610
     target 2614
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2610
     target 3332
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2610
     target 3333
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2610
     target 3758
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2611
     target 2612
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2611
     target 2613
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2611
     target 2614
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2612
     target 2613
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2612
     target 2614
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2613
     target 2614
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2614
     target 2713
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2614
     target 2714
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2614
     target 2715
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2614
     target 3332
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2614
     target 3333
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2614
     target 3529
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2615
     target 2616
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2616
     target 4691
     weight 2
+    event "CTD"
   ]
   edge [
     source 2616
     target 4692
     weight 1
+    event "CTD"
   ]
   edge [
     source 2617
     target 2618
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2619
     target 2620
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2621
     target 2622
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2621
     target 2623
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2621
     target 2624
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2622
     target 2623
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2622
     target 2624
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2623
     target 2624
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2626
     target 2627
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2626
     target 2628
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2627
     target 2628
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2629
     target 2630
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2629
     target 4326
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2629
     target 4327
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 4166
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 4167
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 4168
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 4223
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 4224
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 4326
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 4327
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 2678
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2630
     target 4504
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2631
     target 2632
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2631
     target 2633
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2632
     target 2633
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2634
     target 2635
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2634
     target 2636
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2635
     target 2636
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2637
     target 2638
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2637
     target 2639
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2637
     target 2640
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2637
     target 2641
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2638
     target 2639
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2638
     target 2640
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2638
     target 2641
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2639
     target 2640
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2639
     target 2641
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2639
     target 2646
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2639
     target 2647
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2639
     target 2648
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2639
     target 2725
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2639
     target 2726
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2640
     target 2641
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2641
     target 2646
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2641
     target 2647
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2641
     target 2648
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2641
     target 2725
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2641
     target 2726
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2642
     target 2643
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2644
     target 2645
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2646
     target 2647
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2646
     target 2648
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2647
     target 2648
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2649
     target 2650
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2649
     target 2651
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2650
     target 2651
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2652
     target 2653
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2652
     target 2654
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2652
     target 2655
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2652
     target 2656
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2652
     target 3614
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2652
     target 3613
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2652
     target 3617
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2652
     target 3616
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2653
     target 2654
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2653
     target 2655
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2653
     target 2656
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2654
     target 2655
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2654
     target 2656
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2655
     target 2656
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2656
     target 4822
     weight 1
+    event "CTD"
   ]
   edge [
     source 2656
     target 4823
     weight 1
+    event "CTD"
   ]
   edge [
     source 2657
     target 2658
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2657
     target 2659
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2657
     target 2660
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2658
     target 2659
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2658
     target 2660
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2658
     target 3414
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2658
     target 3263
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2658
     target 3415
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2658
     target 3419
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2658
     target 3420
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2658
     target 3442
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2659
     target 2660
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2660
     target 3419
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3420
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3263
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3441
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3442
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3443
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3402
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3444
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3445
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3446
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3425
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3260
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3528
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3550
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3551
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3552
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3415
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2660
     target 3566
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2661
     target 2662
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2661
     target 2663
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2661
     target 2664
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2662
     target 2663
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2662
     target 2664
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2663
     target 2664
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2665
     target 2666
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2665
     target 2667
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2665
     target 2668
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2666
     target 2667
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2666
     target 2668
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2667
     target 2668
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2669
     target 2670
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2671
     target 2672
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2674
     target 2675
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2674
     target 2676
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2674
     target 2677
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2675
     target 2676
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2675
     target 2677
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2676
     target 2677
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2678
     target 2679
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2678
     target 4504
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2679
     target 2796
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2679
     target 2814
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2679
     target 2794
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2679
     target 2888
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2679
     target 2854
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2680
     target 2681
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2680
     target 2682
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2680
     target 2683
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2680
     target 2684
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2680
     target 2685
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2681
     target 2682
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2681
     target 2683
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2681
     target 2684
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2681
     target 2685
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2681
     target 4067
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2681
     target 4068
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2681
     target 4069
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2681
     target 4070
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2681
     target 4071
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2681
     target 4072
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2682
     target 2683
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2682
     target 2684
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2682
     target 2685
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2683
     target 2684
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2683
     target 2685
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2684
     target 2685
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2685
     target 2689
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2685
     target 2690
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2685
     target 2691
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2685
     target 2749
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2685
     target 2750
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2685
     target 2751
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2685
     target 2752
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2686
     target 2687
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2686
     target 2688
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2687
     target 2688
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2687
     target 2735
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2687
     target 2736
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2687
     target 2737
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2688
     target 2735
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2688
     target 2736
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2688
     target 2737
     weight 3
+    event "WPERFORMANCE"
   ]
   edge [
     source 2688
     target 2748
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2688
     target 2778
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2688
     target 2779
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2688
     target 4402
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2688
     target 4315
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2689
     target 2690
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2689
     target 2691
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2690
     target 2691
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2692
     target 2693
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2692
     target 2694
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2693
     target 2694
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2694
     target 2759
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2694
     target 2760
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2694
     target 2761
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2694
     target 2741
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2695
     target 2696
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2696
     target 2850
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 2851
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 2852
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 2853
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 3007
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 3008
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 3009
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 3010
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 3063
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2696
     target 3064
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2697
     target 2698
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2697
     target 2699
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2697
     target 2700
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2697
     target 2701
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2698
     target 2699
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2698
     target 2700
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2698
     target 2701
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2699
     target 2700
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2699
     target 2701
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2700
     target 2701
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2702
     target 2703
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2702
     target 2704
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2702
     target 2705
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2702
     target 2706
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2703
     target 2704
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2703
     target 2705
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2703
     target 2706
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2704
     target 2705
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2704
     target 2706
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2705
     target 2706
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2707
     target 2708
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2709
     target 2710
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2709
     target 2711
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2709
     target 2712
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2710
     target 2711
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2710
     target 2712
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2711
     target 2712
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2713
     target 2714
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2713
     target 2715
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2714
     target 2715
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2715
     target 3529
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2716
     target 2717
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2716
     target 2718
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2716
     target 2781
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2717
     target 2718
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2717
     target 2781
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2718
     target 2764
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2718
     target 2765
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2718
     target 2781
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2719
     target 2720
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2719
     target 2721
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2719
     target 2722
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2720
     target 2721
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2720
     target 2722
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2720
     target 3396
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2720
     target 3397
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2720
     target 3398
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2720
     target 3399
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2721
     target 2722
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2722
     target 4236
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2722
     target 4237
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2722
     target 4238
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2722
     target 4239
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2722
     target 4240
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2722
     target 4241
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2722
     target 4242
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2722
     target 4243
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2725
     target 2726
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2727
     target 2728
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2727
     target 2729
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2727
     target 2730
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2728
     target 2729
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2728
     target 2730
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2729
     target 2730
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2730
     target 4542
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2730
     target 4543
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2731
     target 2732
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2733
     target 2734
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2735
     target 2736
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2735
     target 2737
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2736
     target 2737
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2736
     target 2748
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2737
     target 2748
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2737
     target 2778
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2737
     target 2779
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2738
     target 2739
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2738
     target 2740
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2738
     target 2741
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2738
     target 2742
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2738
     target 2743
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2739
     target 2740
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2739
     target 2741
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2739
     target 2742
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2739
     target 2743
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2740
     target 2741
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2740
     target 2742
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2740
     target 2743
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2741
     target 2742
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2741
     target 2743
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2741
     target 2759
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2741
     target 2760
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2741
     target 2761
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2742
     target 2743
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2744
     target 2745
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2745
     target 4660
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2745
     target 4661
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2746
     target 2747
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2747
     target 2753
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2749
     target 2750
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2749
     target 2751
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2749
     target 2752
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2750
     target 2751
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2750
     target 2752
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2751
     target 2752
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2754
     target 2755
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2756
     target 2757
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2756
     target 2758
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2756
     target 4440
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2756
     target 4441
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2757
     target 2758
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2758
     target 4440
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2758
     target 4441
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2759
     target 2760
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2759
     target 2761
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2760
     target 2761
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2762
     target 2763
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2764
     target 2765
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2766
     target 2767
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2768
     target 2769
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2768
     target 4616
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2769
     target 4614
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2769
     target 4615
     weight 1
+    event "CTIC"
   ]
   edge [
     source 2769
     target 4875
     weight 1
+    event "CTD"
   ]
   edge [
     source 2769
     target 4884
     weight 1
+    event "CTD"
   ]
   edge [
     source 2769
     target 4942
     weight 1
+    event "CTD"
   ]
   edge [
     source 2771
     target 2772
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2771
     target 2773
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2772
     target 2773
     weight 2
+    event "WPERFORMANCE"
   ]
   edge [
     source 2773
     target 2790
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2773
     target 2791
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2775
     target 2776
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2775
     target 2777
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2776
     target 2777
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2778
     target 2779
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2782
     target 2783
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2782
     target 2784
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2783
     target 2784
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2785
     target 2786
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2785
     target 2787
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2785
     target 2788
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2785
     target 2789
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2786
     target 2787
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2786
     target 2788
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2786
     target 2789
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2787
     target 2788
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2787
     target 2789
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2788
     target 2789
     weight 4
+    event "WPERFORMANCE"
   ]
   edge [
     source 2788
     target 4491
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2788
     target 4522
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2788
     target 4523
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2788
     target 4524
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2789
     target 4491
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2789
     target 4522
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2789
     target 4523
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2789
     target 4524
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2790
     target 2791
     weight 1
+    event "WPERFORMANCE"
   ]
   edge [
     source 2792
     target 2793
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2794
     target 2795
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2794
     target 2796
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2794
     target 2797
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2794
     target 2854
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2794
     target 2888
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2795
     target 2796
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2795
     target 2797
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2795
     target 2854
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2796
     target 2797
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2796
     target 2814
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2796
     target 2888
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2796
     target 2854
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2798
     target 2799
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2798
     target 2800
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2798
     target 2801
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2798
     target 2802
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2798
     target 2803
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2798
     target 2804
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2798
     target 2805
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2798
     target 2821
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2799
     target 2800
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2799
     target 2801
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2799
     target 2802
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2799
     target 2803
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2799
     target 2804
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2799
     target 2805
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2799
     target 2821
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2800
     target 2801
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2800
     target 2802
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2800
     target 2803
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2800
     target 2804
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2800
     target 2805
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2801
     target 2802
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2801
     target 2803
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2801
     target 2804
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2801
     target 2805
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2801
     target 2821
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2803
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2804
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2805
     weight 5
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2821
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2863
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2894
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2895
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2896
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2802
     target 2927
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2803
     target 2804
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2803
     target 2805
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2804
     target 2805
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2805
     target 2821
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2805
     target 2863
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2805
     target 2894
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2805
     target 2895
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2805
     target 2896
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2805
     target 2927
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2807
     target 2808
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2807
     target 2809
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2807
     target 2810
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2807
     target 2811
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2807
     target 2812
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2808
     target 2809
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2808
     target 2810
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2808
     target 2811
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2808
     target 2812
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2809
     target 2810
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2809
     target 2811
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2809
     target 2812
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2810
     target 2811
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2810
     target 2812
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2810
     target 2876
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2811
     target 2812
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2813
     target 2814
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2813
     target 2815
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2814
     target 2815
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2814
     target 2837
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2814
     target 2838
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2814
     target 3025
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2814
     target 3026
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2814
     target 3027
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2814
     target 2854
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2814
     target 4356
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2815
     target 2837
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2815
     target 2838
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2816
     target 2817
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2816
     target 2818
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2816
     target 2819
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2816
     target 2820
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2817
     target 2818
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2817
     target 2819
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2817
     target 2820
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2818
     target 2819
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2818
     target 2820
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2819
     target 2820
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2819
     target 2841
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2819
     target 2842
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2819
     target 2843
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2820
     target 2841
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2820
     target 2842
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2820
     target 2843
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2822
     target 2823
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2825
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2826
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2958
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2959
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2887
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2925
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2960
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2961
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2824
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2825
     target 2826
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 2825
     target 2875
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2825
     target 2925
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 2875
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 2887
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 2925
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 2958
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 2959
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 2960
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 2961
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 3107
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 3108
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2826
     target 3109
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2827
     target 2828
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2827
     target 2829
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2827
     target 2830
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2827
     target 2831
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2827
     target 2832
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2827
     target 2833
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2827
     target 2834
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2828
     target 2829
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2828
     target 2830
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2828
     target 2831
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2828
     target 2832
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2828
     target 2833
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2828
     target 2834
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2829
     target 2830
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2829
     target 2831
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2829
     target 2832
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2829
     target 2833
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2829
     target 2834
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2830
     target 2831
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2830
     target 2832
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2830
     target 2833
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2830
     target 2834
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2831
     target 2832
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2831
     target 2833
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2831
     target 2834
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2832
     target 2833
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2832
     target 2834
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2833
     target 2834
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2835
     target 2836
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2837
     target 2838
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2839
     target 2840
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2840
     target 3726
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2841
     target 2842
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2841
     target 2843
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2842
     target 2843
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2845
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2846
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2847
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2848
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2849
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2933
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2934
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2935
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2936
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2844
     target 2937
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2845
     target 2846
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2845
     target 2847
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2845
     target 2848
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2845
     target 2849
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2846
     target 2847
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2846
     target 2848
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2846
     target 2849
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2846
     target 2933
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2846
     target 2934
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2846
     target 2935
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2846
     target 2936
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2846
     target 2937
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2847
     target 2848
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2847
     target 2849
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2848
     target 2849
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2848
     target 3039
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2848
     target 3040
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2848
     target 3041
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2848
     target 3042
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2848
     target 3043
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2850
     target 2851
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2850
     target 2852
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2850
     target 2853
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2851
     target 2852
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2851
     target 2853
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2852
     target 2853
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2854
     target 2888
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2854
     target 2955
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2854
     target 2956
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2854
     target 2957
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2854
     target 3025
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2854
     target 3026
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2854
     target 3027
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2855
     target 2856
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2857
     target 2858
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2857
     target 2859
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2858
     target 2859
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2858
     target 2860
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2858
     target 2861
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2858
     target 2862
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2859
     target 2860
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2859
     target 2861
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2859
     target 2862
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2859
     target 3136
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2859
     target 3208
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2859
     target 3209
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2859
     target 3210
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2860
     target 2861
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2860
     target 2862
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2861
     target 2862
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2865
     target 2866
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2865
     target 2867
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2865
     target 2868
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2865
     target 2869
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2865
     target 2870
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2865
     target 2871
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2866
     target 2867
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2866
     target 2868
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2866
     target 2869
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2866
     target 2870
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2866
     target 2871
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2867
     target 2868
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2867
     target 2869
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2867
     target 2870
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2867
     target 2871
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2868
     target 2869
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2868
     target 2870
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2868
     target 2871
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2869
     target 2870
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2869
     target 2871
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2870
     target 2871
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2872
     target 2873
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2872
     target 2874
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2873
     target 2874
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2876
     target 2940
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2876
     target 2941
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2876
     target 2942
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2877
     target 2878
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2877
     target 2879
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2877
     target 2880
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2877
     target 2881
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2877
     target 2882
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2877
     target 2883
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2878
     target 2879
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2878
     target 2880
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2878
     target 2881
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2878
     target 2882
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2878
     target 2883
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2879
     target 2880
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2879
     target 2881
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2879
     target 2882
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2879
     target 2883
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2880
     target 2881
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2880
     target 2882
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2880
     target 2883
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2880
     target 2903
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2880
     target 2926
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2880
     target 2906
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2881
     target 2882
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2881
     target 2883
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2882
     target 2883
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 2882
     target 2903
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2882
     target 2904
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2882
     target 2905
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2882
     target 2906
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2882
     target 2926
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2883
     target 2903
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2883
     target 2904
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2883
     target 2905
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2883
     target 2906
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2883
     target 2926
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2884
     target 2885
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2884
     target 2886
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2885
     target 2886
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2887
     target 2958
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2887
     target 2959
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2887
     target 2925
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2887
     target 2960
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2887
     target 2961
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2887
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2888
     target 2955
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2888
     target 2956
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2888
     target 2957
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2889
     target 2890
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2891
     target 2892
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2891
     target 2893
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2892
     target 2893
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2894
     target 2895
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2894
     target 2896
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2895
     target 2896
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2895
     target 2927
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2897
     target 2898
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2897
     target 2899
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2897
     target 2900
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2898
     target 2899
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2898
     target 2900
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2899
     target 2900
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2901
     target 2902
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2903
     target 2904
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2903
     target 2905
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2903
     target 2906
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2903
     target 2926
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2904
     target 2905
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2904
     target 2906
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2905
     target 2906
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2906
     target 2926
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2907
     target 2908
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2907
     target 2909
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2908
     target 2909
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2910
     target 2911
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2912
     target 2913
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2914
     target 2915
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2916
     target 2917
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2916
     target 2918
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2916
     target 2919
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2916
     target 2920
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2916
     target 2921
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2916
     target 2922
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2917
     target 2918
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2917
     target 2919
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2917
     target 2920
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2917
     target 2921
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2917
     target 2922
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2918
     target 2919
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2918
     target 2920
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2918
     target 2921
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2918
     target 2922
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2919
     target 2920
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2919
     target 2921
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2919
     target 2922
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2920
     target 2921
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2920
     target 2922
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2921
     target 2922
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2923
     target 2924
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2924
     target 2967
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2924
     target 2968
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2924
     target 2972
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2924
     target 2973
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2925
     target 2958
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2925
     target 2959
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2925
     target 2960
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2925
     target 2961
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2925
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2928
     target 2929
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2928
     target 2930
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2928
     target 2931
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2928
     target 2932
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2929
     target 2930
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2929
     target 2931
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2929
     target 2932
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2929
     target 3105
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2929
     target 3106
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 2931
     weight 5
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 2932
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3022
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3023
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3024
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3083
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3084
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3085
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3086
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3097
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3098
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3099
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3100
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3105
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3106
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3110
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 3111
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2930
     target 4442
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 2931
     target 2932
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3022
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3023
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3024
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3083
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3084
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3085
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3086
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3097
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3098
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3099
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3100
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3110
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3111
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2931
     target 3106
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2933
     target 2934
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2933
     target 2935
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2933
     target 2936
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2933
     target 2937
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2934
     target 2935
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2934
     target 2936
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2934
     target 2937
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2935
     target 2936
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2935
     target 2937
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2936
     target 2937
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2938
     target 2939
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2939
     target 2983
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2940
     target 2941
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2940
     target 2942
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2941
     target 2942
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2943
     target 2944
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2945
     target 2946
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2945
     target 2947
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2945
     target 2948
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2945
     target 2949
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2945
     target 2950
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2945
     target 3448
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2945
     target 3493
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2946
     target 2947
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2946
     target 2948
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2946
     target 2949
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2946
     target 2950
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2947
     target 2948
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2947
     target 2949
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2947
     target 2950
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2948
     target 2949
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2948
     target 2950
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2949
     target 2950
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2951
     target 2952
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2951
     target 2953
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2951
     target 2954
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2952
     target 2953
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2952
     target 2954
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2953
     target 2954
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2954
     target 3229
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2954
     target 3230
     weight 6
+    event "BRESCI"
   ]
   edge [
     source 2954
     target 3206
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2954
     target 3659
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3360
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3674
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3711
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3712
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3743
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3744
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3759
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3781
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3852
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3853
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3854
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2954
     target 3855
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2955
     target 2956
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2955
     target 2957
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2956
     target 2957
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2958
     target 2959
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2958
     target 2960
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2958
     target 2961
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2958
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2959
     target 2960
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2959
     target 2961
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2959
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2960
     target 2961
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2960
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2961
     target 2962
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2963
     target 2964
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2963
     target 2965
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2963
     target 2966
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2964
     target 2965
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2964
     target 2966
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2965
     target 2966
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2967
     target 2968
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2967
     target 2972
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2967
     target 2973
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2969
     target 2970
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2969
     target 2971
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2970
     target 2971
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2972
     target 2973
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2974
     target 2975
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2974
     target 2976
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2974
     target 2977
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2974
     target 2978
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2975
     target 2976
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2975
     target 2977
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2975
     target 2978
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2975
     target 3383
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2975
     target 3384
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2975
     target 3385
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2975
     target 3386
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2975
     target 3387
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2975
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2976
     target 2977
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2976
     target 2978
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2977
     target 2978
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2977
     target 3383
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2977
     target 3384
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2977
     target 3385
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2977
     target 3386
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2977
     target 3387
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2977
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2978
     target 3383
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2978
     target 3384
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2978
     target 3385
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2978
     target 3386
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2978
     target 3387
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2978
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2979
     target 2980
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2979
     target 2981
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2980
     target 2981
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2982
     target 3112
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 2982
     target 3370
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2982
     target 3371
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2982
     target 3372
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 2984
     target 2985
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2984
     target 2986
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2984
     target 2987
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2985
     target 2986
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2985
     target 2987
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2986
     target 2987
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2987
     target 3202
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2987
     target 3203
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2988
     target 2989
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2988
     target 2990
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2988
     target 2991
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2989
     target 2990
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2989
     target 2991
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2990
     target 2991
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2991
     target 3926
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2991
     target 3927
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2991
     target 3928
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 2991
     target 3929
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 2992
     target 2993
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2992
     target 2994
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2992
     target 2995
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2992
     target 2996
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2992
     target 2997
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2992
     target 2998
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2992
     target 2999
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2992
     target 3000
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 2994
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 2995
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 2996
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 2997
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 2998
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 2999
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 3000
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 3001
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2993
     target 3002
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2994
     target 2995
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2994
     target 2996
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2994
     target 2997
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2994
     target 2998
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2994
     target 2999
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2994
     target 3000
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2995
     target 2996
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 2995
     target 2997
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2995
     target 2998
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2995
     target 2999
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2995
     target 3000
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2996
     target 2997
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2996
     target 2998
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2996
     target 2999
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2996
     target 3000
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2998
     target 2999
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2998
     target 3000
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 2999
     target 3000
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3001
     target 3002
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3003
     target 3004
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3005
     target 3006
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3007
     target 3008
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3007
     target 3009
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3007
     target 3010
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3008
     target 3009
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3008
     target 3010
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3009
     target 3010
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3009
     target 3063
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3009
     target 3064
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3009
     target 4427
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3009
     target 4428
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3009
     target 4429
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3009
     target 4430
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3009
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3012
     target 3013
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3012
     target 3014
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3013
     target 3014
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3015
     target 3016
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3015
     target 3017
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3015
     target 3018
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3017
     weight 4
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3018
     weight 3
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3050
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3051
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3052
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3053
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3054
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3055
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3056
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3067
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3068
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3069
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3070
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3089
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3090
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3016
     target 3091
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3018
     weight 4
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3028
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3029
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3050
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3051
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3052
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3053
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3054
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3055
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3056
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3067
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3068
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3069
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3070
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3089
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3090
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3017
     target 3091
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3028
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3029
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3067
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3068
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3069
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3070
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3089
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3051
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3090
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3018
     target 3091
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3019
     target 3020
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3019
     target 3021
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3020
     target 3021
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3022
     target 3023
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3022
     target 3024
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3023
     target 3024
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3025
     target 3026
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3025
     target 3027
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3025
     target 3477
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3025
     target 3478
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3025
     target 3479
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3025
     target 3480
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3025
     target 4356
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3026
     target 3027
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3028
     target 3029
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3030
     target 3031
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3032
     target 3033
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3032
     target 3034
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3032
     target 3035
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3032
     target 3036
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3032
     target 3037
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3032
     target 3038
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3033
     target 3034
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3033
     target 3035
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3033
     target 3036
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3033
     target 3037
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3033
     target 3038
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3034
     target 3035
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3034
     target 3036
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3034
     target 3037
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3034
     target 3038
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3035
     target 3036
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3035
     target 3037
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3035
     target 3038
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3036
     target 3037
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3036
     target 3038
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3037
     target 3038
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3039
     target 3040
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3039
     target 3041
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3039
     target 3042
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3039
     target 3043
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3040
     target 3041
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3040
     target 3042
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3040
     target 3043
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3041
     target 3042
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3041
     target 3043
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3042
     target 3043
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3044
     target 3045
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3046
     target 3047
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3046
     target 3048
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3046
     target 3049
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3047
     target 3048
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3047
     target 3049
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3048
     target 3049
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3049
     target 3060
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3050
     target 3051
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3050
     target 3052
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3050
     target 3053
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3050
     target 3054
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3050
     target 3055
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3050
     target 3056
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3051
     target 3052
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3051
     target 3053
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3051
     target 3054
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3051
     target 3055
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3051
     target 3056
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3051
     target 3089
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3051
     target 3090
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3051
     target 3091
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3052
     target 3053
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3052
     target 3054
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3052
     target 3055
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3052
     target 3056
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3053
     target 3054
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3053
     target 3055
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3053
     target 3056
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3054
     target 3055
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3054
     target 3056
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3055
     target 3056
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3057
     target 3058
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3057
     target 3059
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3058
     target 3059
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3061
     target 3062
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3063
     target 3064
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3065
     target 3066
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3067
     target 3068
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3067
     target 3069
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3067
     target 3070
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3068
     target 3069
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3068
     target 3070
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3069
     target 3070
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3071
     target 3072
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3071
     target 3073
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3071
     target 3074
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3071
     target 3075
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3071
     target 3076
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3072
     target 3073
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3072
     target 3074
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3072
     target 3075
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3072
     target 3076
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3073
     target 3074
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3073
     target 3075
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3073
     target 3076
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3074
     target 3075
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3074
     target 3076
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 3074
     target 3199
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3074
     target 3200
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3074
     target 3201
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3075
     target 3076
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3076
     target 3199
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3076
     target 3200
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3076
     target 3201
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3077
     target 3078
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3077
     target 3079
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3078
     target 3079
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3079
     target 3137
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3079
     target 3260
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3519
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3475
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3520
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3521
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3522
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3523
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3079
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3080
     target 3081
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3080
     target 3082
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3081
     target 3082
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3082
     target 3128
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3082
     target 3198
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3083
     target 3084
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3083
     target 3085
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3083
     target 3086
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3084
     target 3085
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3084
     target 3086
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3085
     target 3086
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 3085
     target 3110
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3085
     target 3111
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3085
     target 3106
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3086
     target 3097
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3086
     target 3098
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3086
     target 3099
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3086
     target 3100
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3086
     target 3110
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3086
     target 3111
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3086
     target 3106
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3087
     target 3088
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3089
     target 3090
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3089
     target 3091
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3090
     target 3091
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3093
     target 3094
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 3093
     target 3095
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 3093
     target 3096
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3093
     target 3142
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3093
     target 3143
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3094
     target 3095
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 3094
     target 3096
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3094
     target 3142
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3094
     target 3143
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3095
     target 3096
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3095
     target 3142
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3095
     target 3143
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3097
     target 3098
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3097
     target 3099
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3097
     target 3100
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3098
     target 3099
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3098
     target 3100
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3099
     target 3100
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3099
     target 4442
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3101
     target 3102
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3101
     target 3103
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3101
     target 3104
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3102
     target 3103
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3102
     target 3104
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3103
     target 3104
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3105
     target 3106
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3106
     target 3110
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3106
     target 3111
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3107
     target 3108
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3107
     target 3109
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3108
     target 3109
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3110
     target 3111
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3112
     target 3370
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3112
     target 3371
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3112
     target 3372
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3113
     target 3114
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3113
     target 3115
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3114
     target 3115
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3116
     target 3117
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3116
     target 3118
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3116
     target 3119
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3117
     target 3118
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3117
     target 3119
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3118
     target 3119
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3120
     target 3121
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3120
     target 3122
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3120
     target 3123
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3121
     target 3122
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3121
     target 3123
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3122
     target 3123
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3124
     target 3125
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3124
     target 3126
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3124
     target 3127
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3125
     target 3126
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3125
     target 3127
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3126
     target 3127
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3129
     target 3130
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3129
     target 3131
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3129
     target 3132
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3130
     target 3131
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3130
     target 3132
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3131
     target 3132
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3133
     target 3134
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3133
     target 3135
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3134
     target 3135
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3138
     target 3139
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3138
     target 3140
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3138
     target 3141
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3139
     target 3140
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3139
     target 3141
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3140
     target 3141
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3142
     target 3143
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3144
     target 3145
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3144
     target 3146
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3144
     target 3147
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3144
     target 3148
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3145
     target 3146
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3145
     target 3147
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3145
     target 3148
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3146
     target 3147
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3146
     target 3148
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3147
     target 3148
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3149
     target 3150
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3149
     target 3151
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3149
     target 3152
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3150
     target 3151
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3150
     target 3152
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3151
     target 3152
     weight 2
+    event "WCAMA"
   ]
   edge [
     source 3151
     target 4188
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3151
     target 4370
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3152
     target 4129
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3152
     target 4130
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3152
     target 4131
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3152
     target 4188
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3153
     target 3154
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3153
     target 3155
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3153
     target 3156
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3154
     target 3155
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3154
     target 3156
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3155
     target 3156
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3157
     target 3158
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3157
     target 3159
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3157
     target 4029
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3157
     target 4030
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3157
     target 4031
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3158
     target 3159
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3161
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3162
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3163
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3164
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3165
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3166
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3167
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3168
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3160
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3162
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3163
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3164
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3165
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3166
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3167
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3168
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3161
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3163
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3164
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3165
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3166
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3167
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3168
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3162
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3164
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3165
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3166
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3167
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3168
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3163
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3165
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3166
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3167
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3168
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3164
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3166
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3167
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3168
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3165
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3167
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3168
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3166
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3168
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3167
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3169
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3168
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3170
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3169
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3171
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3170
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3172
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3171
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3172
     target 3173
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3172
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3172
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3172
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3172
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3172
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3172
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3172
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3173
     target 3174
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3173
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3173
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3173
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3173
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3173
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3173
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3174
     target 3175
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3174
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3174
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3174
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3174
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3174
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3175
     target 3176
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3175
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3175
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3175
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3175
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3176
     target 3177
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3176
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3176
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3176
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3177
     target 3178
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3177
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3177
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3178
     target 3179
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3178
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3179
     target 3180
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3181
     target 3182
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3181
     target 3183
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3182
     target 3183
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3184
     target 3185
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3184
     target 3186
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3184
     target 3187
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3185
     target 3186
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3185
     target 3187
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3186
     target 3187
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3188
     target 3189
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3190
     target 3191
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3190
     target 3192
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3190
     target 3193
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3191
     target 3192
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3191
     target 3193
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3192
     target 3193
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3194
     target 3195
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3194
     target 3196
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3194
     target 3197
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3195
     target 3196
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3195
     target 3197
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3196
     target 3197
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3199
     target 3200
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3199
     target 3201
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3200
     target 3201
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3202
     target 3203
     weight 1
+    event "WCAMA"
   ]
   edge [
     source 3204
     target 3205
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3204
     target 3206
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3204
     target 3207
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3205
     target 3206
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3205
     target 3207
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3206
     target 3207
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3206
     target 3229
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3206
     target 3230
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3206
     target 3242
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3208
     target 3209
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3208
     target 3210
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3209
     target 3210
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3211
     target 3212
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3211
     target 3213
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3211
     target 3214
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3212
     target 3213
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3212
     target 3214
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3213
     target 3214
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3213
     target 3404
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3213
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3216
     target 3217
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3218
     target 3219
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3218
     target 3220
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3218
     target 3221
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3219
     target 3220
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3219
     target 3221
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3220
     target 3221
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3224
     target 3225
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3227
     target 3228
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3229
     target 3230
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3230
     target 3659
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3230
     target 3360
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3230
     target 3674
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3230
     target 3711
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3230
     target 3712
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3230
     target 3743
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3230
     target 3744
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3230
     target 3759
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3231
     target 3232
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3232
     target 4262
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3233
     target 3234
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3233
     target 3235
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3233
     target 3236
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3233
     target 3237
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3233
     target 3238
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3233
     target 3239
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3233
     target 3240
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3233
     target 3241
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3234
     target 3235
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3234
     target 3236
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3234
     target 3237
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3234
     target 3238
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3234
     target 3239
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3234
     target 3240
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3234
     target 3241
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3235
     target 3236
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3235
     target 3237
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3235
     target 3238
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3235
     target 3239
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3235
     target 3240
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3235
     target 3241
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3236
     target 3237
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3236
     target 3238
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3236
     target 3239
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3236
     target 3240
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3236
     target 3241
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3237
     target 3238
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3237
     target 3239
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3237
     target 3240
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3237
     target 3241
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3238
     target 3239
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3238
     target 3240
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3238
     target 3241
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3239
     target 3240
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3239
     target 3241
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3240
     target 3241
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3243
     target 3244
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3244
     target 3639
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3244
     target 3311
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3245
     target 3246
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3247
     target 3248
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3249
     target 3250
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3249
     target 3251
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3249
     target 3252
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3249
     target 3253
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3249
     target 3254
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3249
     target 3255
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3251
     weight 5
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3252
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3253
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3254
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3255
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3341
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3342
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3357
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3366
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3367
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3368
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3431
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3432
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3433
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3250
     target 3804
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3250
     target 3805
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3250
     target 3806
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3251
     target 3252
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3253
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3254
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3255
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3341
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3342
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3357
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3366
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3367
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3368
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3251
     target 3804
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3251
     target 3805
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3251
     target 3806
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3251
     target 3912
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3252
     target 3253
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3254
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3255
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3366
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3367
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3368
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3458
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3459
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3460
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3605
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3252
     target 3606
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3253
     target 3254
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3253
     target 3255
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3254
     target 3255
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3255
     target 3605
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3255
     target 3606
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3256
     target 3257
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3256
     target 3258
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3256
     target 3259
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3256
     target 3260
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3256
     target 3261
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3256
     target 3262
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3256
     target 3263
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3258
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3259
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3260
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3261
     weight 4
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3262
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3263
     weight 4
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3343
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3401
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3257
     target 3402
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3258
     target 3259
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3258
     target 3260
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3258
     target 3261
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3258
     target 3262
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3258
     target 3263
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3259
     target 3260
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3259
     target 3261
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3259
     target 3262
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3259
     target 3263
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3261
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3262
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3263
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3363
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3443
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3402
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3444
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3445
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3446
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3425
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3519
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3475
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3520
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3521
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3522
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3523
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3260
     target 3823
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3261
     target 3262
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3261
     target 3263
     weight 5
+    event "BRESCI"
   ]
   edge [
     source 3261
     target 3343
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3261
     target 3401
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3261
     target 3402
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3261
     target 3423
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3261
     target 3424
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3261
     target 3425
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3262
     target 3263
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3262
     target 4597
     weight 1
+    event "CTIC"
   ]
   edge [
     source 3262
     target 4579
     weight 2
+    event "CTIC"
   ]
   edge [
     source 3262
     target 4210
     weight 2
+    event "CTIC"
   ]
   edge [
     source 3263
     target 3343
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3401
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3402
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3403
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3414
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3415
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3419
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3420
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3422
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3423
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3424
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3425
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3263
     target 3528
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3264
     target 3265
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3264
     target 3266
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3264
     target 3267
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3265
     target 3266
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3265
     target 3267
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3266
     target 3267
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3268
     target 3269
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3268
     target 3270
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3269
     target 3270
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3271
     target 3272
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3271
     target 3273
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3272
     target 3273
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3273
     target 3407
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3273
     target 3408
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3273
     target 3412
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3273
     target 3413
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3273
     target 3545
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3273
     target 3546
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3274
     target 3275
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3274
     target 3276
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3274
     target 3277
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3274
     target 3278
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3275
     target 3276
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3275
     target 3277
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3275
     target 3278
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3276
     target 3277
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3276
     target 3278
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3276
     target 3314
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3276
     target 3315
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3276
     target 3316
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3276
     target 3317
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3276
     target 3318
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3277
     target 3278
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3280
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3281
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3282
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3283
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3284
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3285
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3286
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3287
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3279
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3281
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3282
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3283
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3284
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3285
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3286
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3287
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3280
     target 3290
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3282
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3283
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3284
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3285
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3286
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3287
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3281
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3282
     target 3283
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3282
     target 3284
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3282
     target 3285
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3282
     target 3286
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3282
     target 3287
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3282
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3282
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3282
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3283
     target 3284
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3283
     target 3285
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3283
     target 3286
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3283
     target 3287
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3283
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3283
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3283
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3284
     target 3285
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3284
     target 3286
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3284
     target 3287
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3284
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3284
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3284
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3285
     target 3286
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3285
     target 3287
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3285
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3285
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3285
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3286
     target 3287
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3286
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3286
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3286
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3287
     target 3288
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3287
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3287
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3288
     target 3289
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3288
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3289
     target 3290
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3404
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3416
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3417
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3418
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3474
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3475
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3519
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3520
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3521
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3522
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3523
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3586
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3587
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3290
     target 3588
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3291
     target 3292
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3291
     target 3293
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3292
     target 3293
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3294
     target 3295
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3296
     target 3297
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3296
     target 3298
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3296
     target 3299
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3296
     target 3300
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3297
     target 3298
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3297
     target 3299
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3297
     target 3300
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3298
     target 3299
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3298
     target 3300
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3299
     target 3300
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3300
     target 4861
     weight 1
+    event "CTD"
   ]
   edge [
     source 3301
     target 3302
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3301
     target 3303
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3301
     target 3304
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3301
     target 3305
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3302
     target 3303
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3302
     target 3304
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3302
     target 3305
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3303
     target 3304
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3303
     target 3305
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3304
     target 3305
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3306
     target 3307
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3306
     target 3308
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3306
     target 3309
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3307
     target 3308
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3307
     target 3309
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3308
     target 3309
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3310
     target 3311
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3311
     target 3347
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3311
     target 3348
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3311
     target 3349
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3311
     target 3350
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3311
     target 3351
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3311
     target 3364
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 3311
     target 3389
     weight 4
+    event "BRESCI"
   ]
   edge [
     source 3311
     target 3639
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3727
     weight 4
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3728
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3316
     weight 4
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3772
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3773
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3774
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3775
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3793
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3839
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3842
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3845
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3846
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3847
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3848
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3849
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3858
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3900
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 3923
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 4010
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 4011
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 4012
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3311
     target 4104
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3312
     target 3313
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3314
     target 3315
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3314
     target 3316
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3314
     target 3317
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3314
     target 3318
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3315
     target 3316
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3315
     target 3317
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3315
     target 3318
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3315
     target 3500
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3315
     target 3501
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3315
     target 3502
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3316
     target 3317
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3316
     target 3318
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3316
     target 3727
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3316
     target 3728
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3316
     target 3389
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3316
     target 3772
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3316
     target 3773
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3316
     target 3774
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3316
     target 3775
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3317
     target 3318
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3319
     target 3320
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3321
     target 3322
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3321
     target 3323
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3321
     target 3328
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3321
     target 3329
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3322
     target 3323
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3322
     target 3328
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3322
     target 3329
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3323
     target 3328
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3323
     target 3329
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3324
     target 3325
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3324
     target 3326
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3324
     target 3327
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3325
     target 3326
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3325
     target 3327
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3326
     target 3327
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3328
     target 3329
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3330
     target 3331
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3332
     target 3333
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3334
     target 3335
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3334
     target 3336
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3335
     target 3336
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3335
     target 3338
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3335
     target 3339
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3335
     target 3340
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3338
     target 3339
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3338
     target 3340
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3339
     target 3340
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3341
     target 3342
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3345
     target 3346
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3347
     target 3348
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3347
     target 3349
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3347
     target 3350
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3347
     target 3351
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3348
     target 3349
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3348
     target 3350
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3348
     target 3351
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3349
     target 3350
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3349
     target 3351
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3350
     target 3351
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3352
     target 3353
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3352
     target 3354
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3352
     target 3355
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3352
     target 3356
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3353
     target 3354
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3353
     target 3355
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3353
     target 3356
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3354
     target 3355
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3354
     target 3356
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3355
     target 3356
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3356
     target 3945
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3356
     target 3870
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3358
     target 3359
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3358
     target 3360
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3358
     target 3361
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3358
     target 3362
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3359
     target 3360
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3359
     target 3361
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3359
     target 3362
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3360
     target 3361
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3360
     target 3362
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3360
     target 3659
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3361
     target 3362
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3364
     target 3389
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3364
     target 3845
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3364
     target 3846
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3364
     target 3847
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3364
     target 3848
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3364
     target 3849
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3364
     target 3775
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3366
     target 3367
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3366
     target 3368
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3367
     target 3368
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3369
     target 3510
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3369
     target 3511
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3369
     target 3512
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3369
     target 3513
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3370
     target 3371
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3370
     target 3372
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3371
     target 3372
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3373
     target 3374
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3373
     target 3375
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3373
     target 3376
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3373
     target 3377
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3374
     target 3375
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3374
     target 3376
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3374
     target 3377
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3375
     target 3376
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3375
     target 3377
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3376
     target 3377
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3379
     target 3380
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3379
     target 3381
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3379
     target 3382
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3380
     target 3381
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3380
     target 3382
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3381
     target 3382
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3383
     target 3384
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3383
     target 3385
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3383
     target 3386
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3383
     target 3387
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3383
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3384
     target 3385
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3384
     target 3386
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3384
     target 3387
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3384
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3385
     target 3386
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3385
     target 3387
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3385
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3386
     target 3387
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3386
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3387
     target 3388
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3389
     target 3727
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3389
     target 3839
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3389
     target 3842
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3390
     target 3391
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3390
     target 3392
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3390
     target 3393
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3390
     target 3394
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3390
     target 3395
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3390
     target 3400
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3391
     target 3392
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3391
     target 3393
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3391
     target 3394
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3391
     target 3395
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3392
     target 3393
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3392
     target 3394
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3392
     target 3395
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3393
     target 3394
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3393
     target 3395
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3394
     target 3395
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3396
     target 3397
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3396
     target 3398
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3396
     target 3399
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3397
     target 3398
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3397
     target 3399
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3398
     target 3399
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3401
     target 3402
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3402
     target 3443
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3402
     target 3444
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3402
     target 3445
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3402
     target 3446
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3402
     target 3425
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3407
     target 3408
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3409
     target 3410
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3409
     target 3411
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3410
     target 3411
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3410
     target 3481
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3411
     target 3481
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3412
     target 3413
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3414
     target 3415
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3415
     target 3428
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3415
     target 3429
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3415
     target 3550
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3415
     target 3551
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3415
     target 3552
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3416
     target 3417
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3416
     target 3418
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3417
     target 3418
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3419
     target 3420
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3423
     target 3424
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3423
     target 3425
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3424
     target 3425
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3425
     target 3443
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3425
     target 3444
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3425
     target 3445
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3425
     target 3446
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3426
     target 3427
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3427
     target 3503
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3427
     target 3504
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3427
     target 3505
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3427
     target 3506
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3428
     target 3429
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3431
     target 3432
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3431
     target 3433
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3432
     target 3433
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3434
     target 3435
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3434
     target 3436
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3434
     target 3437
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3434
     target 3438
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3434
     target 3439
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3434
     target 3440
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3435
     target 3436
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3435
     target 3437
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3435
     target 3438
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3435
     target 3439
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3435
     target 3440
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3436
     target 3437
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3436
     target 3438
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3436
     target 3439
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3436
     target 3440
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3437
     target 3438
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3437
     target 3439
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3437
     target 3440
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3438
     target 3439
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3438
     target 3440
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3439
     target 3440
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3441
     target 3442
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3441
     target 3916
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3442
     target 3566
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3443
     target 3444
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3443
     target 3445
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3443
     target 3446
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3443
     target 3729
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3443
     target 3730
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3443
     target 3731
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3443
     target 3732
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3443
     target 3733
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3443
     target 3734
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3443
     target 3735
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3443
     target 3736
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3444
     target 3445
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3444
     target 3446
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3445
     target 3446
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3446
     target 3589
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3446
     target 3590
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3447
     target 3448
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3447
     target 3449
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3448
     target 3449
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3448
     target 3493
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3448
     target 3496
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3450
     target 3451
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3450
     target 3452
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3451
     target 3452
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3453
     target 3454
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3453
     target 3455
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3453
     target 3456
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3453
     target 3457
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3455
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3456
     weight 5
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3457
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3490
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3491
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3492
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3579
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3580
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3581
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3582
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3454
     target 3583
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3455
     target 3456
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3455
     target 3457
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3457
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3490
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3491
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3492
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3579
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3580
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3581
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3582
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3456
     target 3583
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3458
     target 3459
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3458
     target 3460
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3459
     target 3460
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3461
     target 3462
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3465
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3466
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3467
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3468
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3469
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3470
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3471
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3472
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3464
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3465
     target 3466
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3465
     target 3467
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3465
     target 3468
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3465
     target 3469
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3465
     target 3470
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3465
     target 3471
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3465
     target 3472
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3465
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3466
     target 3467
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3466
     target 3468
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3466
     target 3469
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3466
     target 3470
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3466
     target 3471
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3466
     target 3472
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3466
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3467
     target 3468
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3467
     target 3469
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3467
     target 3470
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3467
     target 3471
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3467
     target 3472
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3467
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3468
     target 3469
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3468
     target 3470
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3468
     target 3471
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3468
     target 3472
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3468
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3469
     target 3470
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3469
     target 3471
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3469
     target 3472
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3469
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3470
     target 3471
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3470
     target 3472
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3470
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3471
     target 3472
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3471
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3472
     target 3473
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3473
     target 4725
     weight 1
+    event "CTD"
   ]
   edge [
     source 3473
     target 4874
     weight 1
+    event "CTD"
   ]
   edge [
     source 3474
     target 3475
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3475
     target 3519
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3475
     target 3520
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3475
     target 3521
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3475
     target 3522
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3475
     target 3523
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3475
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3475
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3475
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3477
     target 3478
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3477
     target 3479
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3477
     target 3480
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3478
     target 3479
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3478
     target 3480
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3479
     target 3480
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3480
     target 4433
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3480
     target 4434
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3480
     target 4435
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3482
     target 3483
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3482
     target 3484
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3482
     target 3485
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3482
     target 3486
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3482
     target 3487
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3482
     target 3488
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3482
     target 3489
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3483
     target 3484
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3483
     target 3485
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3483
     target 3486
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3483
     target 3487
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3483
     target 3488
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3483
     target 3489
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3484
     target 3485
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3484
     target 3486
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3484
     target 3487
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3484
     target 3488
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3484
     target 3489
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3485
     target 3486
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3485
     target 3487
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3485
     target 3488
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3485
     target 3489
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3486
     target 3487
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3486
     target 3488
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3486
     target 3489
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3487
     target 3488
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3487
     target 3489
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3488
     target 3489
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3490
     target 3491
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3490
     target 3492
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3491
     target 3492
     weight 3
+    event "BRESCI"
   ]
   edge [
     source 3491
     target 3579
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3491
     target 3580
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3491
     target 3581
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3491
     target 3582
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3491
     target 3583
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3492
     target 3579
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3492
     target 3580
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3492
     target 3581
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3492
     target 3582
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3492
     target 3583
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3494
     target 3495
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3497
     target 3498
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3497
     target 3499
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3498
     target 3499
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3500
     target 3501
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3500
     target 3502
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3501
     target 3502
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3503
     target 3504
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3503
     target 3505
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3503
     target 3506
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3504
     target 3505
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3504
     target 3506
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3505
     target 3506
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3507
     target 3508
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3507
     target 3509
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3508
     target 3509
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3510
     target 3511
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3510
     target 3512
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3510
     target 3513
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3510
     target 3516
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3510
     target 3515
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3510
     target 3872
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3510
     target 3801
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3510
     target 4339
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3510
     target 4340
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3510
     target 4341
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3510
     target 4342
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3510
     target 4343
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3511
     target 3512
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3511
     target 3513
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3512
     target 3513
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3514
     target 3515
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3514
     target 3516
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3515
     target 3516
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3515
     target 3872
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3515
     target 3873
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3515
     target 3874
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3515
     target 3875
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3515
     target 3876
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3515
     target 3877
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3515
     target 3878
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3515
     target 3879
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3515
     target 3801
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3516
     target 3872
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3516
     target 3801
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3517
     target 3518
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3518
     target 3942
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 3943
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 3944
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 3988
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 3989
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 3990
     weight 5
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4005
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4006
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4007
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4032
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4033
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4034
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4035
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4036
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4037
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4038
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4060
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4061
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4062
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4063
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4064
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3518
     target 4079
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3519
     target 3520
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3519
     target 3521
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3519
     target 3522
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3519
     target 3523
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3519
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3519
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3519
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3520
     target 3521
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3520
     target 3522
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3520
     target 3523
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3520
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3520
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3520
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3521
     target 3522
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3521
     target 3523
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3521
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3521
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3521
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3522
     target 3523
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3522
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3522
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3522
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3523
     target 3524
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3523
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3523
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3524
     target 3525
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3524
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3525
     target 3526
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3529
     target 3530
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3529
     target 3531
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3529
     target 3532
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3530
     target 3531
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3530
     target 3532
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3531
     target 3532
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3533
     target 3534
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3533
     target 3535
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3534
     target 3535
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3536
     target 3537
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3536
     target 3538
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3536
     target 3539
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3536
     target 3540
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3536
     target 3541
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3536
     target 3542
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3536
     target 3543
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3536
     target 3544
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3537
     target 3538
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3537
     target 3539
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3537
     target 3540
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3537
     target 3541
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3537
     target 3542
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3537
     target 3543
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3537
     target 3544
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3538
     target 3539
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3538
     target 3540
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3538
     target 3541
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3538
     target 3542
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3538
     target 3543
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3538
     target 3544
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3539
     target 3540
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3539
     target 3541
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3539
     target 3542
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3539
     target 3543
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3539
     target 3544
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3540
     target 3541
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3540
     target 3542
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3540
     target 3543
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3541
     target 3542
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3541
     target 3543
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3541
     target 3544
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3542
     target 3543
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3542
     target 3544
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3543
     target 3544
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3547
     target 3548
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3547
     target 3549
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3548
     target 3549
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3550
     target 3551
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3550
     target 3552
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3551
     target 3552
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3553
     target 3554
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3553
     target 3555
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3553
     target 3556
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3553
     target 3557
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3553
     target 3558
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3554
     target 3555
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3554
     target 3556
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3554
     target 3557
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3554
     target 3558
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3555
     target 3556
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3555
     target 3557
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3555
     target 3558
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3556
     target 3557
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3556
     target 3558
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3557
     target 3558
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3559
     target 3560
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3559
     target 3561
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3559
     target 3562
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3559
     target 3563
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3560
     target 3561
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3560
     target 3562
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3560
     target 3563
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3561
     target 3562
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3561
     target 3563
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3562
     target 3563
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3567
     target 3568
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3567
     target 3569
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3567
     target 3570
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3567
     target 3571
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3567
     target 3572
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3568
     target 3569
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3568
     target 3570
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3568
     target 3571
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3568
     target 3572
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3569
     target 3570
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3569
     target 3571
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3569
     target 3572
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3570
     target 3571
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3570
     target 3572
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3571
     target 3572
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3573
     target 3574
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3573
     target 3575
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3573
     target 3576
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3573
     target 3577
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3573
     target 3578
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3574
     target 3575
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3574
     target 3576
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3574
     target 3577
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3574
     target 3578
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3575
     target 3576
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3575
     target 3577
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3575
     target 3578
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3576
     target 3577
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3576
     target 3578
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3577
     target 3578
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3579
     target 3580
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3579
     target 3581
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3579
     target 3582
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3579
     target 3583
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3580
     target 3581
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3580
     target 3582
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3580
     target 3583
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3581
     target 3582
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3581
     target 3583
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3582
     target 3583
     weight 2
+    event "BRESCI"
   ]
   edge [
     source 3584
     target 3585
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3586
     target 3587
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3586
     target 3588
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3587
     target 3588
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3589
     target 3590
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3591
     target 3592
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3591
     target 3593
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3592
     target 3593
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3594
     target 3595
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3594
     target 3596
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3594
     target 3597
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3594
     target 3598
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3594
     target 3599
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3595
     target 3596
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3595
     target 3597
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3595
     target 3598
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3595
     target 3599
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3596
     target 3597
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3596
     target 3598
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3596
     target 3599
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3597
     target 3598
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3597
     target 3599
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3598
     target 3599
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3600
     target 3601
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3600
     target 3602
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3600
     target 3603
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3600
     target 3604
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3601
     target 3602
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3601
     target 3603
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3601
     target 3604
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3602
     target 3603
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3602
     target 3604
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3603
     target 3604
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3605
     target 3606
     weight 1
+    event "BRESCI"
   ]
   edge [
     source 3607
     target 3632
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3633
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3634
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3635
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3636
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3818
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3819
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3918
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3924
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3925
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3947
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3948
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3647
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3949
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3950
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3607
     target 3951
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3608
     target 3609
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3608
     target 3610
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3608
     target 3611
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3608
     target 3612
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3609
     target 3610
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3609
     target 3611
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3609
     target 3612
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3610
     target 3611
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3610
     target 3612
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3611
     target 3612
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3613
     target 3614
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3613
     target 3615
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3613
     target 3616
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3613
     target 3617
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3613
     target 3648
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3614
     target 3615
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3614
     target 3616
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3614
     target 3617
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3615
     target 3616
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3615
     target 3617
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3615
     target 3648
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3616
     target 3617
     weight 4
+    event "BRASNAM"
   ]
   edge [
     source 3616
     target 3648
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3616
     target 3713
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3617
     target 3648
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3617
     target 3696
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3617
     target 3697
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3617
     target 3698
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3617
     target 3699
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3617
     target 3700
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3617
     target 3713
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3618
     target 3619
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3618
     target 3620
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3618
     target 3621
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3618
     target 3622
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3618
     target 3623
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3618
     target 3624
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3618
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3619
     target 3620
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3619
     target 3621
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3619
     target 3622
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3619
     target 3623
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3619
     target 3624
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3619
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3620
     target 3621
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3620
     target 3622
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3620
     target 3623
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3620
     target 3624
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3620
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3621
     target 3622
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3621
     target 3623
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3621
     target 3624
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3621
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3621
     target 3667
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3621
     target 3714
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3621
     target 3715
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3622
     target 3623
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3622
     target 3624
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3622
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3622
     target 3714
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3622
     target 3715
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3623
     target 3624
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3623
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3624
     target 3625
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3624
     target 4009
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3625
     target 3739
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3625
     target 3792
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3625
     target 4028
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3627
     target 3628
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3627
     target 3629
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3628
     target 3629
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3630
     target 3631
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3631
     target 3706
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3631
     target 3707
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3631
     target 3789
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3631
     target 3836
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3632
     target 3633
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3632
     target 3634
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3632
     target 3635
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3632
     target 3636
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3633
     target 3634
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3633
     target 3635
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3633
     target 3636
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3634
     target 3635
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3634
     target 3636
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3634
     target 3856
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3634
     target 3857
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3635
     target 3636
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3637
     target 3638
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3640
     target 3641
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3640
     target 3642
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3640
     target 3643
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3640
     target 3644
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3640
     target 3645
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3641
     target 3642
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3641
     target 3643
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3641
     target 3644
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3641
     target 3645
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3642
     target 3643
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3642
     target 3644
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3642
     target 3645
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3643
     target 3644
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3643
     target 3645
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3644
     target 3645
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3646
     target 3647
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3647
     target 3924
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3647
     target 3947
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3647
     target 3948
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3647
     target 3949
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3647
     target 3950
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3647
     target 3951
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3650
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3651
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3652
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3653
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3654
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3655
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3656
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3649
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3650
     target 3651
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3650
     target 3652
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3650
     target 3653
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3650
     target 3654
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3650
     target 3655
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3650
     target 3656
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3650
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3650
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3651
     target 3652
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3651
     target 3653
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3651
     target 3654
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3651
     target 3655
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3651
     target 3656
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3651
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3651
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3652
     target 3653
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3652
     target 3654
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3652
     target 3655
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3652
     target 3656
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3652
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3652
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3653
     target 3654
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3653
     target 3655
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3653
     target 3656
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3653
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3653
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3654
     target 3655
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3654
     target 3656
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3654
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3654
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3655
     target 3656
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3655
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3655
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3656
     target 3657
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3656
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3657
     target 3658
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4000
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4001
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4002
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4075
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4078
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 3995
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4093
     weight 5
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4094
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4095
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4096
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4097
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3658
     target 4345
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 3658
     target 4128
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 3658
     target 4647
     weight 1
+    event "CTIC"
   ]
   edge [
     source 3658
     target 4648
     weight 1
+    event "CTIC"
   ]
   edge [
     source 3658
     target 4581
     weight 1
+    event "CTIC"
   ]
   edge [
     source 3658
     target 4649
     weight 1
+    event "CTIC"
   ]
   edge [
     source 3658
     target 4669
     weight 2
+    event "CTIC"
   ]
   edge [
     source 3658
     target 4633
     weight 2
+    event "CTIC"
   ]
   edge [
     source 3658
     target 4775
     weight 1
+    event "CTD"
   ]
   edge [
     source 3658
     target 3819
     weight 1
+    event "CTD"
   ]
   edge [
     source 3660
     target 3661
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3660
     target 3662
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3660
     target 3663
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3660
     target 3664
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3662
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3663
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3664
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3701
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3702
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3703
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3704
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3705
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3709
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3661
     target 3710
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3662
     target 3663
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3662
     target 3664
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3663
     target 3664
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3663
     target 3701
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3663
     target 3702
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3663
     target 3703
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3663
     target 3704
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3663
     target 3705
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3664
     target 3701
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3664
     target 3702
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3664
     target 3703
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3664
     target 3704
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3664
     target 3705
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3664
     target 3895
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3664
     target 3896
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3665
     target 3666
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3669
     target 3670
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3669
     target 3671
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3669
     target 3672
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3669
     target 3673
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3670
     target 3671
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3670
     target 3672
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3670
     target 3673
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3671
     target 3672
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3671
     target 3673
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3671
     target 4940
     weight 1
+    event "CTD"
   ]
   edge [
     source 3671
     target 4941
     weight 1
+    event "CTD"
   ]
   edge [
     source 3672
     target 3673
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3673
     target 3946
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3673
     target 4081
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3673
     target 4082
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3673
     target 4083
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3675
     target 3676
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3675
     target 3677
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3675
     target 3678
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3676
     target 3677
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3676
     target 3678
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3676
     target 3986
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3676
     target 3987
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3676
     target 4046
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3676
     target 4047
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3676
     target 4048
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3676
     target 4084
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3677
     target 3678
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3679
     target 4959
     weight 1
+    event "CTD"
   ]
   edge [
     source 3680
     target 3681
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3680
     target 3682
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3681
     target 3682
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3683
     target 3684
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3683
     target 3685
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3683
     target 3686
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3684
     target 3685
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3684
     target 3686
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3685
     target 3686
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3687
     target 3688
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3687
     target 3689
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3687
     target 3690
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3688
     target 3689
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3688
     target 3690
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3689
     target 3690
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3691
     target 3692
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3693
     target 3694
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3693
     target 3695
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3694
     target 3695
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3695
     target 3910
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3695
     target 3911
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3696
     target 3697
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3696
     target 3698
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3696
     target 3699
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3696
     target 3700
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3697
     target 3698
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3697
     target 3699
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3697
     target 3700
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3698
     target 3699
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3698
     target 3700
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3699
     target 3700
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3701
     target 3702
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3701
     target 3703
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3701
     target 3704
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3701
     target 3705
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3702
     target 3703
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3702
     target 3704
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3702
     target 3705
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3703
     target 3704
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3703
     target 3705
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3704
     target 3705
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3705
     target 3895
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3705
     target 3896
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3706
     target 3707
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3709
     target 3710
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3711
     target 3712
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3711
     target 3781
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3714
     target 3715
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3717
     target 3718
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3717
     target 3719
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3717
     target 3720
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3718
     target 3719
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3718
     target 3720
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3719
     target 3720
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3721
     target 3722
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3721
     target 3723
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3721
     target 3724
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3722
     target 3723
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3722
     target 3724
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3723
     target 3724
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3727
     target 3728
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3727
     target 3842
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3729
     target 3730
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3729
     target 3731
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3729
     target 3732
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3729
     target 3733
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3729
     target 3734
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3729
     target 3735
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3729
     target 3736
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3730
     target 3731
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3730
     target 3732
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3730
     target 3733
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3730
     target 3734
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3730
     target 3735
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3730
     target 3736
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3731
     target 3732
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3731
     target 3733
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3731
     target 3734
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3731
     target 3735
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3731
     target 3736
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3732
     target 3733
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3732
     target 3734
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3732
     target 3735
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3732
     target 3736
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3733
     target 3734
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3733
     target 3735
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3733
     target 3736
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3734
     target 3735
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3734
     target 3736
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3735
     target 3736
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3740
     target 3741
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3743
     target 3744
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3744
     target 3759
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3745
     target 3746
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3745
     target 3747
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3746
     target 3747
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3749
     target 3750
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3752
     target 3753
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3755
     target 3756
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3761
     target 3762
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3761
     target 3763
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3761
     target 3764
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3761
     target 3765
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3762
     target 3763
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3762
     target 3764
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3762
     target 3765
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3763
     target 3764
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3763
     target 3765
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3764
     target 3765
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3767
     target 3768
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3767
     target 3769
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3767
     target 3770
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3768
     target 3769
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3768
     target 3770
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3769
     target 3770
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3772
     target 3773
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3772
     target 3774
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3772
     target 3775
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3772
     target 3900
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3773
     target 3774
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3773
     target 3775
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3774
     target 3775
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3775
     target 3845
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3775
     target 3846
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3775
     target 3847
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3775
     target 3848
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3775
     target 3849
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3776
     target 3777
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3776
     target 3778
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3776
     target 3779
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3776
     target 3780
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3776
     target 3822
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3777
     target 3778
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3777
     target 3779
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3777
     target 3780
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3777
     target 3822
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3778
     target 3779
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3778
     target 3780
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3779
     target 3780
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3822
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3935
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3936
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3937
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3938
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3939
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3961
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3962
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3973
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3974
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3975
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3976
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3977
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3978
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3979
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3980
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 3981
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4019
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4020
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4021
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4050
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4051
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4052
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4053
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4065
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4066
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3780
     target 4085
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3784
     target 3785
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3784
     target 3835
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3785
     target 3835
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3786
     target 3787
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3786
     target 3788
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3787
     target 3788
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3790
     target 3791
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3790
     target 3792
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3791
     target 3792
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3792
     target 4028
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3794
     target 3795
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3794
     target 3796
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3794
     target 3797
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3794
     target 3798
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3795
     target 3796
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3795
     target 3797
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3795
     target 3798
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3796
     target 3797
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3796
     target 3798
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3797
     target 3798
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3799
     target 3800
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3799
     target 3801
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3800
     target 3801
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3801
     target 3872
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3801
     target 3930
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3802
     target 3803
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3803
     target 3816
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3803
     target 3817
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3803
     target 3898
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3803
     target 3899
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3803
     target 4257
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3803
     target 4271
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 3803
     target 4272
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3804
     target 3805
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3804
     target 3806
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3805
     target 3806
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3807
     target 3808
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3809
     target 3810
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3809
     target 3811
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3809
     target 3843
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3809
     target 3844
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3809
     target 4102
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3809
     target 4103
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3810
     target 3811
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3810
     target 4102
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3810
     target 4103
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3811
     target 4102
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3811
     target 4103
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3813
     target 3814
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3813
     target 3815
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3814
     target 3815
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3816
     target 3817
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3816
     target 3898
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3816
     target 3899
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3818
     target 3819
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3819
     target 3924
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3819
     target 4775
     weight 1
+    event "CTD"
   ]
   edge [
     source 3820
     target 3821
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3821
     target 3859
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3821
     target 3860
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3821
     target 3904
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3824
     target 3825
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3824
     target 3826
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3824
     target 3827
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3825
     target 3826
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3825
     target 3827
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3826
     target 3827
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3828
     target 3829
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3828
     target 3830
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3828
     target 3831
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3828
     target 3832
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3829
     target 3830
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3829
     target 3831
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3829
     target 3832
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3830
     target 3831
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3830
     target 3832
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3831
     target 3832
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3833
     target 3834
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3837
     target 3838
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3840
     target 3841
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3843
     target 3844
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3845
     target 3846
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3845
     target 3847
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3845
     target 3848
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3845
     target 3849
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3846
     target 3847
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3846
     target 3848
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3846
     target 3849
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3847
     target 3848
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3847
     target 3849
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3848
     target 3849
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3850
     target 3851
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3852
     target 3853
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3852
     target 3854
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3852
     target 3855
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3853
     target 3854
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3853
     target 3855
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3854
     target 3855
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3856
     target 3857
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3859
     target 3860
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3861
     target 3862
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3863
     target 3864
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3865
     target 3866
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3865
     target 3867
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3865
     target 3868
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3866
     target 3867
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3866
     target 3868
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3867
     target 3868
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3869
     target 3870
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3869
     target 3871
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3870
     target 3871
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3870
     target 3880
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3870
     target 3945
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3870
     target 3995
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3870
     target 4073
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3870
     target 4074
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3872
     target 3873
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3872
     target 3874
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3872
     target 3875
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3872
     target 3876
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3872
     target 3877
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3872
     target 3878
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3872
     target 3879
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3873
     target 3874
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3873
     target 3875
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3873
     target 3876
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3873
     target 3877
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3873
     target 3878
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3873
     target 3879
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3874
     target 3875
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3874
     target 3876
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3874
     target 3877
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3874
     target 3878
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3874
     target 3879
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3875
     target 3876
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3875
     target 3877
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3875
     target 3878
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3875
     target 3879
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3876
     target 3877
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3876
     target 3878
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3876
     target 3879
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3877
     target 3878
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3877
     target 3879
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3878
     target 3879
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3881
     target 3882
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3881
     target 3883
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3881
     target 3884
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3881
     target 3885
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3882
     target 3883
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3882
     target 3884
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3882
     target 3885
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3883
     target 3884
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3883
     target 3885
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3884
     target 3885
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3886
     target 3887
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3886
     target 3888
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3886
     target 3889
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3886
     target 3915
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3886
     target 4017
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3886
     target 4018
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3887
     target 3888
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3887
     target 3889
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3888
     target 3889
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3889
     target 3915
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3891
     target 3892
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3892
     target 4022
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3892
     target 4023
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3893
     target 3894
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3895
     target 3896
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3898
     target 3899
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3902
     target 3903
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3905
     target 3906
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3906
     target 4930
     weight 1
+    event "CTD"
   ]
   edge [
     source 3907
     target 3908
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3910
     target 3911
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3913
     target 3914
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3920
     target 3921
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3920
     target 3922
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3921
     target 3922
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3924
     target 3925
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3924
     target 3947
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3924
     target 3948
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3924
     target 3949
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3924
     target 3950
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3924
     target 3951
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3926
     target 3927
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3926
     target 3928
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3926
     target 3929
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3927
     target 3928
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3927
     target 3929
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3928
     target 3929
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3931
     target 3932
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3931
     target 3933
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3931
     target 3934
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3932
     target 3933
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3932
     target 3934
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3933
     target 3934
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3933
     target 3952
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3933
     target 3953
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3935
     target 3936
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3935
     target 3937
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3935
     target 3938
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3935
     target 3939
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 3937
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 3938
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 3939
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 4019
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 4020
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 4021
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 4066
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 4085
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3936
     target 4065
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3937
     target 3938
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3937
     target 3939
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3938
     target 3939
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3939
     target 4019
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3939
     target 4020
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3939
     target 4021
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3939
     target 4066
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3939
     target 4085
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3939
     target 4065
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3940
     target 3941
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3943
     target 3944
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3947
     target 3948
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3947
     target 3949
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3947
     target 3950
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3947
     target 3951
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3948
     target 3949
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3948
     target 3950
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3948
     target 3951
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3949
     target 3950
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3949
     target 3951
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3950
     target 3951
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3951
     target 4612
     weight 1
+    event "CTD"
   ]
   edge [
     source 3951
     target 4210
     weight 1
+    event "CTD"
   ]
   edge [
     source 3951
     target 4936
     weight 1
+    event "CTD"
   ]
   edge [
     source 3952
     target 3953
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3954
     target 3955
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3956
     target 3957
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3956
     target 3958
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3957
     target 3958
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3959
     target 3960
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3961
     target 3962
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3962
     target 4019
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3962
     target 4066
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3962
     target 4065
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3963
     target 3964
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3964
     target 4098
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3964
     target 4099
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3964
     target 4107
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3964
     target 4108
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3964
     target 3969
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3966
     target 3967
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3966
     target 4290
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3966
     target 4291
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3966
     target 4292
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3966
     target 4293
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3966
     target 4294
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3966
     target 4295
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3966
     target 4216
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 3968
     target 3969
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3968
     target 3970
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3968
     target 3971
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3968
     target 3972
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3969
     target 3970
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3969
     target 3971
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3969
     target 3972
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3969
     target 4107
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3969
     target 4108
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3970
     target 3971
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3970
     target 3972
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3971
     target 3972
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3973
     target 3974
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3973
     target 3975
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3974
     target 3975
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3976
     target 3977
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3976
     target 3978
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3976
     target 3979
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3976
     target 3980
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3976
     target 3981
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3977
     target 3978
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3977
     target 3979
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3977
     target 3980
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3977
     target 3981
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3978
     target 3979
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3978
     target 3980
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3978
     target 3981
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3979
     target 3980
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3979
     target 3981
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3980
     target 3981
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3984
     target 3985
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3985
     target 4101
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3986
     target 3987
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3988
     target 3989
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3988
     target 3990
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 3988
     target 4060
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3988
     target 4061
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3988
     target 4062
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3988
     target 4063
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3989
     target 3990
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 3989
     target 4064
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3989
     target 4079
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3989
     target 4034
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4005
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4006
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4007
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4060
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4061
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4062
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4063
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4064
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4079
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3990
     target 4034
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3991
     target 3992
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3991
     target 3993
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3992
     target 3993
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3994
     target 3995
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3995
     target 4073
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3995
     target 4074
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3995
     target 4078
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3996
     target 3997
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3996
     target 3998
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3996
     target 3999
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3997
     target 3998
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3997
     target 3999
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 3998
     target 3999
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4000
     target 4001
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4000
     target 4002
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4001
     target 4002
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4002
     target 4947
     weight 1
+    event "CTD"
   ]
   edge [
     source 4002
     target 4948
     weight 1
+    event "CTD"
   ]
   edge [
     source 4003
     target 4004
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4005
     target 4006
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4005
     target 4007
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4006
     target 4007
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4010
     target 4011
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4010
     target 4012
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4011
     target 4012
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4013
     target 4014
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4013
     target 4015
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4013
     target 4016
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4014
     target 4015
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4014
     target 4016
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4015
     target 4016
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4017
     target 4018
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4019
     target 4020
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4019
     target 4021
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4019
     target 4065
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 4019
     target 4066
     weight 2
+    event "BRASNAM"
   ]
   edge [
     source 4020
     target 4021
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4020
     target 4066
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4020
     target 4085
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4020
     target 4065
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4022
     target 4023
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4023
     target 4026
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4024
     target 4025
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4029
     target 4030
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4029
     target 4031
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4030
     target 4031
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4032
     target 4033
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4032
     target 4034
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4032
     target 4035
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4032
     target 4036
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4032
     target 4037
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4032
     target 4038
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4033
     target 4034
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4033
     target 4035
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4033
     target 4036
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4033
     target 4037
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4033
     target 4038
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4034
     target 4035
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4034
     target 4036
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4034
     target 4037
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4034
     target 4038
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4034
     target 4079
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4035
     target 4036
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4035
     target 4037
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4035
     target 4038
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4036
     target 4037
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4036
     target 4038
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4037
     target 4038
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4039
     target 4040
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4041
     target 4042
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4043
     target 4044
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4043
     target 4045
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4044
     target 4045
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4046
     target 4047
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4046
     target 4048
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4046
     target 4084
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4047
     target 4048
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4050
     target 4051
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4050
     target 4052
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4050
     target 4053
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4051
     target 4052
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4051
     target 4053
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4052
     target 4053
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4054
     target 4055
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4054
     target 4056
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4054
     target 4057
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4055
     target 4056
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4055
     target 4057
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4056
     target 4057
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4058
     target 4059
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4059
     target 4627
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4059
     target 4628
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4060
     target 4061
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4060
     target 4062
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4060
     target 4063
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4061
     target 4062
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4061
     target 4063
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4062
     target 4063
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4065
     target 4066
     weight 3
+    event "BRASNAM"
   ]
   edge [
     source 4065
     target 4085
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4066
     target 4085
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4067
     target 4068
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4067
     target 4069
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4067
     target 4070
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4067
     target 4071
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4067
     target 4072
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4068
     target 4069
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4068
     target 4070
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4068
     target 4071
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4068
     target 4072
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4069
     target 4070
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4069
     target 4071
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4069
     target 4072
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4070
     target 4071
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4070
     target 4072
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4071
     target 4072
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4073
     target 4074
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4074
     target 4624
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4076
     target 4077
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4082
     target 4083
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4086
     target 4087
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4086
     target 4088
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4087
     target 4088
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4089
     target 4090
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4089
     target 4091
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4089
     target 4092
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4090
     target 4091
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4090
     target 4092
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4091
     target 4092
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4093
     target 4094
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4093
     target 4095
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4093
     target 4096
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4093
     target 4097
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4094
     target 4095
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4094
     target 4096
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4094
     target 4097
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4095
     target 4096
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4095
     target 4097
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4096
     target 4097
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4098
     target 4099
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4102
     target 4103
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4105
     target 4106
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4107
     target 4108
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4109
     target 4110
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4109
     target 4111
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4110
     target 4111
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4112
     target 4113
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4112
     target 4114
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4112
     target 4115
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4112
     target 4116
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4113
     target 4114
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4113
     target 4115
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4113
     target 4116
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4114
     target 4115
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4114
     target 4116
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4115
     target 4116
     weight 1
+    event "BRASNAM"
   ]
   edge [
     source 4118
     target 4119
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4120
     target 4121
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4120
     target 4229
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4122
     target 4123
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4122
     target 4124
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4122
     target 4125
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4123
     target 4124
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4123
     target 4125
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4124
     target 4125
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4126
     target 4127
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4126
     target 4128
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4127
     target 4128
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4127
     target 4258
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4160
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4161
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4162
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4228
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4254
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4255
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4256
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4258
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4259
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4299
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4300
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4315
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4323
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4324
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4352
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4353
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4384
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4385
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4432
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4345
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4503
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4128
     target 4532
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4128
     target 4600
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4129
     target 4130
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4129
     target 4131
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4130
     target 4131
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4131
     target 4444
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4131
     target 4445
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4132
     target 4133
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4132
     target 4134
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4132
     target 4135
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4132
     target 4136
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4132
     target 4137
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4133
     target 4134
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4133
     target 4135
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4133
     target 4136
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4133
     target 4137
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4134
     target 4135
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4134
     target 4136
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4134
     target 4137
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4135
     target 4136
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4135
     target 4137
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4135
     target 4197
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4135
     target 4198
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4135
     target 4199
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4135
     target 4200
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4135
     target 4201
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4135
     target 4202
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4136
     target 4137
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4137
     target 4197
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4137
     target 4198
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4137
     target 4199
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4137
     target 4200
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4137
     target 4201
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4137
     target 4202
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4138
     target 4139
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4138
     target 4140
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4139
     target 4140
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4141
     target 4142
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4141
     target 4143
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4142
     target 4143
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4144
     target 4145
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4146
     target 4147
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4146
     target 4148
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4147
     target 4148
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4149
     target 4150
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4150
     target 4309
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4151
     target 4152
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4151
     target 4153
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4151
     target 4154
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4152
     target 4153
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4152
     target 4154
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4153
     target 4154
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4155
     target 4156
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4157
     target 4158
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4157
     target 4159
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4158
     target 4159
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4160
     target 4161
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4161
     target 4255
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4161
     target 4315
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4161
     target 4256
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4161
     target 4352
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4161
     target 4353
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4163
     target 4164
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4163
     target 4165
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4164
     target 4165
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4164
     target 4688
     weight 1
+    event "CTD"
   ]
   edge [
     source 4164
     target 4958
     weight 1
+    event "CTD"
   ]
   edge [
     source 4166
     target 4167
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4166
     target 4168
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4167
     target 4168
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4169
     target 4170
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4169
     target 4171
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4170
     target 4171
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4172
     target 4173
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4174
     target 4175
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4176
     target 4177
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4176
     target 4178
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4176
     target 4179
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4177
     target 4178
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4177
     target 4179
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4178
     target 4179
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4179
     target 4206
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4179
     target 4207
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4179
     target 4208
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4180
     target 4181
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4182
     target 4183
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4182
     target 4184
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4182
     target 4185
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4183
     target 4184
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4183
     target 4185
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4184
     target 4185
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4185
     target 4209
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4185
     target 4210
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4185
     target 4267
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4185
     target 4268
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4185
     target 4269
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4185
     target 4270
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4186
     target 4187
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4189
     target 4190
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4191
     target 4192
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4191
     target 4193
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4192
     target 4193
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4192
     target 4194
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4192
     target 4195
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4192
     target 4196
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4194
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4195
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4196
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4203
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4204
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4205
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4246
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4247
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4248
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4249
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4193
     target 4250
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4194
     target 4195
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4194
     target 4196
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4195
     target 4196
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4197
     target 4198
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4197
     target 4199
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4197
     target 4200
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4198
     target 4199
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4198
     target 4200
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4198
     target 4201
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4198
     target 4202
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4199
     target 4200
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4201
     target 4202
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4203
     target 4204
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4203
     target 4205
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4204
     target 4205
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4206
     target 4207
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4206
     target 4208
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4207
     target 4208
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4209
     target 4210
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4209
     target 4395
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4209
     target 4396
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4210
     target 4530
     weight 4
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4531
     weight 5
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4535
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4536
     weight 3
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4544
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4578
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4579
     weight 4
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4582
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4583
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4587
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4588
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4589
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4590
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4591
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4597
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4612
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4613
     weight 4
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4631
     weight 3
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4632
     weight 3
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4633
     weight 7
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4642
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4643
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4658
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4659
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4662
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4664
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4210
     target 4665
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4211
     target 4212
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4211
     target 4213
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4212
     target 4213
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4214
     target 4215
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4214
     target 4216
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4215
     target 4216
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4216
     target 4290
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4216
     target 4291
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4216
     target 4292
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4216
     target 4293
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4216
     target 4294
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4216
     target 4295
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4217
     target 4218
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4217
     target 4219
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4218
     target 4219
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4220
     target 4221
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4220
     target 4222
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4221
     target 4222
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4223
     target 4224
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4226
     target 4227
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4228
     target 4411
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4228
     target 4517
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4231
     target 4232
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4233
     target 4234
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4233
     target 4235
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4234
     target 4235
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4236
     target 4237
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4236
     target 4238
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4236
     target 4239
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4236
     target 4240
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4236
     target 4241
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4236
     target 4242
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4236
     target 4243
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4237
     target 4238
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4237
     target 4239
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4237
     target 4240
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4237
     target 4241
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4237
     target 4242
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4237
     target 4243
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4238
     target 4239
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4238
     target 4240
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4238
     target 4241
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4238
     target 4242
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4238
     target 4243
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4239
     target 4240
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4239
     target 4241
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4239
     target 4242
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4239
     target 4243
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4240
     target 4241
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4240
     target 4242
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4240
     target 4243
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4241
     target 4242
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4241
     target 4243
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4242
     target 4243
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4244
     target 4245
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4246
     target 4247
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4246
     target 4248
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4246
     target 4249
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4246
     target 4250
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4247
     target 4248
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4247
     target 4249
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4247
     target 4250
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4248
     target 4249
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4248
     target 4250
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4249
     target 4250
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4251
     target 4252
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4251
     target 4253
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4252
     target 4253
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4252
     target 4374
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 4252
     target 4375
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 4252
     target 4376
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 4252
     target 4377
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4252
     target 4378
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4252
     target 4379
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4254
     target 4255
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4254
     target 4256
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4255
     target 4256
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4255
     target 4315
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4256
     target 4315
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4259
     target 4384
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4259
     target 4385
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4260
     target 4261
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4263
     target 4264
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4263
     target 4265
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4263
     target 4266
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4264
     target 4265
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4264
     target 4266
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4265
     target 4266
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4267
     target 4268
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4267
     target 4269
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4267
     target 4270
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4268
     target 4269
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4268
     target 4270
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4269
     target 4270
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4271
     target 4272
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4274
     target 4275
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4274
     target 4276
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4274
     target 4277
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4275
     target 4276
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4275
     target 4277
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4276
     target 4277
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4278
     target 4279
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4278
     target 4280
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4279
     target 4280
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4281
     target 4282
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4281
     target 4283
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4282
     target 4283
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4282
     target 4365
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4284
     target 4285
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4284
     target 4286
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4284
     target 4287
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4284
     target 4288
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4284
     target 4289
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4285
     target 4286
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4285
     target 4287
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4285
     target 4288
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4285
     target 4289
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4286
     target 4287
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4286
     target 4288
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4286
     target 4289
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4287
     target 4288
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4287
     target 4289
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4287
     target 4296
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4287
     target 4297
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4287
     target 4307
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4287
     target 4308
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4287
     target 4443
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4288
     target 4289
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4290
     target 4291
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4290
     target 4292
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4290
     target 4293
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4290
     target 4294
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4290
     target 4295
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4291
     target 4292
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4291
     target 4293
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4291
     target 4294
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4291
     target 4295
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4292
     target 4293
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4292
     target 4294
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4292
     target 4295
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4293
     target 4294
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4293
     target 4295
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4294
     target 4295
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4296
     target 4297
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4297
     target 4307
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4297
     target 4308
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4297
     target 4387
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4297
     target 4388
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4299
     target 4300
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4301
     target 4302
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4304
     target 4305
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4304
     target 4306
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4305
     target 4306
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4306
     target 4354
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4306
     target 4355
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4307
     target 4308
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4310
     target 4311
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4313
     target 4314
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4315
     target 4402
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4315
     target 4703
     weight 1
+    event "CTD"
   ]
   edge [
     source 4315
     target 4704
     weight 1
+    event "CTD"
   ]
   edge [
     source 4316
     target 4317
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4316
     target 4318
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4316
     target 4319
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4316
     target 4320
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4317
     target 4318
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4317
     target 4319
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4317
     target 4320
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4318
     target 4319
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4318
     target 4320
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4319
     target 4320
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4321
     target 4322
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4323
     target 4324
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4326
     target 4327
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4329
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4330
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4331
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4332
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4333
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4334
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4335
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4336
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4328
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4329
     target 4330
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4329
     target 4331
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4329
     target 4332
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4329
     target 4333
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4329
     target 4334
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4329
     target 4335
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4329
     target 4336
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4329
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4330
     target 4331
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4330
     target 4332
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4330
     target 4333
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4330
     target 4334
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4330
     target 4335
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4330
     target 4336
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4330
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4331
     target 4332
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4331
     target 4333
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4331
     target 4334
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4331
     target 4335
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4331
     target 4336
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4331
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4332
     target 4333
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4332
     target 4334
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4332
     target 4335
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4332
     target 4336
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4332
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4333
     target 4334
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4333
     target 4335
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4333
     target 4336
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4333
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4334
     target 4335
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4334
     target 4336
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4334
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4335
     target 4336
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4335
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4336
     target 4337
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4339
     target 4340
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4339
     target 4341
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4339
     target 4342
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4339
     target 4343
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4340
     target 4341
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4340
     target 4342
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4340
     target 4343
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4341
     target 4342
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4341
     target 4343
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4342
     target 4343
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4344
     target 4345
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4344
     target 4346
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4344
     target 4389
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4344
     target 4390
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4345
     target 4346
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4345
     target 4389
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4345
     target 4390
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4345
     target 4394
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4347
     target 4348
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4347
     target 4349
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4347
     target 4350
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4348
     target 4349
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4348
     target 4350
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4349
     target 4350
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4352
     target 4353
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4354
     target 4355
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4357
     target 4358
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4359
     target 4360
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4359
     target 4361
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4360
     target 4361
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4363
     target 4364
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4367
     target 4368
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4367
     target 4369
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4368
     target 4369
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4374
     target 4375
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 4374
     target 4376
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 4374
     target 4377
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4374
     target 4378
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4374
     target 4379
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4375
     target 4376
     weight 4
+    event "SBCUP"
   ]
   edge [
     source 4375
     target 4377
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4375
     target 4378
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4375
     target 4379
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4376
     target 4377
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4376
     target 4378
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4376
     target 4379
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4377
     target 4378
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4380
     target 4381
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4380
     target 4382
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4380
     target 4383
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4381
     target 4382
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4381
     target 4383
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4382
     target 4383
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4384
     target 4385
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4387
     target 4388
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4389
     target 4390
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4390
     target 4394
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4391
     target 4392
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4391
     target 4393
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4392
     target 4393
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4395
     target 4396
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4397
     target 4398
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4397
     target 4399
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4397
     target 4400
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4397
     target 4401
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4398
     target 4399
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4398
     target 4400
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4398
     target 4401
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4399
     target 4400
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4399
     target 4401
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4400
     target 4401
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4403
     target 4404
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4403
     target 4405
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4403
     target 4406
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4404
     target 4405
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4404
     target 4406
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4405
     target 4406
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4407
     target 4408
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4409
     target 4410
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4410
     target 4412
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4410
     target 4513
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4410
     target 4514
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4414
     target 4415
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4414
     target 4416
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4414
     target 4417
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4414
     target 4418
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4414
     target 4419
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4414
     target 4420
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4414
     target 4421
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4415
     target 4416
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4415
     target 4417
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4415
     target 4418
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4415
     target 4419
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4415
     target 4420
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4415
     target 4421
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4416
     target 4417
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4416
     target 4418
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4416
     target 4419
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4416
     target 4420
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4416
     target 4421
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4417
     target 4418
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4417
     target 4419
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4417
     target 4420
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4417
     target 4421
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4418
     target 4419
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4418
     target 4420
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4418
     target 4421
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4418
     target 4734
     weight 1
+    event "CTD"
   ]
   edge [
     source 4418
     target 4735
     weight 1
+    event "CTD"
   ]
   edge [
     source 4419
     target 4420
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4419
     target 4421
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4420
     target 4421
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4422
     target 4423
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4422
     target 4424
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4422
     target 4425
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4422
     target 4426
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4423
     target 4424
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4423
     target 4425
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4423
     target 4426
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4424
     target 4425
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4424
     target 4426
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4425
     target 4426
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4427
     target 4428
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4427
     target 4429
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4427
     target 4430
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4427
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4428
     target 4429
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4428
     target 4430
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4428
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4429
     target 4430
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4429
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4430
     target 4431
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4433
     target 4434
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4433
     target 4435
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4434
     target 4435
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4437
     target 4438
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4437
     target 4439
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4438
     target 4439
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4440
     target 4441
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4444
     target 4445
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4446
     target 4447
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4448
     target 4449
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4448
     target 4450
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4448
     target 4451
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4448
     target 4492
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4448
     target 4493
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4449
     target 4450
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4449
     target 4451
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4449
     target 4492
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4449
     target 4493
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4450
     target 4451
     weight 3
+    event "SBCUP"
   ]
   edge [
     source 4450
     target 4492
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4450
     target 4493
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4451
     target 4492
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4451
     target 4493
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4452
     target 4453
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4454
     target 4455
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4454
     target 4456
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4454
     target 4457
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4455
     target 4456
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4455
     target 4457
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4456
     target 4457
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4461
     target 4462
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4463
     target 4464
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4463
     target 4465
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4464
     target 4465
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4466
     target 4467
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4468
     target 4469
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4468
     target 4470
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4468
     target 4471
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4468
     target 4472
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4468
     target 4473
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4468
     target 4474
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4469
     target 4470
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4469
     target 4471
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4469
     target 4472
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4469
     target 4473
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4469
     target 4474
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4470
     target 4471
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4470
     target 4472
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4470
     target 4473
     weight 2
+    event "SBCUP"
   ]
   edge [
     source 4470
     target 4474
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4470
     target 4475
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4470
     target 4476
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4470
     target 4477
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4471
     target 4472
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4471
     target 4473
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4471
     target 4474
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4472
     target 4473
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4472
     target 4474
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4473
     target 4474
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4473
     target 4475
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4473
     target 4476
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4473
     target 4477
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4475
     target 4476
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4475
     target 4477
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4476
     target 4477
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4478
     target 4479
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4479
     target 4487
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4480
     target 4481
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4480
     target 4482
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4481
     target 4482
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4485
     target 4486
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4488
     target 4489
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4488
     target 4490
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4489
     target 4490
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4492
     target 4493
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4495
     target 4496
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4495
     target 4497
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4496
     target 4497
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4498
     target 4499
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4498
     target 4500
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4499
     target 4500
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4501
     target 4502
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4505
     target 4506
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4505
     target 4507
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4505
     target 4508
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4505
     target 4509
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4505
     target 4510
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4506
     target 4507
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4506
     target 4508
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4506
     target 4509
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4506
     target 4510
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4507
     target 4508
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4507
     target 4509
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4507
     target 4510
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4508
     target 4509
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4508
     target 4510
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4509
     target 4510
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4509
     target 4525
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4509
     target 4526
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4509
     target 4527
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4513
     target 4514
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4515
     target 4516
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4518
     target 4519
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4518
     target 4520
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4518
     target 4521
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4519
     target 4520
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4519
     target 4521
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4520
     target 4521
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4522
     target 4523
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4525
     target 4526
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4525
     target 4527
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4526
     target 4527
     weight 1
+    event "SBCUP"
   ]
   edge [
     source 4528
     target 4529
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4529
     target 4605
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4529
     target 4606
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4529
     target 4762
     weight 1
+    event "CTD"
   ]
   edge [
     source 4530
     target 4531
     weight 4
+    event "CTIC"
   ]
   edge [
     source 4531
     target 4632
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4531
     target 4633
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4533
     target 4534
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4535
     target 4536
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4536
     target 4658
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4536
     target 4613
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4536
     target 4659
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4538
     target 4539
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4538
     target 4540
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4538
     target 4541
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4539
     target 4540
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4539
     target 4541
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4540
     target 4541
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4542
     target 4543
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4543
     target 4795
     weight 1
+    event "CTD"
   ]
   edge [
     source 4544
     target 4580
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4544
     target 4581
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4545
     target 4546
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4545
     target 4547
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4546
     target 4547
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4546
     target 4566
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4547
     target 4566
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4548
     target 4549
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4548
     target 4550
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4548
     target 4551
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4548
     target 4552
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4549
     target 4550
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4549
     target 4551
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4549
     target 4552
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4550
     target 4551
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4550
     target 4552
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4550
     target 4626
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4551
     target 4552
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4552
     target 4626
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4552
     target 4858
     weight 1
+    event "CTD"
   ]
   edge [
     source 4552
     target 4739
     weight 1
+    event "CTD"
   ]
   edge [
     source 4553
     target 4554
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4555
     target 4556
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4555
     target 4557
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4555
     target 4558
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4555
     target 4559
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4555
     target 4560
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4555
     target 4561
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4556
     target 4557
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4556
     target 4558
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4556
     target 4559
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4556
     target 4560
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4556
     target 4561
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4557
     target 4558
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4557
     target 4559
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4557
     target 4560
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4557
     target 4561
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4558
     target 4559
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4558
     target 4560
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4558
     target 4561
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4559
     target 4560
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4559
     target 4561
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4560
     target 4561
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4562
     target 4563
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4563
     target 4894
     weight 1
+    event "CTD"
   ]
   edge [
     source 4563
     target 4935
     weight 1
+    event "CTD"
   ]
   edge [
     source 4564
     target 4565
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4568
     target 4569
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4568
     target 4570
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4569
     target 4570
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4569
     target 4603
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4569
     target 4604
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4569
     target 4645
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4569
     target 4646
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4570
     target 4603
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4570
     target 4604
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4571
     target 4572
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4573
     target 4574
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4573
     target 4575
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4574
     target 4575
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4576
     target 4577
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4578
     target 4579
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4579
     target 4597
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4579
     target 4633
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4580
     target 4581
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4581
     target 4649
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4582
     target 4583
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4584
     target 4585
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4587
     target 4588
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4587
     target 4613
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4589
     target 4590
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4589
     target 4591
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4590
     target 4591
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4592
     target 4593
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4592
     target 4594
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4592
     target 4595
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4592
     target 4596
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4593
     target 4594
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4593
     target 4595
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4593
     target 4596
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4594
     target 4595
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4594
     target 4596
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4595
     target 4596
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4598
     target 4599
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4601
     target 4602
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4603
     target 4604
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4605
     target 4606
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4606
     target 4813
     weight 1
+    event "CTD"
   ]
   edge [
     source 4606
     target 4762
     weight 1
+    event "CTD"
   ]
   edge [
     source 4607
     target 4608
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4607
     target 4609
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4608
     target 4609
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4610
     target 4611
     weight 3
+    event "CTIC"
   ]
   edge [
     source 4611
     target 4821
     weight 1
+    event "CTD"
   ]
   edge [
     source 4613
     target 4642
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4613
     target 4643
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4613
     target 4633
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4613
     target 4658
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4613
     target 4659
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4614
     target 4615
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4617
     target 4618
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4617
     target 4619
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4617
     target 4620
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4617
     target 4621
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4618
     target 4619
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4618
     target 4620
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4618
     target 4621
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4619
     target 4620
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4619
     target 4621
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4620
     target 4621
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4622
     target 4623
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4627
     target 4628
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4629
     target 4630
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4631
     target 4632
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4631
     target 4633
     weight 3
+    event "CTIC"
   ]
   edge [
     source 4631
     target 4664
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4631
     target 4665
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4632
     target 4633
     weight 3
+    event "CTIC"
   ]
   edge [
     source 4633
     target 4642
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4633
     target 4643
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4633
     target 4664
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4633
     target 4665
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4633
     target 4669
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4635
     target 4636
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4637
     target 4638
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4637
     target 4639
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4638
     target 4639
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4640
     target 4641
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4642
     target 4643
     weight 2
+    event "CTIC"
   ]
   edge [
     source 4645
     target 4646
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4647
     target 4648
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4650
     target 4651
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4651
     target 4950
     weight 1
+    event "CTD"
   ]
   edge [
     source 4652
     target 4653
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4654
     target 4655
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4656
     target 4657
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4658
     target 4659
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4660
     target 4661
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4664
     target 4665
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4667
     target 4668
     weight 1
+    event "CTIC"
   ]
   edge [
     source 4668
     target 4847
     weight 1
+    event "CTD"
   ]
   edge [
     source 4671
     target 4672
     weight 4
+    event "CTIC"
   ]
   edge [
     source 4673
     target 4674
     weight 4
+    event "CTIC"
   ]
   edge [
     source 4675
     target 4676
     weight 4
+    event "CTIC"
   ]
   edge [
     source 4677
     target 4678
     weight 4
+    event "CTIC"
   ]
   edge [
     source 4678
     target 4857
     weight 1
+    event "CTD"
   ]
   edge [
     source 4681
     target 4682
     weight 1
+    event "CTD"
   ]
   edge [
     source 4683
     target 4684
     weight 1
+    event "CTD"
   ]
   edge [
     source 4683
     target 4685
     weight 1
+    event "CTD"
   ]
   edge [
     source 4684
     target 4685
     weight 1
+    event "CTD"
   ]
   edge [
     source 4685
     target 4745
     weight 1
+    event "CTD"
   ]
   edge [
     source 4685
     target 4746
     weight 1
+    event "CTD"
   ]
   edge [
     source 4685
     target 4885
     weight 1
+    event "CTD"
   ]
   edge [
     source 4685
     target 4886
     weight 1
+    event "CTD"
   ]
   edge [
     source 4686
     target 4687
     weight 1
+    event "CTD"
   ]
   edge [
     source 4686
     target 4688
     weight 1
+    event "CTD"
   ]
   edge [
     source 4687
     target 4688
     weight 1
+    event "CTD"
   ]
   edge [
     source 4687
     target 4723
     weight 1
+    event "CTD"
   ]
   edge [
     source 4687
     target 4724
     weight 1
+    event "CTD"
   ]
   edge [
     source 4687
     target 4839
     weight 1
+    event "CTD"
   ]
   edge [
     source 4687
     target 4777
     weight 1
+    event "CTD"
   ]
   edge [
     source 4687
     target 4891
     weight 1
+    event "CTD"
   ]
   edge [
     source 4687
     target 4892
     weight 1
+    event "CTD"
   ]
   edge [
     source 4687
     target 4893
     weight 1
+    event "CTD"
   ]
   edge [
     source 4688
     target 4958
     weight 1
+    event "CTD"
   ]
   edge [
     source 4689
     target 4690
     weight 1
+    event "CTD"
   ]
   edge [
     source 4691
     target 4692
     weight 1
+    event "CTD"
   ]
   edge [
     source 4693
     target 4694
     weight 1
+    event "CTD"
   ]
   edge [
     source 4693
     target 4695
     weight 1
+    event "CTD"
   ]
   edge [
     source 4694
     target 4695
     weight 1
+    event "CTD"
   ]
   edge [
     source 4696
     target 4697
     weight 1
+    event "CTD"
   ]
   edge [
     source 4696
     target 4698
     weight 1
+    event "CTD"
   ]
   edge [
     source 4697
     target 4698
     weight 1
+    event "CTD"
   ]
   edge [
     source 4699
     target 4700
     weight 1
+    event "CTD"
   ]
   edge [
     source 4701
     target 4702
     weight 1
+    event "CTD"
   ]
   edge [
     source 4702
     target 4744
     weight 1
+    event "CTD"
   ]
   edge [
     source 4702
     target 4760
     weight 1
+    event "CTD"
   ]
   edge [
     source 4703
     target 4704
     weight 1
+    event "CTD"
   ]
   edge [
     source 4705
     target 4706
     weight 1
+    event "CTD"
   ]
   edge [
     source 4705
     target 4707
     weight 1
+    event "CTD"
   ]
   edge [
     source 4706
     target 4707
     weight 1
+    event "CTD"
   ]
   edge [
     source 4707
     target 4802
     weight 1
+    event "CTD"
   ]
   edge [
     source 4707
     target 4870
     weight 1
+    event "CTD"
   ]
   edge [
     source 4707
     target 4937
     weight 1
+    event "CTD"
   ]
   edge [
     source 4708
     target 4709
     weight 1
+    event "CTD"
   ]
   edge [
     source 4710
     target 4711
     weight 1
+    event "CTD"
   ]
   edge [
     source 4710
     target 4712
     weight 1
+    event "CTD"
   ]
   edge [
     source 4711
     target 4712
     weight 1
+    event "CTD"
   ]
   edge [
     source 4712
     target 4904
     weight 1
+    event "CTD"
   ]
   edge [
     source 4712
     target 4905
     weight 1
+    event "CTD"
   ]
   edge [
     source 4713
     target 4714
     weight 1
+    event "CTD"
   ]
   edge [
     source 4715
     target 4716
     weight 1
+    event "CTD"
   ]
   edge [
     source 4717
     target 4718
     weight 1
+    event "CTD"
   ]
   edge [
     source 4717
     target 4719
     weight 1
+    event "CTD"
   ]
   edge [
     source 4717
     target 4720
     weight 1
+    event "CTD"
   ]
   edge [
     source 4718
     target 4719
     weight 1
+    event "CTD"
   ]
   edge [
     source 4718
     target 4720
     weight 1
+    event "CTD"
   ]
   edge [
     source 4719
     target 4720
     weight 1
+    event "CTD"
   ]
   edge [
     source 4721
     target 4722
     weight 1
+    event "CTD"
   ]
   edge [
     source 4723
     target 4724
     weight 1
+    event "CTD"
   ]
   edge [
     source 4726
     target 4727
     weight 1
+    event "CTD"
   ]
   edge [
     source 4726
     target 4728
     weight 1
+    event "CTD"
   ]
   edge [
     source 4727
     target 4728
     weight 1
+    event "CTD"
   ]
   edge [
     source 4727
     target 4768
     weight 1
+    event "CTD"
   ]
   edge [
     source 4727
     target 4769
     weight 1
+    event "CTD"
   ]
   edge [
     source 4727
     target 4770
     weight 1
+    event "CTD"
   ]
   edge [
     source 4729
     target 4730
     weight 1
+    event "CTD"
   ]
   edge [
     source 4731
     target 4732
     weight 1
+    event "CTD"
   ]
   edge [
     source 4731
     target 4733
     weight 1
+    event "CTD"
   ]
   edge [
     source 4732
     target 4733
     weight 1
+    event "CTD"
   ]
   edge [
     source 4734
     target 4735
     weight 1
+    event "CTD"
   ]
   edge [
     source 4735
     target 4747
     weight 1
+    event "CTD"
   ]
   edge [
     source 4735
     target 4748
     weight 1
+    event "CTD"
   ]
   edge [
     source 4736
     target 4737
     weight 1
+    event "CTD"
   ]
   edge [
     source 4738
     target 4739
     weight 1
+    event "CTD"
   ]
   edge [
     source 4739
     target 4858
     weight 1
+    event "CTD"
   ]
   edge [
     source 4740
     target 4741
     weight 1
+    event "CTD"
   ]
   edge [
     source 4742
     target 4743
     weight 1
+    event "CTD"
   ]
   edge [
     source 4742
     target 4744
     weight 1
+    event "CTD"
   ]
   edge [
     source 4743
     target 4744
     weight 1
+    event "CTD"
   ]
   edge [
     source 4744
     target 4759
     weight 1
+    event "CTD"
   ]
   edge [
     source 4744
     target 4760
     weight 2
+    event "CTD"
   ]
   edge [
     source 4745
     target 4746
     weight 1
+    event "CTD"
   ]
   edge [
     source 4746
     target 4835
     weight 1
+    event "CTD"
   ]
   edge [
     source 4747
     target 4748
     weight 1
+    event "CTD"
   ]
   edge [
     source 4749
     target 4750
     weight 1
+    event "CTD"
   ]
   edge [
     source 4751
     target 4752
     weight 1
+    event "CTD"
   ]
   edge [
     source 4751
     target 4753
     weight 1
+    event "CTD"
   ]
   edge [
     source 4752
     target 4753
     weight 1
+    event "CTD"
   ]
   edge [
     source 4754
     target 4755
     weight 1
+    event "CTD"
   ]
   edge [
     source 4756
     target 4757
     weight 1
+    event "CTD"
   ]
   edge [
     source 4756
     target 4758
     weight 1
+    event "CTD"
   ]
   edge [
     source 4757
     target 4758
     weight 1
+    event "CTD"
   ]
   edge [
     source 4759
     target 4760
     weight 1
+    event "CTD"
   ]
   edge [
     source 4761
     target 4762
     weight 1
+    event "CTD"
   ]
   edge [
     source 4761
     target 4763
     weight 1
+    event "CTD"
   ]
   edge [
     source 4761
     target 4764
     weight 1
+    event "CTD"
   ]
   edge [
     source 4762
     target 4763
     weight 1
+    event "CTD"
   ]
   edge [
     source 4762
     target 4764
     weight 1
+    event "CTD"
   ]
   edge [
     source 4762
     target 4827
     weight 1
+    event "CTD"
   ]
   edge [
     source 4763
     target 4764
     weight 1
+    event "CTD"
   ]
   edge [
     source 4765
     target 4766
     weight 1
+    event "CTD"
   ]
   edge [
     source 4766
     target 4767
     weight 1
+    event "CTD"
   ]
   edge [
     source 4766
     target 4864
     weight 1
+    event "CTD"
   ]
   edge [
     source 4766
     target 4897
     weight 1
+    event "CTD"
   ]
   edge [
     source 4768
     target 4769
     weight 1
+    event "CTD"
   ]
   edge [
     source 4768
     target 4770
     weight 1
+    event "CTD"
   ]
   edge [
     source 4769
     target 4770
     weight 1
+    event "CTD"
   ]
   edge [
     source 4769
     target 4805
     weight 1
+    event "CTD"
   ]
   edge [
     source 4769
     target 4806
     weight 1
+    event "CTD"
   ]
   edge [
     source 4771
     target 4772
     weight 1
+    event "CTD"
   ]
   edge [
     source 4773
     target 4774
     weight 1
+    event "CTD"
   ]
   edge [
     source 4776
     target 4777
     weight 1
+    event "CTD"
   ]
   edge [
     source 4776
     target 4778
     weight 1
+    event "CTD"
   ]
   edge [
     source 4777
     target 4778
     weight 1
+    event "CTD"
   ]
   edge [
     source 4777
     target 4839
     weight 1
+    event "CTD"
   ]
   edge [
     source 4777
     target 4933
     weight 1
+    event "CTD"
   ]
   edge [
     source 4777
     target 4934
     weight 1
+    event "CTD"
   ]
   edge [
     source 4779
     target 4780
     weight 1
+    event "CTD"
   ]
   edge [
     source 4781
     target 4782
     weight 1
+    event "CTD"
   ]
   edge [
     source 4784
     target 4785
     weight 2
+    event "CTD"
   ]
   edge [
     source 4784
     target 4786
     weight 1
+    event "CTD"
   ]
   edge [
     source 4785
     target 4786
     weight 1
+    event "CTD"
   ]
   edge [
     source 4785
     target 4859
     weight 1
+    event "CTD"
   ]
   edge [
     source 4785
     target 4860
     weight 1
+    event "CTD"
   ]
   edge [
     source 4785
     target 4883
     weight 1
+    event "CTD"
   ]
   edge [
     source 4785
     target 4887
     weight 1
+    event "CTD"
   ]
   edge [
     source 4785
     target 4804
     weight 1
+    event "CTD"
   ]
   edge [
     source 4787
     target 4788
     weight 1
+    event "CTD"
   ]
   edge [
     source 4789
     target 4790
     weight 1
+    event "CTD"
   ]
   edge [
     source 4789
     target 4791
     weight 1
+    event "CTD"
   ]
   edge [
     source 4790
     target 4791
     weight 1
+    event "CTD"
   ]
   edge [
     source 4791
     target 4826
     weight 1
+    event "CTD"
   ]
   edge [
     source 4791
     target 4882
     weight 1
+    event "CTD"
   ]
   edge [
     source 4792
     target 4793
     weight 1
+    event "CTD"
   ]
   edge [
     source 4792
     target 4794
     weight 1
+    event "CTD"
   ]
   edge [
     source 4793
     target 4794
     weight 1
+    event "CTD"
   ]
   edge [
     source 4796
     target 4797
     weight 1
+    event "CTD"
   ]
   edge [
     source 4796
     target 4798
     weight 1
+    event "CTD"
   ]
   edge [
     source 4797
     target 4798
     weight 1
+    event "CTD"
   ]
   edge [
     source 4799
     target 4800
     weight 1
+    event "CTD"
   ]
   edge [
     source 4799
     target 4801
     weight 1
+    event "CTD"
   ]
   edge [
     source 4800
     target 4801
     weight 1
+    event "CTD"
   ]
   edge [
     source 4803
     target 4804
     weight 1
+    event "CTD"
   ]
   edge [
     source 4804
     target 4887
     weight 1
+    event "CTD"
   ]
   edge [
     source 4805
     target 4806
     weight 1
+    event "CTD"
   ]
   edge [
     source 4807
     target 4808
     weight 1
+    event "CTD"
   ]
   edge [
     source 4807
     target 4809
     weight 1
+    event "CTD"
   ]
   edge [
     source 4808
     target 4809
     weight 1
+    event "CTD"
   ]
   edge [
     source 4810
     target 4811
     weight 1
+    event "CTD"
   ]
   edge [
     source 4810
     target 4812
     weight 1
+    event "CTD"
   ]
   edge [
     source 4811
     target 4812
     weight 1
+    event "CTD"
   ]
   edge [
     source 4814
     target 4815
     weight 1
+    event "CTD"
   ]
   edge [
     source 4814
     target 4816
     weight 1
+    event "CTD"
   ]
   edge [
     source 4815
     target 4816
     weight 1
+    event "CTD"
   ]
   edge [
     source 4817
     target 4818
     weight 1
+    event "CTD"
   ]
   edge [
     source 4818
     target 4867
     weight 1
+    event "CTD"
   ]
   edge [
     source 4818
     target 4895
     weight 1
+    event "CTD"
   ]
   edge [
     source 4818
     target 4896
     weight 1
+    event "CTD"
   ]
   edge [
     source 4819
     target 4820
     weight 1
+    event "CTD"
   ]
   edge [
     source 4822
     target 4823
     weight 1
+    event "CTD"
   ]
   edge [
     source 4824
     target 4825
     weight 1
+    event "CTD"
   ]
   edge [
     source 4829
     target 4830
     weight 1
+    event "CTD"
   ]
   edge [
     source 4831
     target 4832
     weight 1
+    event "CTD"
   ]
   edge [
     source 4833
     target 4834
     weight 1
+    event "CTD"
   ]
   edge [
     source 4835
     target 4844
     weight 1
+    event "CTD"
   ]
   edge [
     source 4835
     target 4898
     weight 1
+    event "CTD"
   ]
   edge [
     source 4836
     target 4837
     weight 1
+    event "CTD"
   ]
   edge [
     source 4836
     target 4838
     weight 1
+    event "CTD"
   ]
   edge [
     source 4837
     target 4838
     weight 1
+    event "CTD"
   ]
   edge [
     source 4840
     target 4841
     weight 1
+    event "CTD"
   ]
   edge [
     source 4841
     target 4862
     weight 1
+    event "CTD"
   ]
   edge [
     source 4841
     target 4863
     weight 1
+    event "CTD"
   ]
   edge [
     source 4842
     target 4843
     weight 1
+    event "CTD"
   ]
   edge [
     source 4845
     target 4846
     weight 1
+    event "CTD"
   ]
   edge [
     source 4848
     target 4849
     weight 1
+    event "CTD"
   ]
   edge [
     source 4851
     target 4852
     weight 1
+    event "CTD"
   ]
   edge [
     source 4851
     target 4853
     weight 1
+    event "CTD"
   ]
   edge [
     source 4852
     target 4853
     weight 1
+    event "CTD"
   ]
   edge [
     source 4855
     target 4856
     weight 1
+    event "CTD"
   ]
   edge [
     source 4859
     target 4860
     weight 1
+    event "CTD"
   ]
   edge [
     source 4862
     target 4863
     weight 1
+    event "CTD"
   ]
   edge [
     source 4865
     target 4866
     weight 1
+    event "CTD"
   ]
   edge [
     source 4868
     target 4869
     weight 1
+    event "CTD"
   ]
   edge [
     source 4872
     target 4873
     weight 1
+    event "CTD"
   ]
   edge [
     source 4876
     target 4877
     weight 1
+    event "CTD"
   ]
   edge [
     source 4876
     target 4878
     weight 1
+    event "CTD"
   ]
   edge [
     source 4877
     target 4878
     weight 1
+    event "CTD"
   ]
   edge [
     source 4880
     target 4881
     weight 1
+    event "CTD"
   ]
   edge [
     source 4885
     target 4886
     weight 1
+    event "CTD"
   ]
   edge [
     source 4888
     target 4889
     weight 1
+    event "CTD"
   ]
   edge [
     source 4888
     target 4890
     weight 1
+    event "CTD"
   ]
   edge [
     source 4889
     target 4890
     weight 1
+    event "CTD"
   ]
   edge [
     source 4891
     target 4892
     weight 1
+    event "CTD"
   ]
   edge [
     source 4891
     target 4893
     weight 1
+    event "CTD"
   ]
   edge [
     source 4892
     target 4893
     weight 1
+    event "CTD"
   ]
   edge [
     source 4893
     target 4910
     weight 1
+    event "CTD"
   ]
   edge [
     source 4895
     target 4896
     weight 1
+    event "CTD"
   ]
   edge [
     source 4900
     target 4901
     weight 1
+    event "CTD"
   ]
   edge [
     source 4902
     target 4903
     weight 1
+    event "CTD"
   ]
   edge [
     source 4904
     target 4905
     weight 1
+    event "CTD"
   ]
   edge [
     source 4906
     target 4907
     weight 1
+    event "CTD"
   ]
   edge [
     source 4908
     target 4909
     weight 1
+    event "CTD"
   ]
   edge [
     source 4912
     target 4913
     weight 1
+    event "CTD"
   ]
   edge [
     source 4914
     target 4915
     weight 1
+    event "CTD"
   ]
   edge [
     source 4914
     target 4916
     weight 1
+    event "CTD"
   ]
   edge [
     source 4915
     target 4916
     weight 1
+    event "CTD"
   ]
   edge [
     source 4917
     target 4918
     weight 1
+    event "CTD"
   ]
   edge [
     source 4917
     target 4919
     weight 1
+    event "CTD"
   ]
   edge [
     source 4917
     target 4920
     weight 1
+    event "CTD"
   ]
   edge [
     source 4918
     target 4919
     weight 1
+    event "CTD"
   ]
   edge [
     source 4918
     target 4920
     weight 1
+    event "CTD"
   ]
   edge [
     source 4919
     target 4920
     weight 1
+    event "CTD"
   ]
   edge [
     source 4921
     target 4922
     weight 1
+    event "CTD"
   ]
   edge [
     source 4921
     target 4923
     weight 1
+    event "CTD"
   ]
   edge [
     source 4922
     target 4923
     weight 1
+    event "CTD"
   ]
   edge [
     source 4924
     target 4925
     weight 1
+    event "CTD"
   ]
   edge [
     source 4924
     target 4926
     weight 1
+    event "CTD"
   ]
   edge [
     source 4925
     target 4926
     weight 1
+    event "CTD"
   ]
   edge [
     source 4928
     target 4929
     weight 1
+    event "CTD"
   ]
   edge [
     source 4931
     target 4932
     weight 1
+    event "CTD"
   ]
   edge [
     source 4933
     target 4934
     weight 1
+    event "CTD"
   ]
   edge [
     source 4938
     target 4939
     weight 1
+    event "CTD"
   ]
   edge [
     source 4940
     target 4941
     weight 1
+    event "CTD"
   ]
   edge [
     source 4943
     target 4944
     weight 1
+    event "CTD"
   ]
   edge [
     source 4945
     target 4946
     weight 1
+    event "CTD"
   ]
   edge [
     source 4947
     target 4948
     weight 1
+    event "CTD"
   ]
   edge [
     source 4948
     target 4949
     weight 1
+    event "CTD"
   ]
   edge [
     source 4951
     target 4952
     weight 1
+    event "CTD"
   ]
   edge [
     source 4953
     target 4954
     weight 1
+    event "CTD"
   ]
   edge [
     source 4955
     target 4956
     weight 1
+    event "CTD"
   ]
   edge [
     source 4955
     target 4957
     weight 1
+    event "CTD"
   ]
   edge [
     source 4956
     target 4957
     weight 1
+    event "CTD"
   ]
 ]
