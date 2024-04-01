@@ -30,7 +30,13 @@ def graph_network(year: int = None, all: bool = None):
 
                 if author1 != author2: 
                     if not graph.has_edge(author1, author2):
-                        graph.add_edge(author1, author2, weight=1)
+                        
+                        for data in dataset:
+                            if data["Titulo"] == title:
+                                evento = data["Evento"]
+                                break
+
+                        graph.add_edge(author1, author2, weight=1, event=evento)
                     else:
                         graph[author1][author2]['weight'] += 1
 
@@ -82,6 +88,11 @@ def comunidades_G(G):
 
     return comunidades
 
+def export_dict_to_txt(dictionary, filename):
+    with open(filename, 'w') as file:
+        for key, values in dictionary.items():
+            line = key + ', ' + ', '.join(map(str, values)) + '\n'
+            file.write(line)
 
 def hypergraph_network(year: int = None, all: bool = None):
     titles_authors = {}
@@ -92,6 +103,9 @@ def hypergraph_network(year: int = None, all: bool = None):
             titles_authors[data["Titulo"]].append(data["Pessoa autora"])
         else:
             titles_authors[data["Titulo"]].append(data["Pessoa autora"])
+
+    
+    export_dict_to_txt(titles_authors, 'hipergrafo.txt')
 
     for x in titles_authors:
         titles_authors[x] = tuple(titles_authors[x])
@@ -300,3 +314,5 @@ def comunidades_eventos():
 
     print(eventos.keys())
     return aux
+
+hypergraph_network()
