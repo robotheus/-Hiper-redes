@@ -19,4 +19,4 @@ for x in range(1,4):
     functions.centralidade_HG(linegraph, "Resultados", x)
 
 functions.comunidades_HG(HG)
-
+functions.comunidades_eventos()

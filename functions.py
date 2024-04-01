@@ -105,7 +105,7 @@ def hypergraph_network(year: int = None, all: bool = None):
             titles_authors[data["Titulo"]].append(data["Pessoa autora"])
 
     
-    export_dict_to_txt(titles_authors, 'hipergrafo.txt')
+    #export_dict_to_txt(titles_authors, 'hipergrafo.txt')
 
     for x in titles_authors:
         titles_authors[x] = tuple(titles_authors[x])
@@ -312,7 +312,9 @@ def comunidades_eventos():
     for x in eventos.values():
         aux.append(x)
 
-    print(eventos.keys())
-    return aux
+    print(f'{len(aux)} eventos-comunidades!')
 
-hypergraph_network()
+    conjuntos_json = json.dumps([list(conjunto) for conjunto in aux])
+
+    with open('Resultados/comunidades_eventos.json', 'w') as f:
+        f.write(conjuntos_json)
